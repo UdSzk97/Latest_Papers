@@ -39,7 +39,7 @@ posted_titles = set()
 
 def contains_valid_keywords(text):
     text = text.lower()
-    return any(keyword in text for keyword in KEYWORDS)
+    return True # return any(keyword in text for keyword in KEYWORDS)
 
 def extract_first_author(author_str):
     # 著者名が複数の場合を考慮し、最初の著者のみ抽出
