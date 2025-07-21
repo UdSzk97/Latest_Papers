@@ -70,7 +70,7 @@ def extract_journal(entry):
 
 def post_to_slack(title, author, journal, link):
     title_clean = title.replace("¥n", "\n").replace("¥¥n", "\n")
-    message = f"*{title_clean}*\n{author}, {journal}, <{link}|doi>"
+    message = f"*{title_clean}*\n{author}, {journal}, {link}"
     response = requests.post(SLACK_WEBHOOK_URL, json={"text": message})
     if response.status_code != 200:
-        print(f"Slack送信失敗: {r
+        print(f"Slack送信失敗: {response.status_code} {response.text}")
