@@ -39,7 +39,7 @@ posted_titles = set()
 
 def contains_valid_keywords(text):
     text = text.lower()
-    return True # return any(keyword in text for keyword in KEYWORDS)
+    return any(keyword in text for keyword in KEYWORDS) # return True
 
 def extract_first_author(author_str):
     # 著者名が複数の場合を考慮し、最初の著者のみ抽出
@@ -74,3 +74,11 @@ def post_to_slack(title, author, journal, link):
     response = requests.post(SLACK_WEBHOOK_URL, json={"text": message})
     if response.status_code != 200:
         print(f"Slack送信失敗: {response.status_code} {response.text}")
+
+# === メイン処理 ===
+if __name__ == "__main__":
+    for url in RSS_FEEDS:
+        try:
+            process_feed(url)
+        except Exception as e:
+            print(f"エラー (URL: {url}): {e}")
