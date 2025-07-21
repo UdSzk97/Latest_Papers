@@ -7,10 +7,11 @@ import re
 
 # === 設定 ===
 SLACK_WEBHOOK_URL = "https://hooks.slack.com/services/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"  # あなたのSlack Webhook
-KEYWORDS = [
-    "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
-    "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt"
-]
+# KEYWORDS = [
+#     "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
+#     "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt"
+# ]
+KEYWORDS = [ "mercury" ]
 CROSSREF_API = "https://api.crossref.org/works"
 DATE_FROM = (datetime.datetime.utcnow() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
 ROWS = 30
