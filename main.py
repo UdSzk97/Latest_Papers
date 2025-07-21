@@ -48,7 +48,9 @@ def post_to_slack(title, author, journal, link):
     # ¥n -> ¥n 変換（念のため）
     title_clean = title.replace("¥n", "\n").replace("¥¥n", "\n")
     message = f"*{title_clean}*\n{author}, {journal}, <{link}|doi>"
-    requests.post(SLACK_WEBHOOK_URL, json={"text": message})
+    response = requests.post(SLACK_WEBHOOK_URL, json={"text": message})
+    if response.status_code != 200:
+        print(f"Slack送信失敗: {response.status_code} {response.text}")
 
 def process_feed(feed_url):
     feed = feedparser.parse(feed_url)
