@@ -32,7 +32,7 @@ KEYWORDS = [
     "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt", "mercury"
 ]
 
-EXCLUDE_TERMS = ["mercury ion", "mercury vapor", "mercury detection", "mercury pollution", "mercury contamination"]
+EXCLUDE_TERMS = [""]
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
