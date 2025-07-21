@@ -19,20 +19,17 @@ RSS_FEEDS = [
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9402", # JGR: Space Physics
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007", # GRL
     "https://iopscience.iop.org/journal/1538-3873/rss", # PSJ
-    "https://www.sciencedirect.com/journal/earth-and-planetary-science-letters/rss",
-    "https://progearthplanetsci.springeropen.com/articles/rss.xml",
+    "https://www.sciencedirect.com/journal/earth-and-planetary-science-letters/rss", # EPSL
+    "https://progearthplanetsci.springeropen.com/articles/most-recent/rss.xml", # PEPS
     "https://iopscience.iop.org/journal/0004-637X/rss", # ApJ
     "https://www.aanda.org/rss/latestArticles.xml", # A&A
     "https://academic.oup.com/rss/site_5326/3192.xml" # MNRAS
 ]
 
-# キーワード設定
 KEYWORDS = [
     "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
     "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt"
 ]
-
-EXCLUDE_TERMS = ["aaaaaaaaaa"]
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
@@ -40,45 +37,38 @@ posted_titles = set()
 
 def contains_valid_keywords(text):
     text = text.lower()
-    if any(term in text for term in EXCLUDE_TERMS):
-        return False
     return any(keyword in text for keyword in KEYWORDS)
 
+def extract_first_author(author_str):
+    # 著者名が複数の場合を考慮し、最初の著者のみ抽出
+    if not author_str:
+        return "Unknown author"
+    # 例えば "John Doe, Jane Smith and Someone Else" の場合
+    # カンマまたは " and " で区切る
+    sep_candidates = [",", " and "]
+    for sep in sep_candidates:
+        if sep in author_str:
+            return author_str.split(sep)[0].strip()
+    return author_str.strip()
+
+def extract_journal(entry):
+    # いろんな場所からジャーナル名を探す
+    journal = (
+        entry.get("source", {}).get("title") or
+        entry.get("dc_source") or
+        entry.get("journal") or
+        entry.get("publisher") or
+        entry.get("container_title") or
+        None
+    )
+    if journal:
+        return journal
+    else:
+        return "Unknown journal"
+
 def post_to_slack(title, author, journal, link):
-    # ¥n -> ¥n 変換（念のため）
     title_clean = title.replace("¥n", "\n").replace("¥¥n", "\n")
     message = f"*{title_clean}*\n{author}, {journal}, <{link}|doi>"
     response = requests.post(SLACK_WEBHOOK_URL, json={"text": message})
     if response.status_code != 200:
-        print(f"Slack送信失敗: {response.status_code} {response.text}")
-
-def process_feed(feed_url):
-    feed = feedparser.parse(feed_url)
-    for entry in feed.entries:
-        if entry.title in posted_titles:
-            continue
-
-        full_text = (entry.title + " " + entry.get("summary", "")).lower()
-        if not contains_valid_keywords(full_text):
-            continue
-
-        title = entry.title.strip()
-        link = entry.link.strip()
-
-        # デフォルト値（無い場合に備える）
-        author = entry.get("author", "Unknown author")
-        journal = entry.get("source", {}).get("title") or entry.get("dc_source") or "Unknown journal"
-
-        print(f"通知: {title}")
-        post_to_slack(title, author, journal, link)
-        posted_titles.add(title)
-        time.sleep(1)  # Slack API対策（OpenAI使ってないので緩く）
-
-# === 実行 ===
-if __name__ == "__main__":
-    for feed_url in RSS_FEEDS:
-        print(f"チェック中: {feed_url}")
-        try:
-            process_feed(feed_url)
-        except Exception as e:
-            print(f"エラー: {e}")
+        print(f"Slack送信失敗: {r
