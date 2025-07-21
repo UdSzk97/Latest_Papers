@@ -32,7 +32,7 @@ KEYWORDS = [
     "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt"
 ]
 
-# EXCLUDE_TERMS = [""]
+EXCLUDE_TERMS = ["aaaaaaaaaa"]
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
@@ -47,7 +47,7 @@ def contains_valid_keywords(text):
 def post_to_slack(title, author, journal, link):
     # ¥n -> ¥n 変換（念のため）
     title_clean = title.replace("¥n", "\n").replace("¥¥n", "\n")
-    message = f"*{title_clean}*¥n{author}, {journal}, <{link}|doi>"
+    message = f"*{title_clean}*\n{author}, {journal}, <{link}|doi>"
     requests.post(SLACK_WEBHOOK_URL, json={"text": message})
 
 def process_feed(feed_url):
