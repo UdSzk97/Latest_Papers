@@ -1,64 +1,82 @@
+import feedparser
 import requests
-import datetime
+import openai
 import os
 import time
 
 # === 設定 ===
-SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
-KEYWORDS = [
-    "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
-    "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt"
+# RSSフィード一覧（主要ジャーナル）
+RSS_FEEDS = [
+    "https://www.nature.com/nature.rss", # Nature
+    "https://www.nature.com/natastron.rss", # Nature Astron.
+    "https://www.nature.com/ngeo.rss", # Nature Geosci.
+    "https://www.nature.com/ncomms.rss", # Nature Comm.
+    "https://www.nature.com/srep.rss", # Scientific Reports
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", # Science
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv", # Science Advances
+    "https://api.crossref.org/works?filter=container-title:Icarus&sort=published&order=desc&rows=10", # Icarus
+    "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9097", # JGR: Planets
+    "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9402", # JGR: Space Physics
+    "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007", # GRL
+    "https://iopscience.iop.org/journal/1538-3873/rss", # PSJ
+    "https://www.sciencedirect.com/journal/earth-and-planetary-science-letters/rss",
+    "https://progearthplanetsci.springeropen.com/articles/rss.xml",
+    "https://iopscience.iop.org/journal/0004-637X/rss", # ApJ
+    "https://www.aanda.org/rss/latestArticles.xml", # A&A
+    "https://academic.oup.com/rss/site_5326/3192.xml" # MNRAS
 ]
-CROSSREF_API = "https://api.crossref.org/works"
-DATE_FROM = (datetime.datetime.utcnow() - datetime.timedelta(days=1)).strftime("%Y-%m-%d")
-ROWS = 30
 
-# === Slack通知関数 ===
-def post_to_slack(message):
-    payload = {"text": message}
-    response = requests.post(SLACK_WEBHOOK_URL, json=payload)
-    if response.status_code != 200:
-        print("Slack送信エラー:", response.text)
+# キーワード設定
+KEYWORDS = [
+    "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
+    "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt", "mercury"
+]
 
-# === CrossRef検索＆処理 ===
-def search_and_notify():
-    for keyword in KEYWORDS:
-        print(f"🔍 Searching keyword: {keyword}")
-        params = {
-            "query": keyword,
-            "filter": f"from-pub-date:{DATE_FROM}",
-            "sort": "published",
-            "order": "desc",
-            "rows": ROWS,
-        }
-        try:
-            res = requests.get(CROSSREF_API, params=params)
-            res.raise_for_status()
-            items = res.json().get("message", {}).get("items", [])
-        except Exception as e:
-            print(f"CrossRef API error for '{keyword}': {e}")
+EXCLUDE_TERMS = ["mercury ion", "mercury vapor", "mercury detection", "mercury pollution", "mercury contamination"]
+
+SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
+
+posted_titles = set()
+
+def contains_valid_keywords(text):
+    text = text.lower()
+    if any(term in text for term in EXCLUDE_TERMS):
+        return False
+    return any(keyword in text for keyword in KEYWORDS)
+
+def post_to_slack(title, author, journal, link):
+    # ¥n -> ¥n 変換（念のため）
+    title_clean = title.replace("¥n", "¥n").replace("¥¥n", "¥n")
+    message = f"*{title_clean}*¥n{author}, {journal}, <{link}|doi>"
+    requests.post(SLACK_WEBHOOK_URL, json={"text": message})
+
+def process_feed(feed_url):
+    feed = feedparser.parse(feed_url)
+    for entry in feed.entries:
+        if entry.title in posted_titles:
             continue
 
-        for item in items:
-            title = item.get("title", [""])[0]
-            doi = item.get("DOI", "")
-            url = f"https://doi.org/{doi}"
+        full_text = (entry.title + " " + entry.get("summary", "")).lower()
+        if not contains_valid_keywords(full_text):
+            continue
 
-            # タイトルにキーワードが含まれているか再チェック
-            if not any(k.lower() in title.lower() for k in KEYWORDS):
-                continue
+        title = entry.title.strip()
+        link = entry.link.strip()
 
-            # 著者とジャーナル名取得
-            authors = item.get("author", [])
-            first_author = f"{authors[0].get('family', '')} et al." if authors else "Unknown author"
-            journal = item.get("container-title", [""])[0] or "Unknown journal"
+        # デフォルト値（無い場合に備える）
+        author = entry.get("author", "Unknown author")
+        journal = entry.get("source", {}).get("title") or entry.get("dc_source") or "Unknown journal"
 
-            # Slack投稿メッセージ作成
-            message = f"{title}¥n{first_author}, {journal}, {url}"
-            print("Posting to Slack:¥n", message)
-            post_to_slack(message)
+        print(f"通知: {title}")
+        post_to_slack(title, author, journal, link)
+        posted_titles.add(title)
+        time.sleep(1)  # Slack API対策（OpenAI使ってないので緩く）
 
-            time.sleep(1)
-
+# === 実行 ===
 if __name__ == "__main__":
-    search_and_notify()
+    for feed_url in RSS_FEEDS:
+        print(f"チェック中: {feed_url}")
+        try:
+            process_feed(feed_url)
+        except Exception as e:
+            print(f"エラー: {e}")
