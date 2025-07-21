@@ -18,11 +18,13 @@ RSS_FEEDS = [
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9097", # JGR: Planets
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9402", # JGR: Space Physics
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007", # GRL
-    "https://iopscience.iop.org/journal/1538-3873/rss", # PSJ
-    "https://www.sciencedirect.com/journal/earth-and-planetary-science-letters/rss", # EPSL
+    "https://iopscience.iop.org/journal/rss/2632-3338", # PSJ
+    "https://rss.sciencedirect.com/publication/science/0012821X", # EPSL
     "https://progearthplanetsci.springeropen.com/articles/most-recent/rss.xml", # PEPS
-    "https://iopscience.iop.org/journal/0004-637X/rss", # ApJ
-    "https://www.aanda.org/rss/latestArticles.xml", # A&A
+    "https://earth-planets-space.springeropen.com/articles/most-recent/rss.xml", # EPS
+    "https://iopscience.iop.org/journal/rss/0004-637X", # ApJ
+    "https://iopscience.iop.org/journal/rss/1538-3881", # AJ
+    "http://www.aanda.org/articles/aa/rss/TOCRSS/rss.xml", # A&A
     "https://academic.oup.com/rss/site_5326/3192.xml" # MNRAS
 ]
 
