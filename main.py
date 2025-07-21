@@ -46,7 +46,7 @@ def contains_valid_keywords(text):
 
 def post_to_slack(title, author, journal, link):
     # ¥n -> ¥n 変換（念のため）
-    title_clean = title.replace("¥n", "¥n").replace("¥¥n", "¥n")
+    title_clean = title.replace("¥n", "\n").replace("¥¥n", "\n")
     message = f"*{title_clean}*¥n{author}, {journal}, <{link}|doi>"
     requests.post(SLACK_WEBHOOK_URL, json={"text": message})
 
