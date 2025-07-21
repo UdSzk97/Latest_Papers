@@ -28,11 +28,11 @@ RSS_FEEDS = [
 
 # キーワード設定
 KEYWORDS = [
-    "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
-    "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt", "mercury"
+    "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
+    "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt"
 ]
 
-EXCLUDE_TERMS = [""]
+# EXCLUDE_TERMS = [""]
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 
