@@ -92,11 +92,11 @@ def main():
                 continue
 
             text_to_check = title + " " + summary
+            # if contains_keywords(text_to_check):
             matched = matched_keywords(text_to_check)
             if matched:
                 # タグの生成（例: "#Mercury #Comet"）
                 tags = " ".join(f"#{k.capitalize()}" for k in matched)
-            # if contains_keywords(text_to_check):
 
                 # 著者名から first author を抽出
                 if hasattr(entry, "author") and entry.author:
