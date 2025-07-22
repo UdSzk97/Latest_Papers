@@ -66,6 +66,8 @@ def main():
             print(f"RSS読み込みエラー: {feed_url} : {e}")
             continue
 
+        journal = feed.feed.get("title", "Unknown journal")
+
         for entry in feed.entries:
             title = entry.get("title", "").strip()
             summary = entry.get("summary", "").strip()
@@ -78,18 +80,18 @@ def main():
             if contains_keywords(text_to_check):
                 # 著者名から first author を抽出
                 if hasattr(entry, "author") and entry.author:
-                    if "," in entry.author:
-                        first_author = entry.author.split(",")[0].strip()
-                    elif " and " in entry.author:
-                        first_author = entry.author.split(" and ")[0].strip()
+                    raw_author = entry.author.strip()
+                    if "," in raw_author:
+                        first_author = raw_author.split(",")[0].strip()
+                    elif " and " in raw_author:
+                        first_author = raw_author.split(" and ")[0].strip()
                     else:
-                        first_author = entry.author.strip()
+                        first_author = raw_author
                 else:
                     first_author = "Unknown author"
 
                 # author = entry.get("author", "Unknown author")
-                journal = feed.feed.get("title", "Unknown journal")
-                message = f"{title}\n{author}, {journal}, {link}"
+                message = f"{title}\n{first_author}, {journal}, {link}"
                 print("Posting to Slack:\n", message)
                 post_to_slack(message)
                 save_posted_title(title)
