@@ -176,3 +176,16 @@ REMS-H Revisited: Updated Calibration and Results of the Humidity Sensor of the 
 Constraining the Mass and Energy of Enceladus’ Dissipation Systems
 Venus Cloud Research: Progress and Perspectives
 The Dynamics of the Extreme Ultraviolet Quiet Sun and Coronal Holes in the Solar Orbiter Era
+Plasma Refilling of the Lunar Wake: Plasma‐Vacuum Interactions, Electrostatic Shocks, and Electromagnetic Instabilities
+Global Structure of the Cislunar Magnetotail and Its Evolution During Substorms
+Revisiting Discrete Energy Bands in Galilean Moon's Footprint Tails: Remote Signals of Particle Absorption
+Long‐Term Radiogenic Heating by Abortively Erupted Basalts Triggers 120 Ma Lunar Volcanism
+A Predictive Model of the Position of Plasmapause Based on Lunar Phase and Deep Learning Framework
+To the Moon and quack: Books in brief
+‘Another DeepSeek moment’: Chinese AI model Kimi K2 stirs excitement
+The WheelCams on the IDEFIX rover
+Pre-flight performance of the ion energy mass spectrum analyzer for the Martian Moons eXploration (MMX) mission
+Laboratory Investigation of CO2-driven Enhancement of Radiolytic H2O2 on Europa and Other Icy Moons
+Investigating the Geotechnical Properties of the Lunar South Pole with NASA VIPER’s Mobility System
+Diffusion-adsorption of Water Vapor in Chemically Activated Lunar Soil
+A shallow mantle source for the Chang’e 5 lavas reveals how top-down heating prolonged lunar magmatism
