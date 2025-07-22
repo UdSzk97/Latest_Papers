@@ -2,7 +2,7 @@ name: Notify new papers to Slack
 
 on:
   schedule:
-    - cron: '0 */6 * * *'  # 6時間ごとに実行
+    - cron: '0 */6 * * *'  # 6時間ごとに実行 (0, 6, 12, 18 h in UTC)
   workflow_dispatch:      # 手動実行も可能にする
 
 jobs:
