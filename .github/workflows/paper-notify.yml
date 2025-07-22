@@ -5,6 +5,9 @@ on:
     - cron: '0 */6 * * *'  # 6時間ごとに実行 (0, 6, 12, 18 h in UTC)
   workflow_dispatch:      # 手動実行も可能にする
 
+permissions:
+  contents: write
+
 jobs:
   run-script:
     runs-on: ubuntu-latest
@@ -26,3 +29,14 @@ jobs:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
         run: python main_rss.py # or run: python main_crossref.py
+
+      - name: Git 設定
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+      - name: 変更があればコミットしてプッシュ
+        run: |
+          git add posted_titles.txt
+          git diff --cached --quiet || git commit -m "Update posted_titles.txt"
+          git push
