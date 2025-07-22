@@ -37,9 +37,8 @@ RSS_FEEDS = [
 
 KEYWORDS = [
     "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
-    "dwarf planet", "pluto", "eris", "ceres", "makemake", "haumea", 
-    "asteroid", "comet", "meteorite", "habitable", "habitability", "exoplanet"
-] # "planet", "solar system",  "kuiper belt"
+    "dwarf planet", "asteroid", "comet", "meteorite", "habitable", "habitability", "exoplanet"
+] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 POSTED_TITLES_FILE = "posted_titles.txt"
