@@ -37,8 +37,9 @@ RSS_FEEDS = [
 
 KEYWORDS = [
     "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
-    "asteroid", "comet", "exoplanet", "planet", "solar system", "kuiper belt"
-]
+    "dwarf planet", "pluto", "eris", "ceres", "makemake", "haumea", 
+    "asteroid", "comet", "meteorite", "habitable", "habitability", "exoplanet"
+] # "planet", "solar system",  "kuiper belt"
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 POSTED_TITLES_FILE = "posted_titles.txt"
@@ -57,6 +58,11 @@ def save_posted_title(title):
 def contains_keywords(text):
     text = text.lower()
     return any(keyword in text for keyword in KEYWORDS)
+
+def matched_keywords(text):
+    text = text.lower()
+    matched = [keyword for keyword in KEYWORDS if keyword in text]
+    return matched
 
 def post_to_slack(message):
     payload = {"text": message}
@@ -85,8 +91,13 @@ def main():
             if not title or title in posted_titles:
                 continue
 
-            text_to_check = title + " " + summary
-            if contains_keywords(text_to_check):
+            matched = matched_keywords(text_to_check)
+            if matched:
+                # タグの生成（例: "#Mercury #Comet"）
+                tags = " ".join(f"#{k.capitalize()}" for k in matched)
+            # text_to_check = title + " " + summary
+            # if contains_keywords(text_to_check):
+
                 # 著者名から first author を抽出
                 if hasattr(entry, "author") and entry.author:
                     raw_author = entry.author.strip()
@@ -100,7 +111,7 @@ def main():
                     first_author = "Unknown author"
 
                 # author = entry.get("author", "Unknown author")
-                message = f"{title}\n{link}"
+                message = f"{title}\n{link}\n{tags}"
                 # message = f"{title}\n{first_author}, {journal}, {link}"
                 print("Posting to Slack:\n", message)
                 post_to_slack(message)
