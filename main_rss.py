@@ -5,25 +5,34 @@ import time
 
 # === 設定 ===
 RSS_FEEDS = [
-    "https://www.nature.com/nature.rss", # Nature
-    "https://www.nature.com/natastron.rss", # Nature Astron.
-    "https://www.nature.com/ngeo.rss", # Nature Geosci.
-    "https://www.nature.com/ncomms.rss", # Nature Comm.
-    "https://www.nature.com/srep.rss", # Scientific Reports
-    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", # Science
-    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv", # Science Advances
-    "https://api.crossref.org/works?filter=container-title:Icarus&sort=published&order=desc&rows=10", # Icarus
+    "http://www.aanda.org/articles/aa/rss/TOCRSS/rss.xml", # A&A
+    "https://iopscience.iop.org/journal/rss/1538-3881", # AJ
+    "https://iopscience.iop.org/journal/rss/0004-637X", # ApJ
+    "https://link.springer.com/search.rss?facet-journal-id=11352", # ASR
+    "https://rss.sciencedirect.com/publication/science/00092541", # CG (Chemical Geology)
+    "https://earth-planets-space.springeropen.com/articles/most-recent/rss.xml", # EPS
+    "https://rss.sciencedirect.com/publication/science/0012821X", # EPSL
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9097", # JGR: Planets
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9402", # JGR: Space Physics
+    "https://rss.sciencedirect.com/publication/science/00167037", # GCA
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007", # GRL
-    "https://iopscience.iop.org/journal/rss/2632-3338", # PSJ
-    "https://rss.sciencedirect.com/publication/science/0012821X", # EPSL
+    "https://api.crossref.org/works?filter=container-title:Icarus&sort=published&order=desc&rows=10", # Icarus
+    "https://onlinelibrary.wiley.com/feed/19455100/most-recent" # MaPS
+    "https://academic.oup.com/rss/site_5326/3192.xml", # MNRAS
+    "https://www.nature.com/nature.rss", # Nature
+    "https://www.nature.com/natastron.rss", # Nature Astron.
+    "https://www.nature.com/ncomms.rss", # Nature Comm.
+    "https://www.nature.com/ngeo.rss", # Nature Geosci.
     "https://progearthplanetsci.springeropen.com/articles/most-recent/rss.xml", # PEPS
-    "https://earth-planets-space.springeropen.com/articles/most-recent/rss.xml", # EPS
-    "https://iopscience.iop.org/journal/rss/0004-637X", # ApJ
-    "https://iopscience.iop.org/journal/rss/1538-3881", # AJ
-    "http://www.aanda.org/articles/aa/rss/TOCRSS/rss.xml", # A&A
-    "https://academic.oup.com/rss/site_5326/3192.xml" # MNRAS
+    "https://www.pnas.org/rss/current.xml", # PNAS
+    "https://iopscience.iop.org/journal/rss/2632-3338", # PSJ
+    "https://rss.sciencedirect.com/publication/science/00320633", # PSS
+    "https://www.mdpi.com/rss/journal/remotesensing", # RS (Remote Sensing)
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=science", # Science
+    "https://www.science.org/action/showFeed?type=etoc&feed=rss&jc=sciadv", # Science Advances
+    "https://www.nature.com/srep.rss", # Scientific Reports
+    "https://feeds.feedburner.com/edp_swsc?format=xml", # SWSC
+    "https://link.springer.com/search.rss?facet-journal-id=11214" # SSR
 ]
 
 KEYWORDS = [
