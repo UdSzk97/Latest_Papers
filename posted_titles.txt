@@ -142,6 +142,3 @@ Model Update and Surface Operation Performance of the MEDA-TIRS Radiometer Onboa
 Curation and Storage of Astromaterials: A Magnetic Perspective
 The Age and Origin of Saturn’s Rings
 NASA’S <i>Lucy</i> Mission to Trojan Asteroids: Unraveling the History of the Outer Solar System
-REMS-H Revisited: Updated Calibration and Results of the Humidity Sensor of the MSL Curiosity
-Constraining the Mass and Energy of Enceladus’ Dissipation Systems
-Venus Cloud Research: Progress and Perspectives
