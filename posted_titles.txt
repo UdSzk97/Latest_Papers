@@ -189,3 +189,7 @@ Laboratory Investigation of CO2-driven Enhancement of Radiolytic H2O2 on Europa 
 Investigating the Geotechnical Properties of the Lunar South Pole with NASA VIPER’s Mobility System
 Diffusion-adsorption of Water Vapor in Chemically Activated Lunar Soil
 A shallow mantle source for the Chang’e 5 lavas reveals how top-down heating prolonged lunar magmatism
+Investigating Magnetic Field Fluctuations in Jovian Auroral Electron Beams
+Estimating Solar Wind Charge Exchange Generated Soft X‐Rays in the Jovian Magnetosheath
+Seasonal CO2 Cycle at the Martian Poles Revealed by Sounding Radar
+MAVEN Observations of Metallic Fe+ Distributions in the Martian Ionosphere
