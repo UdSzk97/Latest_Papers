@@ -36,7 +36,7 @@ RSS_FEEDS = [
 ]
 
 KEYWORDS = [
-    "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune",
+    "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune", "moon", "lunar",
     "dwarf planet", "asteroid", "comet", "meteorite", "habitable", "habitability", "exoplanet"
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
