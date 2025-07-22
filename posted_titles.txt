@@ -193,3 +193,6 @@ Investigating Magnetic Field Fluctuations in Jovian Auroral Electron Beams
 Estimating Solar Wind Charge Exchange Generated Soft X‐Rays in the Jovian Magnetosheath
 Seasonal CO2 Cycle at the Martian Poles Revealed by Sounding Radar
 MAVEN Observations of Metallic Fe+ Distributions in the Martian Ionosphere
+The Transit Signal of KOI-1755 Originates from a Background Eclipsing Binary Star—Extracting the Light Curve of a Faint Background Star from Kepler Target Pixel File Data
+Detecting Stellar Coronal Mass Ejections via Coronal Dimming in the Extreme Ultraviolet
+Dust Production Rates in Jupiter-family Comets. II. Trends and Population Insights from ATLAS Photometry of 116 JFCs
