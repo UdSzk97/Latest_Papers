@@ -76,7 +76,18 @@ def main():
 
             text_to_check = title + " " + summary
             if contains_keywords(text_to_check):
-                author = entry.get("author", "Unknown author")
+                # 著者名から first author を抽出
+                if hasattr(entry, "author") and entry.author:
+                    if "," in entry.author:
+                        first_author = entry.author.split(",")[0].strip()
+                    elif " and " in entry.author:
+                        first_author = entry.author.split(" and ")[0].strip()
+                    else:
+                        first_author = entry.author.strip()
+                else:
+                    first_author = "Unknown author"
+
+                # author = entry.get("author", "Unknown author")
                 journal = feed.feed.get("title", "Unknown journal")
                 message = f"{title}\n{author}, {journal}, {link}"
                 print("Posting to Slack:\n", message)
