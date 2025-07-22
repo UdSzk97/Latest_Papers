@@ -91,7 +91,8 @@ def main():
                     first_author = "Unknown author"
 
                 # author = entry.get("author", "Unknown author")
-                message = f"{title}\n{first_author}, {journal}, {link}"
+                message = f"{title}\n{link}"
+                # message = f"{title}\n{first_author}, {journal}, {link}"
                 print("Posting to Slack:\n", message)
                 post_to_slack(message)
                 save_posted_title(title)
