@@ -54,8 +54,8 @@ def search_and_notify():
             journal = item.get("container-title", [""])[0] or "Unknown journal"
 
             # Slack投稿メッセージ作成
-            message = f"{title}¥n{first_author}, {journal}, {url}"
-            print("Posting to Slack:¥n", message)
+            message = f"{title}\n{first_author}, {journal}, {url}"
+            print("Posting to Slack:\n", message)
             post_to_slack(message)
 
             time.sleep(1)
