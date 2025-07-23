@@ -199,3 +199,9 @@ Dust Production Rates in Jupiter-family Comets. II. Trends and Population Insigh
 HD 35843: A Sun-like Star Hosting a Long-period Sub-Neptune and Inner Super-Earth
 Electrostatic detachment of dust from the lunar surface: Microscopic fluctuations could be the key
 Simulating Science Operations for a Joint Rover-helicopter Mission Architecture in a Mars Analog Setting
+Velocity Shift and Signal-to-Noise Ratio Limits for High-resolution Spectroscopy of Hot Jupiters Using Keck/KPIC
+Coupling Between Methylmercury and Carbon‐Gases Across Boreal Rivers of Québec, Canada
+An atlas of apatite and merrillite in martian meteorites: REE Geochemistry and a new tool for shergottite classification
+Lunar exosphere dynamics at the north pole following Perseid 2009 meteoroid impacts
+Luminescence characteristics of terrestrial Jarosite from Kachchh, India: A Martian analogue
+Freeze Concentration, Supercooling, and Glass Formation in Perchlorate and Chlorate Brines: Habitability in Salty Martian Ice
