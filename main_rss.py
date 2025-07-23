@@ -41,7 +41,7 @@ KEYWORDS = [
     "dwarf planet", "asteroid", "comet", "meteorite", "habitable", "habitability", "exoplanet"
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
-SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
+SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL_UsuiLab")
 POSTED_TITLES_FILE = "posted_titles.txt"
 
 # === ユーティリティ関数 ===
