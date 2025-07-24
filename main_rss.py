@@ -5,6 +5,7 @@ import time
 
 # === 設定 ===
 RSS_FEEDS = [
+    "https://www.annualreviews.org/rss/content/journals/astro/latestarticles?fmt=rss", # Annual Review of A&A
     "http://www.aanda.org/articles/aa/rss/TOCRSS/rss.xml", # A&A
     "https://iopscience.iop.org/journal/rss/1538-3881", # AJ
     "https://iopscience.iop.org/journal/rss/0004-637X", # ApJ
@@ -100,6 +101,7 @@ def main():
                 tags = " ".join(f"#{k.capitalize()}" for k in matched)
 
                 # 著者名から first author を抽出
+                # author = entry.get("author", "Unknown author")
                 if hasattr(entry, "author") and entry.author:
                     raw_author = entry.author.strip()
                     if "," in raw_author:
@@ -111,7 +113,6 @@ def main():
                 else:
                     first_author = "Unknown author"
 
-                # author = entry.get("author", "Unknown author")
                 message = f"{title}\n{link}\n{tags}"
                 # message = f"{title}\n{first_author}, {journal}, {link}"
                 print("Posting to Slack:\n", message)
