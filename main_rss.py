@@ -37,7 +37,7 @@ RSS_FEEDS = [
 
 KEYWORDS = [
     " mercury ", " venus ", " mars ", " jupiter ", " saturn ", " uranus ", " neptune ", " moon ", 
-    " phobos ", " deimos ", " io ", " europa ", " ganymede ", " calisto ", 
+    " phobos ", " deimos ", " io ", " europa ", " ganymede ", " calisto ", " enceladus ", 
     " dwarf planet ", " asteroid ", " comet ", " meteorite ", " habitable ", " habitability ", " exoplanet ", 
     " hermean ", " venusian ", " martian ", " jovian ", " lunar "
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
