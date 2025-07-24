@@ -221,3 +221,6 @@ Radio Prospects of Extrasolar Aurorae Polaris as a Probe of Planetary Magnetism
 Lucy Mission Search Plans for Activity around Its Jovian Trojan Flyby Targets
 Remote Sensing, Vol. 17, Pages 2571: Martian Skylight Identification Based on the Deep Learning Model
 The Hera Space Mission in the Context of Small Near-Earth Asteroid Missions in the Past, Present and Future
+Ozone chemical equilibrium near the Martian nighttime OH* layer: observational constraints
+Correction: Temporal variation in the cloud‑top temperature of Venus revealed by meteorological satellites
+On the directional nature of the fall of celestial objects on the surface of Venus
