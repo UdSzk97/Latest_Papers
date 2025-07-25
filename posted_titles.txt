@@ -224,3 +224,6 @@ The Hera Space Mission in the Context of Small Near-Earth Asteroid Missions in t
 Ozone chemical equilibrium near the Martian nighttime OH* layer: observational constraints
 Correction: Temporal variation in the cloud‑top temperature of Venus revealed by meteorological satellites
 On the directional nature of the fall of celestial objects on the surface of Venus
+Revisiting NH<sub>4</sub><sup>+</sup>–Na<sup>+</sup> cation exchange selectivity on smectites: Implications for ammonium/ammonia distribution and speciation in icy planetesimals, Ceres, and Enceladus
+Convective dynamics in mantle of tidally-locked exoplanets
+PLATE — a Passive, Light-Weight Wheel Abrasion and Terramechanics Experiment
