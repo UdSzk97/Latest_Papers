@@ -241,3 +241,6 @@ NIRPS detection of delayed atmospheric escape from the warm and misaligned Satur
 Studying the variability of the He triplet to understand the detection limits of evaporating exoplanet atmospheres
 Exoplanet Atmospheric Refraction Effects in the Kepler Sample
 Water-group ion irradiation studies of Enceladus ice analogues: Can radiolysis account for material in and around the south polar plume?
+A 16 Myr Super-Neptune in Upper Centaurus Lupus and a Preliminary Survey of Transiting Planets in Sco-Cen with TESS
+Constraining the Milky Way Halo Accretion History with Simulated Stellar Halos: Designing the HALO7D-X Survey
+Changes in Mars’s habitability could have been driven by carbonate formation and transient oases
