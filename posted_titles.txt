@@ -237,3 +237,7 @@ Why space foods aren’t just for space
 Detailed Analysis of Six Contact Binaries and their Possible Origin
 Apache Point Observatory Follow-up of ACcelerating Candidate ExopLanet Host Stars (APO ACCELS): Ages for 166 Accelerating Stars in the Northern Hemisphere
 Magnetic Activities of Wolf 359: Starspot Distribution and Quasiperiodic Pulsation Using TESS Data
+NIRPS detection of delayed atmospheric escape from the warm and misaligned Saturn-mass exoplanet WASP-69 b★
+Studying the variability of the He triplet to understand the detection limits of evaporating exoplanet atmospheres
+Exoplanet Atmospheric Refraction Effects in the Kepler Sample
+Water-group ion irradiation studies of Enceladus ice analogues: Can radiolysis account for material in and around the south polar plume?
