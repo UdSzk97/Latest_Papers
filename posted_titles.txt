@@ -244,3 +244,7 @@ Water-group ion irradiation studies of Enceladus ice analogues: Can radiolysis a
 A 16 Myr Super-Neptune in Upper Centaurus Lupus and a Preliminary Survey of Transiting Planets in Sco-Cen with TESS
 Constraining the Milky Way Halo Accretion History with Simulated Stellar Halos: Designing the HALO7D-X Survey
 Changes in Mars’s habitability could have been driven by carbonate formation and transient oases
+Investigating Transit Timing Variations in the Ultrashort Period Exoplanet WASP-19b
+Impact of a Coronal Mass Ejection on the Lunar Exosphere as Observed by CHACE‐2 on the Chandrayaan‐2 Orbiter
+A JWST Study of CO2 on the Satellites of Saturn
+Asteroids Fail to Retain Cometary Impact Signatures
