@@ -248,3 +248,4 @@ Investigating Transit Timing Variations in the Ultrashort Period Exoplanet WASP-
 Impact of a Coronal Mass Ejection on the Lunar Exosphere as Observed by CHACE‐2 on the Chandrayaan‐2 Orbiter
 A JWST Study of CO2 on the Satellites of Saturn
 Asteroids Fail to Retain Cometary Impact Signatures
+Europa’s Sodium and Potassium Exosphere during Juno’s Flyby
