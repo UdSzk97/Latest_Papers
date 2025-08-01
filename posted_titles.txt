@@ -249,3 +249,6 @@ Impact of a Coronal Mass Ejection on the Lunar Exosphere as Observed by CHACE‐
 A JWST Study of CO2 on the Satellites of Saturn
 Asteroids Fail to Retain Cometary Impact Signatures
 Europa’s Sodium and Potassium Exosphere during Juno’s Flyby
+Biosignature False Positives in Potentially Habitable Planets around M Dwarfs: The Effect of UV Radiation from One Flare
+Self-consistent Dynamical and Chaotic Tides in the REBOUNDx Framework
+ARTEMIS Observations of Electron Cyclotron Harmonic Waves in the Lunar Plasma Environment
