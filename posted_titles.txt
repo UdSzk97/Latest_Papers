@@ -253,3 +253,5 @@ Biosignature False Positives in Potentially Habitable Planets around M Dwarfs: T
 Self-consistent Dynamical and Chaotic Tides in the REBOUNDx Framework
 ARTEMIS Observations of Electron Cyclotron Harmonic Waves in the Lunar Plasma Environment
 Statistical Study on L‐O Mode Saturn Kilometric Radiation
+Global Seasonal Variations of Martian Atmospheric Pressure and Density From Mars Climate Sounder
+Two Distinct Current Sheet Configurations in the Jovian Magnetotail
