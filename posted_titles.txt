@@ -260,3 +260,7 @@ Meteoroid Stream Identification with HDBSCAN Unsupervised Clustering Algorithm
 A Next-generation Exoplanet Atmospheric Retrieval Framework for Transmission Spectroscopy (NEXOTRANS): Comparative Characterization for WASP-39 b Using JWST NIRISS, NIRSpec PRISM, and MIRI Observations
 Estimating Fe and Mg Abundances in the Milky Way Dwarf Galaxies Using Subaru/HSC and DEIMOS
 Analysis of Ion Cyclotron Waves during Cassini’s Flybys of Enceladus
+A Multispecies Atmospheric Escape Model with Excited Hydrogen and Helium: Application to HD209458b
+Rotating Finger‐Like Structures of Jovian Magnetodisc
+Characterization of ferric hydroxysulfate on Mars and implications of the geochemical environment supporting its formation
+Detection of New Auroral Emissions at Io and Implications for Its Interaction with the Plasma Torus
