@@ -264,3 +264,5 @@ A Multispecies Atmospheric Escape Model with Excited Hydrogen and Helium: Applic
 Rotating Finger‐Like Structures of Jovian Magnetodisc
 Characterization of ferric hydroxysulfate on Mars and implications of the geochemical environment supporting its formation
 Detection of New Auroral Emissions at Io and Implications for Its Interaction with the Plasma Torus
+Astrometric Accelerations of Provisional Targets for the Habitable Worlds Observatory
+Modeling Ice and Dust in Comet C/2017 K2 (Pan-STARRS)’s Coma
