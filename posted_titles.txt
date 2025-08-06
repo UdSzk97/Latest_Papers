@@ -266,3 +266,6 @@ Characterization of ferric hydroxysulfate on Mars and implications of the geoche
 Detection of New Auroral Emissions at Io and Implications for Its Interaction with the Plasma Torus
 Astrometric Accelerations of Provisional Targets for the Habitable Worlds Observatory
 Modeling Ice and Dust in Comet C/2017 K2 (Pan-STARRS)’s Coma
+Assessing interstellar comet 3I/ATLAS with the 10.4 m Gran Telescopio Canarias and the Two-meter Twin Telescope⋆
+X-SHOOTER spectrum of comet 3I/ATLAS: Insights into a distant interstellar visitor
+Spectroscopy of ClS2 Isomers: Implications for Sulfur–Chlorine Chemistry
