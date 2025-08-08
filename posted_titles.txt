@@ -278,3 +278,5 @@ A Large Outburst, Coma Asymmetries, and the Color of Comet 243P/NEAT
 Feasibility of in situ K‐Ar isochron dating on Mars: assessment using the mineralogy of Martian meteorites
 A D/H ratio consistent with Earth’s water in Halley-type comet 12P from ALMA HDO mapping
 Leveraging Ceres to Gain Insights into the Candidate Ocean Worlds of Umbriel and Oberon That Orbit Uranus
+Impact-induced magnetite is widespread on the near and far sides of the moon
+A Multifrequency Global View of Callisto’s Thermal Properties from ALMA
