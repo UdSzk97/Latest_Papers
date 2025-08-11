@@ -281,3 +281,7 @@ Leveraging Ceres to Gain Insights into the Candidate Ocean Worlds of Umbriel and
 Impact-induced magnetite is widespread on the near and far sides of the moon
 A Multifrequency Global View of Callisto’s Thermal Properties from ALMA
 Detailed Architecture of the L 98-59 System and Confirmation of a Fifth Planet in the Habitable Zone
+Fractal Algorithm for Multiple-lens Analyses
+MINDS: Detection of an Inner Gas Disk Caused by Evaporating Bodies around HD 172555
+Ocean Tides on Asynchronously Rotating Planets Orbiting Low-mass Stars
+Daily briefing: US researchers fight back on key climate report
