@@ -327,3 +327,38 @@ Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with
   Patch-level CLIP Latents
 When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with
   Benign Inputs
+Plume Activity on Europa: Current Knowledge and Search Strategy for Europa Clipper
+Placing the Near-Earth Object Impact Probability in Context
+Omni-Effects: Unified and Spatially-Controllable Visual Effects
+  Generation
+A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm
+  Bridging Foundation Models and Lifelong Agentic Systems
+Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving
+  Clipping Policy Optimization
+BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of
+  Deep-Research Agent
+SONAR-LLM: Autoregressive Transformer that Thinks in Sentence Embeddings
+  and Speaks in Tokens
+Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via
+  Past-Future
+Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided
+  Region Control
+Less Is More: Training-Free Sparse Attention with Global Locality for
+  Efficient Reasoning
+VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation
+  for Multilingual Long Document Understanding
+Shortcut Learning in Generalist Robot Policies: The Role of Dataset
+  Diversity and Fragmentation
+Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant
+  Safeguards into Open-Weight LLMs
+Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with
+  Patch-level CLIP Latents
+Spectrum Projection Score: Aligning Retrieved Summaries with Reader
+  Models in Retrieval-Augmented Generation
+Speech-to-LaTeX: New Models and Datasets for Converting Spoken Equations
+  and Sentences
+When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with
+  Benign Inputs
+Anatomy of a Machine Learning Ecosystem: 2 Million Models on Hugging
+  Face
+TextQuests: How Good are LLMs at Text-Based Video Games?
