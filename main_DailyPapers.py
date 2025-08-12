@@ -80,14 +80,25 @@ def main():
         if not title or title in posted_titles:
             continue
 
-        matched = matched_keywords(title + " " + summary)
-        if matched:
+        text_to_check = title + " " + summary
+
+        if not KEYWORDS or matched_keywords(text_to_check):
+            matched = matched_keywords(text_to_check) if KEYWORDS else ["All"]
             tags = " ".join(f"#{k.capitalize().strip()}" for k in matched)
             message = f"{title}\n{link}\n{tags}"
             print("Posting to Slack:\n", message)
             post_to_slack(message)
             save_posted_title(title)
             time.sleep(1) # Slack制限対策
+
+#         matched = matched_keywords(title + " " + summary)
+#         if matched:
+#             tags = " ".join(f"#{k.capitalize().strip()}" for k in matched)
+#             message = f"{title}\n{link}\n{tags}"
+#             print("Posting to Slack:\n", message)
+#             post_to_slack(message)
+#             save_posted_title(title)
+#             time.sleep(1) # Slack制限対策
 
 if __name__ == "__main__":
     main()
