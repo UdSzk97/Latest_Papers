@@ -13,7 +13,7 @@ KEYWORDS = []
 # ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL_2") # "latest_papers_2" channel
-POSTED_TITLES_FILE = "posted_titles_DP.txt" # for DailyPapers
+POSTED_TITLES_FILE = "posted_titles.txt" # for DailyPapers
 
 # === ユーティリティ関数 ===
 def load_posted_titles():
