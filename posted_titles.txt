@@ -287,3 +287,43 @@ Ocean Tides on Asynchronously Rotating Planets Orbiting Low-mass Stars
 Daily briefing: US researchers fight back on key climate report
 Optical and Near-infrared Spectroscopy of the Outbursting Comet 12P/Pons-Brooks
 Shallow Crustal Density in the Lunar South Polar Region
+ReasonRank: Empowering Passage Ranking with Strong Reasoning Ability
+WideSearch: Benchmarking Agentic Broad Info-Seeking
+Omni-Effects: Unified and Spatially-Controllable Visual Effects
+  Generation
+Klear-Reasoner: Advancing Reasoning Capability via Gradient-Preserving
+  Clipping Policy Optimization
+SONAR-LLM: Autoregressive Transformer that Thinks in Sentence Embeddings
+  and Speaks in Tokens
+UserBench: An Interactive Gym Environment for User-Centric Agents
+A Comprehensive Survey of Self-Evolving AI Agents: A New Paradigm
+  Bridging Foundation Models and Lifelong Agentic Systems
+BrowseComp-Plus: A More Fair and Transparent Evaluation Benchmark of
+  Deep-Research Agent
+MolmoAct: Action Reasoning Models that can Reason in Space
+OmniEAR: Benchmarking Agent Reasoning in Embodied Tasks
+Grove MoE: Towards Efficient and Superior MoE LLMs with Adjugate Experts
+Temporal Self-Rewarding Language Models: Decoupling Chosen-Rejected via
+  Past-Future
+Reinforcement Learning in Vision: A Survey
+Follow-Your-Shape: Shape-Aware Image Editing via Trajectory-Guided
+  Region Control
+Part I: Tricks or Traps? A Deep Dive into RL for LLM Reasoning
+Less Is More: Training-Free Sparse Attention with Global Locality for
+  Efficient Reasoning
+MoBE: Mixture-of-Basis-Experts for Compressing MoE-based LLMs
+VisR-Bench: An Empirical Study on Visual Retrieval-Augmented Generation
+  for Multilingual Long Document Understanding
+Shortcut Learning in Generalist Robot Policies: The Role of Dataset
+  Diversity and Fragmentation
+Fact2Fiction: Targeted Poisoning Attack to Agentic Fact-checking System
+Speech-to-LaTeX: New Models and Datasets for Converting Spoken Equations
+  and Sentences
+Compressing Chain-of-Thought in LLMs via Step Entropy
+GLiClass: Generalist Lightweight Model for Sequence Classification Tasks
+Deep Ignorance: Filtering Pretraining Data Builds Tamper-Resistant
+  Safeguards into Open-Weight LLMs
+Bifrost-1: Bridging Multimodal LLMs and Diffusion Models with
+  Patch-level CLIP Latents
+When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with
+  Benign Inputs
