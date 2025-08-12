@@ -4,12 +4,13 @@ import os
 import time
 
 # === 設定 ===
-KEYWORDS = [
-    " mercury ", " venus ", " mars ", " jupiter ", " saturn ", " uranus ", " neptune ", " moon ", 
-    " phobos ", " deimos ", " io ", " europa ", " ganymede ", " calisto ", " enceladus ", 
-    " dwarf planet ", " asteroid ", " comet ", " meteorite ", " habitable ", " habitability ", " exoplanet ", 
-    " hermean ", " venusian ", " martian ", " jovian ", " lunar "
-] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
+KEYWORDS = []
+# KEYWORDS = [
+#     " mercury ", " venus ", " mars ", " jupiter ", " saturn ", " uranus ", " neptune ", " moon ", 
+#     " phobos ", " deimos ", " io ", " europa ", " ganymede ", " calisto ", " enceladus ", 
+#     " dwarf planet ", " asteroid ", " comet ", " meteorite ", " habitable ", " habitability ", " exoplanet ", 
+#     " hermean ", " venusian ", " martian ", " jovian ", " lunar "
+# ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL_2") # "latest_papers_2" channel
 POSTED_TITLES_FILE = "posted_titles_DP.txt" # for DailyPapers
