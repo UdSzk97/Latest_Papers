@@ -406,3 +406,48 @@ GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via
 BiasGym: Fantastic Biases and How to Find (and Remove) Them
 NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech
   Modeling with Paralinguistic Vocalizations
+Heartbeat Stars Recognition Based on Recurrent Neural Networks: Method and Validation
+Strict Limits on Potential Secondary Atmospheres on the Temperate Rocky Exo-Earth TRAPPIST-1 d
+Photophoretic flight of perforated structures in near-space conditions
+The NASA Exoplanet Archive and Exoplanet Follow-up Observing Program: Data, Tools, and Usage
+Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale
+  Asynchronous RL
+Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language
+  Models
+HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating
+  Local and Web Searches
+Test-Time Reinforcement Learning for GUI Grounding via Region
+  Consistency
+Complex Logical Instruction Generation
+UNCAGE: Contrastive Attention Guidance for Masked Generative
+  Transformers in Text-to-Image Generation
+Towards Affordance-Aware Robotic Dexterous Grasping with Human-like
+  Priors
+Democratizing Diplomacy: A Harness for Evaluating Any Large Language
+  Model on Full-Press Diplomacy
+DeCRED: Decoder-Centric Regularization for Encoder-Decoder Based Speech
+  Recognition
+Feedback-Driven Tool-Use Improvements in Large Language Models via
+  Automated Build Environments
+ASTRA: Autonomous Spatial-Temporal Red-teaming for AI Software
+  Assistants
+AutoCodeBench: Large Language Models are Automatic Code Benchmark
+  Generators
+TopXGen: Topic-Diverse Parallel Data Generation for Low-Resource Machine
+  Translation
+Bridging Theory and Practice in Quantum Game Theory: Optimized
+  Implementation of the Battle of the Sexes with Error Mitigation on NISQ
+  Hardware
+Optimization-Free Style Transfer for 3D Gaussian Splats
+RedDino: A foundation model for red blood cell analysis
+Technical Report: Full-Stack Fine-Tuning for the Q Programming Language
+WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface
+  Temperature Estimation via Spatio-Temporal Fusion
+GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via
+  General Samples Replay
+Putnam-AXIOM: A Functional and Static Benchmark
+Text-conditioned State Space Model For Domain-generalized Change
+  Detection Visual Question Answering
+Improving Masked Style Transfer using Blended Partial Convolution
+NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech
+  Modeling with Paralinguistic Vocalizations
