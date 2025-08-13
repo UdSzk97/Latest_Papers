@@ -362,3 +362,47 @@ When Good Sounds Go Adversarial: Jailbreaking Audio-Language Models with
 Anatomy of a Machine Learning Ecosystem: 2 Million Models on Hugging
   Face
 TextQuests: How Good are LLMs at Text-Based Video Games?
+Size and Shape of Jupiter Trojan (2207) Antenor from Stellar Occultations
+Radiative Flux from a High-resolution Atmospheric Dynamics Simulation of a Hot Jupiter for JWST and Ariel
+Rotation Signatures of TESS B-type Stars: Enlarging the Sample
+Stellar Models Also Limit Exoplanet Atmosphere Studies in Emission
+Ion Reflection From the Martian Bow Shock
+Astronomers gave up this comet for dead ― but they were wrong
+Saturn’s moon Mimas may have a vast hidden ocean
+WebWatcher: Breaking New Frontier of Vision-Language Deep Research Agent
+Matrix-3D: Omnidirectional Explorable 3D World Generation
+Beyond Ten Turns: Unlocking Long-Horizon Agentic Search with Large-Scale
+  Asynchronous RL
+CharacterShot: Controllable and Consistent 4D Character Animation
+Time Is a Feature: Exploiting Temporal Dynamics in Diffusion Language
+  Models
+HierSearch: A Hierarchical Enterprise Deep Search Framework Integrating
+  Local and Web Searches
+VertexRegen: Mesh Generation with Continuous Level of Detail
+Test-Time Reinforcement Learning for GUI Grounding via Region
+  Consistency
+UNCAGE: Contrastive Attention Guidance for Masked Generative
+  Transformers in Text-to-Image Generation
+Aryabhata: An exam-focused language model for JEE Math
+Train Long, Think Short: Curriculum Learning for Efficient Reasoning
+Towards Affordance-Aware Robotic Dexterous Grasping with Human-like
+  Priors
+DeCRED: Decoder-Centric Regularization for Encoder-Decoder Based Speech
+  Recognition
+Adversarial Video Promotion Against Text-to-Video Retrieval
+Cut2Next: Generating Next Shot via In-Context Tuning
+OpenCUA: Open Foundations for Computer-Use Agents
+AutoCodeBench: Large Language Models are Automatic Code Benchmark
+  Generators
+Feedback-Driven Tool-Use Improvements in Large Language Models via
+  Automated Build Environments
+Bridging Theory and Practice in Quantum Game Theory: Optimized
+  Implementation of the Battle of the Sexes with Error Mitigation on NISQ
+  Hardware
+WGAST: Weakly-Supervised Generative Network for Daily 10 m Land Surface
+  Temperature Estimation via Spatio-Temporal Fusion
+GeRe: Towards Efficient Anti-Forgetting in Continual Learning of LLM via
+  General Samples Replay
+BiasGym: Fantastic Biases and How to Find (and Remove) Them
+NVSpeech: An Integrated and Scalable Pipeline for Human-Like Speech
+  Modeling with Paralinguistic Vocalizations
