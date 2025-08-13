@@ -37,7 +37,7 @@ jobs:
         env:
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           SLACK_WEBHOOK_URL_2: ${{ secrets.SLACK_WEBHOOK_URL_2 }}
-        run: python main_DailyPapers.py # or run: python main_crossref.py
+        run: python main_DailyPapers.py
 
       - name: Git 設定
         run: |
