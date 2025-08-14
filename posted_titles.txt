@@ -481,3 +481,43 @@ Can LLM-Generated Textual Explanations Enhance Model Classification
   Performance? An Empirical Study
 AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal
   Imitation-Exploration Balance
+Probing Periodic Trends in the TESS Light Curves of the Seventeen Known Double White Dwarf Systems
+Precise Asteroseismic Ages for the Helmi Streams
+Exploring Organic-mineral Evolution in Planetary Analogs: Insights from Hydrothermal Alteration of Aromatic Molecules and Mafic Minerals
+Story2Board: A Training-Free Approach for Expressive Storyboard
+  Generation
+Stand-In: A Lightweight and Plug-and-Play Identity Control for Video
+  Generation
+Diffusion LLMs Can Do Faster-Than-AR Inference via Discrete Diffusion
+  Forcing
+AWorld: Dynamic Multi-Agent System with Stable Maneuvering for Robust
+  GAIA Problem Solving
+Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with
+  Long-Term Memory
+Echo-4o: Harnessing the Power of GPT-4o Synthetic Images for Improved
+  Image Generation
+Learning to Align, Aligning to Learn: A Unified Approach for
+  Self-Optimized Alignment
+MathReal: We Keep It Real! A Real Scene Benchmark for Evaluating Math
+  Reasoning in Multimodal Large Language Models
+Cooper: Co-Optimizing Policy and Reward Models in Reinforcement Learning
+  for Large Language Models
+VisCodex: Unified Multimodal Code Generation via Merging Vision and
+  Coding Models
+Sample More to Think Less: Group Filtered Policy Optimization for
+  Concise Reasoning
+CannyEdit: Selective Canny Control and Dual-Prompt Guidance for
+  Training-Free Image Editing
+μ-Parametrization for Mixture of Experts
+GSFixer: Improving 3D Gaussian Splatting with Reference-Guided Video
+  Diffusion Priors
+Decentralized Aerial Manipulation of a Cable-Suspended Load using
+  Multi-Agent Reinforcement Learning
+Can LLM-Generated Textual Explanations Enhance Model Classification
+  Performance? An Empirical Study
+ASM-UNet: Adaptive Scan Mamba Integrating Group Commonalities and
+  Individual Variations for Fine-Grained Segmentation
+AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal
+  Imitation-Exploration Balance
+ObfusQAte: A Proposed Framework to Evaluate LLM Robustness on Obfuscated
+  Factual Question Answering
