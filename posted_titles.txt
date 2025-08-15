@@ -521,3 +521,27 @@ AMFT: Aligning LLM Reasoners by Meta-Learning the Optimal
   Imitation-Exploration Balance
 ObfusQAte: A Proposed Framework to Evaluate LLM Robustness on Obfuscated
   Factual Question Answering
+Effects of EUV on Day‐To‐Night Transport in the Martian Ionosphere
+Spectral Properties of Ilmenite, Hematite, and Spinel: Implications for Upcoming Lunar Exploration Missions
+We-Math 2.0: A Versatile MathBook System for Incentivizing Visual
+  Mathematical Reasoning
+NextStep-1: Toward Autoregressive Image Generation with Continuous
+  Tokens at Scale
+ToonComposer: Streamlining Cartoon Production with Generative
+  Post-Keyframing
+UI-Venus Technical Report: Building High-performance UI Agents with RFT
+PRELUDE: A Benchmark Designed to Require Global Comprehension and
+  Reasoning over Long Contexts
+STream3R: Scalable Sequential 3D Reconstruction with Causal Transformer
+Pass@k Training for Adaptively Balancing Exploration and Exploitation of
+  Large Reasoning Models
+HumanSense: From Multimodal Perception to Empathetic Context-Aware
+  Responses through Reasoning MLLMs
+A Survey on Diffusion Language Models
+From Black Box to Transparency: Enhancing Automated Interpreting
+  Assessment with Explainable AI in College Classrooms
+Processing and acquisition traces in visual encoders: What does CLIP
+  know about your camera?
+When Explainability Meets Privacy: An Investigation at the Intersection
+  of Post-hoc Explainability and Differential Privacy in the Context of Natural
+  Language Processing
