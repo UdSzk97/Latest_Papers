@@ -607,3 +607,23 @@ From Black Box to Transparency: Enhancing Automated Interpreting
 When Explainability Meets Privacy: An Investigation at the Intersection
   of Post-hoc Explainability and Differential Privacy in the Context of Natural
   Language Processing
+Auroral Ionospheric Erosion at Jupiter
+We-Math 2.0: A Versatile MathBook System for Incentivizing Visual
+  Mathematical Reasoning
+NextStep-1: Toward Autoregressive Image Generation with Continuous
+  Tokens at Scale
+ToonComposer: Streamlining Cartoon Production with Generative
+  Post-Keyframing
+PRELUDE: A Benchmark Designed to Require Global Comprehension and
+  Reasoning over Long Contexts
+Pass@k Training for Adaptively Balancing Exploration and Exploitation of
+  Large Reasoning Models
+HumanSense: From Multimodal Perception to Empathetic Context-Aware
+  Responses through Reasoning MLLMs
+Processing and acquisition traces in visual encoders: What does CLIP
+  know about your camera?
+From Black Box to Transparency: Enhancing Automated Interpreting
+  Assessment with Explainable AI in College Classrooms
+When Explainability Meets Privacy: An Investigation at the Intersection
+  of Post-hoc Explainability and Differential Privacy in the Context of Natural
+  Language Processing
