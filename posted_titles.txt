@@ -667,3 +667,19 @@ SPARSE Data, Rich Results: Few-Shot Semi-Supervised Learning via
   Class-Conditioned Image Translation
 MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and
   Multispectral Earth Observation Data
+Rotation Periods of Candidate Single Late-M Dwarfs in TESS
+Correction to: Photogeologic Map of the Perseverance Rover Field Site in Jezero Crater Constructed by the Mars 2020 Science Team
+BeyondWeb: Lessons from Scaling Synthetic Data for Trillion-scale
+  Pretraining
+PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical
+  Register Indexing
+XQuant: Breaking the Memory Wall for LLM Inference with KV Cache
+  Rematerialization
+StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image
+  Translation
+FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for
+  Audio-Driven Portrait Animation
+MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and
+  Multispectral Earth Observation Data
+SPARSE Data, Rich Results: Few-Shot Semi-Supervised Learning via
+  Class-Conditioned Image Translation
