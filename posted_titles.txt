@@ -647,3 +647,23 @@ From Black Box to Transparency: Enhancing Automated Interpreting
 When Explainability Meets Privacy: An Investigation at the Intersection
   of Post-hoc Explainability and Differential Privacy in the Context of Natural
   Language Processing
+Disentangling Metallicity Effects in Hot Jupiter Occurrence across Galactic Birth Radius and Phase-space Density
+Enabling Robust Exoplanet Atmospheric Retrievals with Gaussian Processes
+SSRL: Self-Search Reinforcement Learning
+Thyme: Think Beyond Images
+DINOv3
+PaperRegister: Boosting Flexible-grained Paper Search via Hierarchical
+  Register Indexing
+StyleMM: Stylized 3D Morphable Face Model via Text-Driven Aligned Image
+  Translation
+FantasyTalking2: Timestep-Layer Adaptive Preference Optimization for
+  Audio-Driven Portrait Animation
+TexVerse: A Universe of 3D Objects with High-Resolution Textures
+Controlling Multimodal LLMs via Reward-guided Decoding
+X-Node: Self-Explanation is All We Need
+XQuant: Breaking the Memory Wall for LLM Inference with KV Cache
+  Rematerialization
+SPARSE Data, Rich Results: Few-Shot Semi-Supervised Learning via
+  Class-Conditioned Image Translation
+MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and
+  Multispectral Earth Observation Data
