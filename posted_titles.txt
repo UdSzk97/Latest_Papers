@@ -709,3 +709,27 @@ G-CUT3R: Guided 3D Reconstruction with Camera and Depth Prior
   Integration
 Beyond Solving Math Quiz: Evaluating the Ability of Large Reasoning
   Models to Ask for Information
+Experimental Investigation of Soil Adsorption Effects on Water Migration in Simulated Lunar Conditions
+ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long
+  Narrative Reasoning
+Speed Always Wins: A Survey on Efficient Architectures for Large
+  Language Models
+When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness
+  Methods for LLMs
+HeroBench: A Benchmark for Long-Horizon Planning and Structured
+  Reasoning in Virtual Worlds
+Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive
+  World Model
+G-CUT3R: Guided 3D Reconstruction with Camera and Depth Prior
+  Integration
+Lumen: Consistent Video Relighting and Harmonious Background Replacement
+  with Video Generative Models
+S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of
+  Diffusion Models
+Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision
+  Mapping
+Reinforcement Learning with Rubric Anchors
+Unlearning Comparator: A Visual Analytics System for Comparative
+  Evaluation of Machine Unlearning Methods
+Beyond Solving Math Quiz: Evaluating the Ability of Large Reasoning
+  Models to Ask for Information
