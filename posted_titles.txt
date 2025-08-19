@@ -683,3 +683,29 @@ MAESTRO: Masked AutoEncoders for Multimodal, Multitemporal, and
   Multispectral Earth Observation Data
 SPARSE Data, Rich Results: Few-Shot Semi-Supervised Learning via
   Class-Conditioned Image Translation
+Ovis2.5 Technical Report
+ComoRAG: A Cognitive-Inspired Memory-Organized RAG for Stateful Long
+  Narrative Reasoning
+4DNeX: Feed-Forward 4D Generative Modeling Made Easy
+Next Visual Granularity Generation
+Speed Always Wins: A Survey on Efficient Architectures for Large
+  Language Models
+Has GPT-5 Achieved Spatial Intelligence? An Empirical Study
+HeroBench: A Benchmark for Long-Horizon Planning and Structured
+  Reasoning in Virtual Worlds
+When Punctuation Matters: A Large-Scale Comparison of Prompt Robustness
+  Methods for LLMs
+Matrix-Game 2.0: An Open-Source, Real-Time, and Streaming Interactive
+  World Model
+Lumen: Consistent Video Relighting and Harmonious Background Replacement
+  with Video Generative Models
+S^2-Guidance: Stochastic Self Guidance for Training-Free Enhancement of
+  Diffusion Models
+Inverse-LLaVA: Eliminating Alignment Pre-training Through Text-to-Vision
+  Mapping
+Representing Speech Through Autoregressive Prediction of Cochlear Tokens
+Precise Action-to-Video Generation Through Visual Action Prompts
+G-CUT3R: Guided 3D Reconstruction with Camera and Depth Prior
+  Integration
+Beyond Solving Math Quiz: Evaluating the Ability of Large Reasoning
+  Models to Ask for Information
