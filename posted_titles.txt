@@ -733,3 +733,41 @@ Unlearning Comparator: A Visual Analytics System for Comparative
   Evaluation of Machine Unlearning Methods
 Beyond Solving Math Quiz: Evaluating the Ability of Large Reasoning
   Models to Ask for Information
+Frequency Characteristics of Magnetosonic Waves Driven by Hot Ring-Beam Protons
+Warm, water-depleted rocky exoplanets with surface ionic liquids: A proposed class for planetary habitability
+Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent
+  Distillation and Agentic RL
+LongSplat: Robust Unposed 3D Gaussian Splatting for Casual Long Videos
+Prompt Orchestration Markup Language
+MultiRef: Controllable Image Generation with Multiple Visual References
+Training-Free Text-Guided Color Editing with Multi-Modal Diffusion
+  Transformer
+Evaluating Podcast Recommendations with Profile-Aware LLM-as-a-Judge
+OmniTry: Virtual Try-On Anything without Masks
+Advances in Speech Separation: Techniques, Challenges, and Future Trends
+Mind the Generation Process: Fine-Grained Confidence Estimation During
+  LLM Generation
+Embodied-R1: Reinforced Embodied Reasoning for General Robotic
+  Manipulation
+A Stitch in Time Saves Nine: Proactive Self-Refinement for Language
+  Models
+Copyright Protection for Large Language Models: A Survey of Methods,
+  Challenges, and Trends
+TempFlow-GRPO: When Timing Matters for GRPO in Flow Models
+Leveraging Large Language Models for Predictive Analysis of Human Misery
+Motion2Motion: Cross-topology Motion Transfer with Sparse Correspondence
+CorrSteer: Steering Improves Task Performance and Safety in LLMs through
+  Correlation-based Sparse Autoencoder Feature Selection
+MedSAMix: A Training-Free Model Merging Approach for Medical Image
+  Segmentation
+Semantic IDs for Joint Generative Search and Recommendation
+Describe What You See with Multimodal Large Language Models to Enhance
+  Video Recommendations
+Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned
+  and Addressed for XR Research
+MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic
+  Evaluation of Audio General Intelligence
+ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval
+  Driven LLM Agents
+Beyond Human Judgment: A Bayesian Evaluation of LLMs' Moral Values
+  Understanding
