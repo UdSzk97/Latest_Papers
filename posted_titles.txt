@@ -771,3 +771,42 @@ ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval
   Driven LLM Agents
 Beyond Human Judgment: A Bayesian Evaluation of LLMs' Moral Values
   Understanding
+KREEP-like lithologies in the South Pole–Aitken basin reworked by the Apollo basin impact at 4.16 Ga
+The MMX InfraRed Spectrometer (MIRS) for the spectral characterization of the Martian system
+Longitudinal heterogeneity of Phobos’ crater size-frequency distribution: coevolution of resurfacing and orbital dynamics
+Magnetic field experiment at Phobos and in space around Mars by the Martian Moons eXploration (MMX) mission
+The Mineralogical Connection between M- and K-type Asteroids as Indicated by Polarimetry
+Core metamorphism controls the dynamic habitability of mid-sized ocean worlds—The case of Ceres
+Chain-of-Agents: End-to-End Agent Foundation Models via Multi-Agent
+  Distillation and Agentic RL
+Embodied-R1: Reinforced Embodied Reasoning for General Robotic
+  Manipulation
+Mind the Generation Process: Fine-Grained Confidence Estimation During
+  LLM Generation
+Training-Free Text-Guided Color Editing with Multi-Modal Diffusion
+  Transformer
+A Stitch in Time Saves Nine: Proactive Self-Refinement for Language
+  Models
+CAMAR: Continuous Actions Multi-Agent Routing
+Copyright Protection for Large Language Models: A Survey of Methods,
+  Challenges, and Trends
+Describe What You See with Multimodal Large Language Models to Enhance
+  Video Recommendations
+MMAU-Pro: A Challenging and Comprehensive Benchmark for Holistic
+  Evaluation of Audio General Intelligence
+MM-BrowseComp: A Comprehensive Benchmark for Multimodal Browsing Agents
+CorrSteer: Steering Improves Task Performance and Safety in LLMs through
+  Correlation-based Sparse Autoencoder Feature Selection
+MedSAMix: A Training-Free Model Merging Approach for Medical Image
+  Segmentation
+Radiance Fields in XR: A Survey on How Radiance Fields are Envisioned
+  and Addressed for XR Research
+Beyond Human Judgment: A Bayesian Evaluation of LLMs' Moral Values
+  Understanding
+Rapidly Adapting to New Voice Spoofing: Few-Shot Detection of
+  Synthesized Speech Under Distribution Shifts
+Retrieval-augmented reasoning with lean language models
+ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval
+  Driven LLM Agents
+Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic
+  Thought Reward
