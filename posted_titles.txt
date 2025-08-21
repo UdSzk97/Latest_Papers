@@ -835,3 +835,33 @@ mSCoRe: a Multilingual and Scalable Benchmark for Skill-based
   Commonsense Reasoning
 Refining Contrastive Learning and Homography Relations for Multi-Modal
   Recommendation
+The HUSTLE Program: The UV to Near-IR Transmission Spectrum of the Hot Jupiter KELT-7b
+Metallicities of M Dwarf Planet Host Stars from Kepler, K2, and TESS Observed by APOGEE: Trends with Exoplanetary Radii and Orbital Periods
+The age and early evolution of the Moon revealed by the Rb-Sr systematics of lunar ferroan anorthosites
+Ejecta Mass Estimates from the DART Impact Plume Inferred from LICIACube Images
+Influence of the Moon phase on ionospheric total electron content observed by GNSS remote sensing
+DuPO: Enabling Reliable LLM Self-Verification via Dual Preference
+  Optimization
+From Scores to Skills: A Cognitive Diagnosis Framework for Evaluating
+  Financial Large Language Models
+Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From
+  Sparse Inputs without Per-Scene Optimization
+From AI for Science to Agentic Science: A Survey on Autonomous
+  Scientific Discovery
+MCP-Universe: Benchmarking Large Language Models with Real-World Model
+  Context Protocol Servers
+Quantization Meets dLLMs: A Systematic Study of Post-training
+  Quantization for Diffusion LLMs
+NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid
+  Mamba-Transformer Reasoning Model
+On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised
+  Fine-Tuning and Reinforcement Learning via Dynamic Weighting
+ViExam: Are Vision Language Models Better than Humans on Vietnamese
+  Multimodal Exam Questions?
+FLARE: Fast Low-rank Attention Routing Engine
+Leuvenshtein: Efficient FHE-based Edit Distance Computation with Single
+  Bootstrap per Cell
+mSCoRe: a Multilingual and Scalable Benchmark for Skill-based
+  Commonsense Reasoning
+Refining Contrastive Learning and Homography Relations for Multi-Modal
+  Recommendation
