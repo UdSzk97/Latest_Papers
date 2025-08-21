@@ -810,3 +810,28 @@ ZARA: Zero-shot Motion Time-Series Analysis via Knowledge and Retrieval
   Driven LLM Agents
 Atom-Searcher: Enhancing Agentic Deep Research via Fine-Grained Atomic
   Thought Reward
+Pole‐to‐Pole Vertical Ionospheric Profiles at Jupiter From JWST
+From Scores to Skills: A Cognitive Diagnosis Framework for Evaluating
+  Financial Large Language Models
+FutureX: An Advanced Live Benchmark for LLM Agents in Future Prediction
+MeshCoder: LLM-Powered Structured Mesh Code Generation from Point Clouds
+Tinker: Diffusion's Gift to 3D--Multi-View Consistent Editing From
+  Sparse Inputs without Per-Scene Optimization
+From AI for Science to Agentic Science: A Survey on Autonomous
+  Scientific Discovery
+DuPO: Enabling Reliable LLM Self-Verification via Dual Preference
+  Optimization
+Quantization Meets dLLMs: A Systematic Study of Post-training
+  Quantization for Diffusion LLMs
+RynnEC: Bringing MLLMs into Embodied World
+NVIDIA Nemotron Nano 2: An Accurate and Efficient Hybrid
+  Mamba-Transformer Reasoning Model
+ViExam: Are Vision Language Models Better than Humans on Vietnamese
+  Multimodal Exam Questions?
+On-Policy RL Meets Off-Policy Experts: Harmonizing Supervised
+  Fine-Tuning and Reinforcement Learning via Dynamic Weighting
+Local Scale Equivariance with Latent Deep Equilibrium Canonicalizer
+mSCoRe: a Multilingual and Scalable Benchmark for Skill-based
+  Commonsense Reasoning
+Refining Contrastive Learning and Homography Relations for Multi-Modal
+  Recommendation
