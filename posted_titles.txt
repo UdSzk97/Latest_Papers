@@ -1013,3 +1013,27 @@ CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated
 Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose
   Inverse Kinematics
 Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts
+Polka-dotted Stars: A Hierarchical Model for Mapping Stellar Surfaces Using Occultation Light Curves and the Case of TOI-3884
+ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for
+  Long-Horizon Tasks
+Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains
+  RLVR
+Selective Contrastive Learning for Weakly Supervised Affordance
+  Grounding
+AetherCode: Evaluating LLMs' Ability to Win In Premier Programming
+  Competitions
+AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications
+End-to-End Agentic RAG System Training for Traceable Diagnostic
+  Reasoning
+TPLA: Tensor Parallel Latent Attention for Efficient Disaggregated
+  Prefill \& Decode Inference
+Distilled-3DGS:Distilled 3D Gaussian Splatting
+Sketch3DVE: Sketch-based 3D-Aware Scene Video Editing
+RotaTouille: Rotation Equivariant Deep Learning for Contours
+InMind: Evaluating LLMs in Capturing and Applying Individual Human
+  Reasoning Styles
+CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated
+  Chain-of-Thought-based Reinforced Fine-Tuning
+Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose
+  Inverse Kinematics
