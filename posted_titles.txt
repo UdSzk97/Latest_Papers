@@ -986,3 +986,30 @@ When and What: Diffusion-Grounded VideoLLM with Entity Aware
   Segmentation for Long Video Understanding
 Fin-PRM: A Domain-Specialized Process Reward Model for Financial
   Reasoning in Large Language Models
+Detecting Land with Reflected-light Spectroscopy to Rule Out Waterworld O2 Biosignature False Positives
+My moonshot to preserve endangered species
+AgentFly: Fine-tuning LLM Agents without Fine-tuning LLMs
+ODYSSEY: Open-World Quadrupeds Exploration and Manipulation for
+  Long-Horizon Tasks
+Beyond Pass@1: Self-Play with Variational Problem Synthesis Sustains
+  RLVR
+CRISP: Persistent Concept Unlearning via Sparse Autoencoders
+Selective Contrastive Learning for Weakly Supervised Affordance
+  Grounding
+AetherCode: Evaluating LLMs' Ability to Win In Premier Programming
+  Competitions
+EgoTwin: Dreaming Body and View in First Person
+Do What? Teaching Vision-Language-Action Models to Reject the Impossible
+End-to-End Agentic RAG System Training for Traceable Diagnostic
+  Reasoning
+TPLA: Tensor Parallel Latent Attention for Efficient Disaggregated
+  Prefill \& Decode Inference
+AgentScope 1.0: A Developer-Centric Framework for Building Agentic
+  Applications
+InMind: Evaluating LLMs in Capturing and Applying Individual Human
+  Reasoning Styles
+CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated
+  Chain-of-Thought-based Reinforced Fine-Tuning
+Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose
+  Inverse Kinematics
+Jailbreaking Commercial Black-Box LLMs with Explicitly Harmful Prompts
