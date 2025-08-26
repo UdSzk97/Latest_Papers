@@ -1065,3 +1065,32 @@ Limitations of Normalization in Attention Mechanism
 TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language
   Modeling
 Neither Valid nor Reliable? Investigating the Use of LLMs as Judges
+Detection of a climate-induced increase in the lunar recession rate
+Daily briefing: Tiny marsupial bounces back from near-extinction
+InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,
+  Reasoning, and Efficiency
+Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance
+  for Text-to-Image Generation
+T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image
+  Generation
+Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement
+  Learning for General LLM Reasoning
+Beyond Memorization: Extending Reasoning Depth with Recurrence, Memory
+  and Test-Time Compute Scaling
+MMTok: Multimodal Coverage Maximization for Efficient Inference of VLMs
+PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent
+  LLMs
+Hermes 4 Technical Report
+MEENA (PersianMMMU): Multimodal-Multilingual Educational Exams for
+  N-level Assessment
+TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language
+  Modeling
+German4All - A Dataset and Model for Readability-Controlled Paraphrasing
+  in German
+MeshSplat: Generalizable Sparse-View Surface Reconstruction via Gaussian
+  Splatting
+Semantic Diffusion Posterior Sampling for Cardiac Ultrasound Dehazing
+REGEN: Real-Time Photorealism Enhancement in Games via a Dual-Stage
+  Generative Network Framework
+If We May De-Presuppose: Robustly Verifying Claims through
+  Presupposition-Free Question Decomposition
