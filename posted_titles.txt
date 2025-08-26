@@ -1037,3 +1037,31 @@ CARFT: Boosting LLM Reasoning via Contrastive Learning with Annotated
   Chain-of-Thought-based Reinforced Fine-Tuning
 Learnable SMPLify: A Neural Solution for Optimization-Free Human Pose
   Inverse Kinematics
+Constraints on the fluid alteration of Nakhla meteorite inferred from Fe‐rich phyllosilicate characterization
+Spectral Trends across the Rings and Inner Moons of Uranus and Neptune from JWST NIRCam Images
+Simulating the (99942) Apophis Earth Flyby Using a Contact Binary Model
+InternVL3.5: Advancing Open-Source Multimodal Models in Versatility,
+  Reasoning, and Efficiency
+Visual-CoG: Stage-Aware Reinforcement Learning with Chain of Guidance
+  for Text-to-Image Generation
+T2I-ReasonBench: Benchmarking Reasoning-Informed Text-to-Image
+  Generation
+MV-RAG: Retrieval Augmented Multiview Diffusion
+Breaking the Exploration Bottleneck: Rubric-Scaffolded Reinforcement
+  Learning for General LLM Reasoning
+Beyond Memorization: Extending Reasoning Depth with Recurrence, Memory
+  and Test-Time Compute Scaling
+PosterGen: Aesthetic-Aware Paper-to-Poster Generation via Multi-Agent
+  LLMs
+UQ: Assessing Language Models on Unsolved Questions
+MEENA (PersianMMMU): Multimodal-Multilingual Educational Exams for
+  N-level Assessment
+Explain Before You Answer: A Survey on Compositional Visual Reasoning
+ST-Raptor: LLM-Powered Semi-Structured Table Question Answering
+SpotEdit: Evaluating Visually-Guided Image Editing Methods
+German4All - A Dataset and Model for Readability-Controlled Paraphrasing
+  in German
+Limitations of Normalization in Attention Mechanism
+TaDiCodec: Text-aware Diffusion Speech Tokenizer for Speech Language
+  Modeling
+Neither Valid nor Reliable? Investigating the Use of LLMs as Judges
