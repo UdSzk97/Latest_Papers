@@ -1094,3 +1094,38 @@ REGEN: Real-Time Photorealism Enhancement in Games via a Dual-Stage
   Generative Network Framework
 If We May De-Presuppose: Robustly Verifying Claims through
   Presupposition-Free Question Decomposition
+Temporal Variability of the Northern Infrared Aurora of Jupiter as Captured by JWST
+Atomic-scale Insights into the Effects of Diffusion on the Binding of Adsorbed Sodium on the Surfaces of the Moon and Mercury
+CMPhysBench: A Benchmark for Evaluating Large Language Models in
+  Condensed Matter Physics
+VibeVoice Technical Report
+TreePO: Bridging the Gap of Policy Optimization and Efficacy and
+  Inference Efficiency with Heuristic Tree-based Modeling
+VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D
+  Space
+Spacer: Towards Engineered Scientific Inspiration
+OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive
+  Simulation
+UltraMemV2: Memory Networks Scaling to 120B Parameters with Superior
+  Long-Context Learning
+Pixie: Fast and Generalizable Supervised Learning of 3D Physics from
+  Pixels
+Autoregressive Universal Video Segmentation Model
+Wan-S2V: Audio-Driven Cinematic Video Generation
+CineScale: Free Lunch in High-Resolution Cinematic Visual Generation
+FastMesh:Efficient Artistic Mesh Generation via Component Decoupling
+ReportBench: Evaluating Deep Research Agents via Academic Survey Tasks
+ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large
+  Language Models
+MovieCORE: COgnitive REasoning in Movies
+Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning
+  Tasks
+Training Language Model Agents to Find Vulnerabilities with CTF-Dojo
+QueryBandits for Hallucination Mitigation: Exploiting Semantic Features
+  for No-Regret Rewriting
+ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion
+  Models
+Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and
+  Reasoning
+Unraveling the cognitive patterns of Large Language Models through
+  module communities
