@@ -1129,3 +1129,39 @@ Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and
   Reasoning
 Unraveling the cognitive patterns of Large Language Models through
   module communities
+Geophysical evidence of progressive Noachian crustal thickening on Mars revealed by meteorite impacts
+Liquid water might not be the only answer: Evaluating pore-filling materials in the Martian crust
+Reply to Xiao et al.: A wet or dry Martian mid-crust, that is only part of the question
+TreePO: Bridging the Gap of Policy Optimization and Efficacy and
+  Inference Efficiency with Heuristic Tree-based Modeling
+CMPhysBench: A Benchmark for Evaluating Large Language Models in
+  Condensed Matter Physics
+VoxHammer: Training-Free Precise and Coherent 3D Editing in Native 3D
+  Space
+OmniHuman-1.5: Instilling an Active Mind in Avatars via Cognitive
+  Simulation
+UltraMemV2: Memory Networks Scaling to 120B Parameters with Superior
+  Long-Context Learning
+Pixie: Fast and Generalizable Supervised Learning of 3D Physics from
+  Pixels
+DrugReasoner: Interpretable Drug Approval Prediction with a
+  Reasoning-augmented Language Model
+ThinkDial: An Open Recipe for Controlling Reasoning Effort in Large
+  Language Models
+Optimal Sparsity of Mixture-of-Experts Language Models for Reasoning
+  Tasks
+ObjFiller-3D: Consistent Multi-view 3D Inpainting via Video Diffusion
+  Models
+Select to Know: An Internal-External Knowledge Self-Selection Framework
+  for Domain-Specific Question Answering
+QueryBandits for Hallucination Mitigation: Exploiting Semantic Features
+  for No-Regret Rewriting
+Demystifying Scientific Problem-Solving in LLMs by Probing Knowledge and
+  Reasoning
+Steering When Necessary: Flexible Steering Large Language Models with
+  Backtracking
+Forecasting Probability Distributions of Financial Returns with Deep
+  Neural Networks
+Unraveling the cognitive patterns of Large Language Models through
+  module communities
+ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation
