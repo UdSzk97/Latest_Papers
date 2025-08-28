@@ -1190,3 +1190,28 @@ MotionFlux: Efficient Text-Guided Motion Generation through Rectified
   Flow Matching and Preference Alignment
 DeepScholar-Bench: A Live Benchmark and Automated Evaluation for
   Generative Research Synthesis
+A Novel Metric for Assessing Climatological Surface Habitability
+Seismic evidence for a highly heterogeneous martian mantle
+Taking nuclear energy to the Moon
+Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding
+  in Vision-Language-Action Policies
+MIDAS: Multimodal Interactive Digital-human Synthesis via Real-time
+  Autoregressive Video Generation
+Analysing Chain of Thought Dynamics: Active Guidance or Unfaithful
+  Post-hoc Rationalisation?
+CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer
+  Use Agent with Decoupled Reinforcement Learning
+Gaze into the Heart: A Multi-View Video Dataset for rPPG and Health
+  Biomarkers Estimation
+Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered
+  Smartphone Agents
+AudioStory: Generating Long-Form Narrative Audio with Large Language
+  Models
+MotionFlux: Efficient Text-Guided Motion Generation through Rectified
+  Flow Matching and Preference Alignment
+SEAM: Semantically Equivalent Across Modalities Benchmark for
+  Vision-Language Models
+DeepScholar-Bench: A Live Benchmark and Automated Evaluation for
+  Generative Research Synthesis
+Taming the Chaos: Coordinated Autoscaling for Heterogeneous and
+  Disaggregated LLM Inference
