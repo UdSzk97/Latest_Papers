@@ -1165,3 +1165,28 @@ Forecasting Probability Distributions of Financial Returns with Deep
 Unraveling the cognitive patterns of Large Language Models through
   module communities
 ClaimGen-CN: A Large-scale Chinese Dataset for Legal Claim Generation
+Dynamical Instability of Multiplanet Systems and Free-floating Planets
+Geomorphological Features in an Unnamed Impact Crater in Xanthe Terra: Insights into the History of Ice Deposition in Deep Regions of Low Latitudes of Mars
+Self-Rewarding Vision-Language Model via Reasoning Decomposition
+Beyond Transcription: Mechanistic Interpretability in ASR
+Discrete Diffusion VLA: Bringing Discrete Diffusion to Action Decoding
+  in Vision-Language-Action Policies
+CODA: Coordinating the Cerebrum and Cerebellum for a Dual-Brain Computer
+  Use Agent with Decoupled Reinforcement Learning
+MIDAS: Multimodal Interactive Digital-human Synthesis via Real-time
+  Autoregressive Video Generation
+Predicting the Order of Upcoming Tokens Improves Language Modeling
+Gaze into the Heart: A Multi-View Video Dataset for rPPG and Health
+  Biomarkers Estimation
+Diffusion Language Models Know the Answer Before Decoding
+Mind the Third Eye! Benchmarking Privacy Awareness in MLLM-powered
+  Smartphone Agents
+AudioStory: Generating Long-Form Narrative Audio with Large Language
+  Models
+StepWiser: Stepwise Generative Judges for Wiser Reasoning
+Taming the Chaos: Coordinated Autoscaling for Heterogeneous and
+  Disaggregated LLM Inference
+MotionFlux: Efficient Text-Guided Motion Generation through Rectified
+  Flow Matching and Preference Alignment
+DeepScholar-Bench: A Live Benchmark and Automated Evaluation for
+  Generative Research Synthesis
