@@ -1215,3 +1215,31 @@ DeepScholar-Bench: A Live Benchmark and Automated Evaluation for
   Generative Research Synthesis
 Taming the Chaos: Coordinated Autoscaling for Heterogeneous and
   Disaggregated LLM Inference
+Global Effects of Magnetic Anomalies on the Near‐Surface Lunar Plasma Environment
+Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable
+  Text-to-Image Reinforcement Learning
+rStar2-Agent: Agentic Reasoning Technical Report
+USO: Unified Style and Subject-Driven Generation via Disentangled and
+  Reward Learning
+AWorld: Orchestrating the Training Recipe for Agentic AI
+TCIA: A Task-Centric Instruction Augmentation Method for Instruction
+  Finetuning
+Mixture of Contexts for Long Video Generation
+CogVLA: Cognition-Aligned Vision-Language-Action Model via
+  Instruction-Driven Routing & Sparsification
+MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World
+  Tasks via MCP Servers
+Turning the Spell Around: Lightweight Alignment Amplification via
+  Rank-One Safety Injection
+Persuasion Dynamics in LLMs: Investigating Robustness and Adaptability
+  in Knowledge and Safety with DuET-PD
+OneReward: Unified Mask-Guided Image Generation via Multi-Task Human
+  Preference Learning
+Dress&Dance: Dress up and Dance as You Like It - Technical Preview
+OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn
+  Dialogue with Large Language Models
+FakeParts: a New Family of AI-Generated DeepFakes
+Provable Benefits of In-Tool Learning for Large Language Models
+Multi-View 3D Point Tracking
+ROSE: Remove Objects with Side Effects in Videos
+Collaborative Multi-Modal Coding for High-Quality 3D Generation
