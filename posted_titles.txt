@@ -1264,3 +1264,24 @@ OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn
   Dialogue with Large Language Models
 Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and
   Voice
+Injections of Multi‐MeV Electrons in the Magnetosphere of Jupiter
+Pref-GRPO: Pairwise Preference Reward-based GRPO for Stable
+  Text-to-Image Reinforcement Learning
+USO: Unified Style and Subject-Driven Generation via Disentangled and
+  Reward Learning
+MCP-Bench: Benchmarking Tool-Using LLM Agents with Complex Real-World
+  Tasks via MCP Servers
+TCIA: A Task-Centric Instruction Augmentation Method for Instruction
+  Finetuning
+Turning the Spell Around: Lightweight Alignment Amplification via
+  Rank-One Safety Injection
+OneReward: Unified Mask-Guided Image Generation via Multi-Task Human
+  Preference Learning
+Persuasion Dynamics in LLMs: Investigating Robustness and Adaptability
+  in Knowledge and Safety with DuET-PD
+CogVLA: Cognition-Aligned Vision-Language-Action Model via
+  Instruction-Driven Routing & Sparsification
+OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn
+  Dialogue with Large Language Models
+Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and
+  Voice
