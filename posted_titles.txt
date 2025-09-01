@@ -1369,3 +1369,28 @@ AHELM: A Holistic Evaluation of Audio-Language Models
 HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data
   for Mobile Dexterous Manipulation
 CLIPSym: Delving into Symmetry Detection with CLIP
+The Psyche Gamma-Ray and Neutron Spectrometer
+R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs
+  via Bi-Mode Annealing and Reinforce Learning
+EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for
+  General Robot Control
+A.S.E: A Repository-Level Benchmark for Evaluating Security in
+  AI-Generated Code
+A Survey of Scientific Large Language Models: From Data Foundations to
+  Agent Frontiers
+TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head
+  Synthesis
+Think in Games: Learning to Reason in Games via Reinforcement Learning
+  with Large Language Models
+TiKMiX: Take Data Influence into Dynamic Mixture for Language Model
+  Pre-training
+Model-Task Alignment Drives Distinct RL Outcomes
+HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data
+  for Mobile Dexterous Manipulation
+Mimicking the Physicist's Eye:A VLM-centric Approach for Physics Formula
+  Discovery
+Deep Residual Echo State Networks: exploring residual orthogonal
+  connections in untrained Recurrent Neural Networks
+Quantization Robustness to Input Degradations for Object Detection
+EduRABSA: An Education Review Dataset for Aspect-based Sentiment
+  Analysis Tasks
