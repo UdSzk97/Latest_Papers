@@ -1345,3 +1345,27 @@ OnGoal: Tracking and Visualizing Conversational Goals in Multi-Turn
   Dialogue with Large Language Models
 Social-MAE: A Transformer-Based Multimodal Autoencoder for Face and
   Voice
+TESSELLATE: Piecing Together the Variable Sky with TESS
+Tools for High-precision Photometry from Wide-field Color Images
+R-4B: Incentivizing General-Purpose Auto-Thinking Capability in MLLMs
+  via Bi-Mode Annealing and Reinforce Learning
+EmbodiedOneVision: Interleaved Vision-Text-Action Pretraining for
+  General Robot Control
+A.S.E: A Repository-Level Benchmark for Evaluating Security in
+  AI-Generated Code
+Droplet3D: Commonsense Priors from Videos Facilitate 3D Generation
+TalkVid: A Large-Scale Diversified Dataset for Audio-Driven Talking Head
+  Synthesis
+UItron: Foundational GUI Agent with Advanced Perception and Planning
+Think in Games: Learning to Reason in Games via Reinforcement Learning
+  with Large Language Models
+TiKMiX: Take Data Influence into Dynamic Mixture for Language Model
+  Pre-training
+Efficient Code Embeddings from Code Generation Models
+A Survey of Scientific Large Language Models: From Data Foundations to
+  Agent Frontiers
+Morae: Proactively Pausing UI Agents for User Choices
+AHELM: A Holistic Evaluation of Audio-Language Models
+HERMES: Human-to-Robot Embodied Learning from Multi-Source Motion Data
+  for Mobile Dexterous Manipulation
+CLIPSym: Delving into Symmetry Detection with CLIP
