@@ -1394,3 +1394,20 @@ Deep Residual Echo State Networks: exploring residual orthogonal
 Quantization Robustness to Input Degradations for Object Detection
 EduRABSA: An Education Review Dataset for Aspect-based Sentiment
   Analysis Tasks
+TrES-1 b: A Case Study in Detecting Secular Evolution of Exoplanet Orbits
+A Search for Subdwarf B Binaries Using Pulsation Timing from TESS
+OWLS. I. The Olin Wilson Legacy Survey
+Comparison of three proton irradiated meteorite samples to better understand the solar wind‐based space weathering
+Regionalized Formation and Recycling of New Venusian Crust at Chasmata
+PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic
+  Reasoning
+T2R-bench: A Benchmark for Generating Article-Level Reports from Real
+  World Industrial Tables
+No Label Left Behind: A Unified Surface Defect Detection Model for all
+  Supervision Regimes
+UI-Level Evaluation of ALLaM 34B: Measuring an Arabic-Centric LLM via
+  HUMAIN Chat
+How Can Input Reformulation Improve Tool Usage Accuracy in a Complex
+  Dynamic Environment? A Study on τ-bench
+From reactive to cognitive: brain-inspired spatial intelligence for
+  embodied agents
