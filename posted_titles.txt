@@ -1411,3 +1411,20 @@ How Can Input Reformulation Improve Tool Usage Accuracy in a Complex
   Dynamic Environment? A Study on τ-bench
 From reactive to cognitive: brain-inspired spatial intelligence for
   embodied agents
+Assessing Robustness and Bias in 1D Retrievals of 3D Global Circulation Models at High Spectral Resolution: A WASP-76 b Simulation Case Study in Emission
+High-pressure and temperature investigation of silicic acid ± water with implications for the ice polymorphism, lunar moganite and diamonds growth media
+Holistic Mapping of the Present-day Martian Seasonal CO2 Frost. I. Frost Detection within Global Visible, Thermal, and Spectral Data Sets
+PVPO: Pre-Estimated Value-Based Policy Optimization for Agentic
+  Reasoning
+T2R-bench: A Benchmark for Generating Article-Level Reports from Real
+  World Industrial Tables
+How Can Input Reformulation Improve Tool Usage Accuracy in a Complex
+  Dynamic Environment? A Study on τ-bench
+No Label Left Behind: A Unified Surface Defect Detection Model for all
+  Supervision Regimes
+UI-Level Evaluation of ALLaM 34B: Measuring an Arabic-Centric LLM via
+  HUMAIN Chat
+From reactive to cognitive: brain-inspired spatial intelligence for
+  embodied agents
+Democracy-in-Silico: Institutional Design as Alignment in AI-Governed
+  Polities
