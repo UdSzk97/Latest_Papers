@@ -1428,3 +1428,60 @@ From reactive to cognitive: brain-inspired spatial intelligence for
   embodied agents
 Democracy-in-Silico: Institutional Design as Alignment in AI-Governed
   Polities
+Variations in the volatile-driven activity of comet C/2017 K2 (PanSTARRS) revealed by long-term multiwavelength observations
+Tidal Synchronization of TESS Eclipsing Binaries
+The Response of Planetary Atmospheres to the Impact of Icy Comets. II. Exo-Earth Analogs
+Statistical Analysis of Ion Properties in the Martian Magnetosheath Based on MAVEN Observations: A Comparison of Core and Total Ion Populations
+An Explosive Leakage of Heavy Ions From Martian Crustal Magnetic Anomalies
+Earth Wind‐Driven Formation of Hematite on the Lunar Surface
+The Landscape of Agentic Reinforcement Learning for LLMs: A Survey
+SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn
+  Tool-Integrated Reasoning
+UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn
+  Reinforcement Learning
+ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long
+  Video Understanding
+LLaVA-Critic-R1: Your Critic Model is Secretly a Strong Policy Model
+POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models
+  for Document Conversion
+VerlTool: Towards Holistic Agentic Reinforcement Learning with Tool Use
+Baichuan-M2: Scaling Medical Capability with Large Verifier System
+Kwai Keye-VL 1.5 Technical Report
+Implicit Actor Critic Coupling via a Supervised Learning Framework for
+  RLVR
+DCPO: Dynamic Clipping Policy Optimization
+Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task
+  Arithmetic
+GenCompositor: Generative Video Compositing with Diffusion Transformer
+Jointly Reinforcing Diversity and Quality in Language Model Generations
+OpenVision 2: A Family of Generative Pretrained Visual Encoders for
+  Multimodal Learning
+M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via
+  Self-Supervision
+Attributes as Textual Genes: Leveraging LLMs as Genetic Algorithm
+  Simulators for Conditional Synthetic Data Generation
+The Gold Medals in an Empty Room: Diagnosing Metalinguistic Reasoning in
+  LLMs with Camlang
+Fantastic Pretraining Optimizers and Where to Find Them
+Benchmarking Optimizers for Large Language Model Pretraining
+Universal Deep Research: Bring Your Own Model and Strategy
+FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in
+  Diverse Adventure Games
+Discrete Noise Inversion for Next-scale Autoregressive Text-based Image
+  Editing
+MobiAgent: A Systematic Framework for Customizable Mobile Agents
+MedDINOv3: How to adapt vision foundation models for medical image
+  segmentation?
+AMBEDKAR-A Multi-level Bias Elimination through a Decoding Approach with
+  Knowledge Augmentation for Robust Constitutional Alignment of Language Models
+Improving Large Vision and Language Models by Learning from a Panel of
+  Peers
+ViSTA-SLAM: Visual SLAM with Symmetric Two-view Association
+Towards More Diverse and Challenging Pre-training for Point Cloud
+  Learning: Self-Supervised Cross Reconstruction with Decoupled Views
+SQL-of-Thought: Multi-agentic Text-to-SQL with Guided Error Correction
+C-DiffDet+: Fusing Global Scene Context with Generative Denoising for
+  High-Fidelity Object Detection
+Metis: Training Large Language Models with Advanced Low-Bit Quantization
+FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable
+  Diffusion Models
