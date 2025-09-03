@@ -1485,3 +1485,52 @@ C-DiffDet+: Fusing Global Scene Context with Generative Denoising for
 Metis: Training Large Language Models with Advanced Low-Bit Quantization
 FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable
   Diffusion Models
+Seismic detection of a 600-km solid inner core in Mars
+Marsquakes indicate that the inner core of the red planet is solid, not liquid
+The Surfaces of Small to Midsize Plutinos: Evidence of an Association between Inclination and Surface Type
+Parameter Space Exploration of Low-to-moderate-temperature Hydrothermal Systems on Ocean Worlds Using a Monte Carlo Framework
+Remote Sensing, Vol. 17, Pages 3072: Geomorphological Evidence of Ice Activity on Mars Surface at Mid-Latitudes
+Volcanic emission of reduced sulfur species shaped the climate of early Mars
+UI-TARS-2 Technical Report: Advancing GUI Agent with Multi-Turn
+  Reinforcement Learning
+SimpleTIR: End-to-End Reinforcement Learning for Multi-Turn
+  Tool-Integrated Reasoning
+ELV-Halluc: Benchmarking Semantic Aggregation Hallucinations in Long
+  Video Understanding
+POINTS-Reader: Distillation-Free Adaptation of Vision-Language Models
+  for Document Conversion
+Reasoning Vectors: Transferring Chain-of-Thought Capabilities via Task
+  Arithmetic
+Implicit Actor Critic Coupling via a Supervised Learning Framework for
+  RLVR
+Gated Associative Memory: A Parallel O(N) Architecture for Efficient
+  Sequence Modeling
+DynaGuard: A Dynamic Guardrail Model With User-Defined Policies
+OpenVision 2: A Family of Generative Pretrained Visual Encoders for
+  Multimodal Learning
+Attributes as Textual Genes: Leveraging LLMs as Genetic Algorithm
+  Simulators for Conditional Synthetic Data Generation
+FlashAdventure: A Benchmark for GUI Agents Solving Full Story Arcs in
+  Diverse Adventure Games
+M3Ret: Unleashing Zero-shot Multimodal Medical Image Retrieval via
+  Self-Supervision
+The Gold Medals in an Empty Room: Diagnosing Metalinguistic Reasoning in
+  LLMs with Camlang
+Discrete Noise Inversion for Next-scale Autoregressive Text-based Image
+  Editing
+AMBEDKAR-A Multi-level Bias Elimination through a Decoding Approach with
+  Knowledge Augmentation for Robust Constitutional Alignment of Language Models
+Stairway to Fairness: Connecting Group and Individual Fairness
+On the Theoretical Limitations of Embedding-Based Retrieval
+Flavors of Moonshine: Tiny Specialized ASR Models for Edge Devices
+MedDINOv3: How to adapt vision foundation models for medical image
+  segmentation?
+Flaw or Artifact? Rethinking Prompt Sensitivity in Evaluating LLMs
+Improving Large Vision and Language Models by Learning from a Panel of
+  Peers
+Towards More Diverse and Challenging Pre-training for Point Cloud
+  Learning: Self-Supervised Cross Reconstruction with Decoupled Views
+C-DiffDet+: Fusing Global Scene Context with Generative Denoising for
+  High-Fidelity Object Detection
+FastFit: Accelerating Multi-Reference Virtual Try-On via Cacheable
+  Diffusion Models
