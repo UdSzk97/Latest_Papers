@@ -17,7 +17,8 @@ RSS_FEEDS = [
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9402", # JGR: Space Physics
     "https://rss.sciencedirect.com/publication/science/00167037", # GCA
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007", # GRL
-    "https://api.crossref.org/works?filter=container-title:Icarus&sort=published&order=desc&rows=10", # Icarus
+    "https://rss.sciencedirect.com/publication/science/00191035", # Icarus
+    "https://api.crossref.org/works?filter=container-title:Icarus&sort=published&order=desc&rows=10", # Icarus (old version, not working well??)
     "https://onlinelibrary.wiley.com/feed/19455100/most-recent" # MaPS
     "https://academic.oup.com/rss/site_5326/3192.xml", # MNRAS
     "https://www.nature.com/nature.rss", # Nature
