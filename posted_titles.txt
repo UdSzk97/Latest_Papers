@@ -1564,3 +1564,14 @@ Mixture of Global and Local Experts with Diffusion Transformer for
   Controllable Face Generation
 MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware
   Alignment and Disentanglement
+LMEnt: A Suite for Analyzing Knowledge in Language Models from
+  Pretraining Data to Representations
+MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware
+  Alignment and Disentanglement
+Mixture of Global and Local Experts with Diffusion Transformer for
+  Controllable Face Generation
+Planning with Reasoning using Vision Language World Model
+Manipulation as in Simulation: Enabling Accurate Geometry Perception in
+  Robots
+SATQuest: A Verifier for Logical Reasoning Evaluation and Reinforcement
+  Fine-Tuning of LLMs
