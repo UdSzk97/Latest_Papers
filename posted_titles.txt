@@ -1557,3 +1557,10 @@ Robix: A Unified Model for Robot Interaction, Reasoning and Planning
 Open Data Synthesis For Deep Research
 MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware
   Alignment and Disentanglement
+Evidence for polycyclic aromatic hydrocarbons detected in sulfates at Jezero crater by the Perseverance rover
+LMEnt: A Suite for Analyzing Knowledge in Language Models from
+  Pretraining Data to Representations
+Mixture of Global and Local Experts with Diffusion Transformer for
+  Controllable Face Generation
+MOSAIC: Multi-Subject Personalized Generation via Correspondence-Aware
+  Alignment and Disentanglement
