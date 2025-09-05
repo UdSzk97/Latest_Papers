@@ -1594,3 +1594,16 @@ Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
 Delta Activations: A Representation for Finetuned Large Language Models
 False Sense of Security: Why Probing-based Malicious Input Detection
   Fails to Generalize
+A comprehensive study of comet 67P/Churyumov-Gerasimenko in the 2021/2022 apparition. I. Photometry, spectroscopy, morphology
+DeepResearch Arena: The First Exam of LLMs' Research Abilities via
+  Seminar-Grounded Tasks
+Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow
+  Real Instructions?
+Video-MTR: Reinforced Multi-Turn Reasoning for Long Video Understanding
+NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware
+  Embeddings
+Loong: Synthesize Long Chain-of-Thoughts at Scale through Verifiers
+Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
+  Vector Drawings
+False Sense of Security: Why Probing-based Malicious Input Detection
+  Fails to Generalize
