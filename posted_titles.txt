@@ -1575,3 +1575,22 @@ Manipulation as in Simulation: Enabling Accurate Geometry Perception in
   Robots
 SATQuest: A Verifier for Logical Reasoning Evaluation and Reinforcement
   Fine-Tuning of LLMs
+A collisional history of the L chondrite parent bodies
+Remote Sensing, Vol. 17, Pages 3097: A Generative Adversarial Network for Pixel-Scale Lunar DEM Generation from Single High-Resolution Image and Low-Resolution DEM Based on Terrain Self-Similarity Constraint
+From Editor to Dense Geometry Estimator
+Towards a Unified View of Large Language Model Post-Training
+Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow
+  Real Instructions?
+Drivel-ology: Challenging LLMs with Interpreting Nonsense with Depth
+DeepResearch Arena: The First Exam of LLMs' Research Abilities via
+  Seminar-Grounded Tasks
+Transition Models: Rethinking the Generative Learning Objective
+NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware
+  Embeddings
+Few-step Flow for 3D Generation via Marginal-Data Transport Distillation
+Durian: Dual Reference-guided Portrait Animation with Attribute Transfer
+Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
+  Vector Drawings
+Delta Activations: A Representation for Finetuned Large Language Models
+False Sense of Security: Why Probing-based Malicious Input Detection
+  Fails to Generalize
