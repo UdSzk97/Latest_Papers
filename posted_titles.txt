@@ -1631,3 +1631,15 @@ Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
   Vector Drawings
 False Sense of Security: Why Probing-based Malicious Input Detection
   Fails to Generalize
+Mass‐Independent Fractionation of Mercury Stable Isotopes Reveals Atmospheric Transport Impact on Particulate‐Bound Mercury
+Characterization of the surface of the Ina irregular Mare patch: A synthesis of lunar optical data, including Danuri polarimetric measurements
+DeepResearch Arena: The First Exam of LLMs' Research Abilities via
+  Seminar-Grounded Tasks
+Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow
+  Real Instructions?
+NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware
+  Embeddings
+Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
+  Vector Drawings
+False Sense of Security: Why Probing-based Malicious Input Detection
+  Fails to Generalize
