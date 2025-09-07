@@ -1643,3 +1643,16 @@ Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
   Vector Drawings
 False Sense of Security: Why Probing-based Malicious Input Detection
   Fails to Generalize
+Holocene climate driving spatially variable mercury input to an Arctic fjord environment
+Copper and zinc isotopic variation in Apollo 17 double drive tube 73001/2 reveals space weathering history of lunar regolith
+Petit-spot hydrothermal systems simulated: Fluid evolution, chemical fluxes, and chemoautotrophic habitability
+Inverse IFEval: Can LLMs Unlearn Stubborn Training Conventions to Follow
+  Real Instructions?
+DeepResearch Arena: The First Exam of LLMs' Research Abilities via
+  Seminar-Grounded Tasks
+NER Retriever: Zero-Shot Named Entity Retrieval with Type-Aware
+  Embeddings
+Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
+  Vector Drawings
+False Sense of Security: Why Probing-based Malicious Input Detection
+  Fails to Generalize
