@@ -1656,3 +1656,19 @@ Drawing2CAD: Sequence-to-Sequence Learning for CAD Generation from
   Vector Drawings
 False Sense of Security: Why Probing-based Malicious Input Detection
   Fails to Generalize
+Predicting Exoplanet Occurrence Using Association Analysis
+Requirements for Joint Orbital Characterization of Cold Giants and Habitable Worlds with Habitable Worlds Observatory
+Why Language Models Hallucinate
+Symbolic Graphics Programming with Large Language Models
+WildScore: Benchmarking MLLMs in-the-Wild Symbolic Music Reasoning
+LatticeWorld: A Multimodal Large Language Model-Empowered Framework for
+  Interactive Complex World Generation
+LuxDiT: Lighting Estimation with Video Diffusion Transformer
+WinT3R: Window-Based Streaming Reconstruction with Camera Token Pool
+On Robustness and Reliability of Benchmark-Based Evaluation of LLMs
+MedVista3D: Vision-Language Modeling for Reducing Diagnostic Errors in
+  3D CT Disease Detection, Understanding and Reporting
+U-ARM : Ultra low-cost general teleoperation interface for robot
+  manipulation
+Behavioral Fingerprinting of Large Language Models
+Bootstrapping Task Spaces for Self-Improvement
