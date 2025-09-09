@@ -1680,3 +1680,36 @@ MedVista3D: Vision-Language Modeling for Reducing Diagnostic Errors in
   3D CT Disease Detection, Understanding and Reporting
 U-ARM : Ultra low-cost general teleoperation interface for robot
   manipulation
+Extremely Tenuous, Dusty Terrestrial Atmospheres Remain Stable against Global Collapse: An Argument for Arid Planet Habitability in the Trappist-1 System
+Formation of Organic Hazes in CO2-rich Sub-Neptune Atmospheres within the Graphite Stability Regime
+In situ Sr‐Nd‐Pb isotopes of lunar basaltic meteorite NWA 14526: Implications for the generation of young mare basalts
+Löpönvaara: A new phosphorus‐rich iron meteorite from Finland
+Properties of novel LX lunar regolith simulant system - the base simulants: Part 2
+The Induced Magnetosphere of Mars and the Near-Mars Environment as Revealed by Mars Express
+Reverse-Engineered Reasoning for Open-Ended Generation
+WebExplorer: Explore and Evolve for Training Long-Horizon Web Agents
+Revolutionizing Reinforcement Learning Framework for Diffusion Large
+  Language Models
+Reinforced Visual Perception with Tools
+Does DINOv3 Set a New Medical Vision Standard?
+Focusing by Contrastive Attention: Enhancing VLMs' Visual Reasoning
+Reinforcement Learning Foundations for Deep Research Systems: A Survey
+UniVerse-1: Unified Audio-Video Generation via Stitching of Experts
+Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage,
+  but Not Direct the Play?
+Interleaving Reasoning for Better Text-to-Image Generation
+Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI
+  Agents
+Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM
+  Step-Provers
+R^textbf{2AI}: Towards Resistant and Resilient AI in an
+  Evolving World
+Llama-GENBA-10B: A Trilingual Large Language Model for German, English
+  and Bavarian
+Test-Time Scaling in Reasoning Models Is Not Effective for
+  Knowledge-Intensive Tasks Yet
+MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI
+  Agents
+D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning
+Saturation-Driven Dataset Generation for LLM Mathematical Reasoning in
+  the TPTP Ecosystem
