@@ -1713,3 +1713,31 @@ MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI
 D-HUMOR: Dark Humor Understanding via Multimodal Open-ended Reasoning
 Saturation-Driven Dataset Generation for LLM Mathematical Reasoning in
   the TPTP Ecosystem
+Additional JWST/NIRSpec Transits of the Rocky M Dwarf Exoplanet GJ 1132 b Reveal a Featureless Spectrum
+Excess <sup>40</sup>Ar in Chang'e-5 lunar soils suggests a possible origin from Earth wind
+Revolutionizing Reinforcement Learning Framework for Diffusion Large
+  Language Models
+Paper2Agent: Reimagining Research Papers As Interactive and Reliable AI
+  Agents
+DivMerge: A divergence-based model merging method for multi-tasking
+Easier Painting Than Thinking: Can Text-to-Image Models Set the Stage,
+  but Not Direct the Play?
+Guided Decoding and Its Critical Role in Retrieval-Augmented Generation
+Scaling up Multi-Turn Off-Policy RL and Multi-Agent Tree Search for LLM
+  Step-Provers
+Test-Time Scaling in Reasoning Models Is Not Effective for
+  Knowledge-Intensive Tasks Yet
+R^textbf{2AI}: Towards Resistant and Resilient AI in an
+  Evolving World
+Llama-GENBA-10B: A Trilingual Large Language Model for German, English
+  and Bavarian
+MAS-Bench: A Unified Benchmark for Shortcut-Augmented Hybrid Mobile GUI
+  Agents
+Saturation-Driven Dataset Generation for LLM Mathematical Reasoning in
+  the TPTP Ecosystem
+DCReg: Decoupled Characterization for Efficient Degenerate LiDAR
+  Registration
+Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing
+  via Bidirectional Warping
+Singular Value Few-shot Adaptation of Vision-Language Models
+Mechanistic interpretability for steering vision-language-action models
