@@ -1741,3 +1741,29 @@ Inpaint4Drag: Repurposing Inpainting Models for Drag-Based Image Editing
   via Bidirectional Warping
 Singular Value Few-shot Adaptation of Vision-Language Models
 Mechanistic interpretability for steering vision-language-action models
+Cold and Hot Electron Populations Observed by Juno‐JADE in the Jovian Magnetodisc
+Radial Evolution of Electron Pitch Angle Distributions in the Inner Part of Jovian Magnetosphere
+Identifying Fast Plasma Injections in Data From Saturn
+Trace element analyses of plagioclase from troctolite 76535 and implications for the petrogenesis of the lunar highlands Mg‐suite
+Century‐scale effect of climate change on meteorite falls
+Parallel-R1: Towards Parallel Thinking via Reinforcement Learning
+Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual
+  Search
+Visual Representation Alignment for Multimodal Large Language Models
+Reconstruction Alignment Improves Unified Multimodal Models
+UMO: Scaling Multi-Identity Consistency for Image Customization via
+  Matching Reward
+Curia: A Multi-Modal Foundation Model for Radiology
+F1: A Vision-Language-Action Model Bridging Understanding and Generation
+  to Actions
+Staying in the Sweet Spot: Responsive Reasoning Evolution via
+  Capability-Adaptive Hint Scaffolding
+Language Self-Play For Data-Free Training
+Causal Attention with Lookahead Keys
+SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric
+  Knowledge
+Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human
+  Preference
+Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with
+  Quantization-Aware Scheduling
+ΔL Normalization: Rethink Loss Aggregation in RLVR
