@@ -1767,3 +1767,28 @@ Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human
 Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with
   Quantization-Aware Scheduling
 ΔL Normalization: Rethink Loss Aggregation in RLVR
+Gravity-sensitive Spectral Indices in Ultracool Dwarfs: Investigating Correlations with Metallicity and Planet Occurrence Using SpeX and Fire Observations
+Sound velocities of Anorthite at high pressures and temperatures: Implications for estimating porosity in upper lunar crust
+Late fluid flow in a primitive asteroid revealed by Lu–Hf isotopes in Ryugu
+Redox-driven mineral and organic associations in Jezero Crater, Mars
+Mystery Martian minerals hint at the planet’s complex geochemical past
+Properties of novel LX lunar regolith simulant system — the base simulants: Part 2
+Remote Sensing, Vol. 17, Pages 3139: Crater-MASN: A Multi-Scale Adaptive Semantic Network for Efficient Crater Detection
+Mini-o3: Scaling Up Reasoning Patterns and Interaction Turns for Visual
+  Search
+UMO: Scaling Multi-Identity Consistency for Image Customization via
+  Matching Reward
+F1: A Vision-Language-Action Model Bridging Understanding and Generation
+  to Actions
+Staying in the Sweet Spot: Responsive Reasoning Evolution via
+  Capability-Adaptive Hint Scaffolding
+Emergent Hierarchical Reasoning in LLMs through Reinforcement Learning
+SimpleQA Verified: A Reliable Factuality Benchmark to Measure Parametric
+  Knowledge
+Directly Aligning the Full Diffusion Trajectory with Fine-Grained Human
+  Preference
+Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with
+  Quantization-Aware Scheduling
+Benchmarking Information Retrieval Models on Complex Retrieval Tasks
+From Noise to Narrative: Tracing the Origins of Hallucinations in
+  Transformers
