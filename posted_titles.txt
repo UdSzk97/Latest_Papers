@@ -1809,3 +1809,13 @@ P3-SAM: Native 3D Part Segmentation
 EnvX: Agentize Everything with Agentic AI
 HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI
   Assistants
+MRO-MCS observed cold spots during the Martian year 34 global dust storm
+Absorption Coefficients of Condensed O2: Application to Ganymede
+AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making
+  through Multi-Turn Reinforcement Learning
+<think> So let's replace this phrase with insult... </think> Lessons
+  learned from generation of toxic texts with LLMs
+The Majority is not always right: RL training for solution aggregation
+Statistical Methods in Generative AI
+HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI
+  Assistants
