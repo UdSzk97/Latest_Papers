@@ -1792,3 +1792,20 @@ Q-Sched: Pushing the Boundaries of Few-Step Diffusion Models with
 Benchmarking Information Retrieval Models on Complex Retrieval Tasks
 From Noise to Narrative: Tracing the Origins of Hallucinations in
   Transformers
+A New Approach to Compiling Exoatmospheric Target Lists and Quantifying the Ground-based Resources Needed to Vet Them
+Broadband Spectral Modeling of Prompt Emission from Gamma-Ray Bursts Observed by the Transiting Exoplanet Survey Satellite
+On the Origin and Dynamical Evolution of Jupiter’s Moon Amalthea
+Bennu up close and mineralogical
+Survivability of Amino Acids in Lunar Soil
+A Survey of Reinforcement Learning for Large Reasoning Models
+RewardDance: Reward Scaling in Visual Generation
+3D and 4D World Modeling: A Survey
+AgentGym-RL: Training LLM Agents for Long-Horizon Decision Making
+  through Multi-Turn Reinforcement Learning
+Hunyuan-MT Technical Report
+P3-SAM: Native 3D Part Segmentation
+<think> So let's replace this phrase with insult... </think> Lessons
+  learned from generation of toxic texts with LLMs
+EnvX: Agentize Everything with Agentic AI
+HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI
+  Assistants
