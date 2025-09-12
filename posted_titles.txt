@@ -1850,3 +1850,47 @@ The Choice of Divergence: A Neglected Key to Mitigating Diversity
   Collapse in Reinforcement Learning with Verifiable Reward
 Reasoning Introduces New Poisoning Attacks Yet Makes Them More
   Complicated
+First Results from WINERED: Detection of Emission Lines from Neutral Iron and a Combined Set of Trace Species on the Dayside of WASP-189 b
+Large volcanism, enhanced oceanic productivity, and efficient organic matter burial during Mesoproterozoic oxygenation events: Insights from mercury and carbon isotopes in the Jixian Group, North China Craton
+MICROorganisms under simulated ICY moon environments: supporting Solar System exploration (MICRO ICY project)
+VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action
+  Model
+HuMo: Human-Centric Video Generation via Collaborative Multi-Modal
+  Conditioning
+EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for
+  Speech-to-Speech LLMs
+Kling-Avatar: Grounding Multimodal Instructions for Cascaded
+  Long-Duration Avatar Animation Synthesis
+Harnessing Uncertainty: Entropy-Modulated Policy Gradients for
+  Long-Horizon LLM Agents
+FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning
+  Dataset and Comprehensive Benchmark
+Can Understanding and Generation Truly Benefit Together -- or Just
+  Coexist?
+MachineLearningLM: Continued Pretraining Language Models on Millions of
+  Synthetic Tabular Prediction Tasks Scales In-Context ML
+AU-Harness: An Open-Source Toolkit for Holistic Evaluation of Audio LLMs
+Visual Programmability: A Guide for Code-as-Thought in Chart
+  Understanding
+mmBERT: A Modern Multilingual Encoder with Annealed Language Learning
+Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust
+  Text-based Person Retrieval
+Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View
+  Scenes
+OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and
+  Embodiment-aware Reasoning
+LoCoBench: A Benchmark for Long-Context Large Language Models in Complex
+  Software Engineering
+ObjectReact: Learning Object-Relative Control for Visual Navigation
+The Choice of Divergence: A Neglected Key to Mitigating Diversity
+  Collapse in Reinforcement Learning with Verifiable Reward
+Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on
+  Open & Industry Data
+Modality Alignment with Multi-scale Bilateral Attention for Multimodal
+  Recommendation
+All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated
+  Vulnerability Detection and Patching
+Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset
+  for Panoramic X-ray Analysis
+Reasoning Introduces New Poisoning Attacks Yet Makes Them More
+  Complicated
