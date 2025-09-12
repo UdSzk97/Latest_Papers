@@ -1819,3 +1819,34 @@ The Majority is not always right: RL training for solution aggregation
 Statistical Methods in Generative AI
 HumanAgencyBench: Scalable Evaluation of Human Agency Support in AI
   Assistants
+Ionic emission from and activity evolution in comet C/2020 F3 (NEOWISE): Insights from long-slit spectroscopy and photometry
+Predicting Solar Energetic Particles: Solar Storm Watch - Preparing for Space Odyssey
+HuMo: Human-Centric Video Generation via Collaborative Multi-Modal
+  Conditioning
+EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for
+  Speech-to-Speech LLMs
+SimpleVLA-RL: Scaling VLA Training via Reinforcement Learning
+Kling-Avatar: Grounding Multimodal Instructions for Cascaded
+  Long-Duration Avatar Animation Synthesis
+Harnessing Uncertainty: Entropy-Modulated Policy Gradients for
+  Long-Horizon LLM Agents
+VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action
+  Model
+FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning
+  Dataset and Comprehensive Benchmark
+Can Understanding and Generation Truly Benefit Together -- or Just
+  Coexist?
+SpatialVID: A Large-Scale Video Dataset with Spatial Annotations
+Visual Programmability: A Guide for Code-as-Thought in Chart
+  Understanding
+Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust
+  Text-based Person Retrieval
+2D Gaussian Splatting with Semantic Alignment for Image Inpainting
+LoCoBench: A Benchmark for Long-Context Large Language Models in Complex
+  Software Engineering
+OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and
+  Embodiment-aware Reasoning
+The Choice of Divergence: A Neglected Key to Mitigating Diversity
+  Collapse in Reinforcement Learning with Verifiable Reward
+Reasoning Introduces New Poisoning Attacks Yet Makes Them More
+  Complicated
