@@ -1934,3 +1934,42 @@ All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated
   Vulnerability Detection and Patching
 Reasoning Introduces New Poisoning Attacks Yet Makes Them More
   Complicated
+Using carbon isotopes to trace the origin of volatiles on Earth and Mars
+VLA-Adapter: An Effective Paradigm for Tiny-Scale Vision-Language-Action
+  Model
+HuMo: Human-Centric Video Generation via Collaborative Multi-Modal
+  Conditioning
+EchoX: Towards Mitigating Acoustic-Semantic Gap via Echo Training for
+  Speech-to-Speech LLMs
+MachineLearningLM: Continued Pretraining Language Models on Millions of
+  Synthetic Tabular Prediction Tasks Scales In-Context ML
+Kling-Avatar: Grounding Multimodal Instructions for Cascaded
+  Long-Duration Avatar Animation Synthesis
+Harnessing Uncertainty: Entropy-Modulated Policy Gradients for
+  Long-Horizon LLM Agents
+FLUX-Reason-6M & PRISM-Bench: A Million-Scale Text-to-Image Reasoning
+  Dataset and Comprehensive Benchmark
+Can Understanding and Generation Truly Benefit Together -- or Just
+  Coexist?
+Visual Programmability: A Guide for Code-as-Thought in Chart
+  Understanding
+Spatial Reasoning with Vision-Language Models in Ego-Centric Multi-View
+  Scenes
+Gradient-Attention Guided Dual-Masking Synergetic Framework for Robust
+  Text-based Person Retrieval
+LoCoBench: A Benchmark for Long-Context Large Language Models in Complex
+  Software Engineering
+OmniEVA: Embodied Versatile Planner via Task-Adaptive 3D-Grounded and
+  Embodiment-aware Reasoning
+Towards Better Dental AI: A Multimodal Benchmark and Instruction Dataset
+  for Panoramic X-ray Analysis
+The Choice of Divergence: A Neglected Key to Mitigating Diversity
+  Collapse in Reinforcement Learning with Verifiable Reward
+Cross-Domain Evaluation of Transformer-Based Vulnerability Detection on
+  Open & Industry Data
+Modality Alignment with Multi-scale Bilateral Attention for Multimodal
+  Recommendation
+All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated
+  Vulnerability Detection and Patching
+Reasoning Introduces New Poisoning Attacks Yet Makes Them More
+  Complicated
