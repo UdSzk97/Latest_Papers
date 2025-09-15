@@ -2052,3 +2052,28 @@ All You Need Is A Fuzzing Brain: An LLM-Powered System for Automated
   Vulnerability Detection and Patching
 Reasoning Introduces New Poisoning Attacks Yet Makes Them More
   Complicated
+The Watery Atmosphere of HD 209458 b Revealed by Joint K- and L-band High-resolution Spectroscopy
+On the Ordering of Exoplanet Systems
+Perseverance rover finds evidence for organics preserved in sulfates on Mars
+IntrEx: A Dataset for Modeling Engagement in Educational Conversations
+The Illusion of Diminishing Returns: Measuring Long Horizon Execution in
+  LLMs
+X-Part: high fidelity and structure coherent shape decomposition
+InfGen: A Resolution-Agnostic Paradigm for Scalable Image Synthesis
+HANRAG: Heuristic Accurate Noise-resistant Retrieval-Augmented
+  Generation for Multi-hop Question Answering
+VStyle: A Benchmark for Voice Style Adaptation with Spoken Instructions
+FLOWER: Democratizing Generalist Robot Policies with Efficient
+  Vision-Language-Action Flow Policies
+Inpainting-Guided Policy Optimization for Diffusion Large Language
+  Models
+Virtual Agent Economies
+QuantAgent: Price-Driven Multi-Agent LLMs for High-Frequency Trading
+MCP-AgentBench: Evaluating Real-World Language Agent Performance with
+  MCP-Mediated Tools
+Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings
+  for Improved Diffusion Generation
+LoFT: Parameter-Efficient Fine-Tuning for Long-tailed Semi-Supervised
+  Learning in Open-World Scenarios
+CMHG: A Dataset and Benchmark for Headline Generation of Minority
+  Languages in China
