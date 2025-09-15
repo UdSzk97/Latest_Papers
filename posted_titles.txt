@@ -2077,3 +2077,31 @@ LoFT: Parameter-Efficient Fine-Tuning for Long-tailed Semi-Supervised
   Learning in Open-World Scenarios
 CMHG: A Dataset and Benchmark for Headline Generation of Minority
   Languages in China
+Magnetohydrodynamic Study of Mars’s Response to Short-term Solar Wind Dynamic Pressure Enhancements
+The Role of Tectonic Luck in Long-term Habitability of Abiotic Earth-like Planets
+The Illusion of Diminishing Returns: Measuring Long Horizon Execution in
+  LLMs
+HANRAG: Heuristic Accurate Noise-resistant Retrieval-Augmented
+  Generation for Multi-hop Question Answering
+FLOWER: Democratizing Generalist Robot Policies with Efficient
+  Vision-Language-Action Flow Policies
+Inpainting-Guided Policy Optimization for Diffusion Large Language
+  Models
+LoFT: Parameter-Efficient Fine-Tuning for Long-tailed Semi-Supervised
+  Learning in Open-World Scenarios
+Color Me Correctly: Bridging Perceptual Color Spaces and Text Embeddings
+  for Improved Diffusion Generation
+MCP-AgentBench: Evaluating Real-World Language Agent Performance with
+  MCP-Mediated Tools
+Visual-TableQA: Open-Domain Benchmark for Reasoning over Table Images
+DeMeVa at LeWiDi-2025: Modeling Perspectives with In-Context Learning
+  and Label Distribution Learning
+CAT: Causal Attention Tuning For Injecting Fine-grained Causal Knowledge
+  into Large Language Models
+CMHG: A Dataset and Benchmark for Headline Generation of Minority
+  Languages in China
+World Modeling with Probabilistic Structure Integration
+Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs
+  for Text Annotation
+Context Engineering for Trustworthiness: Rescorla Wagner Steering Under
+  Mixed and Inappropriate Contexts
