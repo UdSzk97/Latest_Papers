@@ -2105,3 +2105,23 @@ Large Language Model Hacking: Quantifying the Hidden Risks of Using LLMs
   for Text Annotation
 Context Engineering for Trustworthiness: Rescorla Wagner Steering Under
   Mixed and Inappropriate Contexts
+Time-dependent MHD Simulation of the Lunar Limb Compression Caused by the Core-induced Magnetic Field
+OmniWorld: A Multi-Domain and Multi-Modal Dataset for 4D World Modeling
+UI-S1: Advancing GUI Automation via Semi-online Reinforcement Learning
+InternScenes: A Large-scale Simulatable Indoor Scene Dataset with
+  Realistic Layouts
+LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion
+  Transformers via Explicit Correspondence
+Locality in Image Diffusion Models Emerges from Data Statistics
+Measuring Epistemic Humility in Multimodal Large Language Models
+Nav-R1: Reasoning and Navigation in Embodied Scenes
+Lost in Embeddings: Information Loss in Vision-Language Models
+CognitiveSky: Scalable Sentiment and Narrative Analysis for
+  Decentralized Social Media
+Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language
+  Models
+EthicsMH: A Pilot Benchmark for Ethical Reasoning in Mental Health AI
+Learning to Optimize Multi-Objective Alignment Through Dynamic Reward
+  Weighting
+PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits
+GAPrune: Gradient-Alignment Pruning for Domain-Aware Embeddings
