@@ -2125,3 +2125,23 @@ Learning to Optimize Multi-Objective Alignment Through Dynamic Reward
   Weighting
 PersonaX: Multimodal Datasets with LLM-Inferred Behavior Traits
 GAPrune: Gradient-Alignment Pruning for Domain-Aware Embeddings
+Simulation Analysis of Kinetic Impact Effects on Near-Earth Asteroid Defense Mission Using Precise Orbit Determination
+Rare comet photobombs telescope’s view of the cosmos
+InternScenes: A Large-scale Simulatable Indoor Scene Dataset with
+  Realistic Layouts
+LazyDrag: Enabling Stable Drag-Based Editing on Multi-Modal Diffusion
+  Transformers via Explicit Correspondence
+SearchInstruct: Enhancing Domain Adaptation via Retrieval-Based
+  Instruction Dataset Creation
+Learning to Optimize Multi-Objective Alignment Through Dynamic Reward
+  Weighting
+Look Again, Think Slowly: Enhancing Visual Reflection in Vision-Language
+  Models
+CognitiveSky: Scalable Sentiment and Narrative Analysis for
+  Decentralized Social Media
+Dr.V: A Hierarchical Perception-Temporal-Cognition Framework to Diagnose
+  Video Hallucination by Fine-grained Spatial-Temporal Grounding
+ClaimIQ at CheckThat! 2025: Comparing Prompted and Fine-Tuned Language
+  Models for Verifying Numerical Claims
+LongEmotion: Measuring Emotional Intelligence of Large Language Models
+  in Long-Context Interaction
