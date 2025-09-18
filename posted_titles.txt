@@ -2221,3 +2221,26 @@ Wan-Animate: Unified Character Animation and Replacement with Holistic
 SteeringControl: Holistic Evaluation of Alignment Steering in LLMs
 MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods,
   Results, Discussion, and Outlook
+Small-body exploration with an in situ probe
+Unlocking the Potential of Caves in the Solar System: Targets for Life Detection, Deep-Space Exploration, and Human Outpost
+Hala Technical Report: Building Arabic-Centric Instruction & Translation
+  Models at Scale
+Scrub It Out! Erasing Sensitive Memorization in Code Language Models via
+  Machine Unlearning
+MedReseacher-R1: Expert-Level Medical Deep Researcher via A
+  Knowledge-Informed Trajectory Synthesis Framework
+THOR: Tool-Integrated Hierarchical Optimization via RL for Mathematical
+  Reasoning
+MARS2 2025 Challenge on Multimodal Reasoning: Datasets, Methods,
+  Results, Discussion, and Outlook
+Wan-Animate: Unified Character Animation and Replacement with Holistic
+  Replication
+Improving Context Fidelity via Native Retrieval-Augmented Reasoning
+AERIS: Argonne Earth Systems Model for Reliable and Skillful Predictions
+Quantum Variational Activation Functions Empower Kolmogorov-Arnold
+  Networks
+Synthesizing Behaviorally-Grounded Reasoning Chains: A Data-Generation
+  Framework for Personal Finance LLMs
+LLM-I: LLMs are Naturally Interleaved Multimodal Creators
+Image Tokenizer Needs Post-Training
+Hybrid Quantum-Classical Model for Image Classification
