@@ -2271,3 +2271,39 @@ EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal
   Ultrasound Intelligence
 FSG-Net: Frequency-Spatial Synergistic Gated Network for High-Resolution
   Remote Sensing Change Detection
+Beyond the tropopause hypothesis: Drivers of even mercury isotope fractionation unraveled by 3D modeling
+Millefeuille: The layering of the Martian atmosphere observed in forward scattering geometry
+ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform
+  Data
+Reasoning over Boundaries: Enhancing Specification Alignment via
+  Test-time Delibration
+Evolving Language Models without Labels: Majority Drives Selection,
+  Novelty Promotes Variation
+Understand Before You Generate: Self-Guided Training for Autoregressive
+  Image Generation
+FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial
+  Search and Reasoning
+WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model
+  via Training-Free Guidance
+MultiEdit: Advancing Instruction-based Image Editing on Diverse and
+  Challenging Tasks
+Apertus: Democratizing Open and Compliant LLMs for Global Language
+  Environments
+RecoWorld: Building Simulated Environments for Agentic Recommender
+  Systems
+Unleashing the Potential of Multimodal LLMs for Zero-Shot
+  Spatio-Temporal Video Grounding
+EdiVal-Agent: An Object-Centric Framework for Automated, Scalable,
+  Fine-Grained Evaluation of Multi-Turn Editing
+Mind the Gap: A Closer Look at Tokenization for Multiple-Choice Question
+  Answering with LLMs
+Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on
+  Materials Characterization
+Agentic Software Engineering: Foundational Pillars and a Research
+  Roadmap
+EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal
+  Ultrasound Intelligence
+Developer-LLM Conversations: An Empirical Study of Interactions and
+  Generated Code Quality
+FSG-Net: Frequency-Spatial Synergistic Gated Network for High-Resolution
+  Remote Sensing Change Detection
