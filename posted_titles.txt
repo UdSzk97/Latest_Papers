@@ -2413,3 +2413,37 @@ Developer-LLM Conversations: An Empirical Study of Interactions and
   Generated Code Quality
 FSG-Net: Frequency-Spatial Synergistic Gated Network for High-Resolution
   Remote Sensing Change Detection
+ScaleCUA: Scaling Open-Source Computer Use Agents with Cross-Platform
+  Data
+Reasoning over Boundaries: Enhancing Specification Alignment via
+  Test-time Delibration
+Evolving Language Models without Labels: Majority Drives Selection,
+  Novelty Promotes Variation
+Understand Before You Generate: Self-Guided Training for Autoregressive
+  Image Generation
+FinSearchComp: Towards a Realistic, Expert-Level Evaluation of Financial
+  Search and Reasoning
+WorldForge: Unlocking Emergent 3D/4D Generation in Video Diffusion Model
+  via Training-Free Guidance
+MultiEdit: Advancing Instruction-based Image Editing on Diverse and
+  Challenging Tasks
+Apertus: Democratizing Open and Compliant LLMs for Global Language
+  Environments
+Unleashing the Potential of Multimodal LLMs for Zero-Shot
+  Spatio-Temporal Video Grounding
+RecoWorld: Building Simulated Environments for Agentic Recommender
+  Systems
+Can Multimodal LLMs See Materials Clearly? A Multimodal Benchmark on
+  Materials Characterization
+Agentic Software Engineering: Foundational Pillars and a Research
+  Roadmap
+Mind the Gap: A Closer Look at Tokenization for Multiple-Choice Question
+  Answering with LLMs
+EchoVLM: Dynamic Mixture-of-Experts Vision-Language Model for Universal
+  Ultrasound Intelligence
+EdiVal-Agent: An Object-Centric Framework for Automated, Scalable,
+  Fine-Grained Evaluation of Multi-Turn Editing
+Developer-LLM Conversations: An Empirical Study of Interactions and
+  Generated Code Quality
+FSG-Net: Frequency-Spatial Synergistic Gated Network for High-Resolution
+  Remote Sensing Change Detection
