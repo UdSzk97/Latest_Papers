@@ -2447,3 +2447,25 @@ Developer-LLM Conversations: An Empirical Study of Interactions and
   Generated Code Quality
 FSG-Net: Frequency-Spatial Synergistic Gated Network for High-Resolution
   Remote Sensing Change Detection
+Lunar surface and subsurface water revealed by Chang’e-6
+RPG: A Repository Planning Graph for Unified and Scalable Codebase
+  Generation
+MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid
+  Vision Tokenizer
+Latent Zoning Network: A Unified Principle for Generative Modeling,
+  Representation Learning, and Classification
+BaseReward: A Strong Baseline for Multimodal Reward Model
+SPATIALGEN: Layout-guided 3D Indoor Scene Generation
+BTL-UI: Blink-Think-Link Reasoning Model for GUI Agent
+Lynx: Towards High-Fidelity Personalized Video Generation
+A Vision-Language-Action-Critic Model for Robotic Real-World
+  Reinforcement Learning
+RGB-Only Supervised Camera Parameter Optimization in Dynamic Scenes
+Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in
+  Instruction-Guided Expressive Text-To-Speech Systems
+Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided
+  Role-playing Agents
+WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained
+  Speech Recognition Transformers
+Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn
+  Dialogue
