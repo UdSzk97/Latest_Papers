@@ -2469,3 +2469,22 @@ WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained
   Speech Recognition Transformers
 Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn
   Dialogue
+The Hot Neptune Initiative (HONEI)
+Spatial Distribution of H2O+ Ions in the Inner Coma of C/2014 Q2 (Lovejoy)
+The Moon is rusting — thanks to ‘wind’ blown all the way from Earth
+RPG: A Repository Planning Graph for Unified and Scalable Codebase
+  Generation
+MANZANO: A Simple and Scalable Unified Multimodal Model with a Hybrid
+  Vision Tokenizer
+Latent Zoning Network: A Unified Principle for Generative Modeling,
+  Representation Learning, and Classification
+A Vision-Language-Action-Critic Model for Robotic Real-World
+  Reinforcement Learning
+Do You Hear What I Mean? Quantifying the Instruction-Perception Gap in
+  Instruction-Guided Expressive Text-To-Speech Systems
+Video2Roleplay: A Multimodal Dataset and Framework for Video-Guided
+  Role-playing Agents
+WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained
+  Speech Recognition Transformers
+Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn
+  Dialogue
