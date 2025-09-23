@@ -2488,3 +2488,57 @@ WhisTLE: Deeply Supervised, Text-Only Domain Adaptation for Pretrained
   Speech Recognition Transformers
 Ask-to-Clarify: Resolving Instruction Ambiguity through Multi-turn
   Dialogue
+Strong NUV Refractory Absorption and Dissociated Water in the Hubble Transmission Spectrum of the Ultra Hot Jupiter KELT-20 b
+LIMI: Less is More for Agency
+OmniInsert: Mask-Free Video Insertion of Any Reference via Diffusion
+  Transformer Models
+OnePiece: Bringing Context Engineering and Reasoning to Industrial
+  Cascade Ranking System
+Qwen3-Omni Technical Report
+TempSamp-R1: Effective Temporal Sampling with Reinforcement Fine-Tuning
+  for Video LLMs
+GeoPQA: Bridging the Visual Perception Gap in MLLMs for Geometric
+  Reasoning
+DiffusionNFT: Online Diffusion Reinforcement with Forward Process
+ByteWrist: A Parallel Robotic Wrist Enabling Flexible and
+  Anthropomorphic Motion for Confined Spaces
+EpiCache: Episodic KV Cache Management for Long Conversational Question
+  Answering
+SWE-Bench Pro: Can AI Agents Solve Long-Horizon Software Engineering
+  Tasks?
+FlagEval Findings Report: A Preliminary Evaluation of Large Reasoning
+  Models on Automatically Verifiable Textual and Visual Questions
+ARE: Scaling Up Agent Environments and Evaluations
+VideoFrom3D: 3D Scene Video Generation via Complementary Image and Video
+  Diffusion Models
+QWHA: Quantization-Aware Walsh-Hadamard Adaptation for
+  Parameter-Efficient Fine-Tuning on Large Language Models
+Analyzing the Effects of Supervised Fine-Tuning on Model Knowledge from
+  Token and Parameter Levels
+Turk-LettuceDetect: A Hallucination Detection Models for Turkish RAG
+  Applications
+Understanding Embedding Scaling in Collaborative Filtering
+Synthetic bootstrapped pretraining
+MetaEmbed: Scaling Multimodal Retrieval at Test-Time with Flexible Late
+  Interaction
+Reasoning Core: A Scalable RL Environment for LLM Symbolic Reasoning
+ContextFlow: Training-Free Video Object Editing via Adaptive Context
+  Enrichment
+AuditoryBench++: Can Language Models Understand Auditory Knowledge
+  without Hearing?
+Mano Report
+DIWALI - Diversity and Inclusivity aWare cuLture specific Items for
+  India: Dataset and Assessment of LLMs for Cultural Text Adaptation in Indian
+  Context
+When Big Models Train Small Ones: Label-Free Model Parity Alignment for
+  Efficient Visual Question Answering using Small VLMs
+From Uniform to Heterogeneous: Tailoring Policy Optimization to Every
+  Token's Nature
+StereoAdapter: Adapting Stereo Depth Estimation to Underwater Scenes
+CodeFuse-CR-Bench: A Comprehensiveness-aware Benchmark for End-to-End
+  Code Review Evaluation in Python Projects
+From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI
+  Ecosystem
+VaseVQA: Multimodal Agent and Benchmark for Ancient Greek Pottery
+SCAN: Self-Denoising Monte Carlo Annotation for Robust Process Reward
+  Learning
