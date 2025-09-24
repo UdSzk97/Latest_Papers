@@ -2624,3 +2624,37 @@ Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal
   Gemini 2.5 Model for Remote Sensing Applications
 VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via
   Travel Video Itinerary Reconstruction
+Corrigendum to ‘Holocene climate driving spatially variable mercury input to an Arctic fjord environment’ [Chemical Geology 695 (2025) 123043]
+Gravity-driven fold-thrust belt at the Martian dichotomy
+The depletion of the asteroid belt and the impact history of the Earth
+The glass-ceiling convective regime and the origin and diversity of coronae on Venus
+Synchronization of women’s menstruation with the Moon has decreased but remains detectable when gravitational pull is strong
+Hera ESOC/ESA Operations: First Months in Flight and Asteroid Phase Planning Concepts
+MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe
+Hyper-Bagel: A Unified Acceleration Framework for Multimodal
+  Understanding and Generation
+VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with
+  Voxel-Aligned Prediction
+Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model
+  Self-Distillation
+What Characterizes Effective Reasoning? Revisiting Length, Review, and
+  Structure of CoT
+Soft Tokens, Hard Truths
+CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target
+  for Better Flow Matching
+HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel
+  View Synthesis
+Better Late Than Never: Evaluation of Latency Metrics for Simultaneous
+  Speech-to-Text Translation
+CommonForms: A Large, Diverse Dataset for Form Field Detection
+Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal
+  Gemini 2.5 Model for Remote Sensing Applications
+VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via
+  Travel Video Itinerary Reconstruction
+GeoSVR: Taming Sparse Voxels for Geometrically Accurate Surface
+  Reconstruction
+DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language
+  Models' Understanding on Indian Culture
+PEEK: Guiding and Minimal Image Representations for Zero-Shot
+  Generalization of Robot Manipulation Policies
