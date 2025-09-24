@@ -2599,3 +2599,28 @@ From Hugging Face to GitHub: Tracing License Drift in the Open-Source AI
 DEXOP: A Device for Robotic Transfer of Dexterous Human Manipulation
 SCAN: Self-Denoising Monte Carlo Annotation for Robust Process Reward
   Learning
+Apache Point Rapid Response Characterization of Primitive Imminent Impactor 2024 RW1
+Baseer: A Vision-Language Model for Arabic Document-to-Markdown OCR
+Reinforcement Learning on Pre-Training Data
+Do You Need Proprioceptive States in Visuomotor Policies?
+MiniCPM-V 4.5: Cooking Efficient MLLMs via Architecture, Data, and
+  Training Recipe
+MAPO: Mixed Advantage Policy Optimization
+VolSplat: Rethinking Feed-Forward 3D Gaussian Splatting with
+  Voxel-Aligned Prediction
+Hyper-Bagel: A Unified Acceleration Framework for Multimodal
+  Understanding and Generation
+Lyra: Generative 3D Scene Reconstruction via Video Diffusion Model
+  Self-Distillation
+What Characterizes Effective Reasoning? Revisiting Length, Review, and
+  Structure of CoT
+Large Language Models Discriminate Against Speakers of German Dialects
+OpenGVL - Benchmarking Visual Temporal Progress for Data Curation
+CAR-Flow: Condition-Aware Reparameterization Aligns Source and Target
+  for Better Flow Matching
+HyRF: Hybrid Radiance Fields for Memory-efficient and High-quality Novel
+  View Synthesis
+Zero-Shot Multi-Spectral Learning: Reimagining a Generalist Multimodal
+  Gemini 2.5 Model for Remote Sensing Applications
+VIR-Bench: Evaluating Geospatial and Temporal Understanding of MLLMs via
+  Travel Video Itinerary Reconstruction
