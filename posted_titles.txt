@@ -2658,3 +2658,23 @@ DRISHTIKON: A Multimodal Multilingual Benchmark for Testing Language
   Models' Understanding on Indian Culture
 PEEK: Guiding and Minimal Image Representations for Zero-Shot
   Generalization of Robot Manipulation Policies
+Magnetohydrodynamic simulations preliminarily predict the habitability and radio emission of TRAPPIST-1e
+Analysis of four Apollo 16 double drive tubes using QEMSCAN® mapping techniques: Implications for sampling the lunar regolith in highland terrains
+On the Origin of Silicic Magmas on the Moon
+The Ongoing Decline in Activity of Comet 103P/Hartley 2
+Remote Sensing, Vol. 17, Pages 3287: From the Moon to Mercury: Release of Global Crater Catalogs Using Multimodal Deep Learning for Crater Detection and Morphometric Analysis
+SIM-CoT: Supervised Implicit Chain-of-Thought
+Video models are zero-shot learners and reasoners
+LLMs4All: A Review on Large Language Models for Research and
+  Applications in Academic Disciplines
+Advancing Speech Understanding in Speech-Aware Language Models with GRPO
+EmbeddingGemma: Powerful and Lightweight Text Representations
+EditVerse: Unifying Image and Video Editing and Generation with
+  In-Context Learning
+PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video
+  Generation
+Logics-Parsing Technical Report
+Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal
+  Understanding and Generation
+On the Use of Agentic Coding: An Empirical Study of Pull Requests on
+  GitHub
