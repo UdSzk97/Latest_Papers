@@ -2678,3 +2678,19 @@ Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal
   Understanding and Generation
 On the Use of Agentic Coding: An Empirical Study of Pull Requests on
   GitHub
+Coupled Mineralogical and Nano-Mechanical Characterization of Calcium Sulfate Veins in Martian Analog Rocks: Implications for Mars Sample Return Drilling Strategies
+EditVerse: Unifying Image and Video Editing and Generation with
+  In-Context Learning
+LLMs4All: A Review on Large Language Models for Research and
+  Applications in Academic Disciplines
+Lavida-O: Elastic Large Masked Diffusion Models for Unified Multimodal
+  Understanding and Generation
+PhysCtrl: Generative Physics for Controllable and Physics-Grounded Video
+  Generation
+SimpleFold: Folding Proteins is Simpler than You Think
+ATLAS: Benchmarking and Adapting LLMs for Global Trade via Harmonized
+  Tariff Code Classification
+On the Use of Agentic Coding: An Empirical Study of Pull Requests on
+  GitHub
+kh2d-solver: A Python Library for Idealized Two-Dimensional
+  Incompressible Kelvin-Helmholtz Instability
