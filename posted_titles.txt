@@ -2694,3 +2694,51 @@ On the Use of Agentic Coding: An Empirical Study of Pull Requests on
   GitHub
 kh2d-solver: A Python Library for Idealized Two-Dimensional
   Incompressible Kelvin-Helmholtz Instability
+A Spectroscopic Hunt for Post–Red Supergiants in the Large Magellanic Cloud. II. Turbulent Line Broadening in the Spectra of LMC Yellow Supergiants
+Investigating the formation of impact-exhumed hydrated sulfates in Tyrrhena Terra, Mars
+MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and
+  Open Resources
+SciReasoner: Laying the Scientific Reasoning Ground Across Disciplines
+Tree Search for LLM Agent Reinforcement Learning
+VCRL: Variance-based Curriculum Reinforcement Learning for Large
+  Language Models
+Seedream 4.0: Toward Next-generation Multimodal Image Generation
+Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D
+  Assets
+AutoIntent: AutoML for Text Classification
+TrustJudge: Inconsistencies of LLM-as-a-Judge and How to Alleviate Them
+CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy
+  Optimization in Reinforcement Learning
+Does FLUX Already Know How to Perform Physically Plausible Image
+  Composition?
+CHARM: Control-point-based 3D Anime Hairstyle Auto-Regressive Modeling
+Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web
+  Reconnaissance, Tool Generation, and Task Execution
+V-GameGym: Visual Game Generation for Code Large Language Models
+Interactive Recommendation Agent with Active User Commands
+BESPOKE: Benchmark for Search-Augmented Large Language Model
+  Personalization via Diagnostic Feedback
+Residual Off-Policy RL for Finetuning Behavior Cloning Policies
+SD3.5-Flash: Distribution-Guided Distillation of Generative Flows
+Quantized Visual Geometry Grounded Transformer
+Thinking Augmented Pre-training
+SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and
+  Self-Reflective Agent
+ScaleDiff: Scaling Difficult Problems for Advanced Mathematical
+  Reasoning
+Behind RoPE: How Does Causal Mask Encode Positional Information?
+Understanding the Thinking Process of Reasoning Models: A Perspective
+  from Schoenfeld's Episode Theory
+The Unanticipated Asymmetry Between Perceptual Optimization and
+  Assessment
+MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for
+  Video Temporal Reasoning
+StyleBench: Evaluating thinking styles in Large Language Models
+When Judgment Becomes Noise: How Design Failures in LLM Judge Benchmarks
+  Silently Undermine Validity
+Discrete Diffusion for Reflective Vision-Language-Action Models in
+  Autonomous Driving
+Blueprints of Trust: AI System Cards for End to End Transparency and
+  Governance
+MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with
+  Closed-Source Large-Audio Language Model
