@@ -2742,3 +2742,39 @@ Blueprints of Trust: AI System Cards for End to End Transparency and
   Governance
 MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with
   Closed-Source Large-Audio Language Model
+VCRL: Variance-based Curriculum Reinforcement Learning for Large
+  Language Models
+MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and
+  Open Resources
+Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D
+  Assets
+CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy
+  Optimization in Reinforcement Learning
+Does FLUX Already Know How to Perform Physically Plausible Image
+  Composition?
+Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web
+  Reconnaissance, Tool Generation, and Task Execution
+ScaleDiff: Scaling Difficult Problems for Advanced Mathematical
+  Reasoning
+Understanding the Thinking Process of Reasoning Models: A Perspective
+  from Schoenfeld's Episode Theory
+BESPOKE: Benchmark for Search-Augmented Large Language Model
+  Personalization via Diagnostic Feedback
+MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for
+  Video Temporal Reasoning
+SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and
+  Self-Reflective Agent
+When Judgment Becomes Noise: How Design Failures in LLM Judge Benchmarks
+  Silently Undermine Validity
+Thinking While Listening: Simple Test Time Scaling For Audio
+  Classification
+The Unanticipated Asymmetry Between Perceptual Optimization and
+  Assessment
+Discrete Diffusion for Reflective Vision-Language-Action Models in
+  Autonomous Driving
+CompLLM: Compression for Long Context Q&A
+Blueprints of Trust: AI System Cards for End to End Transparency and
+  Governance
+MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with
+  Closed-Source Large-Audio Language Model
+Evaluating Large Language Models for Detecting Antisemitism
