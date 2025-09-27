@@ -2818,3 +2818,42 @@ MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with
   Closed-Source Large-Audio Language Model
 OverLayBench: A Benchmark for Layout-to-Image Generation with Dense
   Overlaps
+The chemistry and mineralogy of the LX high-fidelity lunar regolith simulants
+VCRL: Variance-based Curriculum Reinforcement Learning for Large
+  Language Models
+MMR1: Enhancing Multimodal Reasoning with Variance-Aware Sampling and
+  Open Resources
+Hunyuan3D-Omni: A Unified Framework for Controllable Generation of 3D
+  Assets
+CE-GPPO: Controlling Entropy via Gradient-Preserving Clipping Policy
+  Optimization in Reinforcement Learning
+Recon-Act: A Self-Evolving Multi-Agent Browser-Use System via Web
+  Reconnaissance, Tool Generation, and Task Execution
+Does FLUX Already Know How to Perform Physically Plausible Image
+  Composition?
+Understanding the Thinking Process of Reasoning Models: A Perspective
+  from Schoenfeld's Episode Theory
+UserRL: Training Interactive User-Centric Agent via Reinforcement
+  Learning
+ScaleDiff: Scaling Difficult Problems for Advanced Mathematical
+  Reasoning
+BESPOKE: Benchmark for Search-Augmented Large Language Model
+  Personalization via Diagnostic Feedback
+SceneWeaver: All-in-One 3D Scene Synthesis with an Extensible and
+  Self-Reflective Agent
+When Judgment Becomes Noise: How Design Failures in LLM Judge Benchmarks
+  Silently Undermine Validity
+MOSS-ChatV: Reinforcement Learning with Process Reasoning Reward for
+  Video Temporal Reasoning
+Discrete Diffusion for Reflective Vision-Language-Action Models in
+  Autonomous Driving
+Thinking While Listening: Simple Test Time Scaling For Audio
+  Classification
+OverLayBench: A Benchmark for Layout-to-Image Generation with Dense
+  Overlaps
+The Unanticipated Asymmetry Between Perceptual Optimization and
+  Assessment
+MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with
+  Closed-Source Large-Audio Language Model
+Blueprints of Trust: AI System Cards for End to End Transparency and
+  Governance
