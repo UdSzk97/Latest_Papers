@@ -2998,3 +2998,65 @@ CHURRO: Making History Readable with an Open-Weight Large
   Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition
 Instruction-Following Evaluation in Function Calling for Large Language
   Models
+JWST/MIRI Imaging of the Warm Dust Component of the ϵ Eridani Debris Disk
+The Origins & Reservoirs of Exocomets
+MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing
+EPO: Entropy-regularized Policy Optimization for LLM Agents
+  Reinforcement Learning
+ReviewScore: Misinformed Peer Review Detection with Large Language
+  Models
+CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement
+  Learning
+MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial
+  Reasoning
+No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM
+  Reinforcement Learning via Entropy-Guided Advantage Shaping
+PromptCoT 2.0: Scaling Prompt Synthesis for Large Language Model
+  Reasoning
+UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon
+  Scenarios
+COSPADI: Compressing LLMs via Calibration-Guided Sparse Dictionary
+  Learning
+VoiceAssistant-Eval: Benchmarking AI Assistants across Listening,
+  Speaking, and Viewing
+See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned
+  Aerial Navigation
+LucidFlux: Caption-Free Universal Image Restoration via a Large-Scale
+  Diffusion Transformer
+WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level
+  Feedback and Step-Level Reinforcement Learning
+Mind-the-Glitch: Visual Correspondence for Detecting Inconsistencies in
+  Subject-Driven Generation
+Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on
+  Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval
+Fine-tuning Done Right in Model Editing
+D-Artemis: A Deliberative Cognitive Framework for Mobile GUI
+  Multi-Agents
+Chasing the Tail: Effective Rubric-based Reward Modeling for Large
+  Language Model Post-Training
+Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive
+  Exploration for Agentic Reinforcement Learning
+FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image
+  Editing
+ERGO: Efficient High-Resolution Visual Understanding for Vision-Language
+  Models
+Scale-Wise VAR is Secretly Discrete Diffusion
+Where MLLMs Attend and What They Rely On: Explaining Autoregressive
+  Token Generation
+HiGS: History-Guided Sampling for Plug-and-Play Enhancement of Diffusion
+  Models
+The role of synthetic data in Multilingual, Multi-cultural AI systems:
+  Lessons from Indic Languages
+X-CoT: Explainable Text-to-Video Retrieval via LLM-based
+  Chain-of-Thought Reasoning
+RLBFF: Binary Flexible Feedback to bridge between Human Feedback &
+  Verifiable Rewards
+CAD-Tokenizer: Towards Text-based CAD Prototyping via Modality-Specific
+  Tokenization
+CHURRO: Making History Readable with an Open-Weight Large
+  Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition
+Finding 3D Positions of Distant Objects from Noisy Camera Movement and
+  Semantic Segmentation Sequences
+Instruction-Following Evaluation in Function Calling for Large Language
+  Models
