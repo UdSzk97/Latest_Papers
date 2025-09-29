@@ -2935,3 +2935,66 @@ MI-Fuse: Label Fusion for Unsupervised Domain Adaptation with
   Closed-Source Large-Audio Language Model
 Blueprints of Trust: AI System Cards for End to End Transparency and
   Governance
+Photochemical modeling of Ar+ ions in the Martian dayside ionosphere: Implications for ionospheric modeling on Mars
+Temporal evolution of the third interstellar comet 3I/ATLAS: Spin, color, spectra, and dust activity⋆
+Combined Full Wave and Test Particle Simulations of the Io Footprint in the Jovian Aurora
+LongLive: Real-time Interactive Long Video Generation
+Quantile Advantage Estimation for Entropy-Safe Reasoning
+MinerU2.5: A Decoupled Vision-Language Model for Efficient
+  High-Resolution Document Parsing
+EPO: Entropy-regularized Policy Optimization for LLM Agents
+  Reinforcement Learning
+Variational Reasoning for Language Models
+Language Models Can Learn from Verbal Feedback Without Scalar Rewards
+ReviewScore: Misinformed Peer Review Detection with Large Language
+  Models
+CapRL: Stimulating Dense Image Caption Capabilities via Reinforcement
+  Learning
+MesaTask: Towards Task-Driven Tabletop Scene Generation via 3D Spatial
+  Reasoning
+No Prompt Left Behind: Exploiting Zero-Variance Prompts in LLM
+  Reinforcement Learning via Entropy-Guided Advantage Shaping
+VoiceAssistant-Eval: Benchmarking AI Assistants across Listening,
+  Speaking, and Viewing
+UltraHorizon: Benchmarking Agent Capabilities in Ultra Long-Horizon
+  Scenarios
+LucidFlux: Caption-Free Universal Image Restoration via a Large-Scale
+  Diffusion Transformer
+WebGen-Agent: Enhancing Interactive Website Generation with Multi-Level
+  Feedback and Step-Level Reinforcement Learning
+SPARK: Synergistic Policy And Reward Co-Evolving Framework
+See, Point, Fly: A Learning-Free VLM Framework for Universal Unmanned
+  Aerial Navigation
+Mind-the-Glitch: Visual Correspondence for Detecting Inconsistencies in
+  Subject-Driven Generation
+Think-on-Graph 3.0: Efficient and Adaptive LLM Reasoning on
+  Heterogeneous Graphs via Multi-Agent Dual-Evolving Context Retrieval
+D-Artemis: A Deliberative Cognitive Framework for Mobile GUI
+  Multi-Agents
+UniVid: Unifying Vision Tasks with Pre-trained Video Generation Models
+PromptCoT 2.0: Scaling Prompt Synthesis for Large Language Model
+  Reasoning
+Learn the Ropes, Then Trust the Wins: Self-imitation with Progressive
+  Exploration for Agentic Reinforcement Learning
+X-Streamer: Unified Human World Modeling with Audiovisual Interaction
+Chasing the Tail: Effective Rubric-based Reward Modeling for Large
+  Language Model Post-Training
+RefAM: Attention Magnets for Zero-Shot Referral Segmentation
+WoW: Towards a World omniscient World model Through Embodied Interaction
+FlashEdit: Decoupling Speed, Structure, and Semantics for Precise Image
+  Editing
+Where MLLMs Attend and What They Rely On: Explaining Autoregressive
+  Token Generation
+HiGS: History-Guided Sampling for Plug-and-Play Enhancement of Diffusion
+  Models
+TUN3D: Towards Real-World Scene Understanding from Unposed Images
+StateX: Enhancing RNN Recall via Post-training State Expansion
+ERGO: Efficient High-Resolution Visual Understanding for Vision-Language
+  Models
+X-CoT: Explainable Text-to-Video Retrieval via LLM-based
+  Chain-of-Thought Reasoning
+Real-Time Object Detection Meets DINOv3
+CHURRO: Making History Readable with an Open-Weight Large
+  Vision-Language Model for High-Accuracy, Low-Cost Historical Text Recognition
+Instruction-Following Evaluation in Function Calling for Large Language
+  Models
