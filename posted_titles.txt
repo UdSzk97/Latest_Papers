@@ -3060,3 +3060,113 @@ Finding 3D Positions of Distant Objects from Noisy Camera Movement and
   Semantic Segmentation Sequences
 Instruction-Following Evaluation in Function Calling for Large Language
   Models
+Stringent Upper Bounds on Atmospheric Mass Loss from Three Neptune-sized Planets in the TOI-4010 System
+The Formation of Ultra-short-period Planets under the Influence of the Nearby Planetary Companions
+Radial Evolution of Turbulence Spectra on the Jovian Magnetosheath Flanks: Juno Observations
+MSL10 is a high-sensitivity mechanosensor in the tactile sense of the Venus flytrap
+A relatively cool lunar farside mantle inferred from Chang’e-6 basalts and remote sensing
+Thermocompositional Layers and Jupiter’s Gravity, Magnetic Field, and Supersolar Heavy Elements
+SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable
+  Sparse-Linear Attention
+Multiplayer Nash Preference Optimization
+RealUnify: Do Unified Models Truly Benefit from Unification? A
+  Comprehensive Benchmark
+OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation
+  and Editing
+Visual Jigsaw Post-Training Improves MLLMs
+SANA-Video: Efficient Video Generation with Block Linear Diffusion
+  Transformer
+Democratizing AI scientists using ToolUniverse
+GSM8K-V: Can Vision Language Models Solve Grade School Math Word
+  Problems in Visual Contexts
+EasySteer: A Unified Framework for High-Performance and Extensible LLM
+  Steering
+EditScore: Unlocking Online RL for Image Editing via High-Fidelity
+  Reward Modeling
+When Does Reasoning Matter? A Controlled Study of Reasoning's
+  Contribution to Model Performance
+SparseD: Sparse Attention for Diffusion Language Models
+Towards Personalized Deep Research: Benchmarks and Evaluations
+Sequential Diffusion Language Models
+VideoScore2: Think before You Score in Generative Video Evaluation
+Euclid's Gift: Enhancing Spatial Perception and Reasoning in
+  Vision-Language Models via Geometric Surrogate Tasks
+Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach
+  for LLM Reasoning in RLVR
+From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by
+  Composing Old Ones
+Critique-Coder: Enhancing Coder Models by Critique Reinforcement
+  Learning
+BRIDGE - Building Reinforcement-Learning Depth-to-Image Data Generation
+  Engine for Monocular Depth Estimation
+Random Policy Valuation is Enough for LLM Reasoning with Verifiable
+  Rewards
+VGGT-X: When VGGT Meets Dense Novel View Synthesis
+Rolling Forcing: Autoregressive Long Video Diffusion in Real Time
+MMPB: It's Time for Multi-Modal Personalization
+InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long
+  Adaptation
+Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference
+  Learning
+Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs
+  at Test Time
+SIRI: Scaling Iterative Reinforcement Learning with Interleaved
+  Compression
+Scaling Generalist Data-Analytic Agents
+HunyuanImage 3.0 Technical Report
+MGM-Omni: Scaling Omni LLMs to Personalized Long-Horizon Speech
+From Harm to Help: Turning Reasoning In-Context Demos into Assets for
+  Reasoning LMs
+Taming Masked Diffusion Language Models via Consistency Trajectory
+  Reinforcement Learning with Fewer Decoding Step
+Efficient Multi-turn RL for GUI Agents via Decoupled Training and
+  Adaptive Data Curation
+Rethinking Large Language Model Distillation: A Constrained Markov
+  Decision Process Perspective
+Hyperspherical Latents Improve Continuous-Token Autoregressive
+  Generation
+AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced
+  Self-Play
+LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in
+  Mechanism via Multi-Step Reasoning
+MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially
+  Disentangled Attention and Identity-Aware Reinforcement Learning
+PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on
+  Structured Images
+Pretraining Large Language Models with NVFP4
+SCI-Verifier: Scientific Verifier with Thinking
+Alignment through Meta-Weighted Online Sampling: Bridging the Gap
+  between Data Generation and Preference Optimization
+WirelessMathLM: Teaching Mathematical Reasoning for LLMs in Wireless
+  Communications with Reinforcement Learning
+AdvChain: Adversarial Chain-of-Thought Tuning for Robust Safety
+  Alignment of Large Reasoning Models
+UniVid: The Open-Source Unified Video Model
+PARROT: A Benchmark for Evaluating LLMs in Cross-System SQL Translation
+ChatInject: Abusing Chat Templates for Prompt Injection in LLM Agents
+UniMIC: Token-Based Multimodal Interactive Coding for Human-AI
+  Collaboration
+Cogito, Ergo Ludo: An Agent that Learns to Play by Reasoning and
+  Planning
+Learning Goal-Oriented Language-Guided Navigation with Self-Improving
+  Demonstrations at Scale
+MathBode: Frequency-Domain Fingerprints of LLM Mathematical Reasoning
+Local Success Does Not Compose: Benchmarking Large Language Models for
+  Compositional Formal Verification
+REMA: A Unified Reasoning Manifold Framework for Interpreting Large
+  Language Model
+StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient
+  SpeechLLMs
+BOE-XSUM: Extreme Summarization in Clear Language of Spanish Legal
+  Decrees and Notifications
+IWR-Bench: Can LVLMs reconstruct interactive webpage from a user
+  interaction video?
+BPMN Assistant: An LLM-Based Approach to Business Process Modeling
+Detecting Corpus-Level Knowledge Inconsistencies in Wikipedia with Large
+  Language Models
+RHYTHM: Reasoning with Hierarchical Temporal Tokenization for Human
+  Mobility
+Charting a Decade of Computational Linguistics in Italy: The CLiC-it
+  Corpus
+Advancing Reference-free Evaluation of Video Captions with Factual
+  Analysis
