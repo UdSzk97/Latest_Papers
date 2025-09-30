@@ -3170,3 +3170,116 @@ Charting a Decade of Computational Linguistics in Italy: The CLiC-it
   Corpus
 Advancing Reference-free Evaluation of Video Captions with Factual
   Analysis
+Magnetic field morphology correlated with surface slopes at the Gerasimovich lunar magnetic anomaly
+Prediction of Sulfate Hazes in the Lower Venus Atmosphere
+Coupled mineralogical and nano-mechanical characterization of calcium sulfate veins in Martian analog rocks: Implications for Mars sample return drilling strategies
+SLA: Beyond Sparsity in Diffusion Transformers via Fine-Tunable
+  Sparse-Linear Attention
+StableToken: A Noise-Robust Semantic Speech Tokenizer for Resilient
+  SpeechLLMs
+RealUnify: Do Unified Models Truly Benefit from Unification? A
+  Comprehensive Benchmark
+OpenGPT-4o-Image: A Comprehensive Dataset for Advanced Image Generation
+  and Editing
+Beyond the Exploration-Exploitation Trade-off: A Hidden State Approach
+  for LLM Reasoning in RLVR
+SANA-Video: Efficient Video Generation with Block Linear Diffusion
+  Transformer
+When Does Reasoning Matter? A Controlled Study of Reasoning's
+  Contribution to Model Performance
+GSM8K-V: Can Vision Language Models Solve Grade School Math Word
+  Problems in Visual Contexts
+EditScore: Unlocking Online RL for Image Editing via High-Fidelity
+  Reward Modeling
+EasySteer: A Unified Framework for High-Performance and Extensible LLM
+  Steering
+Random Policy Valuation is Enough for LLM Reasoning with Verifiable
+  Rewards
+Critique-Coder: Enhancing Coder Models by Critique Reinforcement
+  Learning
+From f(x) and g(x) to f(g(x)): LLMs Learn New Skills in RL by
+  Composing Old Ones
+Euclid's Gift: Enhancing Spatial Perception and Reasoning in
+  Vision-Language Models via Geometric Surrogate Tasks
+BRIDGE - Building Reinforcement-Learning Depth-to-Image Data Generation
+  Engine for Monocular Depth Estimation
+InfLLM-V2: Dense-Sparse Switchable Attention for Seamless Short-to-Long
+  Adaptation
+SIRI: Scaling Iterative Reinforcement Learning with Interleaved
+  Compression
+The Era of Real-World Human Interaction: RL from User Conversations
+Toward Effective Tool-Integrated Reasoning via Self-Evolved Preference
+  Learning
+Dynamic Experts Search: Enhancing Reasoning in Mixture-of-Experts LLMs
+  at Test Time
+WirelessMathLM: Teaching Mathematical Reasoning for LLMs in Wireless
+  Communications with Reinforcement Learning
+Understanding Language Prior of LVLMs by Contrasting Chain-of-Embedding
+Rethinking Large Language Model Distillation: A Constrained Markov
+  Decision Process Perspective
+From Harm to Help: Turning Reasoning In-Context Demos into Assets for
+  Reasoning LMs
+Taming Masked Diffusion Language Models via Consistency Trajectory
+  Reinforcement Learning with Fewer Decoding Step
+Efficient Multi-turn RL for GUI Agents via Decoupled Training and
+  Adaptive Data Curation
+Clean First, Align Later: Benchmarking Preference Data Cleaning for
+  Reliable LLM Alignment
+LUMINA: Detecting Hallucinations in RAG System with Context-Knowledge
+  Signals
+Hyperspherical Latents Improve Continuous-Token Autoregressive
+  Generation
+AceSearcher: Bootstrapping Reasoning and Search for LLMs via Reinforced
+  Self-Play
+LOVE-R1: Advancing Long Video Understanding with an Adaptive Zoom-in
+  Mechanism via Multi-Step Reasoning
+Alignment through Meta-Weighted Online Sampling: Bridging the Gap
+  between Data Generation and Preference Optimization
+MultiCrafter: High-Fidelity Multi-Subject Generation via Spatially
+  Disentangled Attention and Identity-Aware Reinforcement Learning
+PixelCraft: A Multi-Agent System for High-Fidelity Visual Reasoning on
+  Structured Images
+Advantage Weighted Matching: Aligning RL with Pretraining in Diffusion
+  Models
+Local Success Does Not Compose: Benchmarking Large Language Models for
+  Compositional Formal Verification
+GRPO-MA: Multi-Answer Generation in GRPO for Stable and Efficient
+  Chain-of-Thought Training
+Evolution Strategies at Scale: LLM Fine-Tuning Beyond Reinforcement
+  Learning
+AdvChain: Adversarial Chain-of-Thought Tuning for Robust Safety
+  Alignment of Large Reasoning Models
+UniMIC: Token-Based Multimodal Interactive Coding for Human-AI
+  Collaboration
+Cogito, Ergo Ludo: An Agent that Learns to Play by Reasoning and
+  Planning
+Learning Goal-Oriented Language-Guided Navigation with Self-Improving
+  Demonstrations at Scale
+TENET: Leveraging Tests Beyond Validation for Code Generation
+RHYTHM: Reasoning with Hierarchical Temporal Tokenization for Human
+  Mobility
+REMA: A Unified Reasoning Manifold Framework for Interpreting Large
+  Language Model
+BOE-XSUM: Extreme Summarization in Clear Language of Spanish Legal
+  Decrees and Notifications
+ThermalGen: Style-Disentangled Flow-Based Generative Models for
+  RGB-to-Thermal Image Translation
+Socratic-Zero : Bootstrapping Reasoning via Data-Free Agent Co-evolution
+IWR-Bench: Can LVLMs reconstruct interactive webpage from a user
+  interaction video?
+Rethinking JEPA: Compute-Efficient Video SSL with Frozen Teachers
+Detecting Corpus-Level Knowledge Inconsistencies in Wikipedia with Large
+  Language Models
+Combinatorial Creativity: A New Frontier in Generalization Abilities
+The Photographer Eye: Teaching Multimodal Large Language Models to See
+  and Critique like Photographers
+TR2-D2: Tree Search Guided Trajectory-Aware Fine-Tuning for Discrete
+  Diffusion
+Generalized Correctness Models: Learning Calibrated and Model-Agnostic
+  Correctness Predictors from Historical Patterns
+ADAM: A Diverse Archive of Mankind for Evaluating and Enhancing LLMs in
+  Biographical Reasoning
+Charting a Decade of Computational Linguistics in Italy: The CLiC-it
+  Corpus
+Advancing Reference-free Evaluation of Video Captions with Factual
+  Analysis
