@@ -3283,3 +3283,75 @@ Charting a Decade of Computational Linguistics in Italy: The CLiC-it
   Corpus
 Advancing Reference-free Evaluation of Video Captions with Factual
   Analysis
+Dense-photometry Validation of Superfast-rotating Asteroid Candidates
+Massive Double White Dwarf Binary Mergers from the Moon: Extending the Reach of Multimessenger Astrophysics
+Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified
+  Self-Play
+MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP
+  Use
+TruthRL: Incentivizing Truthful LLMs via Reinforcement Learning
+OceanGym: A Benchmark Environment for Underwater Embodied Agents
+DC-VideoGen: Efficient Video Generation with Deep Compression Video
+  Autoencoder
+Who's Your Judge? On the Detectability of LLM-Generated Judgments
+Learning to See Before Seeing: Demystifying LLM Visual Priors from
+  Language Pre-training
+Thinking Sparks!: Emergent Attention Heads in Reasoning Models During
+  Post Training
+VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in
+  Real-world Applications
+dParallel: Learnable Parallel Decoding for dLLMs
+IMG: Calibrating Diffusion Models via Implicit Multimodal Guidance
+MotionRAG: Motion Retrieval-Augmented Image-to-Video Generation
+Winning the Pruning Gamble: A Unified Approach to Joint Sample and Token
+  Pruning for Efficient Supervised Fine-Tuning
+Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and
+  Multi-Scale Global-Local Attention
+Mem-α: Learning Memory Construction via Reinforcement Learning
+Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal
+  LLMs
+Attention as a Compass: Efficient Exploration for Process-Supervised RL
+  in Reasoning Models
+OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost
+  Always!
+DA^2: Depth Anything in Any Direction
+DeepScientist: Advancing Frontier-Pushing Scientific Findings
+  Progressively
+Regression Language Models for Code
+A Cartography of Open Collaboration in Open Source AI: Mapping
+  Practices, Motivations, and Governance in 14 Open Large Language Model
+  Projects
+Humanline: Online Alignment as Perceptual Loss
+Ferret-UI Lite: Lessons from Building Small On-Device GUI Agents
+More Thought, Less Accuracy? On the Dual Nature of Reasoning in
+  Vision-Language Models
+InfoAgent: Advancing Autonomous Information-Seeking Agents
+Test-Time Policy Adaptation for Enhanced Multi-Turn Interactions with
+  LLMs
+Benefits and Pitfalls of Reinforcement Learning for Language Model
+  Planning: A Theoretical Perspective
+TAU: A Benchmark for Cultural Sound Understanding Beyond Semantics
+EntroPE: Entropy-Guided Dynamic Patch Encoder for Time Series
+  Forecasting
+VisualOverload: Probing Visual Understanding of VLMs in Really Dense
+  Scenes
+TTT3R: 3D Reconstruction as Test-Time Training
+Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics
+  Research Benchmark
+Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced
+  Performance Gap
+LayerD: Decomposing Raster Graphic Designs into Layers
+Who invented deep residual learning?
+Knowledge Homophily in Large Language Models
+d^2Cache: Accelerating Diffusion-Based LLMs via Dual Adaptive Caching
+BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source
+  Software
+Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional
+  Video Generation
+ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency
+  Estimation
+jina-reranker-v3: Last but Not Late Interaction for Document Reranking
+MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial
+  Purification
+Estimating Time Series Foundation Model Transferability via In-Context
+  Learning
