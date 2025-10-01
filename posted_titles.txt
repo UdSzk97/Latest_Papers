@@ -3355,3 +3355,80 @@ MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial
   Purification
 Estimating Time Series Foundation Model Transferability via In-Context
   Learning
+Distal impact-related surface flows associated with the well-preserved Tokmok Crater, Noachis Terra, Mars
+The environmental burden of building on the Moon
+Exploring the sub-Neptune frontier with JWST
+Exploring exoplanet dynamics with JWST: Tides, rotation, rings, and moons
+Prospects for detecting signs of life on exoplanets in the JWST era
+A precise metallicity and carbon-to-oxygen ratio for a warm giant exoplanet from its panchromatic JWST emission spectrum
+MCPMark: A Benchmark for Stress-Testing Realistic and Comprehensive MCP
+  Use
+The Dragon Hatchling: The Missing Link between the Transformer and
+  Models of the Brain
+Vision-Zero: Scalable VLM Self-Improvement via Strategic Gamified
+  Self-Play
+Winning the Pruning Gamble: A Unified Approach to Joint Sample and Token
+  Pruning for Efficient Supervised Fine-Tuning
+Learning to See Before Seeing: Demystifying LLM Visual Priors from
+  Language Pre-training
+More Thought, Less Accuracy? On the Dual Nature of Reasoning in
+  Vision-Language Models
+Thinking-Free Policy Initialization Makes Distilled Reasoning Models
+  More Effective and Efficient Reasoners
+DC-VideoGen: Efficient Video Generation with Deep Compression Video
+  Autoencoder
+Thinking Sparks!: Emergent Attention Heads in Reasoning Models During
+  Post Training
+VitaBench: Benchmarking LLM Agents with Versatile Interactive Tasks in
+  Real-world Applications
+Learning Human-Perceived Fakeness in AI-Generated Videos via Multimodal
+  LLMs
+DeepScientist: Advancing Frontier-Pushing Scientific Findings
+  Progressively
+Efficient Audio-Visual Speech Separation with Discrete Lip Semantics and
+  Multi-Scale Global-Local Attention
+OffTopicEval: When Large Language Models Enter the Wrong Chat, Almost
+  Always!
+Muon Outperforms Adam in Tail-End Associative Memory Learning
+Attention as a Compass: Efficient Exploration for Process-Supervised RL
+  in Reasoning Models
+Voice Evaluation of Reasoning Ability: Diagnosing the Modality-Induced
+  Performance Gap
+A Cartography of Open Collaboration in Open Source AI: Mapping
+  Practices, Motivations, and Governance in 14 Open Large Language Model
+  Projects
+VisualOverload: Probing Visual Understanding of VLMs in Really Dense
+  Scenes
+Benefits and Pitfalls of Reinforcement Learning for Language Model
+  Planning: A Theoretical Perspective
+Test-Time Policy Adaptation for Enhanced Multi-Turn Interactions with
+  LLMs
+DeepCodeSeek: Real-Time API Retrieval for Context-Aware Code Generation
+EntroPE: Entropy-Guided Dynamic Patch Encoder for Time Series
+  Forecasting
+BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source
+  Software
+Context Is What You Need: The Maximum Effective Context Window for Real
+  World Limits of LLMs
+Video Object Segmentation-Aware Audio Generation
+Probing the Critical Point (CritPt) of AI Reasoning: a Frontier Physics
+  Research Benchmark
+Nudging the Boundaries of LLM Reasoning
+Swift: An Autoregressive Consistency Model for Efficient Weather
+  Forecasting
+MANI-Pure: Magnitude-Adaptive Noise Injection for Adversarial
+  Purification
+CORRECT: COndensed eRror RECognition via knowledge Transfer in
+  multi-agent systems
+Estimating Time Series Foundation Model Transferability via In-Context
+  Learning
+LLM Watermark Evasion via Bias Inversion
+Convolutional Set Transformer
+Stable Cinemetrics : Structured Taxonomy and Evaluation for Professional
+  Video Generation
+ProfVLM: A Lightweight Video-Language Model for Multi-View Proficiency
+  Estimation
+Learning to Reason as Action Abstractions with Scalable Mid-Training RL
+Specialization after Generalization: Towards Understanding Test-Time
+  Training in Foundation Models
+GeoRemover: Removing Objects and Their Causal Visual Artifacts
