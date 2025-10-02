@@ -3432,3 +3432,46 @@ Learning to Reason as Action Abstractions with Scalable Mid-Training RL
 Specialization after Generalization: Towards Understanding Test-Time
   Training in Foundation Models
 GeoRemover: Removing Objects and Their Causal Visual Artifacts
+Enceladus’s Limit Cycle
+Enceladus’s Tidal Heating: A Simple Approach
+DeepSearch: Overcome the Bottleneck of Reinforcement Learning with
+  Verifiable Rewards via Monte Carlo Tree Search
+GEM: A Gym for Agentic LLMs
+VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified
+  Rewards in World Simulators
+Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget
+  Allocation
+Code2Video: A Code-centric Paradigm for Educational Video Generation
+ACON: Optimizing Context Compression for Long-horizon LLM Agents
+PIPer: On-Device Environment Setup via Online Reinforcement Learning
+Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals
+  Long-Range Dependency Pitfalls
+BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model
+  Responses
+Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel
+  Execution
+BroRL: Scaling Reinforcement Learning via Broadened Exploration
+Beyond Log Likelihood: Probability-Based Objectives for Supervised
+  Fine-Tuning across the Model Capability Continuum
+On Predictability of Reinforcement Learning Dynamics for Large Language
+  Models
+GUI-KV: Efficient GUI Agents via KV Cache with Spatio-Temporal Awareness
+Training Vision-Language Process Reward Models for Test-Time Scaling in
+  Multimodal Reasoning: Key Insights and Lessons Learned
+Infusing Theory of Mind into Socially Intelligent LLM Agents
+Making, not Taking, the Best of N
+Eliciting Secret Knowledge from Language Models
+CurES: From Gradient Analysis to Efficient Curriculum Learning for
+  Reasoning LLMs
+In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn
+  Reasoning
+JoyAgent-JDGenie: Technical Report on the GAIA
+An Empirical Study of Testing Practices in Open Source AI Agent
+  Frameworks and Agentic Applications
+ReSWD: ReSTIR'd, not shaken. Combining Reservoir Sampling and Sliced
+  Wasserstein Distance for Variance Reduction
+VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained
+  Perception in VLMs
+Boolean Satisfiability via Imitation Learning
+Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic
+  Architectures
