@@ -3475,3 +3475,51 @@ VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained
 Boolean Satisfiability via Imitation Learning
 Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic
   Architectures
+These alien planets are astronomers’ favourites: here’s why
+DeepSearch: Overcome the Bottleneck of Reinforcement Learning with
+  Verifiable Rewards via Monte Carlo Tree Search
+VLA-RFT: Vision-Language-Action Reinforcement Fine-tuning with Verified
+  Rewards in World Simulators
+Knapsack RL: Unlocking Exploration of LLMs via Optimizing Budget
+  Allocation
+SINQ: Sinkhorn-Normalized Quantization for Calibration-Free
+  Low-Precision LLM Weights
+It Takes Two: Your GRPO Is Secretly DPO
+Why Can't Transformers Learn Multiplication? Reverse-Engineering Reveals
+  Long-Range Dependency Pitfalls
+BiasFreeBench: a Benchmark for Mitigating Bias in Large Language Model
+  Responses
+EditReward: A Human-Aligned Reward Model for Instruction-Guided Image
+  Editing
+QUASAR: Quantum Assembly Code Generation Using Tool-Augmented LLMs via
+  Agentic RL
+Flash-Searcher: Fast and Effective Web Agents via DAG-Based Parallel
+  Execution
+Beyond Log Likelihood: Probability-Based Objectives for Supervised
+  Fine-Tuning across the Model Capability Continuum
+On Predictability of Reinforcement Learning Dynamics for Large Language
+  Models
+MixtureVitae: Open Web-Scale Pretraining Dataset With High Quality
+  Instruction and Reasoning Data Built from Permissive-First Text Sources
+Training Vision-Language Process Reward Models for Test-Time Scaling in
+  Multimodal Reasoning: Key Insights and Lessons Learned
+Pay-Per-Search Models are Abstention Models
+CurES: From Gradient Analysis to Efficient Curriculum Learning for
+  Reasoning LLMs
+In-Place Feedback: A New Paradigm for Guiding LLMs in Multi-Turn
+  Reasoning
+An Empirical Study of Testing Practices in Open Source AI Agent
+  Frameworks and Agentic Applications
+ReSWD: ReSTIR'd, not shaken. Combining Reservoir Sampling and Sliced
+  Wasserstein Distance for Variance Reduction
+BindWeave: Subject-Consistent Video Generation via Cross-Modal
+  Integration
+BatonVoice: An Operationalist Framework for Enhancing Controllable
+  Speech Synthesis with Linguistic Intelligence from LLMs
+VLM-FO1: Bridging the Gap Between High-Level Reasoning and Fine-Grained
+  Perception in VLMs
+Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic
+  Architectures
+TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic
+  Tasks
+Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models
