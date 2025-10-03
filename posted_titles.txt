@@ -3523,3 +3523,73 @@ Hyperdimensional Probe: Decoding LLM Representations via Vector Symbolic
 TGPO: Temporal Grounded Policy Optimization for Signal Temporal Logic
   Tasks
 Aligning Visual Foundation Encoders to Tokenizers for Diffusion Models
+Examining the Radial Evolution of a Corotating Interaction Region Observed at STEREO-A and MAVEN
+Electrostatic Charging of Lunar Cavities Governed by the Flow‐to‐Thermal Speed Ratio: 3D PIC Simulations and a Free‐Fall Model
+A Global Map of Average Electron Densities in the Magnetosphere of Saturn
+Noble gases and nitrogen in material from asteroid Bennu
+Extreme Forward Scattering Observed in Disk-averaged Near-infrared Phase Curves of Titan
+Self-Forcing++: Towards Minute-Scale High-Quality Video Generation
+LongCodeZip: Compress Long Context for Code Language Models
+StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided
+  Illusions
+ExGRPO: Learning to Reason from Experience
+StockBench: Can LLM Agents Trade Stocks Profitably In Real-world
+  Markets?
+Interactive Training: Feedback-Driven Neural Network Optimization
+VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal
+  Reasoning
+CLUE: Non-parametric Verification from Experience via Hidden-State
+  Clustering
+RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via
+  Multi-Stage Reinforcement Learning
+RLP: Reinforcement as a Pretraining Objective
+The Unreasonable Effectiveness of Scaling Agents for Computer Use
+Ovi: Twin Backbone Cross-Modal Fusion for Audio-Video Generation
+DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag
+  Editing
+Learning to Reason for Hallucination Span Detection
+TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP
+  Environments
+The Rogue Scalpel: Activation Steering Compromises LLM Safety
+F2LLM Technical Report: Matching SOTA Embedding Performance with 6
+  Million Open-Source Data
+Automated Structured Radiology Report Generation with Rich Clinical
+  Context
+Visual Multi-Agent System: Mitigating Hallucination Snowballing via
+  Visual Flow
+VideoNSA: Native Sparse Attention Scales Video Understanding
+Go with Your Gut: Scaling Confidence for Autoregressive Image Generation
+Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming
+  Attacks
+A Rigorous Benchmark with Multidimensional Evaluation for Deep Research
+  Agents: From Answers to Reports
+Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and
+  Reasoning in Vision-Language Models
+Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject
+  Fidelity
+Transformers Discover Molecular Structure Without Graph Priors
+Rethinking the shape convention of an MLP
+VLA-R1: Enhancing Reasoning in Vision-Language-Action Models
+VIRTUE: Visual-Interactive Text-Image Universal Embedder
+Group-Relative REINFORCE Is Secretly an Off-Policy Algorithm:
+  Demystifying Some Myths About GRPO and Its Friends
+SKYLENAGE Technical Report: Mathematical Reasoning and
+  Contest-Innovation Benchmarks for Multi-Level Math Evaluation
+Parallel Scaling Law: Unveiling Reasoning Generalization through A
+  Cross-Linguistic Perspective
+Just Do It!? Computer-Use Agents Exhibit Blind Goal-Directedness
+Generalized Parallel Scaling with Interdependent Generations
+RLAD: Training LLMs to Discover Abstractions for Solving Reasoning
+  Problems
+MedQ-Bench: Evaluating and Exploring Medical Image Quality Assessment
+  Abilities in MLLMs
+TimeSeriesScientist: A General-Purpose AI Agent for Time Series Analysis
+Spectral Scaling Laws in Language Models: How Effectively Do
+  Feed-Forward Networks Use Their Latent Space?
+FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame
+  Spotlighting
+AReUReDi: Annealed Rectified Updates for Refining Discrete Flows with
+  Multi-Objective Guidance
+SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking
+  for Training-free Zero-Shot Composed Image Retrieval
+IoT-MCP: Bridging LLMs and IoT Systems Through Model Context Protocol
