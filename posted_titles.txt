@@ -3819,3 +3819,57 @@ Think Right: Learning to Mitigate Under-Over Thinking via Adaptive,
   Attentive Compression
 AReUReDi: Annealed Rectified Updates for Refining Discrete Flows with
   Multi-Objective Guidance
+StealthAttack: Robust 3D Gaussian Splatting Poisoning via Density-Guided
+  Illusions
+StockBench: Can LLM Agents Trade Stocks Profitably In Real-world
+  Markets?
+Tree-based Dialogue Reinforced Policy Optimization for Red-Teaming
+  Attacks
+CLUE: Non-parametric Verification from Experience via Hidden-State
+  Clustering
+VOGUE: Guiding Exploration with Visual Uncertainty Improves Multimodal
+  Reasoning
+RewardMap: Tackling Sparse Rewards in Fine-grained Visual Reasoning via
+  Multi-Stage Reinforcement Learning
+F2LLM Technical Report: Matching SOTA Embedding Performance with 6
+  Million Open-Source Data
+TOUCAN: Synthesizing 1.5M Tool-Agentic Data from Real-World MCP
+  Environments
+A Rigorous Benchmark with Multidimensional Evaluation for Deep Research
+  Agents: From Answers to Reports
+Sparse Query Attention (SQA): A Computationally Efficient Attention
+  Mechanism with Query Heads Reduction
+DragFlow: Unleashing DiT Priors with Region Based Supervision for Drag
+  Editing
+Agentic Jigsaw Interaction Learning for Enhancing Visual Perception and
+  Reasoning in Vision-Language Models
+Visual Multi-Agent System: Mitigating Hallucination Snowballing via
+  Visual Flow
+Automated Structured Radiology Report Generation with Rich Clinical
+  Context
+Optimal Control Meets Flow Matching: A Principled Route to Multi-Subject
+  Fidelity
+RLAD: Training LLMs to Discover Abstractions for Solving Reasoning
+  Problems
+Group-Relative REINFORCE Is Secretly an Off-Policy Algorithm:
+  Demystifying Some Myths About GRPO and Its Friends
+Drawing Conclusions from Draws: Rethinking Preference Semantics in
+  Arena-Style LLM Evaluation
+Parallel Scaling Law: Unveiling Reasoning Generalization through A
+  Cross-Linguistic Perspective
+One-Token Rollout: Guiding Supervised Fine-Tuning of LLMs with Policy
+  Gradient
+FrameThinker: Learning to Think with Long Videos via Multi-Turn Frame
+  Spotlighting
+SKYLENAGE Technical Report: Mathematical Reasoning and
+  Contest-Innovation Benchmarks for Multi-Level Math Evaluation
+MedQ-Bench: Evaluating and Exploring Medical Image Quality Assessment
+  Abilities in MLLMs
+Spectral Scaling Laws in Language Models: How Effectively Do
+  Feed-Forward Networks Use Their Latent Space?
+SQUARE: Semantic Query-Augmented Fusion and Efficient Batch Reranking
+  for Training-free Zero-Shot Composed Image Retrieval
+Think Right: Learning to Mitigate Under-Over Thinking via Adaptive,
+  Attentive Compression
+AReUReDi: Annealed Rectified Updates for Refining Discrete Flows with
+  Multi-Objective Guidance
