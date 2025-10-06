@@ -3873,3 +3873,39 @@ Think Right: Learning to Mitigate Under-Over Thinking via Adaptive,
   Attentive Compression
 AReUReDi: Annealed Rectified Updates for Refining Discrete Flows with
   Multi-Objective Guidance
+Multi-band Spectral and Astrometric Characterization of the HIP 99770 b Planet with SCExAO/CHARIS and Gaia ∗
+The Impact of Enhanced Extreme-ultraviolet Flux on the Upper Atmosphere of Earth-like Exoplanets
+Apriel-1.5-15b-Thinker
+Efficient Multi-modal Large Language Models via Progressive Consistency
+  Distillation
+Compose Your Policies! Improving Diffusion-based or Flow-based Robot
+  Policies via Test-time Distribution-level Composition
+Self-Improvement in Multimodal Large Language Models: A Survey
+Your Agent May Misevolve: Emergent Risks in Self-evolving LLM Agents
+SurveyBench: How Well Can LLM(-Agents) Write Academic Surveys?
+CoDA: Agentic Systems for Collaborative Data Visualization
+REPAIR: Robust Editing via Progressive Adaptive Intervention and
+  Reintegration
+FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of
+  Web Agents
+Improving GUI Grounding with Explicit Position-to-Coordinate Mapping
+LSPO: Length-aware Dynamic Sampling for Policy Optimization in LLM
+  Reasoning
+Free Lunch Alignment of Text-to-Image Diffusion Models without
+  Preference Image Pairs
+OrtSAE: Orthogonal Sparse Autoencoders Uncover Atomic Features
+LEAML: Label-Efficient Adaptation to Out-of-Distribution Visual Tasks
+  for Multimodal Large Language Models
+SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the
+  SpineMed-450k Corpus
+How Confident are Video Models? Empowering Video Models to Express their
+  Uncertainty
+WAInjectBench: Benchmarking Prompt Injection Detections for Web Agents
+A Practitioner's Guide to Multi-turn Agentic Reinforcement Learning
+Align Your Tangent: Training Better Consistency Models via
+  Manifold-Aligned Tangents
+NuRisk: A Visual Question Answering Dataset for Agent-Level Risk
+  Assessment in Autonomous Driving
+Triangle Splatting+: Differentiable Rendering with Opaque Triangles
+Scaling Policy Compliance Assessment in Language Models with Policy
+  Reasoning Traces
