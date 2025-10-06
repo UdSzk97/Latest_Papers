@@ -3909,3 +3909,50 @@ NuRisk: A Visual Question Answering Dataset for Agent-Level Risk
 Triangle Splatting+: Differentiable Rendering with Opaque Triangles
 Scaling Policy Compliance Assessment in Language Models with Policy
   Reasoning Traces
+On the Meaning of the Dynamo Radius in Giant Planets with Stable Layer
+Deuterated Water Ice on the Satellites of Saturn
+Large Reasoning Models Learn Better Alignment from Flawed Thinking
+Efficient Multi-modal Large Language Models via Progressive Consistency
+  Distillation
+Compose Your Policies! Improving Diffusion-based or Flow-based Robot
+  Policies via Test-time Distribution-level Composition
+Bridging the Gap Between Promise and Performance for Microscaling FP4
+  Quantization
+REPAIR: Robust Editing via Progressive Adaptive Intervention and
+  Reintegration
+TalkPlay-Tools: Conversational Music Recommendation with LLM Tool
+  Calling
+FocusAgent: Simple Yet Effective Ways of Trimming the Large Context of
+  Web Agents
+OpenTSLM: Time-Series Language Models for Reasoning over Multivariate
+  Medical Text- and Time-Series Data
+Game-Time: Evaluating Temporal Dynamics in Spoken Language Models
+SoundReactor: Frame-level Online Video-to-Audio Generation
+LSPO: Length-aware Dynamic Sampling for Policy Optimization in LLM
+  Reasoning
+Personalized Reasoning: Just-In-Time Personalization and Why LLMs Fail
+  At It
+Free Lunch Alignment of Text-to-Image Diffusion Models without
+  Preference Image Pairs
+LEAML: Label-Efficient Adaptation to Out-of-Distribution Visual Tasks
+  for Multimodal Large Language Models
+SpineBench: A Clinically Salient, Level-Aware Benchmark Powered by the
+  SpineMed-450k Corpus
+Consolidating Reinforcement Learning for Multimodal Discrete Diffusion
+  Models
+Dale meets Langevin: A Multiplicative Denoising Diffusion Model
+Less LLM, More Documents: Searching for Improved RAG
+How Confident are Video Models? Empowering Video Models to Express their
+  Uncertainty
+Continuously Augmented Discrete Diffusion model for Categorical
+  Generative Modeling
+Align Your Tangent: Training Better Consistency Models via
+  Manifold-Aligned Tangents
+DiffTester: Accelerating Unit Test Generation for Diffusion LLMs via
+  Repetitive Pattern
+NuRisk: A Visual Question Answering Dataset for Agent-Level Risk
+  Assessment in Autonomous Driving
+Pretraining with hierarchical memories: separating long-tail and common
+  knowledge
+Scaling Policy Compliance Assessment in Language Models with Policy
+  Reasoning Traces
