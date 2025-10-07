@@ -3956,3 +3956,56 @@ Pretraining with hierarchical memories: separating long-tail and common
   knowledge
 Scaling Policy Compliance Assessment in Language Models with Policy
   Reasoning Traces
+Petrogenesis of Lunar Farside Highland Lithologies: Implications for Lunar Crust Formation
+Theoretical Perspective on the Occurrence of Electrostatic Solitary Waves and Double Layers in Ganymede’s Wake Region
+Lyα Emission from K and M Dwarfs: Intrinsic Profiles, Variability, and Flux in the Habitable Zone
+New knowledge about shock events that affected the L‐chondrite parent body from two heavily shocked L6 meteorite finds
+Remote Sensing, Vol. 17, Pages 3377: DBYOLO: Dual-Backbone YOLO Network for Lunar Crater Detection
+Paper2Video: Automatic Video Generation from Scientific Papers
+Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large
+  Multimodal Models
+MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual
+  Information
+Imperceptible Jailbreaking against Large Language Models
+Hybrid Architectures for Language Models: Systematic Analysis and Design
+  Insights
+VChain: Chain-of-Visual-Thought for Reasoning in Video Generation
+Factuality Matters: When Image Generation and Editing Meet Structured
+  Visuals
+Reactive Transformer (RxT) -- Stateful Real-Time Processing for
+  Event-Driven Reactive Language Models
+Judging with Confidence: Calibrating Autoraters to Preference
+  Distributions
+Reinforce-Ada: An Adaptive Sampling Framework for Reinforce-Style LLM
+  Training
+Code4MeV2: a Research-oriented Code-completion Platform
+Self-Reflective Generation at Test Time
+Optimal Scaling Needs Optimal Norm
+SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior
+  Reasoning LLMs
+Watch and Learn: Learning to Use Computers from Online Videos
+Agentic Context Engineering: Evolving Contexts for Self-Improving
+  Language Models
+ChronoEdit: Towards Temporal Reasoning for Image Editing and World
+  Simulation
+Front-Loading Reasoning: The Synergy between Pretraining and
+  Post-Training Data
+Good Intentions Beyond ACL: Who Does NLP for Social Good, and Where?
+Thai Semantic End-of-Turn Detection for Real-Time Voice Agents
+EvolProver: Advancing Automated Theorem Proving by Evolving Formalized
+  Problems via Symmetry and Difficulty
+Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the
+  Rails
+HiKE: Hierarchical Evaluation Framework for Korean-English
+  Code-Switching Speech Recognition
+SAEdit: Token-level control for continuous image editing via Sparse
+  AutoEncoder
+Utility-Learning Tension in Self-Modifying Agents
+Epistemic Diversity and Knowledge Collapse in Large Language Models
+MoME: Mixture of Matryoshka Experts for Audio-Visual Speech Recognition
+AdvEvo-MARL: Shaping Internalized Safety through Adversarial
+  Co-Evolution in Multi-Agent Reinforcement Learning
+Graph2Eval: Automatic Multimodal Task Generation for Agents via
+  Knowledge Graphs
+LLMSQL: Upgrading WikiSQL for the LLM Era of Text-to-SQL
+Character Mixing for Video Generation
