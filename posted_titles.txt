@@ -4009,3 +4009,56 @@ Graph2Eval: Automatic Multimodal Task Generation for Agents via
   Knowledge Graphs
 LLMSQL: Upgrading WikiSQL for the LLM Era of Text-to-SQL
 Character Mixing for Video Generation
+Spectral mixture modeling with laboratory near-infrared data I: Insights into compositional analysis of Europa
+Chemistry, Climate, and Transmission Spectra of TRAPPIST-1 e Explored with a Multimodel Sparse Sampled Ensemble
+Video-LMM Post-Training: A Deep Dive into Video Reasoning with Large
+  Multimodal Models
+MITS: Enhanced Tree Search Reasoning for LLMs via Pointwise Mutual
+  Information
+Hybrid Architectures for Language Models: Systematic Analysis and Design
+  Insights
+Agentic Context Engineering: Evolving Contexts for Self-Improving
+  Language Models
+Reactive Transformer (RxT) -- Stateful Real-Time Processing for
+  Event-Driven Reactive Language Models
+Front-Loading Reasoning: The Synergy between Pretraining and
+  Post-Training Data
+Factuality Matters: When Image Generation and Editing Meet Structured
+  Visuals
+Fine-Tuning on Noisy Instructions: Effects on Generalization and
+  Performance
+Judging with Confidence: Calibrating Autoraters to Preference
+  Distributions
+Reinforce-Ada: An Adaptive Sampling Framework for Reinforce-Style LLM
+  Training
+Prosperity before Collapse: How Far Can Off-Policy RL Reach with Stale
+  Data on LLMs?
+MOSS-Speech: Towards True Speech-to-Speech Models Without Text Guidance
+SwiReasoning: Switch-Thinking in Latent and Explicit for Pareto-Superior
+  Reasoning LLMs
+ChronoEdit: Towards Temporal Reasoning for Image Editing and World
+  Simulation
+EvolProver: Advancing Automated Theorem Proving by Evolving Formalized
+  Problems via Symmetry and Difficulty
+SAEdit: Token-level control for continuous image editing via Sparse
+  AutoEncoder
+Alignment Tipping Process: How Self-Evolution Pushes LLM Agents Off the
+  Rails
+Slow-Fast Policy Optimization: Reposition-Before-Update for LLM
+  Reasoning
+HiKE: Hierarchical Evaluation Framework for Korean-English
+  Code-Switching Speech Recognition
+Test-Time Scaling in Diffusion LLMs via Hidden Semi-Autoregressive
+  Experts
+Learning on the Job: Test-Time Curricula for Targeted Reinforcement
+  Learning
+Position: Privacy Is Not Just Memorization!
+AdvEvo-MARL: Shaping Internalized Safety through Adversarial
+  Co-Evolution in Multi-Agent Reinforcement Learning
+Graph2Eval: Automatic Multimodal Task Generation for Agents via
+  Knowledge Graphs
+Power Transform Revisited: Numerically Stable, and Federated
+Federated Computation of ROC and PR Curves
+Paris: A Decentralized Trained Open-Weight Diffusion Model
+CWM: An Open-Weights LLM for Research on Code Generation with World
+  Models
