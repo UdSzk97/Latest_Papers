@@ -4117,3 +4117,77 @@ OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit
   Flows
 HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate
   Hallucinations in Retrieval-Augmented Generation
+Characteristics and dynamics of spring-time northern cap-edge dust activities simulated by a Mars climate model
+Southward impact excavated magma ocean at the lunar South Pole–Aitken basin
+The Lunar Instrumentation for Subsurface Thermal Exploration with Rapidity (LISTER) on Blue Ghost Mission 1 to Mare Crisium. I. Pneumatic Excavation of Regolith
+Dust devil migration patterns reveal strong near-surface winds across Mars
+Less is More: Recursive Reasoning with Tiny Networks
+Fathom-DeepResearch: Unlocking Long Horizon Information Retrieval and
+  Synthesis for SLMs
+TaTToo: Tool-Grounded Thinking PRM for Test-Time Scaling in Tabular
+  Reasoning
+In-the-Flow Agentic System Optimization for Effective Planning and Tool
+  Use
+Drax: Speech Recognition with Discrete Flow Matching
+Scaling Code-Assisted Chain-of-Thoughts and Instructions for Model
+  Reasoning
+Presenting a Paper is an Art: Self-Improvement Aesthetic Agents for
+  Academic Presentations
+CCD: Mitigating Hallucinations in Radiology MLLMs via Clinical
+  Contrastive Decoding
+ShapeGen4D: Towards High Quality 4D Shape Generation from Videos
+Discrete Diffusion Models with MLLMs for Unified Medical Multimodal
+  Generation
+Mixing Mechanisms: How Language Models Retrieve Bound Entities
+  In-Context
+OneFlow: Concurrent Mixed-Modal and Interleaved Generation with Edit
+  Flows
+TensorBLEU: Vectorized GPU-based BLEU Score Implementation for
+  Per-Sentence In-Training Evaluation
+AInstein: Assessing the Feasibility of AI-Generated Approaches to
+  Research Problems
+LightCache: Memory-Efficient, Training-Free Acceleration for Video
+  Generation
+Margin Adaptive DPO: Leveraging Reward Model for Granular Control in
+  Preference Optimization
+BIRD-INTERACT: Re-imagining Text-to-SQL Evaluation for Large Language
+  Models via Lens of Dynamic Interactions
+Let it Calm: Exploratory Annealed Decoding for Verifiable Reinforcement
+  Learning
+GRACE: Generative Representation Learning via Contrastive Policy
+  Optimization
+Equilibrium Matching: Generative Modeling with Implicit Energy-Based
+  Models
+Demystifying deep search: a holistic evaluation with hint-free multi-hop
+  questions and factorised metrics
+EgoNight: Towards Egocentric Vision Understanding at Night with a
+  Challenging Benchmark
+CARE: Cognitive-reasoning Augmented Reinforcement for Emotional Support
+  Conversation
+Distributional Semantics Tracing: A Framework for Explaining
+  Hallucinations in Large Language Models
+Adaptive Pruning for Increased Robustness and Reduced Computational
+  Overhead in Gaussian Process Accelerated Saddle Point Searches
+Scalable In-context Ranking with Generative Models
+No Tokens Wasted: Leveraging Long Context in Biomedical Vision-Language
+  Models
+DRIFT: Learning from Abundant User Dissatisfaction in Real-World
+  Preference Learning
+Deforming Videos to Masks: Flow Matching for Referring Video
+  Segmentation
+Benchmark It Yourself (BIY): Preparing a Dataset and Benchmarking AI
+  Models for Scatterplot-Related Tasks
+Scientific Algorithm Discovery by Augmenting AlphaEvolve with Deep
+  Research
+Verifier-free Test-Time Sampling for Vision Language Action Models
+A Contextual Quality Reward Model for Reliable and Efficient Best-of-N
+  Sampling
+On Code-Induced Reasoning in LLMs
+The Valley of Code Reasoning: Scaling Knowledge Distillation of Large
+  Language Models
+Revisiting Modeling and Evaluation Approaches in Speech Emotion
+  Recognition: Considering Subjectivity of Annotators and Ambiguity of Emotions
+ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in
+  Complex Chart Question Answering
+HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate
+  Hallucinations in Retrieval-Augmented Generation
