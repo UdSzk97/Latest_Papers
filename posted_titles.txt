@@ -4242,3 +4242,51 @@ NorMuon: Making Muon more efficient and scalable
 DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for
   Autonomous Travel Planning Agents
 Heptapod: Language Modeling on Visual Signals
+Surface Composition of Asteroid 269 Justitia: Insights from Spectral Mixture Modeling
+The Noritic mineralogy of V- and S-type objects and the links with asteroid (4) Vesta
+Mineralogy and Geochemistry of Xenoliths and Phreatomagmatic Deposits in Potrillo Volcanic Field, New Mexico, Determined from Portable Instruments: Applications to Surface Exploration of the Moon and Mars
+Constraining exoplanet interiors using observations of their atmospheres
+Cache-to-Cache: Direct Semantic Communication Between Large Language
+  Models
+Ming-UniVision: Joint Image Understanding and Generation with a Unified
+  Continuous Tokenizer
+Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal
+  Generation and Understanding
+Why Low-Precision Transformer Training Fails: An Analysis on Flash
+  Attention
+CALM Before the STORM: Unlocking Native Reasoning for Optimization
+  Modeling
+The African Languages Lab: A Collaborative Approach to Advancing
+  Low-Resource African NLP
+Pushing on Multilingual Reasoning Models with Language-Mixed
+  Chain-of-Thought
+When Benchmarks Age: Temporal Misalignment through Large Language Model
+  Factuality Evaluation
+Are We Using the Right Benchmark: An Evaluation Framework for Visual
+  Token Compression Methods
+StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact
+  State Representation
+Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in
+  MLLMs
+WristWorld: Generating Wrist-Views via 4D World Models for Robotic
+  Manipulation
+Revisiting the Uniform Information Density Hypothesis in LLM Reasoning
+  Traces
+AlphaApollo: Orchestrating Foundation Models and Professional Tools into
+  a Self-Evolving System for Deep Agentic Reasoning
+U-Bench: A Comprehensive Understanding of U-Net through 100-Variant
+  Benchmarking
+Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era
+  of Large Language Models
+Code Agent can be an End-to-end System Hacker: Benchmarking Real-world
+  Threats of Computer-use Agent
+DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for
+  Autonomous Travel Planning Agents
+D^3QE: Learning Discrete Distribution Discrepancy-aware
+  Quantization Error for Autoregressive-Generated Image Detection
+PuzzlePlex: Benchmarking Foundation Models on Reasoning and Planning
+  with Puzzles
+FinLFQA: Evaluating Attributed Text Generation of LLMs in Financial
+  Long-Form Question Answering
+Glocal Information Bottleneck for Time Series Imputation
+A Single Character can Make or Break Your LLM Evals
