@@ -4191,3 +4191,54 @@ ChartAgent: A Multimodal Agent for Visually Grounded Reasoning in
   Complex Chart Question Answering
 HalluGuard: Evidence-Grounded Small Reasoning Models to Mitigate
   Hallucinations in Retrieval-Augmented Generation
+paired: A Statistical Framework for Detecting Stellar Binarity with Gaia RVs. I. Sensitivity to Unresolved Binaries
+General Relativity Can Prevent a Runaway Greenhouse on Potentially Habitable Planets Orbiting White Dwarfs
+Steepened Ultra‐Low Frequency Waves and Foreshock Dynamics in the Upstream Martian Bow Shock Region
+Sliding and Burrowing Blocks of CO2 Create Sinuous “Linear Dune Gullies” on Martian Dunes by Explosive Sublimation‐Induced Particle Transport
+Cache-to-Cache: Direct Semantic Communication Between Large Language
+  Models
+Ming-UniVision: Joint Image Understanding and Generation with a Unified
+  Continuous Tokenizer
+Lumina-DiMOO: An Omni Diffusion Large Language Model for Multi-Modal
+  Generation and Understanding
+SHANKS: Simultaneous Hearing and Thinking for Spoken Language Models
+RLinf-VLA: A Unified and Efficient Framework for VLA+RL Training
+MATRIX: Mask Track Alignment for Interaction-aware Video Generation
+Vibe Checker: Aligning Code Evaluation with Human Preference
+Multi-Agent Tool-Integrated Policy Optimization
+OBS-Diff: Accurate Pruning For Diffusion Models in One-Shot
+Revisiting Long-context Modeling from Context Denoising Perspective
+Artificial Hippocampus Networks for Efficient Long-Context Modeling
+Native Hybrid Attention for Efficient Sequence Modeling
+Why Low-Precision Transformer Training Fails: An Analysis on Flash
+  Attention
+When Benchmarks Age: Temporal Misalignment through Large Language Model
+  Factuality Evaluation
+StaMo: Unsupervised Learning of Generalizable Robot Motion from Compact
+  State Representation
+Are We Using the Right Benchmark: An Evaluation Framework for Visual
+  Token Compression Methods
+Patch-as-Decodable-Token: Towards Unified Multi-Modal Vision Tasks in
+  MLLMs
+WristWorld: Generating Wrist-Views via 4D World Models for Robotic
+  Manipulation
+TTRV: Test-Time Reinforcement Learning for Vision Language Models
+MLE-Smith: Scaling MLE Tasks with Automated Multi-Agent Pipeline
+Online Generic Event Boundary Detection
+The Markovian Thinker
+Bridging Text and Video Generation: A Survey
+AlphaApollo: Orchestrating Foundation Models and Professional Tools into
+  a Self-Evolving System for Deep Agentic Reasoning
+G^2RPO: Granular GRPO for Precise Reward in Flow Models
+U-Bench: A Comprehensive Understanding of U-Net through 100-Variant
+  Benchmarking
+Beyond Monolingual Assumptions: A Survey of Code-Switched NLP in the Era
+  of Large Language Models
+The African Languages Lab: A Collaborative Approach to Advancing
+  Low-Resource African NLP
+D^3QE: Learning Discrete Distribution Discrepancy-aware
+  Quantization Error for Autoregressive-Generated Image Detection
+NorMuon: Making Muon more efficient and scalable
+DeepTravel: An End-to-End Agentic Reinforcement Learning Framework for
+  Autonomous Travel Planning Agents
+Heptapod: Language Modeling on Visual Signals
