@@ -4525,3 +4525,58 @@ R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized
   Manipulation
 Use the Online Network If You Can: Towards Fast and Stable Reinforcement
   Learning
+Earthquake detection in a simulated lunar regolith using distributed acoustic sensing
+Probing the geological setting of exoplanets through atmospheric analysis: Using Mars as a test case
+MM-HELIX: Boosting Multimodal Long-Chain Reflective Reasoning with
+  Holistic Platform and Adaptive Hybrid Policy Optimization
+VideoCanvas: Unified Video Completion from Arbitrary Spatiotemporal
+  Patches via In-Context Conditioning
+From What to Why: A Multi-Agent System for Evidence-based Chemical
+  Reaction Condition Reasoning
+Meta-Awareness Enhances Reasoning Models: Self-Alignment Reinforcement
+  Learning
+Low-probability Tokens Sustain Exploration in Reinforcement Learning
+  with Verifiable Reward
+NewtonBench: Benchmarking Generalizable Scientific Law Discovery in LLM
+  Agents
+ARTDECO: Towards Efficient and High-Fidelity On-the-Fly 3D
+  Reconstruction with Structured Scene Representation
+LLMs Learn to Deceive Unintentionally: Emergent Misalignment in
+  Dishonesty from Misaligned Samples to Biased Human-AI Interactions
+UniMMVSR: A Unified Multi-Modal Framework for Cascaded Video
+  Super-Resolution
+NaViL: Rethinking Scaling Properties of Native Multimodal Large Language
+  Models under Data Constraints
+Learning on the Job: An Experience-Driven Self-Evolving Agent for
+  Long-Horizon Tasks
+Taming Text-to-Sounding Video Generation via Advanced Modality Condition
+  and Interaction
+SciVideoBench: Benchmarking Scientific Video Reasoning in Large
+  Multimodal Models
+Large Scale Diffusion Distillation via Score-Regularized Continuous-Time
+  Consistency
+Beyond Turn Limits: Training Deep Search Agents with Dynamic Context
+  Window
+OpenRubrics: Towards Scalable Synthetic Rubric Generation for Reward
+  Modeling and LLM Alignment
+Entropy Regularizing Activation: Boosting Continuous Control, Large
+  Language Models, and Image Classification with Activation as Entropy
+  Constraints
+Memory Retrieval and Consolidation in Large Language Models through
+  Function Tokens
+Recycling Pretrained Checkpoints: Orthogonal Growth of
+  Mixture-of-Experts for Efficient Large Language Model Pre-Training
+UP2You: Fast Reconstruction of Yourself from Unconstrained Photo
+  Collections
+OmniRetarget: Interaction-Preserving Data Generation for Humanoid
+  Whole-Body Loco-Manipulation and Scene Interaction
+DexNDM: Closing the Reality Gap for Dexterous In-Hand Rotation via
+  Joint-Wise Neural Dynamics Model
+A^2Search: Ambiguity-Aware Question Answering with Reinforcement
+  Learning
+Search-R3: Unifying Reasoning and Embedding Generation in Large Language
+  Models
+R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized
+  Manipulation
+Use the Online Network If You Can: Towards Fast and Stable Reinforcement
+  Learning
