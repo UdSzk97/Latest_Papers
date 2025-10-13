@@ -4633,3 +4633,68 @@ R2RGEN: Real-to-Real 3D Data Generation for Spatially Generalized
   Manipulation
 Use the Online Network If You Can: Towards Fast and Stable Reinforcement
   Learning
+SOAPv4: A new step toward modeling stellar signatures in exoplanet research
+Starspot Temperature of CoRoT-2 from Multiwavelength Observations with SPARC4
+Evolution of Large-scale Structures in the Energetic Neutral Atom Sky Maps in Energy and Solar Activity
+Evaluating the Limits of Rotation Period Recovery Through Gyrochronology Criteria
+Warming, cooling, and surface ice accumulation initiated by the release of water from the Athabasca Valles Flood Lava eruption on Mars
+An orbital gravity mission could decipher the global dichotomy on Mars
+Thinking with Camera: A Unified Multimodal Model for Camera-Centric
+  Understanding and Generation
+D2E: Scaling Vision-Action Pretraining on Desktop Data for Transfer to
+  Embodied AI
+Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for
+  MLLMs
+TAG:Tangential Amplifying Guidance for Hallucination-Resistant Diffusion
+  Sampling
+AutoPR: Let's Automate Your Academic Promotion!
+R-Horizon: How Far Can Your Large Reasoning Model Really Go in Breadth
+  and Depth?
+Webscale-RL: Automated Data Pipeline for Scaling RL Data to Pretraining
+  Levels
+SpaceVista: All-Scale Visual Spatial Reasoning from mm to km
+ARES: Multimodal Adaptive Reasoning via Difficulty-Aware Token-Level
+  Entropy Shaping
+StreamingVLM: Real-Time Understanding for Infinite Video Streams
+Don't Waste Mistakes: Leveraging Negative RL-Groups via Confidence
+  Reweighting
+Bridging Reasoning to Learning: Unmasking Illusions using Complexity Out
+  of Distribution Generalization
+Progressive Gaussian Transformer with Anisotropy-aware Sampling for Open
+  Vocabulary Occupancy Prediction
+StatEval: A Comprehensive Benchmark for Large Language Models in
+  Statistics
+MRMR: A Realistic and Expert-Level Multidisciplinary Benchmark for
+  Reasoning-Intensive Multimodal Retrieval
+KORMo: Korean Open Reasoning Model for Everyone
+DISCO: Diversifying Sample Condensation for Efficient Model Evaluation
+Dyna-Mind: Learning to Simulate from Experience for Better AI Agents
+ReviewerToo: Should AI Join The Program Committee? A Look At The Future
+  of Peer Review
+BigCodeArena: Unveiling More Reliable Human Preferences in Code
+  Generation via Execution
+Pseudo2Real: Task Arithmetic for Pseudo-Label Correction in Automatic
+  Speech Recognition
+Parallel Test-Time Scaling for Latent Reasoning Models
+Mind-Paced Speaking: A Dual-Brain Approach to Real-Time Reasoning in
+  Spoken Language Models
+A Goal Without a Plan Is Just a Wish: Efficient and Effective Global
+  Planner Training for Long-Horizon Agent Tasks
+PhysToolBench: Benchmarking Physical Tool Understanding for MLLMs
+Adaptive Attacks on Trusted Monitors Subvert AI Control Protocols
+GTAlign: Game-Theoretic Alignment of LLM Assistants for Mutual Welfare
+Which Heads Matter for Reasoning? RL-Guided KV Cache Compression
+Understanding DeepResearch via Reports
+One Patch to Caption Them All: A Unified Zero-Shot Captioning Framework
+TC-LoRA: Temporally Modulated Conditional LoRA for Adaptive Diffusion
+  Control
+Speculative Jacobi-Denoising Decoding for Accelerating Autoregressive
+  Text-to-image Generation
+ACE: Attribution-Controlled Knowledge Editing for Multi-hop Factual
+  Recall
+Temporal Prompting Matters: Rethinking Referring Video Object
+  Segmentation
+Instant4D: 4D Gaussian Splatting in Minutes
+Mitigating Overthinking through Reasoning Shaping
+Better Together: Leveraging Unpaired Multimodal Data for Stronger
+  Unimodal Models
