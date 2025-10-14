@@ -4827,3 +4827,76 @@ CoBia: Constructed Conversations Can Trigger Otherwise Concealed
   Societal Biases in LLMs
 Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole
   Slide Image Diagnosis Behavior
+Precise Physical Parameters, Habitability, and Orbital Stability of Sun-like SB2 Systems: HD 130669, HD 184467, HD 191854, and HD 214222
+Spectrophotometry of Selected Regions of Europa—Revisiting Galileo NIMS Data
+Psyche Mission Description and Design Rationale
+QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning
+  for LLMs
+OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni
+  MLLMs
+Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by
+  Refining Belief States
+Building a Foundational Guardrail for General Agentic Systems via
+  Synthetic Data
+InternSVG: Towards Unified SVG Tasks with Multimodal Large Language
+  Models
+BrowserAgent: Building Web Agents with Human-Inspired Web Browsing
+  Actions
+ACADREASON: Exploring the Limits of Reasoning Models with Academic
+  Research Problems
+FinAuditing: A Financial Taxonomy-Structured Multi-Document Benchmark
+  for Evaluating LLMs
+AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning
+  in 4D Scenes
+CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven
+  Images
+On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in
+  Large Vision-Language Models
+High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic
+  Manipulation Learning with Gaussian Splatting
+ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web
+  Coding
+FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging
+  with Diffusion Decoding
+SwarmSys: Decentralized Swarm-Inspired Agents for Scalable and Adaptive
+  Reasoning
+The Personalization Trap: How User Memory Alters Emotional Reasoning in
+  LLMs
+Stable Video Infinity: Infinite-Length Video Generation with Error
+  Recycling
+LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion
+  Models via Likelihood Preference
+From Data to Rewards: a Bilevel Optimization Perspective on Maximum
+  Likelihood Estimation
+oMeBench: Towards Robust Benchmarking of LLMs in Organic Mechanism
+  Elucidation and Reasoning
+World-To-Image: Grounding Text-to-Image Generation with Agent-Driven
+  World Knowledge
+RePro: Training Language Models to Faithfully Recycle the Web for
+  Pretraining
+Multimodal Policy Internalization for Conversational Agents
+The Attacker Moves Second: Stronger Adaptive Attacks Bypass Defenses
+  Against Llm Jailbreaks and Prompt Injections
+VER: Vision Expert Transformer for Robot Learning via Foundation
+  Distillation and Dynamic Routing
+A Tale of LLMs and Induced Small Proxies: Scalable Agents for Knowledge
+  Mining
+IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing
+  Assessment
+AndesVL Technical Report: An Efficient Mobile-side Multimodal Large
+  Language Model
+ViSurf: Visual Supervised-and-Reinforcement Fine-Tuning for Large
+  Vision-and-Language Models
+The Hidden DNA of LLM-Generated JavaScript: Structural Patterns Enable
+  High-Accuracy Authorship Attribution
+CoBia: Constructed Conversations Can Trigger Otherwise Concealed
+  Societal Biases in LLMs
+Through the Perspective of LiDAR: A Feature-Enriched and
+  Uncertainty-Aware Annotation Pipeline for Terrestrial Point Cloud
+  Segmentation
+Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole
+  Slide Image Diagnosis Behavior
+The Curious Case of Factual (Mis)Alignment between LLMs' Short- and
+  Long-Form Answers
+VLM-Guided Adaptive Negative Prompting for Creative Generation
+MultiCOIN: Multi-Modal COntrollable Video INbetweening
