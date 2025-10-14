@@ -4756,3 +4756,74 @@ MONKEY: Masking ON KEY-Value Activation Adapter for Personalization
 Temporal Prompting Matters: Rethinking Referring Video Object
   Segmentation
 ELMUR: External Layer Memory with Update/Rewrite for Long-Horizon RL
+A High-precision Dynamical Model of Callisto: Incorporating Rotation Effects within Multilayer Internal Structure Models
+VIPER Site Analysis
+The Lucy Spacecraft
+QeRL: Beyond Efficiency -- Quantization-enhanced Reinforcement Learning
+  for LLMs
+Diffusion Transformers with Representation Autoencoders
+OmniVideoBench: Towards Audio-Visual Understanding Evaluation for Omni
+  MLLMs
+Spotlight on Token Perception for Multimodal Reinforcement Learning
+AVoCaDO: An Audiovisual Video Captioner Driven by Temporal Orchestration
+RLFR: Extending Reinforcement Learning for LLMs with Flow Environment
+DiT360: High-Fidelity Panoramic Image Generation via Hybrid Training
+Demystifying Reinforcement Learning in Agentic Reasoning
+Building a Foundational Guardrail for General Agentic Systems via
+  Synthetic Data
+Making Mathematical Reasoning Adaptive
+ACADREASON: Exploring the Limits of Reasoning Models with Academic
+  Research Problems
+FinAuditing: A Financial Taxonomy-Structured Multi-Document Benchmark
+  for Evaluating LLMs
+InternSVG: Towards Unified SVG Tasks with Multimodal Large Language
+  Models
+GIR-Bench: Versatile Benchmark for Generating Images with Reasoning
+AdaViewPlanner: Adapting Video Diffusion Models for Viewpoint Planning
+  in 4D Scenes
+Vlaser: Vision-Language-Action Model with Synergistic Embodied Reasoning
+BrowserAgent: Building Web Agents with Human-Inspired Web Browsing
+  Actions
+Don't Just Fine-tune the Agent, Tune the Environment
+SPG: Sandwiched Policy Gradient for Masked Diffusion Language Models
+CodePlot-CoT: Mathematical Visual Reasoning by Thinking with Code-Driven
+  Images
+DocReward: A Document Reward Model for Structuring and Stylizing
+Latent Refinement Decoding: Enhancing Diffusion-Based Language Models by
+  Refining Belief States
+On Epistemic Uncertainty of Visual Tokens for Object Hallucinations in
+  Large Vision-Language Models
+High-Fidelity Simulated Data Generation for Real-World Zero-Shot Robotic
+  Manipulation Learning with Gaussian Splatting
+Skill-Targeted Adaptive Training
+ReLook: Vision-Grounded RL with a Multimodal LLM Critic for Agentic Web
+  Coding
+PEAR: Phase Entropy Aware Reward for Efficient Reasoning
+Self-Improving LLM Agents at Test-Time
+FastHMR: Accelerating Human Mesh Recovery via Token and Layer Merging
+  with Diffusion Decoding
+The Personalization Trap: How User Memory Alters Emotional Reasoning in
+  LLMs
+Stable Video Infinity: Infinite-Length Video Generation with Error
+  Recycling
+InfiniHuman: Infinite 3D Human Creation with Precise Control
+HUME: Measuring the Human-Model Performance Gap in Text Embedding Task
+LLaMAX2: Your Translation-Enhanced Model also Performs Well in Reasoning
+LikePhys: Evaluating Intuitive Physics Understanding in Video Diffusion
+  Models via Likelihood Preference
+RePro: Training Language Models to Faithfully Recycle the Web for
+  Pretraining
+Graph Diffusion Transformers are In-Context Molecular Designers
+From Data to Rewards: a Bilevel Optimization Perspective on Maximum
+  Likelihood Estimation
+VER: Vision Expert Transformer for Robot Learning via Foundation
+  Distillation and Dynamic Routing
+Are Large Reasoning Models Interruptible?
+IVEBench: Modern Benchmark Suite for Instruction-Guided Video Editing
+  Assessment
+The Hidden DNA of LLM-Generated JavaScript: Structural Patterns Enable
+  High-Accuracy Authorship Attribution
+CoBia: Constructed Conversations Can Trigger Otherwise Concealed
+  Societal Biases in LLMs
+Pathology-CoT: Learning Visual Chain-of-Thought Agent from Expert Whole
+  Slide Image Diagnosis Behavior
