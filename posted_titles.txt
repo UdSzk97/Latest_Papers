@@ -4942,3 +4942,58 @@ MLLM as a UI Judge: Benchmarking Multimodal LLMs for Predicting Human
   Perception of User Interfaces
 Tensor Logic: The Language of AI
 SynthID-Image: Image watermarking at internet scale
+Bioverse: Assessing the Ability of Direct Imaging Surveys to Empirically Constrain the Habitable Zone via Trends in Albedo
+No Giant Planets in the Eta Cassiopeiae System: Dynamical Implications of a Wide Binary Companion
+Diversity in Planetary Architectures from Pebble Accretion: Water Delivery to the Habitable Zone with Pebble Snow
+A sub-chondritic nickel stable isotope composition of Mars
+Calibration of the MEGANE gamma-ray and neutron spectrometer for JAXA’s Mars Moon eXplorer (MMX) mission to Phobos
+Reassessment of Kepler’s habitable zone Earth-like exoplanets with data-driven null signal templates
+Nonuniform water distribution in Jupiter’s midlatitudes: Influence of precipitation and planetary rotation
+Spatial Forcing: Implicit Spatial Representation Alignment for
+  Vision-language-action Model
+DITING: A Multi-Agent Evaluation Framework for Benchmarking Web Novel
+  Translation
+Advancing End-to-End Pixel Space Generative Modeling via Self-supervised
+  Pre-training
+FlashVSR: Towards Real-Time Diffusion-Based Streaming Video
+  Super-Resolution
+ERA: Transforming VLMs into Embodied Agents via Embodied Prior Learning
+  and Online Reinforcement Learning
+Memory as Action: Autonomous Context Curation for Long-Horizon Agentic
+  Tasks
+Boundary-Guided Policy Optimization for Memory-efficient RL of Diffusion
+  Large Language Models
+Deconstructing Attention: Investigating Design Principles for Effective
+  Language Modeling
+Verbalized Sampling: How to Mitigate Mode Collapse and Unlock LLM
+  Diversity
+R-WoM: Retrieval-augmented World Model For Computer-use Agents
+LLM Reasoning for Machine Translation: Synthetic Data Generation over
+  Thinking Tokens
+ContextGen: Contextual Layout Anchoring for Identity-Consistent
+  Multi-Instance Generation
+The Geometry of Reasoning: Flowing Logics in Representation Space
+MLLM as a UI Judge: Benchmarking Multimodal LLMs for Predicting Human
+  Perception of User Interfaces
+Cautious Weight Decay
+One Life to Learn: Inferring Symbolic World Models for Stochastic
+  Environments from Unguided Exploration
+SR-Scientist: Scientific Equation Discovery With Agentic AI
+Detecting Data Contamination from Reinforcement Learning Post-training
+  for Large Language Models
+Mitigating the Noise Shift for Denoising Generative Models via Noise
+  Awareness Guidance
+RAG-Anything: All-in-One RAG Framework
+Locket: Robust Feature-Locking Technique for Language Models
+Deep Research Brings Deeper Harm
+Bag of Tricks for Subverting Reasoning-based Safety Guardrails
+Information-Preserving Reformulation of Reasoning Traces for
+  Antidistillation
+Diffusion-Link: Diffusion Probabilistic Model for Bridging the
+  Audio-Text Modality Gap
+Why Do Transformers Fail to Forecast Time Series In-Context?
+ReFIne: A Framework for Trustworthy Large Reasoning Models with
+  Reliability, Faithfulness, and Interpretability
+Kontinuous Kontext: Continuous Strength Control for Instruction-based
+  Image Editing
+dInfer: An Efficient Inference Framework for Diffusion Language Models
