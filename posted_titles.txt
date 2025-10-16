@@ -5051,3 +5051,54 @@ Hierarchical Frequency Tagging Probe (HFTP): A Unified Approach to
   the Human Brain
 Point Prompting: Counterfactual Tracking with Video Diffusion Models
 MATH-Beyond: A Benchmark for RL to Expand Beyond the Base Model
+UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity
+  MoE
+Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm
+  Enables Fine-Grained Policy Optimization
+LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action
+  Models
+Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully
+  Open MLLMs
+PhysMaster: Mastering Physical Representation for Video Generation via
+  Reinforcement Learning
+InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn
+  Dialogue
+CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal
+  Reconstruction Model for Autonomous Driving
+ParallelBench: Understanding the Trade-offs of Parallel Decoding in
+  Diffusion LLMs
+InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for
+  Generalist Robot Policy
+Stronger Together: On-Policy Reinforcement Learning for Collaborative
+  LLMs
+What Generative Search Engines Like and How to Optimize Web Content
+  Cooperatively
+The Art of Scaling Reinforcement Learning Compute for LLMs
+Universal Image Restoration Pre-training via Masked Degradation
+  Classification
+X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment
+  Vision-Language-Action Model
+Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier
+  Math
+CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in
+  Latent World Models for Autonomous Driving
+HyperAgent: Leveraging Hypergraphs for Topology Optimization in
+  Multi-Agent Communication
+Learning to Grasp Anything by Playing with Random Toys
+MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic
+  Training
+GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust
+  Multi-Turn Deep Search
+Dedelayed: Deleting remote inference delay via on-device correction
+Deflanderization for Game Dialogue: Balancing Character Authenticity
+  with Task Execution in LLM-based NPCs
+Hierarchical Frequency Tagging Probe (HFTP): A Unified Approach to
+  Investigate Syntactic Structure Representations in Large Language Models and
+  the Human Brain
+EAGER: Entropy-Aware GEneRation for Adaptive Inference-Time Scaling
+Don't Throw Away Your Pretrained Model
+Evaluating Language Models' Evaluations of Games
+Tracing the Traces: Latent Temporal Signals for Efficient and Accurate
+  Reasoning
+Haystack Engineering: Context Engineering for Heterogeneous and Agentic
+  Long-Context Evaluation
