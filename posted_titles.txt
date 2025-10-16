@@ -4997,3 +4997,57 @@ ReFIne: A Framework for Trustworthy Large Reasoning Models with
 Kontinuous Kontext: Continuous Strength Control for Instruction-based
   Image Editing
 dInfer: An Efficient Inference Framework for Diffusion Language Models
+Investigating the Sulfur Mystery in Protoplanetary Disks through Chemical Modeling
+Remote Sensing, Vol. 17, Pages 3450: Resource-Constrained 3D Volume Estimation of Lunar Regolith Particles from 2D Imagery for In Situ Dust Characterization in a Lunar Payload
+UniMoE-Audio: Unified Speech and Music Generation with Dynamic-Capacity
+  MoE
+Attention Illuminates LLM Reasoning: The Preplan-and-Anchor Rhythm
+  Enables Fine-Grained Policy Optimization
+FlashWorld: High-quality 3D Scene Generation within Seconds
+Bee: A High-Quality Corpus and Full-Stack Suite to Unlock Advanced Fully
+  Open MLLMs
+InteractiveOmni: A Unified Omni-modal Model for Audio-Visual Multi-turn
+  Dialogue
+PhysMaster: Mastering Physical Representation for Video Generation via
+  Reinforcement Learning
+LIBERO-Plus: In-depth Robustness Analysis of Vision-Language-Action
+  Models
+CVD-STORM: Cross-View Video Diffusion with Spatial-Temporal
+  Reconstruction Model for Autonomous Driving
+Generative Universal Verifier as Multimodal Meta-Reasoner
+ParallelBench: Understanding the Trade-offs of Parallel Decoding in
+  Diffusion LLMs
+Trace Anything: Representing Any Video in 4D via Trajectory Fields
+Reasoning in Space via Grounding in the World
+InternVLA-M1: A Spatially Guided Vision-Language-Action Framework for
+  Generalist Robot Policy
+The Role of Computing Resources in Publishing Foundation Model Research
+UniME-V2: MLLM-as-a-Judge for Universal Multimodal Embedding Learning
+Uni-MMMU: A Massive Multi-discipline Multimodal Unified Benchmark
+Universal Image Restoration Pre-training via Masked Degradation
+  Classification
+Revisiting Model Interpolation for Efficient Reasoning
+FG-CLIP 2: A Bilingual Fine-grained Vision-Language Alignment Model
+X-VLA: Soft-Prompted Transformer as Scalable Cross-Embodiment
+  Vision-Language-Action Model
+Direct Multi-Token Decoding
+CoIRL-AD: Collaborative-Competitive Imitation-Reinforcement Learning in
+  Latent World Models for Autonomous Driving
+NOSA: Native and Offloadable Sparse Attention
+HyperAgent: Leveraging Hypergraphs for Topology Optimization in
+  Multi-Agent Communication
+Hard2Verify: A Step-Level Verification Benchmark for Open-Ended Frontier
+  Math
+Stronger Together: On-Policy Reinforcement Learning for Collaborative
+  LLMs
+MTSQL-R1: Towards Long-Horizon Multi-Turn Text-to-SQL via Agentic
+  Training
+GraphTracer: Graph-Guided Failure Tracing in LLM Agents for Robust
+  Multi-Turn Deep Search
+Deflanderization for Game Dialogue: Balancing Character Authenticity
+  with Task Execution in LLM-based NPCs
+Hierarchical Frequency Tagging Probe (HFTP): A Unified Approach to
+  Investigate Syntactic Structure Representations in Large Language Models and
+  the Human Brain
+Point Prompting: Counterfactual Tracking with Video Diffusion Models
+MATH-Beyond: A Benchmark for RL to Expand Beyond the Base Model
