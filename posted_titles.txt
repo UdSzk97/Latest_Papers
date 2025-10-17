@@ -5165,3 +5165,68 @@ RefusalBench: Generative Evaluation of Selective Refusal in Grounded
   Language Models
 SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D
   Novel View Synthesis
+Initial Conditions of Planet Formation: Time Constraints from Small Bodies and the Lifetime of Reservoirs in the Solar Protoplanetary Disk
+When Models Lie, We Learn: Multilingual Span-Level Hallucination
+  Detection with PsiloQA
+From Pixels to Words -- Towards Native Vision-Language Primitives at
+  Scale
+ImagerySearch: Adaptive Test-Time Search for Video Generation Beyond
+  Semantic Dependency Constraints
+Information Gain-based Policy Optimization: A Simple and Effective
+  Approach for Multi-Turn LLM Agents
+PaddleOCR-VL: Boosting Multilingual Document Parsing via a 0.9B
+  Ultra-Compact Vision-Language Model
+VR-Thinker: Boosting Video Reward Models through Thinking-with-Image
+  Reasoning
+MathCanvas: Intrinsic Visual Chain-of-Thought for Multimodal
+  Mathematical Reasoning
+VLA^2: Empowering Vision-Language-Action Models with an Agentic
+  Framework for Unseen Concept Manipulation
+COIG-Writer: A High-Quality Dataset for Chinese Creative Writing with
+  Thought Processes
+Beyond Correctness: Evaluating Subjective Writing Preferences Across
+  Cultures
+Fantastic (small) Retrievers and How to Train Them:
+  mxbai-edge-colbert-v0 Tech Report
+Expertise need not monopolize: Action-Specialized Mixture of Experts for
+  Vision-Language-Action Learning
+LiveResearchBench: A Live Benchmark for User-Centric Deep Research in
+  the Wild
+LLMs Can Get "Brain Rot"!
+Agentic Design of Compositional Machines
+LLMs as Scalable, General-Purpose Simulators For Evolving Digital Agent
+  Training
+VIST3A: Text-to-3D by Stitching a Multi-view Reconstruction Network to a
+  Video Generator
+DialectGen: Benchmarking and Improving Dialect Robustness in Multimodal
+  Generation
+SimKO: Simple Pass@K Policy Optimization
+The German Commons - 154 Billion Tokens of Openly Licensed Text for
+  German Language Models
+Efficient Parallel Samplers for Recurrent-Depth Models and Their
+  Connection to Diffusion Language Models
+Budget-aware Test-time Scaling via Discriminative Verification
+MoM: Mixtures of Scenario-Aware Document Memories for
+  Retrieval-Augmented Generation Systems
+Synthesizing Agentic Data for Web Agents with Progressive Difficulty
+  Enhancement Mechanisms
+Ponimator: Unfolding Interactive Pose for Versatile Human-human
+  Interaction Animation
+Predicting Task Performance with Context-aware Scaling Laws
+Beyond One World: Benchmarking Super Heros in Role-Playing Across
+  Multiversal Contexts
+Unlocking Out-of-Distribution Generalization in Transformers via
+  Recursive Latent Space Reasoning
+RAGCap-Bench: Benchmarking Capabilities of LLMs in Agentic Retrieval
+  Augmented Generation Systems
+AnyUp: Universal Feature Upsampling
+RefusalBench: Generative Evaluation of Selective Refusal in Grounded
+  Language Models
+SCas4D: Structural Cascaded Optimization for Boosting Persistent 4D
+  Novel View Synthesis
+GroundedPRM: Tree-Guided and Fidelity-Aware Process Reward Modeling for
+  Step-Level Reasoning
+Mirror Speculative Decoding: Breaking the Serial Barrier in LLM
+  Inference
+FML-bench: A Benchmark for Automatic ML Research Agents Highlighting the
+  Importance of Exploration Breadth
