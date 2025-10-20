@@ -5465,3 +5465,42 @@ RefusalBench: Generative Evaluation of Selective Refusal in Grounded
   Language Models
 Mirror Speculative Decoding: Breaking the Serial Barrier in LLM
   Inference
+Spectrophotometry of Jupiter Trojan with the Gaia DR3 catalog
+Solar wind energy deposition related to hydrogen energetic neutral atoms in the Martian upper atmosphere observed by MAVEN
+OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding
+  LLM
+NANO3D: A Training-Free Approach for Efficient 3D Editing Without Masks
+Scaling Instruction-Based Video Editing with a High-Quality Synthetic
+  Dataset
+Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite
+  Imagery
+Latent Diffusion Model without Variational Autoencoder
+LightsOut: Diffusion-based Outpainting for Enhanced Lens Flare Removal
+MorphoBench: A Benchmark with Difficulty Adaptive to Model Reasoning
+A^2FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid
+  Reasoning
+Language Models Model Language
+BLIP3o-NEXT: Next Frontier of Native Image Generation
+InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via
+  Rubric-Based Incremental Training
+Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive
+  Online Exploration for Deep Research Agents
+Imaginarium: Vision-guided High-Quality 3D Scene Layout Generation
+Foundation Models for Scientific Discovery: From Paradigm Enhancement to
+  Paradigm Transition
+Emergent Misalignment via In-Context Learning: Narrow in-context
+  examples can produce broadly misaligned LLMs
+VISTA: A Test-Time Self-Improving Video Generation Agent
+DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per
+  Token via Reinforcement Learning
+Build Your Personalized Research Group: A Multiagent Framework for
+  Continual and Interactive Science Automation
+FinTrust: A Comprehensive Benchmark of Trustworthiness Evaluation in
+  Finance Domain
+Robust Layerwise Scaling Rules by Proper Weight Decay Tuning
+Rewiring Experts on the Fly:Continuous Rerouting for Better Online
+  Adaptation in Mixture-of-Expert models
+Paper2Web: Let's Make Your Paper Alive!
+Train a Unified Multimodal Data Quality Classifier with Synthetic Data
+ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn
+  Language Models
