@@ -5504,3 +5504,38 @@ Paper2Web: Let's Make Your Paper Alive!
 Train a Unified Multimodal Data Quality Classifier with Synthetic Data
 ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn
   Language Models
+Zonal-flow variability associated with meridional circulation at the cloud top in a Venus atmospheric general circulation model
+The Lunar Penetrating Radar on the Chang’E-7 Rover
+A Theoretical Study on Bridging Internal Probability and
+  Self-Consistency for LLM Reasoning
+OmniVinci: Enhancing Architecture and Data for Omni-Modal Understanding
+  LLM
+Emergent Misalignment via In-Context Learning: Narrow in-context
+  examples can produce broadly misaligned LLMs
+Scaling Instruction-Based Video Editing with a High-Quality Synthetic
+  Dataset
+Skyfall-GS: Synthesizing Immersive 3D Urban Scenes from Satellite
+  Imagery
+A^2FM: An Adaptive Agent Foundation Model for Tool-Aware Hybrid
+  Reasoning
+Foundation Models for Scientific Discovery: From Paradigm Enhancement to
+  Paradigm Transition
+Build Your Personalized Research Group: A Multiagent Framework for
+  Continual and Interactive Science Automation
+Explore to Evolve: Scaling Evolved Aggregation Logic via Proactive
+  Online Exploration for Deep Research Agents
+InfiMed-ORBIT: Aligning LLMs on Open-Ended Complex Tasks via
+  Rubric-Based Incremental Training
+DLER: Doing Length pEnalty Right - Incentivizing More Intelligence per
+  Token via Reinforcement Learning
+FinTrust: A Comprehensive Benchmark of Trustworthiness Evaluation in
+  Finance Domain
+Rewiring Experts on the Fly:Continuous Rerouting for Better Online
+  Adaptation in Mixture-of-Expert models
+Do LLMs "Feel"? Emotion Circuits Discovery and Control
+ERGO: Entropy-guided Resetting for Generation Optimization in Multi-turn
+  Language Models
+DriveGen3D: Boosting Feed-Forward Driving Scene Generation with
+  Efficient Video Diffusion
+Adapting Self-Supervised Representations as a Latent Space for Efficient
+  Generation
