@@ -5539,3 +5539,44 @@ DriveGen3D: Boosting Feed-Forward Driving Scene Generation with
   Efficient Video Diffusion
 Adapting Self-Supervised Representations as a Latent Space for Efficient
   Generation
+PICABench: How Far Are We from Physically Realistic Image Editing?
+DeepAnalyze: Agentic Large Language Models for Autonomous Data Science
+Glyph: Scaling Context Windows via Visual-Text Compression
+Towards Mixed-Modal Retrieval for Universal Retrieval-Augmented
+  Generation
+When to Ensemble: Identifying Token-Level Points for Stable and Fast LLM
+  Ensembling
+FineVision: Open Data Is All You Need
+Annotation-Efficient Universal Honesty Alignment
+Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware
+  Finetuning and MLLM Implicit Feedback
+RL makes MLLMs see better than SFT
+Visual Autoregressive Models Beat Diffusion Models on Inference Time
+  Scaling
+ConsistEdit: Highly Consistent and Precise Training-free Visual Editing
+Executable Knowledge Graphs for Replicating AI Research
+Deep Self-Evolving Reasoning
+Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native
+  Agentic AI
+Chronos-2: From Univariate to Universal Forecasting
+Constantly Improving Image Models Need Constantly Improving Benchmarks
+Enterprise Deep Research: Steerable Multi-Agent Deep Research for
+  Enterprise Analytics
+UltraCUA: A Foundation Model for Computer Use Agents with Hybrid Action
+Distractor Injection Attacks on Large Reasoning Models: Characterization
+  and Defense
+Embody 3D: A Large-scale Multimodal Motion and Behavior Dataset
+Knowledge-based Visual Question Answer with Multimodal Processing,
+  Retrieval and Filtering
+MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large
+  Vision and Language Models
+Balanced Multi-Task Attention for Satellite Image Classification: A
+  Systematic Approach to Achieving 97.23% Accuracy on EuroSAT Without
+  Pre-Training
+Foundational Automatic Evaluators: Scaling Multi-Task Generative
+  Evaluator Training for Reasoning-Centric Domains
+QueST: Incentivizing LLMs to Generate Difficult Problems
+AsyncVoice Agent: Real-Time Explanation for LLM Planning and Reasoning
+On Non-interactive Evaluation of Animal Communication Translators
+Agentic Reinforcement Learning for Search is Unsafe
+GuideFlow3D: Optimization-Guided Rectified Flow For Appearance Transfer
