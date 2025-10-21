@@ -5580,3 +5580,33 @@ AsyncVoice Agent: Real-Time Explanation for LLM Planning and Reasoning
 On Non-interactive Evaluation of Animal Communication Translators
 Agentic Reinforcement Learning for Search is Unsafe
 GuideFlow3D: Optimization-Guided Rectified Flow For Appearance Transfer
+Revisiting the oxygen fugacity of martian meteorites: implications for the redox history of the mantle of Mars
+Towards Mixed-Modal Retrieval for Universal Retrieval-Augmented
+  Generation
+When to Ensemble: Identifying Token-Level Points for Stable and Fast LLM
+  Ensembling
+Visual Autoregressive Models Beat Diffusion Models on Inference Time
+  Scaling
+Uniworld-V2: Reinforce Image Editing with Diffusion Negative-aware
+  Finetuning and MLLM Implicit Feedback
+Beyond Pipelines: A Survey of the Paradigm Shift toward Model-Native
+  Agentic AI
+Enterprise Deep Research: Steerable Multi-Agent Deep Research for
+  Enterprise Analytics
+Distractor Injection Attacks on Large Reasoning Models: Characterization
+  and Defense
+Knowledge-based Visual Question Answer with Multimodal Processing,
+  Retrieval and Filtering
+Foundational Automatic Evaluators: Scaling Multi-Task Generative
+  Evaluator Training for Reasoning-Centric Domains
+MultiVerse: A Multi-Turn Conversation Benchmark for Evaluating Large
+  Vision and Language Models
+Automated Composition of Agents: A Knapsack Approach for Agentic
+  Component Selection
+What Limits Agentic Systems Efficiency?
+Balanced Multi-Task Attention for Satellite Image Classification: A
+  Systematic Approach to Achieving 97.23% Accuracy on EuroSAT Without
+  Pre-Training
+Beacon: Single-Turn Diagnosis and Mitigation of Latent Sycophancy in
+  Large Language Models
+Test-Time Scaling of Reasoning Models for Machine Translation
