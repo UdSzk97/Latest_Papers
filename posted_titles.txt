@@ -5610,3 +5610,40 @@ Balanced Multi-Task Attention for Satellite Image Classification: A
 Beacon: Single-Turn Diagnosis and Mitigation of Latent Sycophancy in
   Large Language Models
 Test-Time Scaling of Reasoning Models for Machine Translation
+The Polar Orbit of TOI-2374 b, a Planet in the Neptunian Ridge
+Forming the Noncarbonaceous Chondrite Parent Bodies in the Presence of the Jupiter Barrier
+Unseasonal Enhancements of Quasi‐6.5‐Sol Waves in the Southern Hemisphere of Mars During Major Dust Storms
+LightMem: Lightweight and Efficient Memory-Augmented Generation
+World-in-World: World Models in a Closed-Loop World
+UniGenBench++: A Unified Semantic Evaluation Benchmark for Text-to-Image
+  Generation
+Chem-R: Learning to Reason as a Chemist
+MoGA: Mixture-of-Groups Attention for End-to-End Long Video Generation
+Grasp Any Region: Towards Precise, Contextual Pixel Understanding for
+  Multimodal LLMs
+IF-VidCap: Can Video Caption Models Follow Instructions?
+Towards Faithful and Controllable Personalization via Critique-Post-Edit
+  Reinforcement Learning
+Every Step Evolves: Scaling Reinforcement Learning for Trillion-Scale
+  Thinking Model
+MT-Video-Bench: A Holistic Video Understanding Benchmark for Evaluating
+  Multimodal LLMs in Multi-Turn Dialogues
+ssToken: Self-modulated and Semantic-aware Token Selection for LLM
+  Fine-tuning
+MUG-V 10B: High-efficiency Training Pipeline for Large Video Generation
+  Models
+ProCLIP: Progressive Vision-Language Alignment via LLM-based Embedder
+UltraGen: High-Resolution Video Generation with Hierarchical Attention
+DSI-Bench: A Benchmark for Dynamic Spatial Intelligence
+Video Reasoning without Training
+AlphaQuanter: An End-to-End Tool-Orchestrated Agentic Reinforcement
+  Learning Framework for Stock Trading
+Extracting alignment data in open models
+Mono4DGS-HDR: High Dynamic Range 4D Gaussian Splatting from
+  Alternating-exposure Monocular Videos
+PRISMM-Bench: A Benchmark of Peer-Review Grounded Multimodal
+  Inconsistencies
+Unleashing Scientific Reasoning for Bio-experimental Protocol Generation
+  via Structured Component-based Reward Mechanism
+EvoSyn: Generalizable Evolutionary Data Synthesis for Verifiable
+  Learning
