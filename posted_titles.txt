@@ -5698,3 +5698,42 @@ EvoSyn: Generalizable Evolutionary Data Synthesis for Verifiable
   Learning
 PokeeResearch: Effective Deep Research via Reinforcement Learning from
   AI Feedback and Robust Reasoning Scaffold
+Polarized Signatures of Variable Worlds: Modeling Heterogeneous Habitable Earth- and Early Mars-like (Exo)planets
+Every Attention Matters: An Efficient Hybrid Architecture for
+  Long-Context Reasoning
+BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via
+  Balanced Policy Optimization with Adaptive Clipping
+LoongRL:Reinforcement Learning for Advanced Reasoning over Long Contexts
+GigaBrain-0: A World Model-Powered Vision-Language-Action Model
+VideoAgentTrek: Computer Use Pretraining from Unlabeled Videos
+DaMo: Data Mixing Optimizer in Fine-tuning Multimodal LLMs for Mobile
+  Phone Agents
+Pico-Banana-400K: A Large-Scale Dataset for Text-Guided Image Editing
+Unified Reinforcement and Imitation Learning for Vision-Language Models
+FinSight: Towards Real-World Financial Deep Research
+Are they lovers or friends? Evaluating LLMs' Social Reasoning in English
+  and Korean Dialogues
+Attention Sinks in Diffusion Language Models
+olmOCR 2: Unit Test Rewards for Document OCR
+OmniNWM: Omniscient Driving Navigation World Models
+From Charts to Code: A Hierarchical Benchmark for Multimodal Models
+ColorAgent: Building A Robust, Personalized, and Interactive OS Agent
+KORE: Enhancing Knowledge Injection for Large Multimodal Models via
+  Knowledge-Oriented Augmentations and Constraints
+TheMCPCompany: Creating General-purpose Agents with Task-specific Tools
+MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for
+  Large Multimodal Models
+AlphaOPT: Formulating Optimization Programs with Self-Improving LLM
+  Experience Library
+Learning from the Best, Differently: A Diversity-Driven Rethinking on
+  Data Selection
+Directional Reasoning Injection for Fine-Tuning MLLMs
+ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to
+  Answer and Judge
+NeuroAda: Activating Each Neuron's Potential for Parameter-Efficient
+  Fine-Tuning
+When Do Transformers Learn Heuristics for Graph Connectivity?
+Machine Text Detectors are Membership Inference Attacks
+RIR-Mega: a large-scale simulated room impulse response dataset for
+  machine learning and room acoustics modeling
+See the Text: From Tokenization to Visual Reading
