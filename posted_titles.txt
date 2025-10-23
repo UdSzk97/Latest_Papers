@@ -5737,3 +5737,41 @@ Machine Text Detectors are Membership Inference Attacks
 RIR-Mega: a large-scale simulated room impulse response dataset for
   machine learning and room acoustics modeling
 See the Text: From Tokenization to Visual Reading
+Discovery of a Nearby Habitable Zone Super-Earth Candidate Amenable to Direct Imaging
+A dual-branch automatic classification network for lunar simple crater degradation grades integrating image and morphological parameters
+Science operations of IDEFIX, the MMX Phobos rover
+Dinosaur diversity before the asteroid
+Every Attention Matters: An Efficient Hybrid Architecture for
+  Long-Context Reasoning
+BAPO: Stabilizing Off-Policy Reinforcement Learning for LLMs via
+  Balanced Policy Optimization with Adaptive Clipping
+Language Models are Injective and Hence Invertible
+DaMo: Data Mixing Optimizer in Fine-tuning Multimodal LLMs for Mobile
+  Phone Agents
+Decomposed Attention Fusion in MLLMs for Training-Free Video Reasoning
+  Segmentation
+KORE: Enhancing Knowledge Injection for Large Multimodal Models via
+  Knowledge-Oriented Augmentations and Constraints
+Are they lovers or friends? Evaluating LLMs' Social Reasoning in English
+  and Korean Dialogues
+Steering Autoregressive Music Generation with Recursive Feature Machines
+ProfBench: Multi-Domain Rubrics requiring Professional Knowledge to
+  Answer and Judge
+NeuroAda: Activating Each Neuron's Potential for Parameter-Efficient
+  Fine-Tuning
+MINED: Probing and Updating with Multimodal Time-Sensitive Knowledge for
+  Large Multimodal Models
+RIR-Mega: a large-scale simulated room impulse response dataset for
+  machine learning and room acoustics modeling
+AlphaOPT: Formulating Optimization Programs with Self-Improving LLM
+  Experience Library
+Learning from the Best, Differently: A Diversity-Driven Rethinking on
+  Data Selection
+What Questions Should Robots Be Able to Answer? A Dataset of User
+  Questions for Explainable Robotics
+DeLeaker: Dynamic Inference-Time Reweighting For Semantic Leakage
+  Mitigation in Text-to-Image Models
+Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text
+  Inputs in Multimodal LLMs
+Accelerating Vision Transformers with Adaptive Patch Sizes
+SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection
