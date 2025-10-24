@@ -5775,3 +5775,36 @@ Text or Pixels? It Takes Half: On the Token Efficiency of Visual Text
   Inputs in Multimodal LLMs
 Accelerating Vision Transformers with Adaptive Patch Sizes
 SAVANT: Semantic Analysis with Vision-Augmented Anomaly deTection
+Orbital and Pulsation Analysis of 42 Heartbeat Stars Discovered in TESS Data
+AdaSPEC: Selective Knowledge Distillation for Efficient Speculative
+  Decoders
+Human-Agent Collaborative Paper-to-Page Crafting for Under $0.1
+Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
+  Evidence
+HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video
+  Narratives
+Loopholing Discrete Diffusion: Deterministic Bypass of the Sampling Wall
+Every Question Has Its Own Value: Reinforcement Learning with Explicit
+  Human Values
+DyPE: Dynamic Position Extrapolation for Ultra High Resolution Diffusion
+The Massive Legal Embedding Benchmark (MLEB)
+SAKE: Towards Editing Auditory Attribute Knowledge of Large
+  Audio-Language Models
+Investigating Safety Vulnerabilities of Large Audio-Language Models
+  Under Speaker Emotional Variations
+Conan: Progressive Learning to Reason Like a Detective over Multi-Scale
+  Visual Evidence
+Search Self-play: Pushing the Frontier of Agent Capability without
+  Supervision
+LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered
+  Canvas
+Diff-XYZ: A Benchmark for Evaluating Diff Understanding
+ARGenSeg: Image Segmentation with Autoregressive Image Generation Model
+Seed3D 1.0: From Images to High-Fidelity Simulation-Ready 3D Assets
+AlphaFlow: Understanding and Improving MeanFlow Models
+From Masks to Worlds: A Hitchhiker's Guide to World Models
+ImpossibleBench: Measuring LLMs' Propensity of Exploiting Test Cases
+Thought Communication in Multiagent Collaboration
+ComProScanner: A multi-agent based framework for composition-property
+  structured data extraction from scientific literature
+Emergence of Linear Truth Encodings in Language Models
