@@ -5808,3 +5808,36 @@ Thought Communication in Multiagent Collaboration
 ComProScanner: A multi-agent based framework for composition-property
   structured data extraction from scientific literature
 Emergence of Linear Truth Encodings in Language Models
+LEO-Vetter: Fully Automated Flux- and Pixel-level Vetting of TESS Planet Candidates to Support Occurrence Rates
+Daily briefing: People with cancer lived longer if they’d had a COVID-19 vaccine
+JWST Reveals Varied Origins between Jupiter’s Irregular Satellites
+Spectroscopy of the Hamburg Meteorite, Michigan H4
+AdaSPEC: Selective Knowledge Distillation for Efficient Speculative
+  Decoders
+Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal
+  Evidence
+HoloCine: Holistic Generation of Cinematic Multi-Shot Long Video
+  Narratives
+Every Question Has Its Own Value: Reinforcement Learning with Explicit
+  Human Values
+SAKE: Towards Editing Auditory Attribute Knowledge of Large
+  Audio-Language Models
+Investigating Safety Vulnerabilities of Large Audio-Language Models
+  Under Speaker Emotional Variations
+Search Self-play: Pushing the Frontier of Agent Capability without
+  Supervision
+LayerComposer: Interactive Personalized T2I via Spatially-Aware Layered
+  Canvas
+Conan: Progressive Learning to Reason Like a Detective over Multi-Scale
+  Visual Evidence
+CiteGuard: Faithful Citation Attribution for LLMs via
+  Retrieval-Augmented Validation
+MSC-Bench: A Rigorous Benchmark for Multi-Server Tool Orchestration
+Scaling Laws Meet Model Architecture: Toward Inference-Efficient LLMs
+ComProScanner: A multi-agent based framework for composition-property
+  structured data extraction from scientific literature
+Communication to Completion: Modeling Collaborative Workflows with
+  Intelligent Multi-Agent Communication
+Adamas: Hadamard Sparse Attention for Efficient Long-Context Inference
+Long-Context Attention Benchmark: From Kernel Efficiency to Distributed
+  Context Parallelism
