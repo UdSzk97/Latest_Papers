@@ -5986,3 +5986,31 @@ PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language
   Models in Physical Environments
 Stabilizing MoE Reinforcement Learning by Aligning Training and
   Inference Routers
+Optimized Asteroid Rotation and Shape Modeling through an Integrated Shape-from-silhouette and Optical Flow Approach
+Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image
+  Generation
+From Denoising to Refining: A Corrective Framework for Vision-Language
+  Diffusion Model
+UI-Ins: Enhancing GUI Grounding with Multi-Perspective
+  Instruction-as-Reasoning
+RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via
+  Data Alignment and Test-Time Scaling
+RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via
+  Hierarchical Model Merging
+Document Understanding, Measurement, and Manipulation Using Category
+  Theory
+ARC-Encoder: learning compressed text representations for large language
+  models
+AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research
+  Suite
+PhysWorld: From Real Videos to World Models of Deformable Objects via
+  Physics-Aware Demonstration Synthesis
+Are Large Reasoning Models Good Translation Evaluators? Analysis and
+  Performance Boost
+ALICE-LRI: A General Method for Lossless Range Image Generation for
+  Spinning LiDAR Sensors without Calibration Metadata
+Stabilizing MoE Reinforcement Learning by Aligning Training and
+  Inference Routers
+Redefining Retrieval Evaluation in the Era of LLMs
+PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language
+  Models in Physical Environments
