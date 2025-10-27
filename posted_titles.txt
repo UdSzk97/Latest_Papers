@@ -5947,3 +5947,42 @@ Long-Context Attention Benchmark: From Kernel Efficiency to Distributed
   Context Parallelism
 ComProScanner: A multi-agent based framework for composition-property
   structured data extraction from scientific literature
+On the Detection of Exorings in Reflected Light with JWST NIRCam
+A Link between Rocky Planet Density and Host Star Chemistry
+Do Young Suns Produce Frequent, Massive CMEs? Results from Five-year Dedicated Optical Observations of EK Draconis and V889 Hercules
+DeepAgent: A General Reasoning Agent with Scalable Toolsets
+Video-As-Prompt: Unified Semantic Control for Video Generation
+From Denoising to Refining: A Corrective Framework for Vision-Language
+  Diffusion Model
+Sample By Step, Optimize By Chunk: Chunk-Level GRPO For Text-to-Image
+  Generation
+A Definition of AGI
+UI-Ins: Enhancing GUI Grounding with Multi-Perspective
+  Instruction-as-Reasoning
+Sparser Block-Sparse Attention via Token Permutation
+Reasoning with Sampling: Your Base Model is Smarter Than You Think
+RECALL: REpresentation-aligned Catastrophic-forgetting ALLeviation via
+  Hierarchical Model Merging
+Visual Diffusion Models are Geometric Solvers
+WorldGrow: Generating Infinite 3D World
+RAPO++: Cross-Stage Prompt Optimization for Text-to-Video Generation via
+  Data Alignment and Test-Time Scaling
+Model Merging with Functional Dual Anchors
+Map the Flow: Revealing Hidden Pathways of Information in VideoLLMs
+Document Understanding, Measurement, and Manipulation Using Category
+  Theory
+PhysWorld: From Real Videos to World Models of Deformable Objects via
+  Physics-Aware Demonstration Synthesis
+Are Large Reasoning Models Good Translation Evaluators? Analysis and
+  Performance Boost
+ARC-Encoder: learning compressed text representations for large language
+  models
+Taming Modality Entanglement in Continual Audio-Visual Segmentation
+AstaBench: Rigorous Benchmarking of AI Agents with a Scientific Research
+  Suite
+Foley Control: Aligning a Frozen Latent Text-to-Audio Model to Video
+Soft Instruction De-escalation Defense
+PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language
+  Models in Physical Environments
+Stabilizing MoE Reinforcement Learning by Aligning Training and
+  Inference Routers
