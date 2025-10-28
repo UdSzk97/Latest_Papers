@@ -6059,3 +6059,49 @@ Mitigating Attention Sinks and Massive Activations in Audio-Visual
 Memory-based Language Models: An Efficient, Explainable, and
   Eco-friendly Approach to Large Language Modeling
 MARS-M: When Variance Reduction Meets Matrices
+ExoMiner++: Enhanced Transit Classification and a New Vetting Catalog for 2-minute TESS Data
+Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
+  Representations
+Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human
+  Animation
+VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing,
+  Speaking, and Acting
+Open Multimodal Retrieval-Augmented Factual Image Generation
+E^2Rank: Your Text Embedding can Also be an Effective
+  and Efficient Listwise Reranker
+IGGT: Instance-Grounded Geometry Transformer for Semantic 3D
+  Reconstruction
+Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with
+  Free-Form Preferences
+PixelRefer: A Unified Framework for Spatio-Temporal Object Referring
+  with Arbitrary Granularity
+The Best of N Worlds: Aligning Reinforcement Learning with Best-of-N
+  Sampling via max@k Optimisation
+LightBagel: A Light-weighted, Double Fusion Framework for Unified
+  Multimodal Understanding and Generation
+Distilled Decoding 2: One-step Sampling of Image Auto-regressive Models
+  with Conditional Score Distillation
+RobotArena infty: Scalable Robot Benchmarking via Real-to-Sim
+  Translation
+MergeMix: A Unified Augmentation Paradigm for Visual and Multi-Modal
+  Understanding
+PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error
+  Detection
+Once Upon an Input: Reasoning via Per-Instance Program Synthesis
+DiffusionLane: Diffusion Model for Lane Detection
+EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion
+  Personalization
+Scaling Laws for Deepfake Detection
+SyncHuman: Synchronizing 2D and 3D Generative Models for Single-view
+  Human Reconstruction
+Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with
+  Progressive Texture Infilling
+Mitigating Attention Sinks and Massive Activations in Audio-Visual
+  Speech Recognition with LLMS
+Memory-based Language Models: An Efficient, Explainable, and
+  Eco-friendly Approach to Large Language Modeling
+FlowOpt: Fast Optimization Through Whole Flow Processes for
+  Training-Free Editing
+Sprint: Sparse-Dense Residual Fusion for Efficient Diffusion
+  Transformers
+Multi-Agent Evolve: LLM Self-Improve through Co-evolution
