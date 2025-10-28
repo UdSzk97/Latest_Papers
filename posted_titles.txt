@@ -6014,3 +6014,48 @@ Stabilizing MoE Reinforcement Learning by Aligning Training and
 Redefining Retrieval Evaluation in the Era of LLMs
 PhysVLM-AVR: Active Visual Reasoning for Multimodal Large Language
   Models in Physical Environments
+Planetary Albedo Is Limited by the Above-cloud Atmosphere: Implications for Sub-Neptune Climates
+Horizontal and vertical exoplanet thermal structure from a JWST spectroscopic eclipse map
+Concerto: Joint 2D-3D Self-Supervised Learning Emerges Spatial
+  Representations
+ReCode: Unify Plan and Action for Universal Granularity Control
+A Survey of Data Agents: Emerging Paradigm or Overstated Hype?
+FARMER: Flow AutoRegressive Transformer over Pixels
+VITA-E: Natural Embodied Interaction with Concurrent Seeing, Hearing,
+  Speaking, and Acting
+Lookahead Anchoring: Preserving Character Identity in Audio-Driven Human
+  Animation
+ACG: Action Coherence Guidance for Flow-based VLA models
+E^2Rank: Your Text Embedding can Also be an Effective
+  and Efficient Listwise Reranker
+Omni-Reward: Towards Generalist Omni-Modal Reward Modeling with
+  Free-Form Preferences
+PixelRefer: A Unified Framework for Spatio-Temporal Object Referring
+  with Arbitrary Granularity
+Knocking-Heads Attention
+IGGT: Instance-Grounded Geometry Transformer for Semantic 3D
+  Reconstruction
+The Best of N Worlds: Aligning Reinforcement Learning with Best-of-N
+  Sampling via max@k Optimisation
+LightBagel: A Light-weighted, Double Fusion Framework for Unified
+  Multimodal Understanding and Generation
+LimRank: Less is More for Reasoning-Intensive Information Reranking
+LongCat-Video Technical Report
+Code Aesthetics with Agentic Reward Feedback
+Distilled Decoding 2: One-step Sampling of Image Auto-regressive Models
+  with Conditional Score Distillation
+RobotArena infty: Scalable Robot Benchmarking via Real-to-Sim
+  Translation
+Language Server CLI Empowers Language Agents with Process Rewards
+VoMP: Predicting Volumetric Mechanical Property Fields
+EchoDistill: Bidirectional Concept Distillation for One-Step Diffusion
+  Personalization
+Track, Inpaint, Resplat: Subject-driven 3D and 4D Generation with
+  Progressive Texture Infilling
+PRISM-Bench: A Benchmark of Puzzle-Based Visual Tasks with CoT Error
+  Detection
+Mitigating Attention Sinks and Massive Activations in Audio-Visual
+  Speech Recognition with LLMS
+Memory-based Language Models: An Efficient, Explainable, and
+  Eco-friendly Approach to Large Language Modeling
+MARS-M: When Variance Reduction Meets Matrices
