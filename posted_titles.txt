@@ -6105,3 +6105,44 @@ FlowOpt: Fast Optimization Through Whole Flow Processes for
 Sprint: Sparse-Dense Residual Fusion for Efficient Diffusion
   Transformers
 Multi-Agent Evolve: LLM Self-Improve through Co-evolution
+Global Distribution of the Key Species on the Surface of Europa
+InteractComp: Evaluating Search Agents With Ambiguous Queries
+Tongyi DeepResearch Technical Report
+AgentFold: Long-Horizon Web Agents with Proactive Context Management
+RoboOmni: Proactive Robot Manipulation in Omni-modal Context
+Game-TARS: Pretrained Foundation Models for Scalable Generalist
+  Multimodal Game Agents
+Uniform Discrete Diffusion with Metric Path for Video Generation
+Repurposing Synthetic Data for Fine-grained Search Agent Supervision
+OSWorld-MCP: Benchmarking MCP Tool Invocation In Computer-Use Agents
+WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling
+  Info-Rich Seeking
+Group Relative Attention Guidance for Image Editing
+STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D
+  Intelligence
+Routing Matters in MoE: Scaling Diffusion Transformers with Explicit
+  Routing Guidance
+ParallelMuse: Agentic Parallel Thinking for Deep Information Seeking
+AgentFrontier: Expanding the Capability Frontier of LLM Agents with
+  ZPD-Guided Data Synthesis
+Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal
+  Reasoning in MLLMs
+Critique-RL: Training Language Models for Critiquing through Two-Stage
+  Reinforcement Learning
+VisCoder2: Building Multi-Language Visualization Coding Agents
+ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining,
+  Finetuning, and Decoding the Curse of Multilinguality
+FunReason-MT Technical Report: Overcoming the Complexity Barrier in
+  Multi-Turn Function Calling
+ReplicationBench: Can AI Agents Replicate Astrophysics Research Papers?
+Rethinking Visual Intelligence: Insights from Video Pretraining
+Generalization or Memorization: Dynamic Decoding for Mode Steering
+From Spatial to Actions: Grounding Vision-Language-Action Model in
+  Spatial Foundation Priors
+VisJudge-Bench: Aesthetics and Quality Assessment of Visualizations
+VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a
+  Unified Concept Set
+PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D
+  Part Understanding
+PatenTEB: A Comprehensive Benchmark and Model Family for Patent Text
+  Embedding
