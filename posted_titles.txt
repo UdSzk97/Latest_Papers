@@ -6146,3 +6146,59 @@ PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D
   Part Understanding
 PatenTEB: A Comprehensive Benchmark and Model Family for Patent Text
   Embedding
+The Effect of Offsets from True Orbital Parameters on Exoplanet High-resolution Transmission Spectra
+JWST-TST DREAMS: Sulfur Dioxide in the Atmosphere of the Neptune-mass Planet HAT-P-26 b from NIRSpec G395H Transmission Spectroscopy
+A Scatter of Light from a Polarized World
+Stellar Library of Differential Emission Measures and Extreme Ultraviolet Spectra: Dwarf Stars Observed by the Extreme Ultraviolet Explorer
+A new method to improve the detection rate and astrometric accuracy of natural satellites located in the halo of Uranus
+Oxygen isotopic evidence that Gale crater, Mars, was home to an Early Hesperian water reservoir that underwent significant evaporation
+Remote Sensing, Vol. 17, Pages 3578: Unsupervised Machine Learning Framework for Identification of Spatial Distribution of Minerals on Mars
+Game-TARS: Pretrained Foundation Models for Scalable Generalist
+  Multimodal Game Agents
+WebLeaper: Empowering Efficiency and Efficacy in WebAgent via Enabling
+  Info-Rich Seeking
+AgentFrontier: Expanding the Capability Frontier of LLM Agents with
+  ZPD-Guided Data Synthesis
+Routing Matters in MoE: Scaling Diffusion Transformers with Explicit
+  Routing Guidance
+STAR-Bench: Probing Deep Spatio-Temporal Reasoning as Audio 4D
+  Intelligence
+Latent Sketchpad: Sketching Visual Thoughts to Elicit Multimodal
+  Reasoning in MLLMs
+Critique-RL: Training Language Models for Critiquing through Two-Stage
+  Reinforcement Learning
+Beyond Reasoning Gains: Mitigating General Capabilities Forgetting in
+  Large Reasoning Models
+ATLAS: Adaptive Transfer Scaling Laws for Multilingual Pretraining,
+  Finetuning, and Decoding the Curse of Multilinguality
+Agent Data Protocol: Unifying Datasets for Diverse, Effective
+  Fine-tuning of LLM Agents
+UltraHR-100K: Enhancing UHR Image Synthesis with A Large-Scale
+  High-Quality Dataset
+From Spatial to Actions: Grounding Vision-Language-Action Model in
+  Spatial Foundation Priors
+Global PIQA: Evaluating Physical Commonsense Reasoning Across 100+
+  Languages and Cultures
+Latent Chain-of-Thought for Visual Reasoning
+SPICE: Self-Play In Corpus Environments Improves Reasoning
+MMPersuade: A Dataset and Evaluation Framework for Multimodal Persuasion
+FunReason-MT Technical Report: Overcoming the Complexity Barrier in
+  Multi-Turn Function Calling
+Batch Speculative Decoding Done Right
+SAO-Instruct: Free-form Audio Editing using Natural Language
+  Instructions
+ATOM: AdapTive and OptiMized dynamic temporal knowledge graph
+  construction using LLMs
+S-Chain: Structured Visual Chain-of-Thought For Medicine
+Optimize Any Topology: A Foundation Model for Shape- and Resolution-Free
+  Structural Topology Optimization
+GRPO-Guard: Mitigating Implicit Over-Optimization in Flow Matching via
+  Regulated Clipping
+VL-SAE: Interpreting and Enhancing Vision-Language Alignment with a
+  Unified Concept Set
+PartNeXt: A Next-Generation Dataset for Fine-Grained and Hierarchical 3D
+  Part Understanding
+Beyond Understanding: Evaluating the Pragmatic Gap in LLMs' Cultural
+  Processing of Figurative Language
+PatenTEB: A Comprehensive Benchmark and Model Family for Patent Text
+  Embedding
