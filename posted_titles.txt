@@ -6202,3 +6202,43 @@ Beyond Understanding: Evaluating the Pragmatic Gap in LLMs' Cultural
   Processing of Figurative Language
 PatenTEB: A Comprehensive Benchmark and Model Family for Patent Text
   Embedding
+Crowning the Queen: Membership, Age, Rotation, and Activity for the Open Cluster Coma Berenices
+Lunar Highland Preserves Meteoritic-iron-rich Materials in the Earth–Moon System
+Surface Binding Energies for Amorphous Plagioclase Feldspar Calculated Using Molecular Dynamics
+JanusCoder: Towards a Foundational Visual-Programmatic Interface for
+  Code Intelligence
+Video-Thinker: Sparking "Thinking with Videos" via Reinforcement
+  Learning
+ReForm: Reflective Autoformalization with Prospective Bounded Sequence
+  Optimization
+Scaling Latent Reasoning via Looped Language Models
+Reasoning-Aware GRPO using Process Mining
+VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context
+  Learning
+The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic,
+  and Long-Horizon Task Execution
+RegionE: Adaptive Region-Aware Generation for Efficient Image Editing
+ChronoPlay: A Framework for Modeling Dual Dynamics and Authenticity in
+  Game RAG Benchmarks
+ODesign: A World Model for Biomolecular Interaction Design
+Multimodal Spatial Reasoning in the Large Model Era: A Survey and
+  Benchmarks
+PairUni: Pairwise Training for Unified Multimodal Language Models
+Parallel Loop Transformer for Efficient Test-Time Computation Scaling
+Rethinking Driving World Model as Synthetic Data Generator for
+  Perception Tasks
+Evolving Diagnostic Agents in a Virtual Clinical Environment
+The Principles of Diffusion Models
+SeeingEye: Agentic Information Flow Unlocks Multimodal Reasoning In
+  Text-only LLMs
+Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal
+  Perception and Generation
+MASPRM: Multi-Agent System Process Reward Model
+Gaperon: A Peppered English-French Generative Language Model Suite
+FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
+  Reasoning
+TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological
+  Counseling
+BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic
+  Domains
+Fortytwo: Swarm Inference with Peer-Ranked Consensus
