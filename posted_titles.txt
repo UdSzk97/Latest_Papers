@@ -6242,3 +6242,39 @@ TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological
 BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic
   Domains
 Fortytwo: Swarm Inference with Peer-Ranked Consensus
+HWO Target Stars and Systems: A Survey of Archival UV and X-Ray Data
+Volatile loss during heating of lunar mare simulants and related compositions
+The Passive Regolith Sampler: From Concept to Delivery to the Lunar Surface
+JanusCoder: Towards a Foundational Visual-Programmatic Interface for
+  Code Intelligence
+Video-Thinker: Sparking "Thinking with Videos" via Reinforcement
+  Learning
+ReForm: Reflective Autoformalization with Prospective Bounded Sequence
+  Optimization
+The Tool Decathlon: Benchmarking Language Agents for Diverse, Realistic,
+  and Long-Horizon Task Execution
+VFXMaster: Unlocking Dynamic Visual Effect Generation via In-Context
+  Learning
+Ming-Flash-Omni: A Sparse, Unified Architecture for Multimodal
+  Perception and Generation
+ChronoPlay: A Framework for Modeling Dual Dynamics and Authenticity in
+  Game RAG Benchmarks
+Multimodal Spatial Reasoning in the Large Model Era: A Survey and
+  Benchmarks
+Automating Benchmark Design
+Rethinking Driving World Model as Synthetic Data Generator for
+  Perception Tasks
+SeeingEye: Agentic Information Flow Unlocks Multimodal Reasoning In
+  Text-only LLMs
+FAPO: Flawed-Aware Policy Optimization for Efficient and Reliable
+  Reasoning
+Reasoning Language Model Inference Serving Unveiled: An Empirical Study
+BhashaBench V1: A Comprehensive Benchmark for the Quadrant of Indic
+  Domains
+Generative View Stitching
+MC-SJD : Maximal Coupling Speculative Jacobi Decoding for Autoregressive
+  Visual Generation Acceleration
+TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological
+  Counseling
+GraphNet: A Large-Scale Computational Graph Dataset for Tensor Compiler
+  Research
