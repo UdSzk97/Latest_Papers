@@ -6278,3 +6278,40 @@ TheraMind: A Strategic and Adaptive Agent for Longitudinal Psychological
   Counseling
 GraphNet: A Large-Scale Computational Graph Dataset for Tensor Compiler
   Research
+NIRC2 Interferometric Imaging of the HD 34282 Transition Disk’s Small Grain Structure
+Significant Amplification of Turbulent Energy Dissipation Through the Shock Transition at Mars
+First Use of Laser Ranging to Surface Retroreflectors for Orbit Determination: LRO-LOLA at the Moon
+Emu3.5: Native Multimodal Models are World Learners
+Exploring Conditions for Diffusion models in Robotic Control
+Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with
+  the MME-CoF Benchmark
+Kimi Linear: An Expressive, Efficient Attention Architecture
+AMO-Bench: Large Language Models Still Struggle in High School Math
+  Competitions
+The Quest for Generalizable Motion Generation: Data, Model, and
+  Evaluation
+Surfer 2: The Next Generation of Cross-Platform Computer Use Agents
+OmniX: From Unified Panoramic Generation and Perception to
+  Graphics-Ready 3D Scenes
+The Era of Agentic Organization: Learning to Organize with Language
+  Models
+Supervised Reinforcement Learning: From Expert Trajectories to Step-wise
+  Reasoning
+Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in
+  Web Games
+EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic
+  Health Record Analysis
+MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and
+  efficiency
+OmniLayout: Enabling Coarse-to-Fine Learning with LLMs for Universal
+  Document Layout Generation
+Magentic Marketplace: An Open-Source Environment for Studying Agentic
+  Markets
+Remote Labor Index: Measuring AI Automation of Remote Work
+FullPart: Generating each 3D Part at Full Resolution
+Counteracting Matthew Effect in Self-Improvement of LVLMs through
+  Head-Tail Re-balancing
+CRAG-MM: Multi-modal Multi-turn Comprehensive RAG Benchmark
+EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme
+  Backbone Generation
+ChartAB: A Benchmark for Chart Grounding & Dense Alignment
