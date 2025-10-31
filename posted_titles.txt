@@ -6315,3 +6315,44 @@ CRAG-MM: Multi-modal Multi-turn Comprehensive RAG Benchmark
 EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme
   Backbone Generation
 ChartAB: A Benchmark for Chart Grounding & Dense Alignment
+The origin and tidal evolution of hot Jupiters constrained by a broken age–frequency relation
+Exploring the Interior Structure and Mode of Tidal Heating in Enceladus
+Powerful Lightning on Venus Constrained by Atmospheric NO
+The End of Manual Decoding: Towards Truly End-to-End Language Models
+Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in
+  Web Games
+Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with
+  the MME-CoF Benchmark
+AMO-Bench: Large Language Models Still Struggle in High School Math
+  Competitions
+The Quest for Generalizable Motion Generation: Data, Model, and
+  Evaluation
+Supervised Reinforcement Learning: From Expert Trajectories to Step-wise
+  Reasoning
+The Era of Agentic Organization: Learning to Organize with Language
+  Models
+OmniX: From Unified Panoramic Generation and Perception to
+  Graphics-Ready 3D Scenes
+MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and
+  efficiency
+EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic
+  Health Record Analysis
+OmniLayout: Enabling Coarse-to-Fine Learning with LLMs for Universal
+  Document Layout Generation
+Magentic Marketplace: An Open-Source Environment for Studying Agentic
+  Markets
+MedVLSynther: Synthesizing High-Quality Visual Question Answering from
+  Medical Documents with Generator-Verifier LMMs
+Counteracting Matthew Effect in Self-Improvement of LVLMs through
+  Head-Tail Re-balancing
+PORTool: Tool-Use LLM Training with Rewarded Tree
+EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme
+  Backbone Generation
+CityRiSE: Reasoning Urban Socio-Economic Status in Vision-Language
+  Models via Reinforcement Learning
+L^2M^3OF: A Large Language Multimodal Model for Metal-Organic Frameworks
+CLASS-IT: Conversational and Lecture-Aligned Small-Scale Instruction
+  Tuning for BabyLMs
+POWSM: A Phonetic Open Whisper-Style Speech Foundation Model
+Performance Trade-offs of Optimizing Small Language Models for
+  E-Commerce
