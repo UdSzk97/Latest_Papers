@@ -6392,3 +6392,38 @@ CityRiSE: Reasoning Urban Socio-Economic Status in Vision-Language
   Models via Reinforcement Learning
 Performance Trade-offs of Optimizing Small Language Models for
   E-Commerce
+PISCES: Plumes and Ices Simulation chamber for Enceladus and other moonS
+Can Agent Conquer Web? Exploring the Frontiers of ChatGPT Atlas Agent in
+  Web Games
+AMO-Bench: Large Language Models Still Struggle in High School Math
+  Competitions
+Are Video Models Ready as Zero-Shot Reasoners? An Empirical Study with
+  the MME-CoF Benchmark
+The Quest for Generalizable Motion Generation: Data, Model, and
+  Evaluation
+Supervised Reinforcement Learning: From Expert Trajectories to Step-wise
+  Reasoning
+The Era of Agentic Organization: Learning to Organize with Language
+  Models
+OmniX: From Unified Panoramic Generation and Perception to
+  Graphics-Ready 3D Scenes
+MIRO: MultI-Reward cOnditioned pretraining improves T2I quality and
+  efficiency
+EHR-R1: A Reasoning-Enhanced Foundational Language Model for Electronic
+  Health Record Analysis
+OmniLayout: Enabling Coarse-to-Fine Learning with LLMs for Universal
+  Document Layout Generation
+Magentic Marketplace: An Open-Source Environment for Studying Agentic
+  Markets
+MedVLSynther: Synthesizing High-Quality Visual Question Answering from
+  Medical Documents with Generator-Verifier LMMs
+CLASS-IT: Conversational and Lecture-Aligned Small-Scale Instruction
+  Tuning for BabyLMs
+Counteracting Matthew Effect in Self-Improvement of LVLMs through
+  Head-Tail Re-balancing
+EnzyControl: Adding Functional and Substrate-Specific Control for Enzyme
+  Backbone Generation
+Performance Trade-offs of Optimizing Small Language Models for
+  E-Commerce
+CityRiSE: Reasoning Urban Socio-Economic Status in Vision-Language
+  Models via Reinforcement Learning
