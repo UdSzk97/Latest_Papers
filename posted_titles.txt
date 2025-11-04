@@ -6554,3 +6554,40 @@ Monopoly Deal: A Benchmark Environment for Bounded One-Sided Response
   Games
 Beyond Objects: Contextual Synthetic Data Generation for Fine-Grained
   Classification
+Energetic Ion Losses Observed During Juno's Close Encounter With Europa
+Analysis of Surface Age Dating Techniques and Uncertainties through Comparison of Independently Determined Crater Size–Frequency Distributions at Two Lunar Landing Sites
+Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open
+  Language Foundation
+The Underappreciated Power of Vision Models for Graph Structural
+  Understanding
+UniLumos: Fast and Unified Image and Video Relighting with
+  Physics-Plausible Feedback
+Generalizing Test-time Compute-optimal Scaling as an Optimizable Graph
+PHUMA: Physically-Grounded Humanoid Locomotion Dataset
+ToolScope: An Agentic Framework for Vision-Guided and Long-Horizon Tool
+  Use
+UniREditBench: A Unified Reasoning-based Image Editing Benchmark
+ROVER: Benchmarking Reciprocal Cross-Modal Reasoning for Omnimodal
+  Generation
+Towards Universal Video Retrieval: Generalizing Video Embedding via
+  Synthesized Multimodal Pyramid Curriculum
+World Simulation with Video Foundation Models for Physical AI
+TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images
+  Reasoning
+NaviTrace: Evaluating Embodied Navigation of Vision-Language Models
+Do Vision-Language Models Measure Up? Benchmarking Visual Measurement
+  Reading with MeasureBench
+Actial: Activate Spatial Reasoning Ability of Multimodal Large Language
+  Models
+LongCat-Flash-Omni Technical Report
+Trove: A Flexible Toolkit for Dense Retrieval
+OpenSIR: Open-Ended Self-Improving Reasoner
+Data-Efficient RLVR via Off-Policy Influence Guidance
+Towards Robust Mathematical Reasoning
+Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete
+  Denoising Diffusion Process
+How Far Are Surgeons from Surgical World Models? A Pilot Study on
+  Zero-shot Surgical Video Generation with Expert Assessment
+MotionStream: Real-Time Video Generation with Interactive Motion
+  Controls
+UME-R1: Exploring Reasoning-Driven Generative Multimodal Embeddings
