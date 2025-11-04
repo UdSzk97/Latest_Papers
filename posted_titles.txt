@@ -6591,3 +6591,41 @@ How Far Are Surgeons from Surgical World Models? A Pilot Study on
 MotionStream: Real-Time Video Generation with Interactive Motion
   Controls
 UME-R1: Exploring Reasoning-Driven Generative Multimodal Embeddings
+Energetic Proton Dropouts During the Juno Flyby of Europa Strongly Depend on Magnetic Field Perturbations
+Uniform silicon and oxygen isotope record of the 4.34–3.93 Ga lunar crust
+Late Amazonian-aged volcanic cones of explosive origin in Ceraunius fossae, Tharsis, Mars
+Every Activation Boosted: Scaling General Reasoner to 1 Trillion Open
+  Language Foundation
+The Underappreciated Power of Vision Models for Graph Structural
+  Understanding
+UniLumos: Fast and Unified Image and Video Relighting with
+  Physics-Plausible Feedback
+ROVER: Benchmarking Reciprocal Cross-Modal Reasoning for Omnimodal
+  Generation
+ToolScope: An Agentic Framework for Vision-Guided and Long-Horizon Tool
+  Use
+MR-Align: Meta-Reasoning Informed Factuality Alignment for Large
+  Reasoning Models
+Towards Universal Video Retrieval: Generalizing Video Embedding via
+  Synthesized Multimodal Pyramid Curriculum
+TIR-Bench: A Comprehensive Benchmark for Agentic Thinking-with-Images
+  Reasoning
+left|,circlearrowright,text{BUS},right|: A Large and
+  Diverse Multimodal Benchmark for evaluating the ability of Vision-Language
+  Models to understand Rebus Puzzles
+Do Vision-Language Models Measure Up? Benchmarking Visual Measurement
+  Reading with MeasureBench
+Actial: Activate Spatial Reasoning Ability of Multimodal Large Language
+  Models
+Unified Diffusion VLA: Vision-Language-Action Model via Joint Discrete
+  Denoising Diffusion Process
+MotionStream: Real-Time Video Generation with Interactive Motion
+  Controls
+EBT-Policy: Energy Unlocks Emergent Physical Reasoning Capabilities
+How Far Are Surgeons from Surgical World Models? A Pilot Study on
+  Zero-shot Surgical Video Generation with Expert Assessment
+Vote-in-Context: Turning VLMs into Zero-Shot Rank Fusers
+GUI-AIMA: Aligning Intrinsic Multimodal Attention with a Context Anchor
+  for GUI Grounding
+Multi-Step Knowledge Interaction Analysis via Rank-2 Subspace
+  Disentanglement
