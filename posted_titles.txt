@@ -6662,3 +6662,41 @@ Discriminately Treating Motion Components Evolves Joint Depth and
   Ego-Motion Learning
 Don't Blind Your VLA: Aligning Visual Representations for OOD
   Generalization
+Characterizing Temperatures of Flares on the M Dwarf Wolf 359 from Simultaneous Multiband Optical Observations
+Impactor relics of CI-like chondrites in Chang’e-6 lunar samples
+The Caltech Mission to Apophis: Accelerating Planetary Science and Planetary Defense
+The Thermal InfraRed Imager on Hera
+Don't Blind Your VLA: Aligning Visual Representations for OOD
+  Generalization
+VCode: a Multimodal Coding Benchmark with SVG as Symbolic Visual
+  Representation
+When Visualizing is the First Step to Reasoning: MIRA, a Benchmark for
+  Visual Chain-of-Thought
+When Modalities Conflict: How Unimodal Reasoning Uncertainty Governs
+  Preference Dynamics in MLLMs
+The Collaboration Gap
+Brain-IT: Image Reconstruction from fMRI via Brain-Interaction
+  Transformer
+Can Visual Input Be Compressed? A Visual Token Compression Benchmark for
+  Large Multimodal Models
+Shorter but not Worse: Frugal Reasoning via Easy Samples as Length
+  Regularizers in Math RLVR
+BRAINS: A Retrieval-Augmented System for Alzheimer's Detection and
+  Monitoring
+ChartM^3: A Multi-Stage Code-Driven Pipeline for Constructing
+  Multi-Dimensional and Multi-Step Visual Reasoning Data in Chart Comprehension
+RoboChallenge: Large-scale Real-robot Evaluation of Embodied Policies
+VidEmo: Affective-Tree Reasoning for Emotion-Centric Video Foundation
+  Models
+AyurParam: A State-of-the-Art Bilingual Language Model for Ayurveda
+TabDSR: Decompose, Sanitize, and Reason for Complex Numerical Reasoning
+  in Tabular Data
+RiddleBench: A New Generative Reasoning Benchmark for LLMs
+D2D: Detector-to-Differentiable Critic for Improved Numeracy in
+  Text-to-Image Generation
+LiveSecBench: A Dynamic and Culturally-Relevant AI Safety Benchmark for
+  LLMs in Chinese Context
+Discriminately Treating Motion Components Evolves Joint Depth and
+  Ego-Motion Learning
+Reg-DPO: SFT-Regularized Direct Preference Optimization with GT-Pair for
+  Improving Video Generation
