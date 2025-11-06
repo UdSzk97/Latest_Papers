@@ -6720,3 +6720,18 @@ MME-CC: A Challenging Multi-Modal Evaluation Benchmark of Cognitive
 LiveTradeBench: Seeking Real-World Alpha with Large Language Models
 Let Multimodal Embedders Learn When to Augment Query via Adaptive Query
   Augmentation
+Space Weathering on Carbon-rich Surfaces: Spectral Characterization of Fe-poor Mercury and Carbonaceous Asteroid Analogs
+UniAVGen: Unified Audio and Video Generation with Asymmetric Cross-Modal
+  Interactions
+LEGO-Eval: Towards Fine-Grained Evaluation on Synthesizing 3D Embodied
+  Environments with Tool Augmentation
+TabTune: A Unified Library for Inference and Fine-Tuning Tabular
+  Foundation Models
+MME-CC: A Challenging Multi-Modal Evaluation Benchmark of Cognitive
+  Capacity
+The Sequential Edge: Inverse-Entropy Voting Beats Parallel
+  Self-Consistency at Matched Compute
+Grounded Misunderstandings in Asymmetric Dialogue: A Perspectivist
+  Annotation Scheme for MapTask
+Let Multimodal Embedders Learn When to Augment Query via Adaptive Query
+  Augmentation
