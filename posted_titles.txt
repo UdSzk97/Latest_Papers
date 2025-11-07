@@ -6735,3 +6735,22 @@ Grounded Misunderstandings in Asymmetric Dialogue: A Perspectivist
   Annotation Scheme for MapTask
 Let Multimodal Embedders Learn When to Augment Query via Adaptive Query
   Augmentation
+Volatile distribution inversion and rotation analysis of comet 103P/Hartley 2 using nongravitational effects
+Identifying Close-in Jupiters that Arrived via Disk Migration: Evidence of Primordial Alignment, Preference of Nearby Companions and Hint of Runaway Migration
+An impact-related origin for lunar magmatic rocks?
+Strife on Mars
+Detection of an NH3 Absorption Band at 2.2 μm on Europa
+Thinking with Video: Video Generation as a Promising Multimodal
+  Reasoning Paradigm
+V-Thinker: Interactive Thinking with Images
+Scaling Agent Learning via Experience Synthesis
+Cambrian-S: Towards Spatial Supersensing in Video
+GUI-360: A Comprehensive Dataset and Benchmark for Computer-Using Agents
+NVIDIA Nemotron Nano V2 VL
+The Strong Lottery Ticket Hypothesis for Multi-Head Attention Mechanisms
+Benchmark Designers Should "Train on the Test Set" to Expose Exploitable
+  Non-Visual Shortcuts
+Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots
+Contamination Detection for VLMs using Multi-Modal Semantic Perturbation
+How to Evaluate Speech Translation with Source-Aware Neural MT Metrics
+RDMA Point-to-Point Communication for LLM Systems
