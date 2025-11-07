@@ -6754,3 +6754,13 @@ Learning Vision-Driven Reactive Soccer Skills for Humanoid Robots
 Contamination Detection for VLMs using Multi-Modal Semantic Perturbation
 How to Evaluate Speech Translation with Source-Aware Neural MT Metrics
 RDMA Point-to-Point Communication for LLM Systems
+Revised Mass and Orbit of ε Eridani b: A 1 M Jup Planet on a Near-circular Orbit
+NASA’s bold new telescope will do more than just hunt for life
+Thinking with Video: Video Generation as a Promising Multimodal
+  Reasoning Paradigm
+Benchmark Designers Should "Train on the Test Set" to Expose Exploitable
+  Non-Visual Shortcuts
+SIMS-V: Simulated Instruction-Tuning for Spatial Video Understanding
+SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL
+  Tuning
+EVTAR: End-to-End Try on with Additional Unpaired Visual Reference
