@@ -6770,3 +6770,9 @@ Benchmark Designers Should "Train on the Test Set" to Expose Exploitable
   Non-Visual Shortcuts
 SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL
   Tuning
+Thinking with Video: Video Generation as a Promising Multimodal
+  Reasoning Paradigm
+Benchmark Designers Should "Train on the Test Set" to Expose Exploitable
+  Non-Visual Shortcuts
+SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL
+  Tuning
