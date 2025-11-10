@@ -6791,3 +6791,11 @@ Benchmark Designers Should "Train on the Test Set" to Expose Exploitable
   Non-Visual Shortcuts
 SAIL-RL: Guiding MLLMs in When and How to Think via Dual-Reward RL
   Tuning
+Aligned Stellar Obliquities for Two Hot Jupiter-hosting M Dwarfs Revealed by MAROON-X: Implications for Hot Jupiter Formation
+DeepEyesV2: Toward Agentic Multimodal Model
+Visual Spatial Tuning
+Too Good to be Bad: On the Failure of LLMs to Role-Play Villains
+Towards Mitigating Hallucinations in Large Vision-Language Models by
+  Refining Textual Embeddings
+Jailbreaking in the Haystack
+Dense Motion Captioning
