@@ -6799,3 +6799,13 @@ Towards Mitigating Hallucinations in Large Vision-Language Models by
   Refining Textual Embeddings
 Jailbreaking in the Haystack
 Dense Motion Captioning
+Quasilinear Wave‐Particle Analysis in the Source Region of Jovian Kilometric Radio Emission
+The Solar Wind Interaction With an Orbiting Venus
+Site selection and thermal model for a Mars habitat built from inflatable components in the <em>Valles Marineris</em> region
+VeriCoT: Neuro-symbolic Chain-of-Thought Validation via Logical
+  Consistency Checks
+Towards Mitigating Hallucinations in Large Vision-Language Models by
+  Refining Textual Embeddings
+Real-Time Reasoning Agents in Evolving Environments
+HAFixAgent: History-Aware Automated Program Repair Agent
+CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?
