@@ -6850,3 +6850,48 @@ LUT-LLM: Efficient Large Language Model Inference with Memory-based
   Computations on FPGAs
 Ariadne: A Controllable Framework for Probing and Extending VLM
   Reasoning Boundaries
+Eclipse Timing Variations of Circumbinary Substellar Objects in TESS Data
+The Open-source Photochem Code: A General Chemical and Climate Model for Interpreting (Exo)Planet Observations
+Electric Fields and Waves in the Venus Nightside Magnetosphere
+IterResearch: Rethinking Long-Horizon Agents via Markovian State
+  Reconstruction
+DRIVE: Data Curation Best Practices for Reinforcement Learning with
+  Verifiable Reward in Competitive Code Generation
+MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal
+  LLMs
+Routing Manifold Alignment Improves Generalization of Mixture-of-Experts
+  LLMs
+RedOne 2.0: Rethinking Domain-specific LLM Post-Training in Social
+  Networking Services
+SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via
+  Gumbel-Reparameterized Soft-Thinking Policy Optimization
+Reasoning with Confidence: Efficient Verification of LLM Reasoning Steps
+  via Uncertainty Heads
+Teaching Pretrained Language Models to Think Deeper with Retrofitted
+  Recurrence
+NURBGen: High-Fidelity Text-to-CAD Generation through LLM-Driven NURBS
+  Modeling
+Llama-Embed-Nemotron-8B: A Universal Text Embedding Model for
+  Multilingual and Cross-Lingual Tasks
+RLoop: An Self-Improving Framework for Reinforcement Learning with
+  Iterative Policy Initialization
+Ariadne: A Controllable Framework for Probing and Extending VLM
+  Reasoning Boundaries
+RLVE: Scaling Up Reinforcement Learning for Language Models with
+  Adaptive Verifiable Environments
+SWE-fficiency: Can Language Models Optimize Real-World Repositories on
+  Real Workloads?
+Long Grounded Thoughts: Distilling Compositional Visual Reasoning Chains at Scale
+Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion
+  Models
+Do LLMs Feel? Teaching Emotion Recognition with Prompts, Retrieval, and
+  Curriculum Learning
+Generating an Image From 1,000 Words: Enhancing Text-to-Image With
+  Structured Captions
+VADER: Towards Causal Video Anomaly Understanding with Relation-Aware
+  Large Language Models
+Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large
+  Language Models
+LUT-LLM: Efficient Large Language Model Inference with Memory-based
+  Computations on FPGAs
+Reinforcement Learning Improves Traversal of Hierarchical Knowledge in LLMs
