@@ -6809,3 +6809,44 @@ Towards Mitigating Hallucinations in Large Vision-Language Models by
 Real-Time Reasoning Agents in Evolving Environments
 HAFixAgent: History-Aware Automated Program Repair Agent
 CritiCal: Can Critique Help LLM Uncertainty or Confidence Calibration?
+Identification of Likely Methane Absorption Features in the Optical Spectra of Titan
+Searching for Free-floating Planets with TESS: Results from Sectors 61–65
+HaluMem: Evaluating Hallucinations in Memory Systems of Agents
+IterResearch: Rethinking Long-Horizon Agents via Markovian State
+  Reconstruction
+DRIVE: Data Curation Best Practices for Reinforcement Learning with
+  Verifiable Reward in Competitive Code Generation
+SofT-GRPO: Surpassing Discrete-Token LLM Reinforcement Learning via
+  Gumbel-Reparameterized Soft-Thinking Policy Optimization
+RedOne 2.0: Rethinking Domain-specific LLM Post-Training in Social
+  Networking Services
+The Station: An Open-World Environment for AI-Driven Discovery
+Routing Manifold Alignment Improves Generalization of Mixture-of-Experts
+  LLMs
+Reasoning with Confidence: Efficient Verification of LLM Reasoning Steps
+  via Uncertainty Heads
+MVU-Eval: Towards Multi-Video Understanding Evaluation for Multimodal
+  LLMs
+RLoop: An Self-Improving Framework for Reinforcement Learning with
+  Iterative Policy Initialization
+Robot Learning from a Physical World Model
+DigiData: Training and Evaluating General-Purpose Mobile Control Agents
+MPJudge: Towards Perceptual Assessment of Music-Induced Paintings
+SWE-fficiency: Can Language Models Optimize Real-World Repositories on
+  Real Workloads?
+Diffusion-SDPO: Safeguarded Direct Preference Optimization for Diffusion
+  Models
+Do LLMs Feel? Teaching Emotion Recognition with Prompts, Retrieval, and
+  Curriculum Learning
+NURBGen: High-Fidelity Text-to-CAD Generation through LLM-Driven NURBS
+  Modeling
+10 Open Challenges Steering the Future of Vision-Language-Action Models
+DIMO: Diverse 3D Motion Generation for Arbitrary Objects
+VADER: Towards Causal Video Anomaly Understanding with Relation-Aware
+  Large Language Models
+Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large
+  Language Models
+LUT-LLM: Efficient Large Language Model Inference with Memory-based
+  Computations on FPGAs
+Ariadne: A Controllable Framework for Probing and Extending VLM
+  Reasoning Boundaries
