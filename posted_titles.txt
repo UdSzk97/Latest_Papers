@@ -6895,3 +6895,15 @@ Omni-AVSR: Towards Unified Multimodal Speech Recognition with Large
 LUT-LLM: Efficient Large Language Model Inference with Memory-based
   Computations on FPGAs
 Reinforcement Learning Improves Traversal of Hierarchical Knowledge in LLMs
+Constraining the Mass Loss and the Kinetic Energy of Stellar Coronal Mass Ejections with Solar Far-ultraviolet Flares
+Tiny Model, Big Logic: Diversity-Driven Optimization Elicits Large-Model
+  Reasoning Ability in VibeThinker-1.5B
+Adaptive Multi-Agent Response Refinement in Conversational Systems
+Wasm: A Pipeline for Constructing Structured Arabic Interleaved
+  Multimodal Corpora
+KLASS: KL-Guided Fast Inference in Masked Diffusion Models
+Grounding Computer Use Agents on Human Demonstrations
+VideoSSR: Video Self-Supervised Reinforcement Learning
+The Path Not Taken: RLVR Provably Learns Off the Principals
+BiCA: Effective Biomedical Dense Retrieval with Citation-Aware Hard Negatives
+Walking the Tightrope of LLMs for Software Development: A Practitioners' Perspective
