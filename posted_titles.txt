@@ -6931,3 +6931,10 @@ MathSE: Improving Multimodal Mathematical Reasoning via Self-Evolving Iterative 
 Toward the Frontiers of Reliable Diffusion Sampling via Adversarial Sinkhorn Attention Guidance
 Agentic Refactoring: An Empirical Study of AI Coding Agents
 Stemming Hallucination in Language Models Using a Licensing Oracle
+Icy-impactor origins of the Martian moons
+Simultaneous observations of atmospheric IO radical, O3, and sea surface iodide over the tropical western Pacific warm pool: strong correlation of IO levels with estimated inorganic iodine fluxes
+Detection of OH Maser Emission in the 71 yr Periodic Comet 12P/Pons-Brooks Using the 40 m Thai National Radio Telescope
+HyperScout-H: The Hyperspectral Imager for the ESA Hera Mission
+MADD: Multi-Agent Drug Discovery Orchestra
+Adapting Web Agents with Synthetic Supervision
+Motif 2 12.7B technical report
