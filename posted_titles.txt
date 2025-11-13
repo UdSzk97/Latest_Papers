@@ -6919,3 +6919,15 @@ Beyond Fact Retrieval: Episodic Memory for RAG with Generative Semantic Workspac
 Intelligence per Watt: Measuring Intelligence Efficiency of Local AI
 DynaAct: Large Language Model Reasoning with Dynamic Action Spaces
 Optimizing Diversity and Quality through Base-Aligned Model Collaboration
+Direct Spectroscopy of 51 Eridani b with JWST NIRSpec
+Possible presence of cool electron atmosphere at Mercury diagnosed from whistler-mode wave characteristics
+Lumine: An Open Recipe for Building Generalist Agents in 3D Open Worlds
+Time-to-Move: Training-Free Motion Controlled Video Generation via Dual-Clock Denoising
+TiDAR: Think in Diffusion, Talk in Autoregression
+LoopTool: Closing the Data-Training Loop for Robust LLM Tool Calls
+WMPO: World Model-based Policy Optimization for Vision-Language-Action Models
+WebVIA: A Web-based Vision-Language Agentic Framework for Interactive and Verifiable UI-to-Code Generation
+MathSE: Improving Multimodal Mathematical Reasoning via Self-Evolving Iterative Reflection and Reward-Guided Fine-Tuning
+Toward the Frontiers of Reliable Diffusion Sampling via Adversarial Sinkhorn Attention Guidance
+Agentic Refactoring: An Empirical Study of AI Coding Agents
+Stemming Hallucination in Language Models Using a Licensing Oracle
