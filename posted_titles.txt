@@ -6938,3 +6938,13 @@ HyperScout-H: The Hyperspectral Imager for the ESA Hera Mission
 MADD: Multi-Agent Drug Discovery Orchestra
 Adapting Web Agents with Synthetic Supervision
 Motif 2 12.7B technical report
+Extreme Geomagnetic Storm on the Early Earth Induced by Corotating Interaction Regions from the Young Sun
+Inferring the Magnetic Field Configuration of an ICME From the In Situ Observations at Different Points
+LROC NAC-derived Meter-scale Topography of the Moon’s South Polar Landing Sites: Digital Terrain Models and Their Quality Assessments
+The Influence of Internal Structure on Physical Outcomes of the 2029 Apophis Close Approach with Earth
+Seasonal Effects of the Changing Photon Scattering Rates on Mercury’s Exospheric Structure
+Water Transport from Enceladus to the Rings
+Depth Anything 3: Recovering the Visual Space from Any Views
+Black-Box On-Policy Distillation of Large Language Models
+UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist
+MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples
