@@ -6948,3 +6948,23 @@ Depth Anything 3: Recovering the Visual Space from Any Views
 Black-Box On-Policy Distillation of Large Language Models
 UniVA: Universal Video Agent towards Open-Source Next-Generation Video Generalist
 MuSc-V2: Zero-Shot Multimodal Industrial Anomaly Classification and Segmentation with Mutual Scoring of Unlabeled Samples
+Eclipse Depth Variations in Seven Eclipsing Binaries as Observed by KELT and TESS
+The Dynamical Environment within the Habitable Zone of the Gaia-4 and Gaia-5 Planetary Systems
+Formation of Polyoxymethylenes in Extraterrestrial Ice Analogs of Formaldehyde Exposed to Ionizing Radiation
+Final differentiation of the lunar magma ocean: genesis of KREEP and the limited role of silicate liquid immiscibility
+First Passive Permittivity Measurement of Lunar Regolith Simulant at Terahertz Band
+Discovery of crystalline Fe2O3 in returned lunar soils
+One Small Step in Latent, One Giant Leap for Pixels: Fast Latent Upscale Adapter for Your Diffusion Models
+PAN: A World Model for General, Interactable, and Long-Horizon World Simulation
+Hail to the Thief: Exploring Attacks and Defenses in Decentralised GRPO
+Superpositional Gradient Descent: Harnessing Quantum Principles for
+  Model Training
+Solving a Million-Step LLM Task with Zero Errors
+AlphaResearch: Accelerating New Algorithm Discovery with Language Models
+Rubric-Based Benchmarking and Reinforcement Learning for Advancing LLM Instruction Following
+Benchmarking Diversity in Image Generation via Attribute-Conditional Human Evaluation
+Music Flamingo: Scaling Music Understanding in Audio Language Models
+ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research Agents
+AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models
+SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control
+CC30k: A Citation Contexts Dataset for Reproducibility-Oriented Sentiment Analysis
