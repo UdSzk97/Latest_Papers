@@ -6968,3 +6968,8 @@ ResearchRubrics: A Benchmark of Prompts and Rubrics For Evaluating Deep Research
 AffordBot: 3D Fine-grained Embodied Reasoning via Multimodal Large Language Models
 SliderEdit: Continuous Image Editing with Fine-Grained Instruction Control
 CC30k: A Citation Contexts Dataset for Reproducibility-Oriented Sentiment Analysis
+Magnetopause Reconnection Voltages During the Voyager 2 Flyby of Uranus
+Wave Heating of Magnetotail Current Sheet Electrons at Mars
+Superpositional Gradient Descent: Harnessing Quantum Principles for
+  Model Training
+MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique
