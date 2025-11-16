@@ -6975,3 +6975,5 @@ Superpositional Gradient Descent: Harnessing Quantum Principles for
 MM-CRITIC: A Holistic Evaluation of Large Multimodal Models as Multimodal Critique
 Superpositional Gradient Descent: Harnessing Quantum Principles for
   Model Training
+Superpositional Gradient Descent: Harnessing Quantum Principles for
+  Model Training
