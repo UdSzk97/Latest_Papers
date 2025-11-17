@@ -6996,3 +6996,10 @@ EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understandi
 SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards
 CATS-V2V: A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios
 Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey
+From one exoplanet to six thousand
+Carbon dioxide in an exoplanetary atmosphere and the JWST revolution
+Experience-Guided Adaptation of Inference-Time Reasoning Strategies
+RF-DETR: Neural Architecture Search for Real-Time Detection Transformers
+Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding
+Workload Schedulers -- Genesis, Algorithms and Differences
+Building the Web for Agents: A Declarative Framework for Agent-Web Interaction
