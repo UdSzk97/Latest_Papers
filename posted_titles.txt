@@ -6979,3 +6979,20 @@ Superpositional Gradient Descent: Harnessing Quantum Principles for
   Model Training
 Superpositional Gradient Descent: Harnessing Quantum Principles for
   Model Training
+Unveiling the Mixing and Transport Processes of Solar Wind and Planetary Ions in the Magnetopause Boundary Layer
+The Ionosphere of Uranus as Revealed by JWST
+DoPE: Denoising Rotary Position Embedding
+WEAVE: Unleashing and Benchmarking the In-context Interleaved Comprehension and Generation
+AIonopedia: an LLM agent orchestrating multimodal learning for ionic liquid discovery
+UI2Code^N: A Visual Language Model for Test-Time Scalable Interactive UI-to-Code Generation
+Virtual Width Networks
+LiteAttention: A Temporal Sparse Attention for Diffusion Transformers
+Simulating the Visual World with Artificial Intelligence: A Roadmap
+GGBench: A Geometric Generative Reasoning Benchmark for Unified Multimodal Models
+HI-TransPA: Hearing Impairments Translation Personal Assistant
+MarsRL: Advancing Multi-Agent Reasoning System via Reinforcement Learning with Agentic Pipeline Parallelism
+DiscoX: Benchmarking Discourse-Level Translation task in Expert Domains
+EmoVid: A Multimodal Emotion Video Dataset for Emotion-Centric Video Understanding and Generation
+SpatialThinker: Reinforcing 3D Reasoning in Multimodal LLMs via Spatial Rewards
+CATS-V2V: A Real-World Vehicle-to-Vehicle Cooperative Perception Dataset with Complex Adverse Traffic Scenarios
+Large Language Models for Scientific Idea Generation: A Creativity-Centered Survey
