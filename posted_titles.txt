@@ -7003,3 +7003,26 @@ RF-DETR: Neural Architecture Search for Real-Time Detection Transformers
 Don't Waste It: Guiding Generative Recommenders with Structured Human Priors via Multi-head Decoding
 Workload Schedulers -- Genesis, Algorithms and Differences
 Building the Web for Agents: A Declarative Framework for Agent-Web Interaction
+Systematics and refinement of the Neptune ephemeris: Leveraging Gaia FPR and 42-year stellar occultation astrometry with an independent Triton orbit update
+Formation of np-Fe0 particles by H+ irradiation: Insight into space weathering on the moon and other airless bodies
+HDO and SO2 thermal mapping on Venus
+An Earthlike Density for the Temperate Earth-sized Planet GJ 12 b
+Modeling Jovian Plasma‐Europa Interactions: Innovative Atmosphere and Ionosphere Depiction for JUICE Mission Insights
+High Frequency Radar Perspective of Putative Subglacial Liquid Water on Mars
+Exploring Magnetic Reconnection in the Collisional Ionosphere of Mars With MAVEN
+P1: Mastering Physics Olympiads with Reinforcement Learning
+Uni-MoE-2.0-Omni: Scaling Language-Centric Omnimodal Large Model with Advanced MoE, Training and Data
+Part-X-MLLM: Part-aware 3D Multimodal Large Language Model
+TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models
+MMaDA-Parallel: Multimodal Large Diffusion Language Models for Thinking-Aware Editing and Generation
+PhysX-Anything: Simulation-Ready Physical 3D Assets from Single Image
+UFO^3: Weaving the Digital Agent Galaxy
+GroupRank: A Groupwise Reranking Paradigm Driven by Reinforcement Learning
+OlmoEarth: Stable Latent Image Modeling for Multimodal Earth Observation
+Souper-Model: How Simple Arithmetic Unlocks State-of-the-Art LLM Performance
+MiroThinker: Pushing the Performance Boundaries of Open-Source Research Agents via Model, Context, and Interactive Scaling
+Live-SWE-agent: Can Software Engineering Agents Self-Evolve on the Fly?
+Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-Language Models
+WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance
+MicroVQA++: High-Quality Microscopy Reasoning Dataset with Weakly Supervised Graphs for Multimodal Large Language Model
+Instella: Fully Open Language Models with Stellar Performance
