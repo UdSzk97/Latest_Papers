@@ -7026,3 +7026,11 @@ Test-Time Spectrum-Aware Latent Steering for Zero-Shot Generalization in Vision-
 WebCoach: Self-Evolving Web Agents with Cross-Session Memory Guidance
 MicroVQA++: High-Quality Microscopy Reasoning Dataset with Weakly Supervised Graphs for Multimodal Large Language Model
 Instella: Fully Open Language Models with Stellar Performance
+Evolve the Method, Not the Prompts: Evolutionary Synthesis of Jailbreak Attacks on LLMs
+Back to Basics: Let Denoising Generative Models Denoise
+Genomic Next-Token Predictors are In-Context Learners
+UnSAMv2: Self-Supervised Learning Enables Segment Anything at Any Granularity
+Dynamic Reflections: Probing Video Representations with Text Alignment
+Assessing LLMs for Serendipity Discovery in Knowledge Graphs: A Case for Drug Repurposing
+A Decentralized Retrieval Augmented Generation System with Source Reliabilities Secured on Blockchain
+OpenUS: A Fully Open-Source Foundation Model for Ultrasound Image Analysis via Self-Adaptive Masked Contrastive Learning
