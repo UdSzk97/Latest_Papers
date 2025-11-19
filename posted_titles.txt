@@ -7034,3 +7034,23 @@ Dynamic Reflections: Probing Video Representations with Text Alignment
 Assessing LLMs for Serendipity Discovery in Knowledge Graphs: A Case for Drug Repurposing
 A Decentralized Retrieval Augmented Generation System with Source Reliabilities Secured on Blockchain
 OpenUS: A Fully Open-Source Foundation Model for Ultrasound Image Analysis via Self-Adaptive Masked Contrastive Learning
+Fractal Aggregate Aerosols in the Virga Cloud Code. I. Model Description and Application to a Benchmark Cloudy Exoplanet
+Simulations of Electron Interaction With Ionospheric Alfvén Resonator in the Jovian Aurora
+Europa Clipper Magnetometer Boom Deployment: A First Look at the Magnetometer Observations of the Spacecraft and the Interplanetary Magnetic Field
+Think-at-Hard: Selective Latent Iterations to Improve Reasoning Language Models
+A Style is Worth One Code: Unlocking Code-to-Style Image Generation with Discrete Style Space
+Can World Simulators Reason? Gen-ViRe: A Generative Visual Reasoning Benchmark
+MVI-Bench: A Comprehensive Benchmark for Evaluating Robustness to Misleading Visual Inputs in LVLMs
+REVISOR: Beyond Textual Reflection, Towards Multimodal Introspective Reasoning in Long-Form Video Understanding
+AraLingBench A Human-Annotated Benchmark for Evaluating Arabic Linguistic Capabilities of Large Language Models
+OmniZip: Audio-Guided Dynamic Token Compression for Fast Omnimodal Large Language Models
+ATLAS: A High-Difficulty, Multidisciplinary Benchmark for Frontier Scientific Reasoning
+Agent-R1: Training Powerful LLM Agents with End-to-End Reinforcement Learning
+Orion: A Unified Visual Agent for Multimodal Perception, Advanced Visual Reasoning and Execution
+Large Language Models Meet Extreme Multi-label Classification: Scaling and Multi-modal Framework
+Mitigating Label Length Bias in Large Language Models
+Agent READMEs: An Empirical Study of Context Files for Agentic Coding
+Error-Driven Scene Editing for 3D Grounding in Large Language Models
+A Brain Wave Encodes a Thousand Tokens: Modeling Inter-Cortical Neural Interactions for Effective EEG-based Emotion Recognition
+Proactive Hearing Assistants that Isolate Egocentric Conversations
+Φeat: Physically-Grounded Feature Representation
