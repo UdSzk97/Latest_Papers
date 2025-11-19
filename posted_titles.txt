@@ -7054,3 +7054,6 @@ Error-Driven Scene Editing for 3D Grounding in Large Language Models
 A Brain Wave Encodes a Thousand Tokens: Modeling Inter-Cortical Neural Interactions for Effective EEG-based Emotion Recognition
 Proactive Hearing Assistants that Isolate Egocentric Conversations
 Φeat: Physically-Grounded Feature Representation
+VIDEOP2R: Video Understanding from Perception to Reasoning
+TopoPerception: A Shortcut-Free Evaluation of Global Visual Perception in Large Vision-Language Models
+LLM-Powered Fully Automated Chaos Engineering: Towards Enabling Anyone to Build Resilient Software Systems at Low Cost
