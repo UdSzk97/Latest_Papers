@@ -7057,3 +7057,13 @@ Proactive Hearing Assistants that Isolate Egocentric Conversations
 VIDEOP2R: Video Understanding from Perception to Reasoning
 TopoPerception: A Shortcut-Free Evaluation of Global Visual Perception in Large Vision-Language Models
 LLM-Powered Fully Automated Chaos Engineering: Towards Enabling Anyone to Build Resilient Software Systems at Low Cost
+Early Coformation of the Milky Way’s Thin and Thick Disks at Redshift z > 2
+Kandinsky 5.0: A Family of Foundation Models for Image and Video Generation
+Reasoning via Video: The First Evaluation of Video Models' Reasoning Abilities through Maze-Solving Tasks
+VisPlay: Self-Evolving Vision-Language Models from Images
+Instruction-Guided Lesion Segmentation for Chest X-rays with Automatically Generated Large-Scale Dataset
+ARC-Chapter: Structuring Hour-Long Videos into Navigable Chapters and Hierarchical Summaries
+MHR: Momentum Human Rig
+FreeAskWorld: An Interactive and Closed-Loop Simulator for Human-Centric Embodied AI
+Aligning Generative Music AI with Human Preferences: Methods and Challenges
+Medal S: Spatio-Textual Prompt Model for Medical Segmentation
