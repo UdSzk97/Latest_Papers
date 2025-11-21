@@ -7089,3 +7089,12 @@ NaTex: Seamless Texture Generation as Latent Color Diffusion
 PartUV: Part-Based UV Unwrapping of 3D Meshes
 SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking
 Draft and Refine with Visual Experts
+SPORES-HWO. II. Companion Mass Limits and Updated Planet Properties for 120 Future Exoplanet Imaging Targets from 35 yr of Precise Doppler Monitoring ∗
+Investigating the Effects of Point Source Injection Strategies on KMTNet Real/Bogus Classification
+Modeling the Solar System. I. Characterization Limits from Analytic Timing Variations
+Remote Sensing, Vol. 17, Pages 3786: Geological Map of the Proclus Crater: A Study Case to Integrate Composition and Morpho-Stratigraphic Mapping on the Moon
+Generalist Foundation Models Are Not Clinical Enough for Hospital Operations
+EntroPIC: Towards Stable Long-Term Training of LLMs via Entropy Stabilization with Proportional-Integral Control
+FinTRec: Transformer Based Unified Contextual Ads Targeting and Personalization for Financial Applications
+BioBench: A Blueprint to Move Beyond ImageNet for Scientific ML Benchmarks
+Boosting Medical Visual Understanding From Multi-Granular Language Learning
