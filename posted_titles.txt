@@ -7070,3 +7070,22 @@ Medal S: Spatio-Textual Prompt Model for Medical Segmentation
 Magnetic Activities of GJ 1151: Flares in TESS Data and Radio Observation in uGMRT
 What Does It Take to Be a Good AI Research Agent? Studying the Role of Ideation Diversity
 Mixture of States: Routing Token-Level Dynamics for Multimodal Generation
+The PRime-focus Infrared Microlensing Experiment (PRIME): First Results
+Probing Starspot Dynamics on the Active M Dwarf TIC 272272592: A Multiyear TESS Study
+Remote Sensing, Vol. 17, Pages 3783: Enhanced Resolution of Martian Polar Stratigraphy via Structure Enhancement Denoising and Sparse Deterministic Deconvolution of SHARAD Data
+Step-Audio-R1 Technical Report
+V-ReasonBench: Toward Unified Reasoning Benchmark Suite for Video Generation Models
+First Frame Is the Place to Go for Video Content Customization
+Scaling Spatial Intelligence with Multimodal Foundation Models
+Video-as-Answer: Predict and Generate Next Video Event with Joint-GRPO
+SAM 3D: 3Dfy Anything in Images
+MiMo-Embodied: X-Embodied Foundation Model Technical Report
+Thinking-while-Generating: Interleaving Textual Reasoning throughout Visual Generation
+TurkColBERT: A Benchmark of Dense and Late-Interaction Models for Turkish Information Retrieval
+SRPO: Self-Referential Policy Optimization for Vision-Language-Action Models
+Nemotron Elastic: Towards Efficient Many-in-One Reasoning LLMs
+TimeViper: A Hybrid Mamba-Transformer Vision-Language Model for Efficient Long Video Understanding
+NaTex: Seamless Texture Generation as Latent Color Diffusion
+PartUV: Part-Based UV Unwrapping of 3D Meshes
+SAM2S: Segment Anything in Surgical Videos via Semantic Long-term Tracking
+Draft and Refine with Visual Experts
