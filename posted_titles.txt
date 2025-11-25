@@ -7132,3 +7132,30 @@ Taming Generative Synthetic Data for X-ray Prohibited Item Detection
 Ever Elusive Exospheres: One Probable Detection and Two Nondetections of Hα Transits in Young Systems
 High-temperature He+ Irradiation of Low-iron-bearing Olivine: Laboratory Simulations of Space Weathering on Mercury
 InstructMix2Mix: Consistent Sparse-View Editing Through Multi-View Model Personalization
+The Evolution of Jupiter and Saturn as a Function of the R ρ Parameter
+Mapping the SO2 Shoreline in Gas Giant Exoplanets
+Kindberg, the fifth meteorite fall in Austria: A weakly shocked L6 chondrite breccia with high‐pressure phases
+General Agentic Memory Via Deep Research
+AutoEnv: Automated Environments for Measuring Cross-Environment Agent Learning
+Computer-Use Agents as Judges for Generative User Interface
+DeCo: Frequency-Decoupled Pixel Diffusion for End-to-End Image Generation
+UltraFlux: Data-Model Co-Design for High-quality Native 4K Text-to-Image Generation across Diverse Aspect Ratios
+DR Tulu: Reinforcement Learning with Evolving Rubrics for Deep Research
+In-Video Instructions: Visual Signals as Generative Control
+Budget-Aware Tool-Use Enables Effective Agent Scaling
+Plan-X: Instruct Video Generation via Semantic Planning
+M3-Bench: Multi-Modal, Multi-Hop, Multi-Threaded Tool-Using MLLM Agent Benchmark
+Multi-Agent Deep Research: Training Multi-Agent Systems with M-GRPO
+HunyuanVideo 1.5 Technical Report
+Chain-of-Visual-Thought: Teaching VLMs to See and Think Better with Continuous Visual Tokens
+MIST: Mutual Information Via Supervised Training
+Controllable Layer Decomposition for Reversible Multi-Layer Image Generation
+MASS: Motion-Aware Spatial-Temporal Grounding for Physics Reasoning and Comprehension in Vision-Language Models
+Pillar-0: A New Frontier for Radiology Foundation Models
+PRInTS: Reward Modeling for Long-Horizon Information Seeking
+Flow Map Distillation Without Data
+AICC: Parse HTML Finer, Make Models Better -- A 7.3T AI-Ready Corpus Built by a Model-Based HTML Parser
+Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targets?
+SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis
+Fidelity-Aware Recommendation Explanations via Stochastic Path Integration
+Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems
