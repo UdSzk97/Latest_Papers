@@ -7159,3 +7159,8 @@ Target-Bench: Can World Models Achieve Mapless Path Planning with Semantic Targe
 SyncMV4D: Synchronized Multi-view Joint Diffusion of Appearance and Motion for Hand-Object Interaction Synthesis
 Fidelity-Aware Recommendation Explanations via Stochastic Path Integration
 Extracting Interaction-Aware Monosemantic Concepts in Recommender Systems
+Upsample Anything: A Simple and Hard to Beat Baseline for Feature Upsampling
+EvoVLA: Self-Evolving Vision-Language-Action Model
+Representational Stability of Truth in Large Language Models
+One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control
+MSRNet: A Multi-Scale Recursive Network for Camouflaged Object Detection
