@@ -7164,3 +7164,26 @@ EvoVLA: Self-Evolving Vision-Language-Action Model
 Representational Stability of Truth in Large Language Models
 One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control
 MSRNet: A Multi-Scale Recursive Network for Camouflaged Object Detection
+The JWST Early Release Science Program for Direct Observations of Exoplanetary Systems. VI. Evidence for Radially Evolving Icy Grains in the HD 141569A Disk via NIRCam Coronagraphic Imaging
+GigaEvo: An Open Source Optimization Framework Powered By LLMs And Evolution Algorithms
+MedSAM3: Delving into Segment Anything with Medical Concepts
+Agent0-VL: Exploring Self-Evolving Agent for Tool-Integrated Vision-Language Reasoning
+iMontage: Unified, Versatile, Highly Dynamic Many-to-many Image Generation
+Does Understanding Inform Generation in Unified Multimodal Models? From Analysis to Path Forward
+SteadyDancer: Harmonized and Coherent Human Image Animation with First-Frame Preservation
+GigaWorld-0: World Models as Data Engine to Empower Embodied AI
+Soft Adaptive Policy Optimization
+UltraViCo: Breaking Extrapolation Limits in Video Diffusion Transformers
+ReDirector: Creating Any-Length Video Retakes with Rotary Camera Encoding
+OmniAlpha: A Sequence-to-Sequence Framework for Unified Multi-Task RGBA Generation
+VQ-VA World: Towards High-Quality Visual Question-Visual Answering
+HunyuanOCR Technical Report
+MajutsuCity: Language-driven Aesthetic-adaptive City Generation with Controllable 3D Assets and Layouts
+Scaling Agentic Reinforcement Learning for Tool-Integrated Reasoning in VLMs
+Fara-7B: An Efficient Agentic Model for Computer Use
+DiffSeg30k: A Multi-Turn Diffusion Editing Benchmark for Localized AIGC Detection
+Yo'City: Personalized and Boundless 3D Realistic City Scene Generation via Self-Critic Expansion
+PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Grounding
+SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System
+Unified all-atom molecule generation with neural fields
+SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space
