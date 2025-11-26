@@ -7187,3 +7187,19 @@ PhysChoreo: Physics-Controllable Video Generation with Part-Aware Semantic Groun
 SciEducator: Scientific Video Understanding and Educating via Deming-Cycle Multi-Agent System
 Unified all-atom molecule generation with neural fields
 SSA: Sparse Sparse Attention by Aligning Full and Sparse Attention Outputs in Feature Space
+A Refined Photometric Constraint for Exoplanet Direct Imaging Yield Estimation and Observation Scheduling
+Evolution of Lunar Orbit under Climate Dynamics since the Last Glacial Cycle
+This is what lightning on Mars sounds like
+Detection of triboelectric discharges during dust events on Mars
+The Venus project
+Is there lightning on Mars?
+Remote Sensing, Vol. 17, Pages 3831: Framework for Processing of CRISM Hyperspectral Data for Global Martian Mineralogy
+Remote Sensing, Vol. 17, Pages 3824: Geological Evolution of Rima Bode on the Moon Revealed by Multi-Source Remote Sensing Data
+STARFlow-V: End-to-End Video Generative Modeling with Normalizing Flow
+Cook and Clean Together: Teaching Embodied Agents for Parallel Task Execution
+MagicWorld: Interactive Geometry-driven Video World Exploration
+Cognitive Foundations for Reasoning and Their Manifestation in LLMs
+Diverse Video Generation with Determinantal Point Process-Guided Policy Optimization
+Concept-Aware Batch Sampling Improves Language-Image Pretraining
+Uplifting Table Tennis: A Robust, Real-World Application for 3D Trajectory and Spin Estimation
+Future Is Unevenly Distributed: Forecasting Ability of LLMs Depends on What We're Asking
