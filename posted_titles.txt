@@ -7220,3 +7220,16 @@ MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots
 SPHINX: A Synthetic Environment for Visual Perception and Reasoning
 I-GLIDE: Input Groups for Latent Health Indicators in Degradation Estimation
 Frequency-Adaptive Sharpness Regularization for Improving 3D Gaussian Splatting Generalization
+Asteroid Mass Estimation by Mutual Perturbations During Close Encounters After Gaia Focused Product Release
+Considerations on the process of target selection for the Comet Interceptor mission
+The Lucy Mission: First to the Jupiter Trojan Asteroids – Editorial
+Multimodal Evaluation of Russian-language Architectures
+Harmony: Harmonizing Audio and Video Generation through Cross-Task Synergy
+G^2VLM: Geometry Grounded Vision Language Model with Unified 3D Reconstruction and Spatial Reasoning
+UniGame: Turning a Unified Multimodal Model Into Its Own Adversary
+Block Cascading: Training Free Acceleration of Block-Causal Video Models
+Image-Free Timestep Distillation via Continuous-Time Consistency with Trajectory-Sampled Pairs
+Reinforcing Action Policies by Prophesying
+NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering
+RAISECity: A Multimodal Agent Framework for Reality-Aligned 3D World Generation at City-Scale
+Position: The Complexity of Perfect AI Alignment -- Formalizing the RLHF Trilemma
