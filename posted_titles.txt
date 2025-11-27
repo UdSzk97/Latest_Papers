@@ -7203,3 +7203,20 @@ Diverse Video Generation with Determinantal Point Process-Guided Policy Optimiza
 Concept-Aware Batch Sampling Improves Language-Image Pretraining
 Uplifting Table Tennis: A Robust, Real-World Application for 3D Trajectory and Spin Estimation
 Future Is Unevenly Distributed: Forecasting Ability of LLMs Depends on What We're Asking
+Reflectance-spectroscopic and polarization measurements of meteorite mixtures relevant to E- and M-type asteroids
+Atmospheric composition and circulation of the ultra-hot Jupiter WASP-121b with joint NIRPS, HARPS and CRIRES+ transit spectroscopy
+HST-COS Transit Spectroscopy of KELT-20b: First Detection of Excess Far-ultraviolet Absorption from an Ultrahot Jupiter
+A Deep Search for Exomoons around WISE 0855 with JWST
+Reconstructing the Anisotropic Ultralong Wavelength Spectra Using a Single Antenna on Lunar Orbit
+A Dust Halo from Saturn’s Main Rings Extending Several Saturnian Radii above the Ring Plane
+Watching a Comet Turn On: High Spectral Resolving Power Observations of Comet C/2017 K2 (PanSTARRS)
+Latent Collaboration in Multi-Agent Systems
+Inferix: A Block-Diffusion based Next-Generation Inference Engine for World Simulation
+Monet: Reasoning in Latent Visual Space Beyond Images and Language
+NVIDIA Nemotron Parse 1.1
+Terminal Velocity Matching
+Revisiting Generalization Across Difficulty Levels: It's Not So Easy
+MobileVLA-R1: Reinforcing Vision-Language-Action for Mobile Robots
+SPHINX: A Synthetic Environment for Visual Perception and Reasoning
+I-GLIDE: Input Groups for Latent Health Indicators in Degradation Estimation
+Frequency-Adaptive Sharpness Regularization for Improving 3D Gaussian Splatting Generalization
