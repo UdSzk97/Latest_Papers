@@ -7233,3 +7233,14 @@ Reinforcing Action Policies by Prophesying
 NAF: Zero-Shot Feature Upsampling via Neighborhood Attention Filtering
 RAISECity: A Multimodal Agent Framework for Reality-Aligned 3D World Generation at City-Scale
 Position: The Complexity of Perfect AI Alignment -- Formalizing the RLHF Trilemma
+Evaluating Habitability and Biosignature Detection on TOI-700 d: The Role of UV Environment and Atmospheric Pressure
+Micrometeoroid Impacts: Dual Pathways for Iron Reduction and Oxidation on Lunar and Asteroidal Surfaces
+An Al-in-olivine thermometer for mafic and ultramafic rocks from Mars
+Ancient storage of anomalous mercury isotope signatures in the Earth’s transition zone
+Isolating the Gravitational Influence of Uranus’s Winds Requires Close Passages Inward of the Rings
+Video Generation Models Are Good Latent Reward Models
+Canvas-to-Image: Compositional Image Generation with Multimodal Controls
+MIRA: Multimodal Iterative Reasoning Agent for Image Editing
+Multi-Crit: Benchmarking Multimodal Judges on Pluralistic Criteria-Following
+What does it mean to understand language?
+Agentic Learner with Grow-and-Refine Multimodal Semantic Memory
