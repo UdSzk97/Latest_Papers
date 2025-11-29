@@ -7248,3 +7248,5 @@ The moon's formation time recorded in lunar mare basalts
 VIPER’s Mass Spectrometer Observing Lunar Operations (MSolo)
 ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interaction
 Altitude Profile and Isotopic Composition for N2 From Pioneer Venus Mass Spectra
+Degassing from Chang’e-6 ilmenite surfaces revealed by a foamy texture: insights for volatile cycles on the Moon
+Detectability of asteroid phase coloring based on phase curves obtained from large spectro-photometric surveys
