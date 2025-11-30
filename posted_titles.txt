@@ -7250,3 +7250,5 @@ ENACT: Evaluating Embodied Cognition with World Modeling of Egocentric Interacti
 Altitude Profile and Isotopic Composition for N2 From Pioneer Venus Mass Spectra
 Degassing from Chang’e-6 ilmenite surfaces revealed by a foamy texture: insights for volatile cycles on the Moon
 Detectability of asteroid phase coloring based on phase curves obtained from large spectro-photometric surveys
+The Optical Photometric Variability of Herbig Ae/Be Stars from TESS
+Constraints on the Progenitor and Explosion of SN 2024ggi in Harmony with Preexplosion Detection and Hydrodynamic Simulations
