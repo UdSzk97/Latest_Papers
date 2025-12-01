@@ -7282,3 +7282,7 @@ From Pixels to Feelings: Aligning MLLMs with Human Cognitive Perception of Image
 FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning
 Find the Leak, Fix the Split: Cluster-Based Method to Prevent Leakage in Video-Derived Datasets
 Recognition of Abnormal Events in Surveillance Videos using Weakly Supervised Dual-Encoder Models
+Effect of Regolith–Ice Stratigraphy and Laser Weathering on Ultraviolet–Visible–Near-infrared Detection of Lunar Water Ice
+Nemotron-Flash: Towards Latency-Optimal Hybrid Small Language Models
+Layer-Aware Video Composition via Split-then-Merge
+MRI Super-Resolution with Deep Learning: A Comprehensive Survey
