@@ -7252,3 +7252,33 @@ Degassing from Chang’e-6 ilmenite surfaces revealed by a foamy texture: insigh
 Detectability of asteroid phase coloring based on phase curves obtained from large spectro-photometric surveys
 The Optical Photometric Variability of Herbig Ae/Be Stars from TESS
 Constraints on the Progenitor and Explosion of SN 2024ggi in Harmony with Preexplosion Detection and Hydrodynamic Simulations
+A Comparative Study of Time on Mars with Lunar and Terrestrial Clocks
+An Inclusive Library for Quantitative Analysis of the Laser-induced Breakdown Spectra Acquired by the Zhurong Mars Rover
+Dielectric properties of the lunar regolith estimated through a combined loss tangent and EM velocity distribution analysis of the Chang'e-4 GPR data set
+Z-Image: An Efficient Image Generation Foundation Model with Single-Stream Diffusion Transformer
+REASONEDIT: Towards Reasoning-Enhanced Image Editing Models
+AnyTalker: Scaling Multi-Person Talking Video Generation with Interactivity Refinement
+Vision Bridge Transformer at Scale
+Architecture Decoupling Is Not All You Need For Unified Multimodal Model
+DiP: Taming Diffusion Models in Pixel Space
+Every Token Counts: Generalizing 16M Ultra-Long Context in Large Language Models
+Adversarial Flow Models
+Decoupled DMD: CFG Augmentation as the Spear, Distribution Matching as the Shield
+DualVLA: Building a Generalizable Embodied Agent via Partial Decoupling of Reasoning and Action
+Captain Safari: A World Engine
+World in a Frame: Understanding Culture Mixing as a New Challenge for Vision-Language Models
+RefineBench: Evaluating Refinement Capability of Language Models via Checklists
+OralGPT-Omni: A Versatile Dental Multimodal Large Language Model
+The Collapse of Patches
+Test-time scaling of diffusions with flow maps
+Focused Chain-of-Thought: Efficient LLM Reasoning via Structured Input Information
+SO-Bench: A Structural Output Evaluation of Multimodal LLMs
+CaptionQA: Is Your Caption as Useful as the Image Itself?
+YOLO Meets Mixture-of-Experts: Adaptive Expert Routing for Robust Object Detection
+DeepSeekMath-V2: Towards Self-Verifiable Mathematical Reasoning
+Fast3Dcache: Training-free 3D Geometry Synthesis Acceleration
+OmniRefiner: Reinforcement-Guided Local Diffusion Refinement
+From Pixels to Feelings: Aligning MLLMs with Human Cognitive Perception of Images
+FedRE: A Representation Entanglement Framework for Model-Heterogeneous Federated Learning
+Find the Leak, Fix the Split: Cluster-Based Method to Prevent Leakage in Video-Derived Datasets
+Recognition of Abnormal Events in Surveillance Videos using Weakly Supervised Dual-Encoder Models
