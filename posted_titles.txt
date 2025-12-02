@@ -7286,3 +7286,43 @@ Effect of Regolith–Ice Stratigraphy and Laser Weathering on Ultraviolet–Visi
 Nemotron-Flash: Towards Latency-Optimal Hybrid Small Language Models
 Layer-Aware Video Composition via Split-then-Merge
 MRI Super-Resolution with Deep Learning: A Comprehensive Survey
+Accounting for Transit Timing Detectability: Biases in Planetary Radius and Orbital Period
+Determining the State of Jupiter’s Magnetosphere Using In Situ and Remote Sensing Observations
+Nitrogen- and oxygen-rich organic material indicative of polymerization in pre-aqueous cryochemistry on Bennu’s parent body
+Abundant supernova dust and heterogeneous aqueous alteration revealed by stardust in two lithologies of asteroid Bennu
+Bio-essential sugars in samples from asteroid Bennu
+From Code Foundation Models to Agents and Applications: A Practical Guide to Code Intelligence
+LongVT: Incentivizing "Thinking with Long Videos" via Native Tool Calling
+Envision: Benchmarking Unified Understanding & Generation for Causal World Process Insights
+Stabilizing Reinforcement Learning with LLMs: Formulation and Practices
+How Far Are We from Genuinely Useful Deep Research Agents?
+What about gravity in video generation? Post-Training Newton's Laws with Verifiable Rewards
+The Consistency Critic: Correcting Inconsistencies in Generated Images via Reference-Guided Attentive Alignment
+Infinity-RoPE: Action-Controllable Infinite Video Generation Emerges From Autoregressive Self-Rollout
+TUNA: Taming Unified Visual Representations for Native Unified Multimodal Models
+Flash-DMD: Towards High-Fidelity Few-Step Image Generation with Efficient Distillation and Joint Reinforcement Learning
+GR-RL: Going Dexterous and Precise for Long-Horizon Robotic Manipulation
+InternVideo-Next: Towards General Video Foundation Models without Video-Text Supervision
+VLASH: Real-Time VLAs via Future-State-Aware Asynchronous Inference
+LFM2 Technical Report
+SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs
+Rectifying LLM Thought from Lens of Optimization
+Accelerating Streaming Video Large Language Models via Hierarchical Token Compression
+PromptBridge: Cross-Model Prompt Transfer for Large Language Models
+Script: Graph-Structured and Query-Conditioned Semantic Token Pruning for Multimodal Large Language Models
+StreamGaze: Gaze-Guided Temporal Reasoning and Proactive Understanding in Streaming Videos
+Wikontic: Constructing Wikidata-Aligned, Ontology-Aware Knowledge Graphs with Large Language Models
+Asking like Socrates: Socrates helps VLMs understand remote sensing images
+HiconAgent: History Context-aware Policy Optimization for GUI Agents
+Lotus-2: Advancing Geometric Dense Prediction with Powerful Image Generative Model
+The Art of Scaling Test-Time Compute for Large Language Models
+ChronosObserver: Taming 4D World with Hyperspace Diffusion Sampling
+Seeing the Wind from a Falling Leaf
+WiseEdit: Benchmarking Cognition- and Creativity-Informed Image Editing
+OpenREAD: Reinforced Open-Ended Reasoing for End-to-End Autonomous Driving with LLM-as-Critic
+Generalist Large Language Models Outperform Clinical Tools on Medical Benchmarks
+Learning Eigenstructures of Unstructured Data Manifolds
+Doppler-Enhanced Deep Learning: Improving Thyroid Nodule Segmentation with YOLOv5 Instance Segmentation
+IndicParam: Benchmark to evaluate LLMs on low-resource Indic Languages
+OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion
+Structured Extraction from Business Process Diagrams Using Vision-Language Models
