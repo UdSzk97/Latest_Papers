@@ -7326,3 +7326,16 @@ Doppler-Enhanced Deep Learning: Improving Thyroid Nodule Segmentation with YOLOv
 IndicParam: Benchmark to evaluate LLMs on low-resource Indic Languages
 OmniFusion: Simultaneous Multilingual Multimodal Translations via Modular Fusion
 Structured Extraction from Business Process Diagrams Using Vision-Language Models
+Lake Stars as an Earth Analog for Europa’s Manannán Crater Spider Feature
+SpinTrace: A Python Library to Study the Physical Properties of Small Bodies Using Survey-based Photometry
+Block-Optimized FDAFT Feature Matching for Lunar Landing Navigation and Positioning: Validation with Chang'E-6 Data
+Flow Straighter and Faster: Efficient One-Step Generative Modeling via MeanFlow on Rectified Trajectories
+SCALE: Selective Resource Allocation for Overcoming Performance Bottlenecks in Mathematical Test-time Scaling
+Where Culture Fades: Revealing the Cultural Gap in Text-to-Image Generation
+Agentic Policy Optimization via Instruction-Policy Co-Evolution
+POLARIS: Projection-Orthogonal Least Squares for Robust and Adaptive Inversion in Diffusion Models
+ORION: Teaching Language Models to Reason Efficiently in the Language of Thought
+CauSight: Learning to Supersense for Visual Causal Discovery
+DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models
+Generative Video Motion Editing with 3D Point Tracks
+MEGConformer: Conformer-Based MEG Decoder for Robust Speech and Phoneme Classification
