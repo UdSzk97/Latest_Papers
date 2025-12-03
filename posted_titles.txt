@@ -7339,3 +7339,33 @@ CauSight: Learning to Supersense for Visual Causal Discovery
 DreamingComics: A Story Visualization Pipeline via Subject and Layout Customized Generation using Video Models
 Generative Video Motion Editing with 3D Point Tracks
 MEGConformer: Conformer-Based MEG Decoder for Robust Speech and Phoneme Classification
+Unveiling Basalt Distribution of Lunar Cryptomaria from Gravity and Topography when Considering the Effect of Surface Cover-layer and Density Correction
+Textural and geochemical diversity of impact melt rock clasts in Apollo 16 sample 67015: Implications for the provenance of impact ejecta in the lunar highlands
+DeepSeek-V3.2: Pushing the Frontier of Open Large Language Models
+MG-Nav: Dual-Scale Visual Navigation via Sparse Spatial Memory
+MultiShotMaster: A Controllable Multi-Shot Video Generation Framework
+Guided Self-Evolving LLMs with Minimal Human Supervision
+SimScale: Learning to Drive via Real-World Simulation at Scale
+DualCamCtrl: Dual-Branch Diffusion Model for Geometry-Aware Camera-Controlled Video Generation
+ViSAudio: End-to-End Video-Driven Binaural Spatial Audio Generation
+WorldMM: Dynamic Multimodal Memory Agent for Long Video Reasoning
+Glance: Accelerating Diffusion Models with 1 Sample
+Mixture of Horizons in Action Chunking
+Does Hearing Help Seeing? Investigating Audio-Video Joint Denoising for Video Generation
+The Curious Case of Analogies: Investigating Analogical Reasoning in Large Language Models
+DiG-Flow: Discrepancy-Guided Flow Matching for Robust VLA Models
+PAI-Bench: A Comprehensive Benchmark For Physical AI
+Revisiting the Necessity of Lengthy Chain-of-Thought in Vision-centric Reasoning Generalization
+TRivia: Self-supervised Fine-tuning of Vision-Language Models for Table Recognition
+SwiftVLA: Unlocking Spatiotemporal Dynamics for Lightweight VLA Models at Minimal Overhead
+Video4Spatial: Towards Visuospatial Intelligence with Context-Guided Video Generation
+BlockVid: Block Diffusion for High-Quality and Consistent Minute-Long Video Generation
+YingVideo-MV: Music-Driven Multi-Stage Video Generation
+GUI Exploration Lab: Enhancing Screen Navigation in Agents via Multi-Turn Reinforcement Learning
+Artemis: Structured Visual Reasoning for Perception Policy Learning
+C^2DLM: Causal Concept-Guided Diffusion Large Language Models
+CodeV: Code with Images for Faithful Visual Reasoning via Tool-Aware Policy Optimization
+Benchmarking Scientific Understanding and Reasoning for Video Generation using VideoScience-Bench
+UnicEdit-10M: A Dataset and Benchmark Breaking the Scale-Quality Barrier via Unified Verification for Reasoning-Enriched Edits
+SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds
+Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click
