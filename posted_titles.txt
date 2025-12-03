@@ -7369,3 +7369,23 @@ Benchmarking Scientific Understanding and Reasoning for Video Generation using V
 UnicEdit-10M: A Dataset and Benchmark Breaking the Scale-Quality Barrier via Unified Verification for Reasoning-Enriched Edits
 SimWorld: An Open-ended Realistic Simulator for Autonomous Agents in Physical and Social Worlds
 Click2Graph: Interactive Panoptic Video Scene Graphs from a Single Click
+Author Correction: Seismic detection of a 600-km solid inner core in Mars
+Evidence of an enhanced near-surface ozone layer at tropical latitudes on Mars
+Fundamentals of Interior Modelling and Challenges in the Interpretation of Observed Rocky Exoplanets
+The Radio Science Experiment on Hera, Juventas and Milani
+ToolOrchestra: Elevating Intelligence via Efficient Model and Tool Orchestration
+Skywork-R1V4: Toward Agentic Multimodal Intelligence through Interleaved Thinking with Images and DeepResearch
+InnoGym: Benchmarking the Innovation Potential of AI Agents
+WUSH: Near-Optimal Adaptive Transforms for LLM Quantization
+PixelDiT: Pixel Diffusion Transformers for Image Generation
+CUDA-L2: Surpassing cuBLAS Performance for Matrix Multiplication through Reinforcement Learning
+Deep Research: A Systematic Survey
+RULER-Bench: Probing Rule-based Reasoning Abilities of Next-level Video Generation Models for Vision Foundation Intelligence
+MagicQuillV2: Precise and Interactive Image Editing with Layered Visual Cues
+Ovis-Image Technical Report
+In-Context Sync-LoRA for Portrait Video Editing
+Understanding and Harnessing Sparsity in Unified Multimodal Models
+Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Constructions
+Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models
+BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion
+FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention
