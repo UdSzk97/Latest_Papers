@@ -7389,3 +7389,21 @@ Gold-Medal-Level Olympiad Geometry Solving with Efficient Heuristic Auxiliary Co
 Masks Can Be Distracting: On Context Comprehension in Diffusion Language Models
 BOOM: Beyond Only One Modality KIT's Multimodal Multilingual Lecture Companion
 FlashVGGT: Efficient and Scalable Visual Geometry Transformers with Compressed Descriptor Attention
+The Feasibility of a Spacecraft Flyby with the Third Interstellar Object 3I/ATLAS from Earth or Mars
+Qwen3-VL Technical Report
+PretrainZero: Reinforcement Active Pretraining
+ViDiC: Video Difference Captioning
+OneThinker: All-in-one Reasoning Model for Image and Video
+Rethinking Prompt Design for Inference-time Scaling in Text-to-Visual Generation
+Steering Vision-Language-Action Models as Anti-Exploration: A Test-Time Scaling Approach
+SpaceTools: Tool-Augmented Spatial Reasoning via Double Interactive RL
+Thinking with Programming Vision: Towards a Unified View for Thinking with Images
+Flowing Backwards: Improving Normalizing Flows via Reverse Representation Alignment
+RELIC: Interactive Video World Model with Long-Horizon Memory
+CookAnything: A Framework for Flexible and Consistent Multi-Step Recipe Image Generation
+SR-GRPO: Stable Rank as an Intrinsic Geometric Reward for Large Language Model Alignment
+AlignBench: Benchmarking Fine-Grained Image-Text Alignment with Synthetic Image-Caption Pairs
+SkillFactory: Self-Distillation For Learning Cognitive Behaviors
+UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs
+In-Context Representation Hijacking
+Adversarial Confusion Attack: Disrupting Multimodal Large Language Models
