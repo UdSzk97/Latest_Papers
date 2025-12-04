@@ -7407,3 +7407,14 @@ SkillFactory: Self-Distillation For Learning Cognitive Behaviors
 UniQL: Unified Quantization and Low-rank Compression for Adaptive Edge LLMs
 In-Context Representation Hijacking
 Adversarial Confusion Attack: Disrupting Multimodal Large Language Models
+Tidally Torn: Why the Most Common Stars May Lack Large, Habitable-zone Moons
+Detecting Exoplanets beyond the Local Supercluster through Gravitational Waves with B-DECIGO and DECIGO
+A Review of Technologies for Lunar Science, Exploration, Resources, and Settlement
+Jina-VLM: Small Multilingual Vision Language Model
+AutoNeural: Co-Designing Vision-Language Models for NPU Inference
+Economies of Open Intelligence: Tracing Power & Participation in the Model Ecosystem
+PSA: Pyramid Sparse Attention for Efficient Video Understanding and Generation
+Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video Understanding
+BlurDM: A Blur Diffusion Model for Image Deblurring
+AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition
+PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design
