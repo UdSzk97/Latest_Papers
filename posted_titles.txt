@@ -7418,3 +7418,35 @@ Divide, then Ground: Adapting Frame Selection to Query Types for Long-Form Video
 BlurDM: A Blur Diffusion Model for Image Deblurring
 AdaptVision: Efficient Vision-Language Models via Adaptive Visual Acquisition
 PosterCopilot: Toward Layout Reasoning and Controllable Editing for Professional Graphic Design
+The Effect of Guide Star Variability on PLATO Pointing Stability
+DAComp: Benchmarking Data Agents across the Full Data Intelligence Lifecycle
+Live Avatar: Streaming Real-time Audio-Driven Avatar Generation with Infinite Length
+Nex-N1: Agentic Models Trained via a Unified Ecosystem for Large-Scale Environment Construction
+ARM-Thinker: Reinforcing Multimodal Generative Reward Models with Agentic Tool Use and Visual Reasoning
+Reward Forcing: Efficient Streaming Video Generation with Rewarded Distribution Matching Distillation
+Semantics Lead the Way: Harmonizing Semantic and Texture Modeling with Asynchronous Latent Diffusion
+PaperDebugger: A Plugin-Based Multi-Agent System for In-Editor Academic Writing, Review, and Editing
+4DLangVGGT: 4D Language-Visual Geometry Grounded Transformer
+DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling
+UltraImage: Rethinking Resolution Extrapolation in Image Diffusion Transformers
+DraCo: Draft as CoT for Text-to-Image Preview and Rare Concept Generation
+Splannequin: Freezing Monocular Mannequin-Challenge Footage with Dual-Detection Splatting
+SIMA 2: A Generalist Embodied Agent for Virtual Worlds
+SeeNav-Agent: Enhancing Vision-Language Navigation with Visual Prompt and Step-Level Policy Optimization
+Aligned but Stereotypical? The Hidden Influence of System Prompts on Social Bias in LVLM-Based Text-to-Image Models
+SignRoundV2: Closing the Performance Gap in Extremely Low-Bit Post-Training Quantization for LLMs
+Mitigating Object and Action Hallucinations in Multimodal LLMs via Self-Augmented Contrastive Alignment
+On GRPO Collapse in Search-R1: The Lazy Likelihood-Displacement Death Spiral
+NeuralRemaster: Phase-Preserving Diffusion for Structure-Aligned Generation
+TV2TV: A Unified Framework for Interleaved Language and Video Generation
+Generative Neural Video Compression via Video Diffusion Prior
+BulletTime: Decoupled Control of Time and Camera Pose for Video Generation
+Mitigating Catastrophic Forgetting in Target Language Adaptation of LLMs via Source-Shielded Updates
+EgoLCD: Egocentric Video Generation with Long Context Diffusion
+QKAN-LSTM: Quantum-inspired Kolmogorov-Arnold Long Short-term Memory
+Model-Based and Sample-Efficient AI-Assisted Math Discovery in Sphere Packing
+FMA-Net++: Motion- and Exposure-Aware Real-World Joint Video Super-Resolution and Deblurring
+GaussianBlender: Instant Stylization of 3D Gaussians with Disentangled Latent Spaces
+When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models
+LATTICE: Democratize High-Fidelity 3D Generation at Scale
+REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance
