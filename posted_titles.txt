@@ -7450,3 +7450,12 @@ GaussianBlender: Instant Stylization of 3D Gaussians with Disentangled Latent Sp
 When AI Takes the Couch: Psychometric Jailbreaks Reveal Internal Conflict in Frontier Models
 LATTICE: Democratize High-Fidelity 3D Generation at Scale
 REFLEX: Self-Refining Explainable Fact-Checking via Disentangling Truth into Style and Substance
+Comparison of General Circulation Models of the Venus upper atmosphere
+Visible-infrared Spectra of keV Electron Irradiated Cryogenic Salts with Implications for Europa Surface Composition
+Reflection Removal through Efficient Adaptation of Diffusion Transformers
+Deep Forcing: Training-Free Long Video Generation with Deep Sink and Participative Compression
+Some Modalities are More Equal Than Others: Decoding and Architecting Multimodal Integration in MLLMs
+ShadowDraw: From Any Object to Shadow-Drawing Compositional Art
+Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models
+Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos
+A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models
