@@ -7459,3 +7459,6 @@ ShadowDraw: From Any Object to Shadow-Drawing Compositional Art
 Mitigating Intra- and Inter-modal Forgetting in Continual Learning of Unified Multimodal Models
 Generative Action Tell-Tales: Assessing Human Motion in Synthesized Videos
 A Theoretical Framework for Auxiliary-Loss-Free Load Balancing of Sparse Mixture-of-Experts in Large-Scale AI Models
+Pyroduct: A novel parametric software for the simulation of terrestrial, lunar, and Martian lava tubes
+Elevated-Mn ChemCam targets illuminating Mn redox cycling and diagenesis in the Bradbury Rise, Gale Crater, Mars
+A review of technologies for lunar science, exploration, resources, and settlement
