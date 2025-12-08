@@ -7483,3 +7483,13 @@ SCAIL: Towards Studio-Grade Character Animation via In-Context Learning of 3D-Co
 AI & Human Co-Improvement for Safer Co-Superintelligence
 ProPhy: Progressive Physical Alignment for Dynamic World Simulation
 TimesNet-Gen: Deep Learning-based Site Specific Strong Motion Generation
+On the Exoplanet Yield of Gaia Astrometry
+Flow Regimes in Hot Jupiter Atmospheres: Insights from Anelastic Models
+EMMA: Efficient Multimodal Understanding, Generation, and Editing with a Unified Architecture
+M3DR: Towards Universal Multilingual Multimodal Document Retrieval
+From Segments to Scenes: Temporal Understanding in Autonomous Driving via Vision-Language Model
+SQ-format: A Unified Sparse-Quantized Hardware-friendly Data Format for LLMs
+Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clinical Reasoning
+From FLOPs to Footprints: The Resource Cost of Artificial Intelligence
+Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding
+Taxonomy-Adaptive Moderation Model with Robust Guardrails for Large Language Models
