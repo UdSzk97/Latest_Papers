@@ -7493,3 +7493,25 @@ Colon-X: Advancing Intelligent Colonoscopy from Multimodal Understanding to Clin
 From FLOPs to Footprints: The Resource Cost of Artificial Intelligence
 Active Video Perception: Iterative Evidence Seeking for Agentic Long Video Understanding
 Taxonomy-Adaptive Moderation Model with Robust Guardrails for Large Language Models
+The Gaia–Kepler–TESS-host Stellar Properties Catalog: Uniform Physical Parameters for 10022 Host Stars and 10189 Planets
+Native Parallel Reasoner: Reasoning in Parallelism via Self-Distilled Reinforcement Learning
+Beyond Real: Imaginary Extension of Rotary Position Embeddings for Long-Context LLMs
+Unified Video Editing with Temporal Reasoner
+DoVer: Intervention-Driven Auto Debugging for LLM Multi-Agent Systems
+Voxify3D: Pixel Art Meets Volumetric Rendering
+EgoEdit: Dataset, Real-Time Streaming Model, and Benchmark for Egocentric Video Editing
+Multi-view Pyramid Transformer: Look Coarser to See Broader
+UnityVideo: Unified Multi-Modal Multi-Task Learning for Enhancing World-Aware Video Generation
+Distribution Matching Variational AutoEncoder
+LongCat-Image Technical Report
+Scaling Zero-Shot Reference-to-Video Generation
+Relational Visual Similarity
+ReCamDriving: LiDAR-Free Camera-Controlled Novel Trajectory Video Generation
+VG-Refiner: Towards Tool-Refined Referring Grounded Reasoning via Agentic Reinforcement Learning
+On the Interplay of Pre-Training, Mid-Training, and RL on Reasoning Language Models
+Group Representational Position Encoding
+VideoVLA: Video Generators Can Be Generalizable Robot Manipulators
+Rethinking Training Dynamics in Scale-wise Autoregressive Generation
+Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning
+Vector Quantization using Gaussian Variational Autoencoder
+Embodied Referring Expression Comprehension in Human-Robot Interaction
