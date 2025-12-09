@@ -7515,3 +7515,16 @@ Rethinking Training Dynamics in Scale-wise Autoregressive Generation
 Decouple to Generalize: Context-First Self-Evolving Learning for Data-Scarce Vision-Language Reasoning
 Vector Quantization using Gaussian Variational Autoencoder
 Embodied Referring Expression Comprehension in Human-Robot Interaction
+Three-dimensional density structure underneath the Marius Hills volcanic complex on the Moon
+Spectroscopic insights into the near-earth didymos-dimorphos binary system following the double asteroid redirection test (DART) mission impact
+Beyond Point Masses. V. Weywot’s Non-Keplerian Orbit
+Prebiotic Chemistry Insights for Dragonfly: Thermodynamics of Amino Acid Synthesis in Selk Crater on Titan
+Retrograde Predominance of Small Saturnian Moons Reiterates a Recent Retrograde Collisional Disruption
+Block-optimized FDAFT feature matching for lunar landing navigation and positioning: Validation with Chang'E−6 data
+Beyond Token-level Supervision: Unlocking the Potential of Decoding-based Regression via Reinforcement Learning
+SPARK: Stepwise Process-Aware Rewards for Reference-Free Reinforcement Learning
+OmniSafeBench-MM: A Unified Benchmark and Toolbox for Multimodal Jailbreak Attack-Defense Evaluation
+One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation
+Small-Gain Nash: Certified Contraction to Nash Equilibria in Differentiable Games
+DZ-TDPO: Non-Destructive Temporal Alignment for Mutable State Tracking in Long-Context Dialogue
+The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation
