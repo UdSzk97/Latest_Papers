@@ -7548,3 +7548,13 @@ Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs
 SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting
 LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning
 Predicting Time-Dependent Flow Over Complex Geometries Using Operator Networks
+Langmuir waves observed at comet 67P/Churyumov-Gerasimenko
+X-Ray and UV Observations of the Young Sun HIP 67522: Evidence of Lyα Absorption within the Planetary System
+Boosting Unsupervised Video Instance Segmentation with Automatic Quality-Guided Self-Training
+Arbitrage: Efficient Reasoning via Advantage-Aware Speculation
+See, Hear, and Understand: Benchmarking Audiovisual Human Speech Understanding in Multimodal Large Language Models
+Efficiently Reconstructing Dynamic Scenes One D4RT at a Time
+Novel Deep Learning Architectures for Classification and Segmentation of Brain Tumors from MRI Images
+SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos
+MemLoRA: Distilling Expert Adapters for On-Device Memory Systems
+Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise in Infinite, Real-Time Terrain Generation
