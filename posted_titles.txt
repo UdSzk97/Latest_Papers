@@ -7528,3 +7528,23 @@ One Layer Is Enough: Adapting Pretrained Visual Encoders for Image Generation
 Small-Gain Nash: Certified Contraction to Nash Equilibria in Differentiable Games
 DZ-TDPO: Non-Destructive Temporal Alignment for Mutable State Tracking in Long-Context Dialogue
 The SAM2-to-SAM3 Gap in the Segment Anything Model Family: Why Prompt-Based Expertise Fails in Concept-Driven Image Segmentation
+Discovery of 79 δ Scuti Stars in NGC 3532 Suggests a Decrease of Pulsator Occurrence with Age
+An I-Xe age 8 Myr after solar system formation in a Hayabusa2 sample records alteration on the parent planetesimal of asteroid Ryugu
+JWST tracks helium escape from the atmosphere of the exoplanet WASP-107 b
+Wan-Move: Motion-controllable Video Generation via Latent Trajectory Guidance
+Visionary: The World Model Carrier Built on WebGPU-Powered Gaussian Splatting Platform
+Preserving Source Video Realism: High-Fidelity Face Swapping for Cinematic Quality
+OneStory: Coherent Multi-Shot Video Generation with Adaptive Memory
+ThreadWeaver: Adaptive Threading for Efficient Parallel Reasoning in Language Models
+MIND-V: Hierarchical Video Generation for Long-Horizon Robotic Manipulation with RL-based Physical Alignment
+TreeGRPO: Tree-Advantage GRPO for Online RL Post-Training of Diffusion Models
+From Next-Token to Next-Block: A Principled Adaptation Path for Diffusion LLMs
+EcomBench: Towards Holistic Evaluation of Foundation Agents in E-commerce
+Modular Neural Image Signal Processing
+Ground Slow, Move Fast: A Dual-System Foundation Model for Generalizable Vision-and-Language Navigation
+DeepCode: Open Agentic Coding
+TrackingWorld: World-centric Monocular 3D Tracking of Almost All Pixels
+Same Content, Different Answers: Cross-Modal Inconsistency in MLLMs
+SUCCESS-GS: Survey of Compactness and Compression for Efficient Static and Dynamic Gaussian Splatting
+LYNX: Learning Dynamic Exits for Confidence-Controlled Reasoning
+Predicting Time-Dependent Flow Over Complex Geometries Using Operator Networks
