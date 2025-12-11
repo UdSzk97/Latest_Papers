@@ -7583,3 +7583,8 @@ VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory
 Pay Less Attention to Function Words for Free Robustness of Vision-Language Models
 TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression
 Reinventing Clinical Dialogue: Agentic Paradigms for LLM Enabled Healthcare Communication
+Electrification in Martian dust devils: Possibility and implications
+Rethinking Chain-of-Thought Reasoning for Videos
+Towards a Science of Scaling Agent Systems
+GimbalDiffusion: Gravity-Aware Camera Control for Video Generation
+Smart Timing for Mining: A Deep Learning Framework for Bitcoin Hardware ROI Prediction
