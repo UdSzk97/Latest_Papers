@@ -7558,3 +7558,28 @@ Novel Deep Learning Architectures for Classification and Segmentation of Brain T
 SAM-Body4D: Training-Free 4D Human Body Mesh Recovery from Videos
 MemLoRA: Distilling Expert Adapters for On-Device Memory Systems
 Terrain Diffusion: A Diffusion-Based Successor to Perlin Noise in Infinite, Real-Time Terrain Generation
+High-inclination Centaur reservoirs beyond Neptune
+Surprise Nondetection of Upsilon Andromedae b with MIRC-X and MYSTIC at the CHARA Array
+Detection of Exoplanets with Machine Learning Techniques Through Transit Light-curve Analysis
+Observations of Five Southern-hemisphere Cataclysmic Binary Stars
+Results from NASA’s First Radio Telescope on the Moon: Terrestrial Technosignatures and the Low-frequency Galactic Background Observed by ROLSES-1 on Board the Odysseus Lander
+Testing the Origin of Hot Jupiters with Atmospheric Surveys
+Predicting Stellar Parameters of Massive Stars from Light Curves with Machine Learning
+Prebiotic organic compounds in samples of asteroid Bennu indicate heterogeneous aqueous alteration
+StereoWorld: Geometry-Aware Monocular-to-Stereo Video Generation
+Composing Concepts from Images and Videos via Concept-prompt Binding
+BrainExplore: Large-Scale Discovery of Interpretable Visual Representations in the Human Brain
+OmniPSD: Layered PSD Generation with Diffusion Transformer
+InfiniteVL: Synergizing Linear and Sparse Attention for Highly-Efficient, Unlimited-Input Vision-Language Models
+Fast-Decoding Diffusion Language Models via Progress-Aware Confidence Schedules
+UniUGP: Unifying Understanding, Generation, and Planing For End-to-end Autonomous Driving
+EtCon: Edit-then-Consolidate for Reliable Knowledge Editing
+HiF-VLA: Hindsight, Insight and Foresight through Motion Representation for Vision-Language-Action Models
+WonderZoom: Multi-Scale 3D World Generation
+Learning Unmasking Policies for Diffusion Language Models
+IF-Bench: Benchmarking and Enhancing MLLMs for Infrared Images with Generative Visual Prompting
+Beyond Unified Models: A Service-Oriented Approach to Low Latency, Context Aware Phonemization for Real Time TTS
+VideoSSM: Autoregressive Long Video Generation with Hybrid State-Space Memory
+Pay Less Attention to Function Words for Free Robustness of Vision-Language Models
+TED-4DGS: Temporally Activated and Embedding-based Deformation for 4DGS Compression
+Reinventing Clinical Dialogue: Agentic Paradigms for LLM Enabled Healthcare Communication
