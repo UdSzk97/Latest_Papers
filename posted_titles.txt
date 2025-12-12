@@ -7608,3 +7608,10 @@ Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale
 H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos
 Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents
 MOA: Multi-Objective Alignment for Role-Playing Agents
+The Library of Exoplanet Atmospheric Composition Measurements: Population-level Trends in Exoplanet Composition with ExoComp
+SVD-accelerated T-matrix Method for Simulation of Scattering by Electrically Large Sphere Clusters and ISAR Imaging of Asteroid-like Bodies
+BEAVER: An Efficient Deterministic LLM Verifier
+StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in a Canonical Space
+Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization
+ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning
+X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale
