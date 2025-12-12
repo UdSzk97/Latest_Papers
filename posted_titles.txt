@@ -7588,3 +7588,23 @@ Rethinking Chain-of-Thought Reasoning for Videos
 Towards a Science of Scaling Agent Systems
 GimbalDiffusion: Gravity-Aware Camera Control for Video Generation
 Smart Timing for Mining: A Deep Learning Framework for Bitcoin Hardware ROI Prediction
+Corrigendum: How to Characterize Habitable Worlds and Signs of Life
+The Case for Continuing VIPER: A Critical Milestone on the Journey Back to the Moon
+Are We Ready for RL in Text-to-3D Generation? A Progressive Investigation
+Long-horizon Reasoning Agent for Olympiad-Level Mathematical Problem Solving
+OPV: Outcome-based Process Verifier for Efficient Long Chain-of-Thought Verification
+Achieving Olympia-Level Geometry Large Language Model Agent via Complexity Boosting Reinforcement Learning
+T-pro 2.0: An Efficient Russian Hybrid-Reasoning Model and Playground
+MoCapAnything: Unified 3D Motion Capture for Arbitrary Skeletons from Monocular Videos
+From Macro to Micro: Benchmarking Microscopic Spatial Intelligence on Molecules via Vision-Language Models
+Thinking with Images via Self-Calling Agent
+VQRAE: Representation Quantization Autoencoders for Multimodal Understanding, Generation and Reconstruction
+Evaluating Gemini Robotics Policies in a Veo World Simulator
+Stronger Normalization-Free Transformers
+The FACTS Leaderboard: A Comprehensive Benchmark for Large Language Model Factuality
+Tool-Augmented Spatiotemporal Reasoning for Streamlining Video Question Answering Task
+MoRel: Long-Range Flicker-Free 4D Motion Modeling via Anchor Relay-based Bidirectional Blending with Hierarchical Densification
+Confucius Code Agent: An Open-sourced AI Software Engineer at Industrial Scale
+H2R-Grounder: A Paired-Data-Free Paradigm for Translating Human Interaction Videos into Physically Grounded Robot Videos
+Fed-SE: Federated Self-Evolution for Privacy-Constrained Multi-Environment LLM Agents
+MOA: Multi-Objective Alignment for Role-Playing Agents
