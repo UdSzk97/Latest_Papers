@@ -7617,3 +7617,6 @@ ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflec
 X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale
 DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance
 DragMesh: Interactive 3D Generation Made Easy
+Tracking the non-uniformity in atmospheric water vapor over the north polar layered deposits on Mars using high-resolution observations by MRO/CRISM
+Boulder motions on asteroid Ryugu induced by thruster gas disturbance by Hayabusa2
+Scribble-to-map: Geomorphological mapping of multi-class Martian landforms using scribble annotations and high-resolution DEMs
