@@ -7615,3 +7615,5 @@ StereoSpace: Depth-Free Synthesis of Stereo Geometry via End-to-End Diffusion in
 Omni-Attribute: Open-vocabulary Attribute Encoder for Visual Concept Personalization
 ReViSE: Towards Reason-Informed Video Editing in Unified Models with Self-Reflective Learning
 X-Humanoid: Robotize Human Videos to Generate Humanoid Videos at Scale
+DuetSVG: Unified Multimodal SVG Generation with Internal Visual Guidance
+DragMesh: Interactive 3D Generation Made Easy
