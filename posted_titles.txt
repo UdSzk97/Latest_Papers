@@ -7622,3 +7622,17 @@ Boulder motions on asteroid Ryugu induced by thruster gas disturbance by Hayabus
 Scribble-to-map: Geomorphological mapping of multi-class Martian landforms using scribble annotations and high-resolution DEMs
 Time‐Dependent Changes to the Martian Upper Atmosphere During Different Solar Flare Events: A Comparative Analysis
 From lunar terrain to learned representations: A comparative study of crater extraction
+Earth Analogs in Reflected Light: Insights from Early Spectral Characterization in Unconstrained Orbits
+DentalGPT: Incentivizing Multimodal Complex Reasoning in Dentistry
+SVG-T2I: Scaling Up Text-to-Image Latent Diffusion Model Without Variational Autoencoder
+EgoX: Egocentric Video Generation from a Single Exocentric Video
+V-RGBX: Video Editing with Accurate Controls over Intrinsic Properties
+Sliding Window Attention Adaptation
+PersonaLive! Expressive Portrait Image Animation for Live Streaming
+Structure From Tracking: Distilling Structure-Preserving Motion for Video Generation
+Exploring MLLM-Diffusion Information Transfer with MetaCanvas
+MeshSplatting: Differentiable Rendering with Opaque Meshes
+LEO-RobotAgent: A General-purpose Robotic Agent for Language-driven Embodied Operator
+The N-Body Problem: Parallel Execution from Single-Person Egocentric Video
+CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images
+Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge
