@@ -7636,3 +7636,14 @@ LEO-RobotAgent: A General-purpose Robotic Agent for Language-driven Embodied Ope
 The N-Body Problem: Parallel Execution from Single-Person Egocentric Video
 CheXmask-U: Quantifying uncertainty in landmark-based anatomical segmentation for X-ray images
 Task adaptation of Vision-Language-Action model: 1st Place Solution for the 2025 BEHAVIOR Challenge
+Tracing pollution in the lives of Arctic seabirds
+Water Ice in the Subsurface and Polar Caps of Mars
+Lava Tubes on Earth, the Moon, and Mars: Detection, Evolution, and Exploration Potential
+CLINIC: Evaluating Multilingual Trustworthiness in Language Models for Healthcare
+Causal Judge Evaluation: Calibrated Surrogate Metrics for LLM Systems
+Fairy2i: Training Complex LLMs from Real LLMs with All Parameters in {pm 1, pm i}
+Scaling Behavior of Discrete Diffusion Language Models
+Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching
+Sharp Monocular View Synthesis in Less Than a Second
+Particulate: Feed-Forward 3D Object Articulation
+Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit
