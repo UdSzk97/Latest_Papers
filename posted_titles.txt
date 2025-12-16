@@ -7647,3 +7647,34 @@ Fast-FoundationStereo: Real-Time Zero-Shot Stereo Matching
 Sharp Monocular View Synthesis in Less Than a Second
 Particulate: Feed-Forward 3D Object Articulation
 Interpretable Embeddings with Sparse Autoencoders: A Data Analysis Toolkit
+CoronaGraph Instrument Reference Stars for Exoplanets (CorGI-REx). I. Preliminary Vetting and Implications for the Roman Coronagraph and Habitable Worlds Observatory
+On the Orbital Evolution of Multiple Wide Super-Jupiters: How Disk Migration and Dispersal Shape the Stability of the PDS 70 System
+Occurrence and characterization of nanosulfide‐rich regions on asteroid Ryugu: Insights from mackinawite and pyrrhotite
+Influence of Magnetosonic Waves on the Venusian Ionosphere: The Role of Electron Landau Heating
+Memory in the Age of AI Agents
+LongVie 2: Multimodal Controllable Ultra-Long Video World Model
+ReFusion: A Diffusion Large Language Model with Parallel Autoregressive Decoding
+NL2Repo-Bench: Towards Long-Horizon Repository Generation Evaluation of Coding Agents
+Error-Free Linear Attention is a Free Lunch: Exact Solution from Continuous-Time Dynamics
+KlingAvatar 2.0 Technical Report
+Towards Scalable Pre-training of Visual Tokenizers for Generation
+QwenLong-L1.5: Post-Training Recipe for Long-Context Reasoning and Memory Management
+MentraSuite: Post-Training Large Language Models for Mental Health Reasoning and Assessment
+Openpi Comet: Competition Solution For 2025 BEHAVIOR Challenge
+Spatial-Aware VLA Pretraining through Visual-Physical Alignment from Human Videos
+V-REX: Benchmarking Exploratory Visual Reasoning via Chain-of-Questions
+Toward Ambulatory Vision: Learning Visually-Grounded Active View Selection
+VLSA: Vision-Language-Action Models with Plug-and-Play Safety Constraint Layer
+Image Diffusion Preview with Consistency Solver
+WebOperator: Action-Aware Tree Search for Autonomous Agents in Web Environment
+Aesthetic Alignment Risks Assimilation: How Image Generation and Reward Models Reinforce Beauty Bias and Ideological "Censorship"
+RecTok: Reconstruction Distillation along Rectified Flow
+DrivePI: Spatial-aware 4D MLLM for Unified Autonomous Driving Understanding, Perception, Prediction and Planning
+LitePT: Lighter Yet Stronger Point Transformer
+Towards Interactive Intelligence for Digital Humans
+Directional Textual Inversion for Personalized Text-to-Image Generation
+Video Reality Test: Can AI-Generated ASMR Videos fool VLMs and Humans?
+START: Spatial and Textual Learning for Chart Understanding
+DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders
+Learning Robot Manipulation from Audio World Models
+Towards Visual Re-Identification of Fish using Fine-Grained Classification for Electronic Monitoring in Fisheries
