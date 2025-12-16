@@ -7678,3 +7678,20 @@ START: Spatial and Textual Learning for Chart Understanding
 DiffusionBrowser: Interactive Diffusion Previews via Multi-Branch Decoders
 Learning Robot Manipulation from Audio World Models
 Towards Visual Re-Identification of Fish using Fine-Grained Classification for Electronic Monitoring in Fisheries
+Wind-AE: A Fast, Open-source 1D Photoevaporation Code with Metal and Multifrequency X-Ray Capabilities
+Pulsation Mode Identification and Classification of 46 High-amplitude δ Scuti Stars from 50 Candidates with TESS Observations
+Challenges in the detection of gases in exoplanet atmospheres
+Evaluating Lunar Crater Ejecta Maturation across Wavelengths
+Finch: Benchmarking Finance & Accounting across Spreadsheet-Centric Enterprise Workflows
+GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation
+CAPTAIN: Semantic Feature Injection for Memorization Mitigation in Text-to-Image Diffusion Models
+Few-Step Distillation for Text-to-Image Generation: A Practical Guide
+Flowception: Temporally Expansive Flow Matching for Video Generation
+What matters for Representation Alignment: Global Information or Spatial Structure?
+Inferring Compositional 4D Scenes without Ever Seeing One
+FIN-bench-v2: A Unified and Robust Benchmark Suite for Evaluating Finnish Large Language Models
+State over Tokens: Characterizing the Role of Reasoning Tokens
+Rethinking Expert Trajectory Utilization in LLM Post-training
+FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos
+CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence
+KD-OCT: Efficient Knowledge Distillation for Clinical-Grade Retinal OCT Classification
