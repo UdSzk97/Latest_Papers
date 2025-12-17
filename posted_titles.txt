@@ -7728,3 +7728,12 @@ MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
 Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation
 S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation
 MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation
+Modeling the Contact Surfaces Formed by Pebble Collisions: Application to Formation of Comet 67P/Churyumov–Gerasimenko
+Fixation of atmospheric nitrogen on present-day Mars during dust events
+Differentiable Evolutionary Reinforcement Learning
+CRISP: Contact-Guided Real2Sim from Monocular Video with Planar Scene Primitives
+TraPO: A Semi-Supervised Reinforcement Learning Framework for Boosting LLM Reasoning
+UAGLNet: Uncertainty-Aggregated Global-Local Fusion Network with Cooperative CNN-Transformer for Building Extraction
+Hierarchical Dataset Selection for High-Quality Data Sharing
+CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates
+ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation
