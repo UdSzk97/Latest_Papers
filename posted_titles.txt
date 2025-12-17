@@ -7695,3 +7695,36 @@ Rethinking Expert Trajectory Utilization in LLM Post-training
 FoundationMotion: Auto-Labeling and Reasoning about Spatial Movement in Videos
 CoRe3D: Collaborative Reasoning as a Foundation for 3D Intelligence
 KD-OCT: Efficient Knowledge Distillation for Clinical-Grade Retinal OCT Classification
+HARPS-N reveals a well-aligned orbit for the highly eccentric warm Jupiter TOI-4127 b
+Searching for GEMS: TOI-5349 b is a Saturn-like Planet Orbiting a Metal-rich Early M Dwarf
+KMT-2022-BLG-1818Lb,c: A Cold Super-Jupiter with a Saturn Sibling
+Europa’s ice thickness and subsurface structure characterized by the Juno microwave radiometer
+MMGR: Multi-Modal Generative Reasoning
+WorldPlay: Towards Long-Term Geometric Consistency for Real-Time Interactive World Modeling
+Scone: Bridging Composition and Distinction in Subject-Driven Image Generation via Unified Understanding-Generation Modeling
+RoboTracer: Mastering Spatial Trace with Reasoning in Vision-Language Models for Robotics
+OpenDataArena: A Fair and Open Arena for Benchmarking Post-Training Dataset Value
+Vector Prism: Animating Vector Graphics by Stratifying Semantic Structure
+Reveal Hidden Pitfalls and Navigate Next Generation of Vector Similarity Search from Task-Centric Views
+RecGPT-V2 Technical Report
+ShowTable: Unlocking Creative Table Visualization with Collaborative Reflection and Refinement
+MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives
+VersatileFFN: Achieving Parameter Efficiency in LLMs via Adaptive Wide-and-Deep Reuse
+Feedforward 3D Editing via Text-Steerable Image-to-3D
+A4-Agent: An Agentic Framework for Zero-Shot Affordance Reasoning
+SS4D: Native 4D Generative Model via Structured Spacetime Latents
+Olmo 3
+Nemotron-Cascade: Scaling Cascaded Reinforcement Learning for General-Purpose Reasoning Models
+EVOLVE-VLA: Test-Time Training from Environment Feedback for Vision-Language-Action Models
+Zoom-Zero: Reinforced Coarse-to-Fine Video Understanding via Temporal Zoom-in
+Sparse-LaViDa: Sparse Multimodal Discrete Diffusion Language Models
+Janus: Disaggregating Attention and Experts for Scalable MoE Inference
+TAT: Task-Adaptive Transformer for All-in-One Medical Image Restoration
+RePo: Language Models with Context Re-Positioning
+Efficient-DLM: From Autoregressive to Diffusion Language Models, and Beyond in Speed
+Spherical Leech Quantization for Visual Tokenization and Generation
+JMMMU-Pro: Image-based Japanese Multi-discipline Multimodal Understanding Benchmark via Vibe Benchmark Construction
+MobileWorldBench: Towards Semantic World Modeling For Mobile Agents
+Comparative Analysis of LLM Abliteration Methods: A Cross-Architecture Evaluation
+S2D: Sparse-To-Dense Keymask Distillation for Unsupervised Video Instance Segmentation
+MeViS: A Multi-Modal Dataset for Referring Motion Expression Video Segmentation
