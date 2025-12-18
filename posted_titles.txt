@@ -7737,3 +7737,31 @@ UAGLNet: Uncertainty-Aggregated Global-Local Fusion Network with Cooperative CNN
 Hierarchical Dataset Selection for High-Quality Data Sharing
 CoSPlan: Corrective Sequential Planning via Scene Graph Incremental Updates
 ContextAnyone: Context-Aware Diffusion for Character-Consistent Text-to-Video Generation
+A Decade of Transit-timing Measurements Confirm Resonance in the K2-19 System
+Plasma Acceleration by Magnetic Tension Forces in the Martian Magnetotail: MAVEN Observations
+Science in 2026: the events to watch for in the coming year
+DEER: Draft with Diffusion, Verify with Autoregressive Models
+Fast and Accurate Causal Parallel Decoding using Jacobi Forcing
+HyperVL: An Efficient and Dynamic Multimodal Large Language Model for Edge Devices
+Step-GUI Technical Report
+Skyra: AI-Generated Video Detection via Grounded Artifact Reasoning
+Universal Reasoning Model
+IC-Effect: Precise and Efficient Video Effects Editing via In-Context Learning
+Robust and Calibrated Detection of Authentic Multimedia Content
+Can LLMs Guide Their Own Exploration? Gradient-Guided Reinforcement Learning for LLM Reasoning
+MMSI-Video-Bench: A Holistic Benchmark for Video-Based Spatial Intelligence
+DiffusionVL: Translating Any Autoregressive Models into Diffusion Vision Language Models
+Qwen-Image-Layered: Towards Inherent Editability via Layer Decomposition
+VABench: A Comprehensive Benchmark for Audio-Video Generation
+End-to-End Training for Autoregressive Video Diffusion via Self-Resampling
+WAY: Estimation of Vessel Destination in Worldwide AIS Trajectory
+VTCBench: Can Vision-Language Models Understand Long Context with Vision-Text Compression?
+Is Nano Banana Pro a Low-Level Vision All-Rounder? A Comprehensive Evaluation on 14 Tasks and 40 Datasets
+SAGE: Training Smart Any-Horizon Agents for Long Video Reasoning with Reinforcement Learning
+SCOPE: Prompt Evolution for Enhancing Agent Effectiveness
+VOYAGER: A Training Free Approach for Generating Diverse Datasets using LLMs
+In Pursuit of Pixel Supervision for Visual Pre-training
+Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulation
+Hybrid Attribution Priors for Explainable and Robust Model Training
+Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics
+LikeBench: Evaluating Subjective Likability in LLMs for Personalization
