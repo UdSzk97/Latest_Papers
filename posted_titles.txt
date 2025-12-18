@@ -7765,3 +7765,12 @@ Simultaneous Tactile-Visual Perception for Learning Multimodal Robot Manipulatio
 Hybrid Attribution Priors for Explainable and Robust Model Training
 Towards Seamless Interaction: Causal Turn-Level Modeling of Interactive 3D Conversational Head Dynamics
 LikeBench: Evaluating Subjective Likability in LLMs for Personalization
+Callisto’s Nonresonant Orbit as an Outcome of Circum-Jovian Disk Substructure
+Isotope effects (Cl, O, C) of heterogeneous electrochemistry induced by Martian dust activities
+Melting phase relations in Fe-FeS under Martian core pressures: Crystallization of Fe<sub>12</sub>S<sub>7</sub> at the inner core?
+Snowball Bistability Vanishes at Moderate Orbital Eccentricity
+Evidence of Possible Spectral Variability in the Patroclus–Menoetius Binary System
+Puzzle Curriculum GRPO for Vision-Centric Reasoning
+FiNERweb: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition
+FrontierCS: Evolving Challenges for Evolving Intelligence
+Understanding and Improving Hyperbolic Deep Reinforcement Learning
