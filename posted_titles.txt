@@ -7774,3 +7774,32 @@ Puzzle Curriculum GRPO for Vision-Centric Reasoning
 FiNERweb: Datasets and Artifacts for Scalable Multilingual Named Entity Recognition
 FrontierCS: Evolving Challenges for Evolving Intelligence
 Understanding and Improving Hyperbolic Deep Reinforcement Learning
+Fluid history in the ungrouped C2 Essebi meteorite parent body
+Kling-Omni Technical Report
+LLaDA2.0: Scaling Up Diffusion Language Models to 100B
+Next-Embedding Prediction Makes Strong Vision Learners
+StereoPilot: Learning Unified and Efficient Stereo Conversion via Generative Priors
+Seedance 1.5 pro: A Native Audio-Visual Joint Generation Foundation Model
+Depth Any Panoramas: A Foundation Model for Panoramic Depth Estimation
+Generative Refocusing: Flexible Defocus Control from a Single Image
+Alchemist: Unlocking Efficiency in Text-to-Image Model Training via Meta-Gradient Data Selection
+DeContext as Defense: Safe Image Editing in Diffusion Transformers
+Adaptation of Agentic AI
+REGLUE Your Latents with Global and Local Semantics for Entangled Diffusion
+N3D-VLM: Native 3D Grounding Enables Accurate Spatial Reasoning in Vision-Language Models
+The World is Your Canvas: Painting Promptable Events with Reference Images, Trajectories, and Text
+AdaTooler-V: Adaptive Tool-Use for Images and Videos
+Exploration v.s. Exploitation: Rethinking RLVR through Clipping, Entropy, and Spurious Reward
+RePlan: Reasoning-guided Region Planning for Complex Instruction-based Image Editing
+FlashPortrait: 6x Faster Infinite Portrait Animation with Adaptive Latent Prediction
+VenusBench-GD: A Comprehensive Multi-Platform GUI Benchmark for Diverse Grounding Tasks
+Differences That Matter: Auditing Models for Capability Gap Discovery and Rectification
+Multimodal RewardBench 2: Evaluating Omni Reward Models for Interleaved Text and Image
+Insight Miner: A Time Series Analysis Dataset for Cross-Domain Alignment with Natural Language
+Make-It-Poseable: Feed-forward Latent Posing Model for 3D Humanoid Character Animation
+Coupled Variational Reinforcement Learning for Language Model General Reasoning
+FrameDiffuser: G-Buffer-Conditioned Diffusion for Neural Forward Frame Rendering
+Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers
+Vibe Spaces for Creatively Connecting and Expressing Visual Concepts
+TabReX : Tabular Referenceless eXplainable Evaluation
+EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration
