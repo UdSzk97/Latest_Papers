@@ -7803,3 +7803,14 @@ Trainable Log-linear Sparse Attention for Efficient Diffusion Transformers
 Vibe Spaces for Creatively Connecting and Expressing Visual Concepts
 TabReX : Tabular Referenceless eXplainable Evaluation
 EmoCaliber: Advancing Reliable Visual Emotion Comprehension via Confidence Verbalization and Calibration
+Photochemistry of Fe (II) and carbonate-bearing waters and the influence on Greenhouse Gas production in Early Mars
+Not enough H<math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e3149" altimg="si175.svg" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math>O<math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e3157" altimg="si175.svg" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math> to warm early Mars
+Mars Science and Exploration After Mars Express
+JustRL: Scaling a 1.5B LLM with a Simple RL Recipe
+EasyV2V: A High-quality Instruction-based Video Editing Framework
+ModelTables: A Corpus of Tables about Models
+Hearing to Translate: The Effectiveness of Speech Modality Integration into LLMs
+MomaGraph: State-Aware Unified Scene Graphs with Vision-Language Model for Embodied Task Planning
+Bidirectional Normalizing Flow: From Data to Noise and Back
+Nemotron-Math: Efficient Long-Context Distillation of Mathematical Reasoning from Multi-Mode Supervision
+Sharing State Between Prompts and Programs
