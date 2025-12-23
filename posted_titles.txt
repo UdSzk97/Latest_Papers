@@ -7845,3 +7845,23 @@ Meta-RL Induces Exploration in Language Agents
 Bolmo: Byteifying the Next Generation of Language Models
 A Benchmark and Agentic Framework for Omni-Modal Reasoning and Tool Use in Long Videos
 MineTheGap: Automatic Mining of Biases in Text-to-Image Models
+DataFlow: An LLM-Driven Framework for Unified Data Preparation and Workflow Automation in the Era of Data-Centric AI
+The Prism Hypothesis: Harmonizing Semantic and Pixel Representations via Unified Autoencoding
+Region-Constraint In-Context Generation for Instructional Video Editing
+Infinite-Homography as Robust Conditioning for Camera-Controlled Video Generation
+QuCo-RAG: Quantifying Uncertainty from the Pre-training Corpus for Dynamic Retrieval-Augmented Generation
+Can LLMs Estimate Student Struggles? Human-AI Difficulty Alignment with Proficiency Simulation for Item Difficulty Prediction
+WorldWarp: Propagating 3D Geometry with Asynchronous Video Diffusion
+UCoder: Unsupervised Code Generation by Internal Probing of Large Language Models
+LoGoPlanner: Localization Grounded Navigation Policy with Metric-aware Visual Geometry
+GenEnv: Difficulty-Aligned Co-Evolution Between LLM Agents and Environment Simulators
+Reasoning Palette: Modulating Reasoning via Latent Contextualization for Controllable Exploration for (V)LMs
+MobileWorld: Benchmarking Autonomous Mobile Agents in Agent-User Interactive, and MCP-Augmented Environments
+Does It Tie Out? Towards Autonomous Legal Agents in Venture Capital
+StoryMem: Multi-shot Long Video Storytelling with Memory
+Real2Edit2Real: Generating Robotic Demonstrations via a 3D Control Interface
+LoPA: Scaling dLLM Inference via Lookahead Parallel Decoding
+Name That Part: 3D Part Segmentation and Naming
+MatSpray: Fusing 2D Material World Knowledge on 3D Geometry
+Brain-Grounded Axes for Reading and Steering LLM States
+Understanding Syllogistic Reasoning in LLMs from Formal and Natural Language Perspectives
