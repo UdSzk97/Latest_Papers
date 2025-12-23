@@ -7865,3 +7865,9 @@ Name That Part: 3D Part Segmentation and Naming
 MatSpray: Fusing 2D Material World Knowledge on 3D Geometry
 Brain-Grounded Axes for Reading and Steering LLM States
 Understanding Syllogistic Reasoning in LLMs from Formal and Natural Language Perspectives
+The First Direct Occurrence Rate Estimates for Kepler Exoplanets in Small-separation Binary Star Systems: Planet Occurrence Is Suppressed in Binary Stars
+Identification and characterization of the topside bulge of the Venusian ionosphere
+Europa’s thick lid
+CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion
+Over++: Generative Video Compositing for Layer Interaction Effects
+SecureCode v2.0: A Production-Grade Dataset for Training Security-Aware Code Generation Models
