@@ -7887,3 +7887,9 @@ Simulstream: Open-Source Toolkit for Evaluation and Demonstration of Streaming S
 Active Intelligence in Video Avatars via Closed-loop World Modeling
 Multi-LLM Thematic Analysis with Dual Reliability Metrics: Combining Cohen's Kappa and Semantic Similarity for Qualitative Research Validation
 Toxicity Ahead: Forecasting Conversational Derailment on GitHub
+Efficient Exoplanet Imaging Simulations of the Habitable Worlds Observatory
+An Analytical Model for the Eccentricity Cascade: Hot Jupiter Formation via S-type Instability
+A New Global Perspective on Recent Tectonism in the Lunar Maria
+Scaling Laws for Code: Every Programming Language Matters
+Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents
+Learning to Refocus with Video Diffusion Models
