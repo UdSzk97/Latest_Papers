@@ -7871,3 +7871,19 @@ Europa’s thick lid
 CASA: Cross-Attention via Self-Attention for Efficient Vision-Language Fusion
 Over++: Generative Video Compositing for Layer Interaction Effects
 SecureCode v2.0: A Production-Grade Dataset for Training Security-Aware Code Generation Models
+A Jovian Decametric Emission Event Observed Locally by Juno and Remotely by Wind and STEREO-A at 1 au
+SemanticGen: Video Generation in Semantic Space
+Bottom-up Policy Optimization: Your Language Model Policy Secretly Contains Internal Policies
+SpatialTree: How Spatial Abilities Branch Out in MLLMs
+LongVideoAgent: Multi-Agent Reasoning with Long Videos
+MemEvolve: Meta-Evolution of Agent Memory Systems
+Step-DeepResearch Technical Report
+SAM Audio: Segment Anything in Audio
+INTELLECT-3: Technical Report
+FaithLens: Detecting and Explaining Faithfulness Hallucination
+Reinforcement Learning for Self-Improving Agent with Skill Library
+QuantiPhy: A Quantitative Benchmark Evaluating Physical Reasoning Abilities of Vision-Language Models
+Simulstream: Open-Source Toolkit for Evaluation and Demonstration of Streaming Speech-to-Text Translation Systems
+Active Intelligence in Video Avatars via Closed-loop World Modeling
+Multi-LLM Thematic Analysis with Dual Reliability Metrics: Combining Cohen's Kappa and Semantic Similarity for Qualitative Research Validation
+Toxicity Ahead: Forecasting Conversational Derailment on GitHub
