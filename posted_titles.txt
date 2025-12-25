@@ -7893,3 +7893,17 @@ A New Global Perspective on Recent Tectonism in the Lunar Maria
 Scaling Laws for Code: Every Programming Language Matters
 Memory-T1: Reinforcement Learning for Temporal Reasoning in Multi-session Agents
 Learning to Refocus with Video Diffusion Models
+Learning to Reason in 4D: Dynamic Spatial Understanding for Vision Language Models
+TurboDiffusion: Accelerating Video Diffusion Models by 100-200 Times
+T2AV-Compass: Towards Unified Evaluation for Text-to-Audio-Video Generation
+DreaMontage: Arbitrary Frame-Guided One-Shot Video Generation
+Beyond Memorization: A Multi-Modal Ordinal Regression Benchmark to Expose Popularity Bias in Vision-Language Models
+Nemotron 3 Nano: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning
+HiStream: Efficient High-Resolution Video Generation via Redundancy-Eliminated Streaming
+TokSuite: Measuring the Impact of Tokenizer Choice on Language Model Behavior
+NVIDIA Nemotron 3: Efficient and Open Intelligence
+Learning from Next-Frame Prediction: Autoregressive Video Modeling Encodes Effective Representations
+Multi-hop Reasoning via Early Knowledge Alignment
+Streaming Video Instruction Tuning
+SWE-EVO: Benchmarking Coding Agents in Long-Horizon Software Evolution Scenarios
+LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-System Dynamics
