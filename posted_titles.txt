@@ -7916,3 +7916,5 @@ Schoenfeld's Anatomy of Mathematical Reasoning by Language Models
 How Much 3D Do Video Foundation Models Encode?
 VA-π: Variational Policy Alignment for Pixel-Aware Autoregressive Generation
 GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training
+Continental outflow shapes the circum-Antarctic pattern of summertime atmospheric mercury depletion zones
+Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning
