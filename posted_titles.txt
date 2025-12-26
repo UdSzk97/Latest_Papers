@@ -7910,3 +7910,9 @@ LLM Swiss Round: Aggregating Multi-Benchmark Performance via Competitive Swiss-S
 Far ultraviolet carbon emissions in the Mars aurora: Brightness, intensity ratios and seasonal dependence
 From Word to World: Can Large Language Models be Implicit Text-based World Models?
 PhononBench:A Large-Scale Phonon-Based Benchmark for Dynamical Stability in Crystal Generation
+Latent Implicit Visual Reasoning
+Spatia: Video Generation with Updatable Spatial Memory
+Schoenfeld's Anatomy of Mathematical Reasoning by Language Models
+How Much 3D Do Video Foundation Models Encode?
+VA-π: Variational Policy Alignment for Pixel-Aware Autoregressive Generation
+GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training
