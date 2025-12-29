@@ -7918,3 +7918,17 @@ VA-π: Variational Policy Alignment for Pixel-Aware Autoregressive Generation
 GTR-Turbo: Merged Checkpoint is Secretly a Free Teacher for Agentic VLM Training
 Continental outflow shapes the circum-Antarctic pattern of summertime atmospheric mercury depletion zones
 Emergent temporal abstractions in autoregressive models enable hierarchical reinforcement learning
+A Multiarc Approach to Detecting Uranus’s Normal Modes via Doppler Tracking of a Planetary Orbiter
+Mindscape-Aware Retrieval Augmented Generation for Improved Long Context Understanding
+InsertAnywhere: Bridging 4D Scene Geometry and Diffusion Models for Realistic Video Object Insertion
+MAI-UI Technical Report: Real-World Centric Foundation GUI Agents
+UniPercept: Towards Unified Perceptual-Level Image Understanding across Aesthetics, Quality, Structure, and Texture
+ProEdit: Inversion-based Editing From Prompts Done Right
+TimeBill: Time-Budgeted Inference for Large Language Models
+See Less, See Right: Bi-directional Perceptual Shaping For Multimodal Reasoning
+Omni-Weather: Unified Multimodal Foundation Model for Weather Generation and Understanding
+SVBench: Evaluation of Video Generation Models on Social Reasoning
+InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Search
+SlideTailor: Personalized Presentation Slide Generation for Scientific Papers
+SWE-RM: Execution-free Feedback For Software Engineering Agents
+A 58-Addition, Rank-23 Scheme for General 3x3 Matrix Multiplication
