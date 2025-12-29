@@ -7932,3 +7932,4 @@ InSight-o3: Empowering Multimodal Foundation Models with Generalized Visual Sear
 SlideTailor: Personalized Presentation Slide Generation for Scientific Papers
 SWE-RM: Execution-free Feedback For Software Engineering Agents
 A 58-Addition, Rank-23 Scheme for General 3x3 Matrix Multiplication
+Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards
