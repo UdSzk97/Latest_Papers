@@ -7933,3 +7933,30 @@ SlideTailor: Personalized Presentation Slide Generation for Scientific Papers
 SWE-RM: Execution-free Feedback For Software Engineering Agents
 A 58-Addition, Rank-23 Scheme for General 3x3 Matrix Multiplication
 Rethinking Sample Polarity in Reinforcement Learning with Verifiable Rewards
+Crater-based Dating of Hebrus Valles and Hephaestus Fossae, Mars
+Activity of Halley-type Comets 12P/Pons–Brooks and 13P/Olbers from SOHO/SWAN Observations
+Coupling Experts and Routers in Mixture-of-Experts via an Auxiliary Loss
+LiveTalk: Real-Time Multimodal Interactive Video Diffusion via Improved On-Policy Distillation
+Yume-1.5: A Text-Controlled Interactive World Generation Model
+SmartSnap: Proactive Evidence Seeking for Self-Verifying Agents
+Diffusion Knows Transparency: Repurposing Video Diffusion for Transparent Object Depth and Normal Estimation
+SpotEdit: Selective Region Editing in Diffusion Transformers
+Dream-VL & Dream-VLA: Open Vision-Language and Vision-Language-Action Models with Diffusion Language Model Backbone
+GRAN-TED: Generating Robust, Aligned, and Nuanced Text Embedding for Diffusion Models
+Act2Goal: From World Model To General Goal-conditioned Policy
+Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion
+Web World Models
+DiRL: An Efficient Post-Training Framework for Diffusion Language Models
+Video-BrowseComp: Benchmarking Agentic Video Research on Open Web
+Training AI Co-Scientists Using Rubric Rewards
+Monadic Context Engineering
+VL-LN Bench: Towards Long-horizon Goal-oriented Navigation with Active Dialogs
+Nested Browser-Use Learning for Agentic Information Seeking
+OmniAgent: Audio-Guided Active Perception Agent for Omnimodal Audio-Video Understanding
+SurgWorld: Learning Surgical Robot Policies from Videos via World Modeling
+An Information Theoretic Perspective on Agentic System Design
+Quantile Rendering: Efficiently Embedding High-dimensional Feature on 3D Gaussian Splatting
+ProGuard: Towards Proactive Multimodal Safeguard
+Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation
+Bridging Your Imagination with Audio-Video Generation via a Unified Director
+Reverse Personalization
