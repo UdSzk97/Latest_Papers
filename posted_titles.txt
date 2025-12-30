@@ -7960,3 +7960,10 @@ ProGuard: Towards Proactive Multimodal Safeguard
 Knot Forcing: Taming Autoregressive Video Diffusion Models for Real-time Infinite Interactive Portrait Animation
 Bridging Your Imagination with Audio-Video Generation via a Unified Director
 Reverse Personalization
+Upper limits of CH<math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e274" altimg="si46.svg" class="math"><msub><mrow></mrow><mrow><mn>4</mn></mrow></msub></math> and OCS in the Martian atmosphere from NOMAD/TGO solar occultation: A study of vertical averaging and systematic uncertainties
+YOLO-Master: MOE-Accelerated with Specialized Transformers for Enhanced Real-time Detection
+Robo-Dopamine: General Process Reward Modeling for High-Precision Robotic Manipulation
+KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at Meta
+Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis
+Self-Evaluation Unlocks Any-Step Text-to-Image Generation
+Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks
