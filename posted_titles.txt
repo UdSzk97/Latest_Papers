@@ -7967,3 +7967,11 @@ KernelEvolve: Scaling Agentic Kernel Coding for Heterogeneous AI Accelerators at
 Introducing TrGLUE and SentiTurca: A Comprehensive Benchmark for Turkish General Language Understanding and Sentiment Analysis
 Self-Evaluation Unlocks Any-Step Text-to-Image Generation
 Shape of Thought: When Distribution Matters More than Correctness in Reasoning Tasks
+Efficiency of Hydrodynamic Atmospheric Escape in Hot Jupiters and Super-Earths
+A Change of the Rotation Period of Asteroid (65803) Didymos Caused by the DART Impact
+UltraShape 1.0: High-Fidelity 3D Shape Generation via Scalable Geometric Refinement
+DreamOmni3: Scribble-based Editing and Generation
+End-to-End Test-Time Training for Long Context
+Evaluating Parameter Efficient Methods for RLVR
+GraphLocator: Graph-guided Causal Reasoning for Issue Localization
+GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs
