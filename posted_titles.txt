@@ -7977,3 +7977,22 @@ GraphLocator: Graph-guided Causal Reasoning for Issue Localization
 GateBreaker: Gate-Guided Attacks on Mixture-of-Expert LLMs
 Heterogeneous distribution of moderately volatile elements in the Moon determined from Apollo 15 and 17 pyroclastic glass beads
 Not enough H<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si180.svg" display="inline" id="d1e3146" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math>O<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si180.svg" display="inline" id="d1e3154" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math> to warm early Mars
+Youtu-LLM: Unlocking the Native Agentic Potential for Lightweight Large Language Models
+GaMO: Geometry-aware Multi-view Diffusion Outpainting for Sparse-View 3D Reconstruction
+Let It Flow: Agentic Crafting on Rock and Roll, Building the ROME Model within an Open Agentic Learning Ecosystem
+Scaling Open-Ended Reasoning to Predict the Future
+mHC: Manifold-Constrained Hyper-Connections
+GR-Dexter Technical Report
+AI Meets Brain: Memory Systems from Cognitive Neuroscience to Autonomous Agents
+PhyGDPO: Physics-Aware Groupwise Direct Preference Optimization for Physically Consistent Text-to-Video Generation
+SpaceTimePilot: Generative Rendering of Dynamic Scenes Across Space and Time
+BEDA: Belief Estimation as Probabilistic Constraints for Performing Strategic Dialogue Acts
+Forging Spatial Intelligence: A Roadmap of Multi-Modal Data Pre-Training for Autonomous Systems
+Factorized Learning for Temporally Grounded Video-Language Models
+Fantastic Reasoning Behaviors and Where to Find Them: Unsupervised Discovery of the Reasoning Process
+JavisGPT: A Unified Multi-modal LLM for Sounding-Video Comprehension and Generation
+Figure It Out: Improving the Frontier of Reasoning with Active Visual Thinking
+Valori: A Deterministic Memory Substrate for AI Systems
+Guiding a Diffusion Transformer with the Internal Dynamics of Itself
+Pretraining Frame Preservation in Autoregressive Video Memory Compression
+Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers
