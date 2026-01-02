@@ -7997,3 +7997,6 @@ Guiding a Diffusion Transformer with the Internal Dynamics of Itself
 Pretraining Frame Preservation in Autoregressive Video Memory Compression
 Geometry-Aware Optimization for Respiratory Sound Classification: Enhancing Sensitivity with SAM-Optimized Audio Spectrogram Transformers
 A unified framework for detecting point and collective anomalies in operating system logs via collaborative transformers
+Dynamic Large Concept Models: Latent Reasoning in an Adaptive Semantic Space
+DiffThinker: Towards Generative Multimodal Reasoning with Diffusion Models
+On the Role of Discreteness in Diffusion LLMs
