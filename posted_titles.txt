@@ -8019,3 +8019,4 @@ Diversity or Precision? A Deep Dive into Next Token Prediction
 Fast-weight Product Key Memory
 InfoSynth: Information-Guided Benchmark Synthesis for LLMs
 MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
+The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving
