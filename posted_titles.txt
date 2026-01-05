@@ -8005,3 +8005,17 @@ Improving Multi-step RAG with Hypergraph-based Memory for Long-Context Complex R
 FlowBlending: Stage-Aware Multi-Model Sampling for Fast and High-Fidelity Video Generation
 Dream2Flow: Bridging Video Generation and Open-World Manipulation with 3D Object Flow
 TESO Tabu Enhanced Simulation Optimization for Noisy Black Box Problems
+Pre-perihelion detection of a wobbling high-latitude jet in the interstellar comet 3I/ATLAS★
+A Next-generation Exoplanet Atmospheric Retrieval Framework NEXOTRANS for Emission Spectroscopy: New Constraints and Atmospheric Characterization of WASP-69 b Using JWST NIRCam and MIRI Observations
+Youtu-Agent: Scaling Agent Productivity with Automated Generation and Hybrid Policy Optimization
+NeoVerse: Enhancing 4D World Model with in-the-wild Monocular Videos
+Avatar Forcing: Real-Time Interactive Head Avatar Generation for Natural Conversation
+SenseNova-MARS: Empowering Multimodal Agentic Reasoning and Search via Reinforcement Learning
+Taming Hallucinations: Boosting MLLMs' Video Understanding via Counterfactual Video Generation
+Deep Delta Learning
+AdaGaR: Adaptive Gabor Representation for Dynamic Scene Reconstruction
+Nested Learning: The Illusion of Deep Learning Architectures
+Diversity or Precision? A Deep Dive into Next Token Prediction
+Fast-weight Product Key Memory
+InfoSynth: Information-Guided Benchmark Synthesis for LLMs
+MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
