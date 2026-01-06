@@ -8020,3 +8020,25 @@ Fast-weight Product Key Memory
 InfoSynth: Information-Guided Benchmark Synthesis for LLMs
 MorphAny3D: Unleashing the Power of Structured Latent in 3D Morphing
 The Reasoning-Creativity Trade-off: Toward Creativity-Driven Problem Solving
+Disintegration of Long-period Comet C/2019 Y4 (ATLAS). II. Postperihelion Remnant Recovery
+Photometric Observations and Analysis of Active Asteroid (62412) 2000 SY178
+Help small-scale gold miners to transition away from mercury use
+K-EXAONE Technical Report
+NextFlow: Unified Sequential Modeling Activates Multimodal Understanding and Generation
+DreamID-V:Bridging the Image-to-Video Gap for High-Fidelity Face Swapping via Diffusion Transformer
+VAR RL Done Right: Tackling Asynchronous Policy Conflicts in Visual Autoregressive Generation
+VINO: A Unified Visual Generator with Interleaved OmniModal Context
+InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams
+GARDO: Reinforcing Diffusion Models without Reward Hacking
+Can LLMs Predict Their Own Failures? Self-Awareness via Internal Circuits
+Falcon-H1R: Pushing the Reasoning Frontiers with a Hybrid Model for Efficient Test-Time Scaling
+Talk2Move: Reinforcement Learning for Text-Instructed Object-Level Geometric Transformation in Scenes
+Recursive Language Models
+COMPASS: A Framework for Evaluating Organization-Specific Policy Alignment in LLMs
+KV-Embedding: Training-free Text Embedding via Internal KV Re-routing in Decoder-only LLMs
+Toward Stable Semi-Supervised Remote Sensing Segmentation via Co-Guidance and Co-Fusion
+SWE-Lego: Pushing the Limits of Supervised Fine-tuning for Software Issue Resolving
+OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Assessment
+IMA++: ISIC Archive Multi-Annotator Dermoscopic Skin Lesion Segmentation Dataset
+Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents
+M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models
