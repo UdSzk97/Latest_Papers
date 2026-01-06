@@ -8042,3 +8042,8 @@ OpenNovelty: An LLM-powered Agentic System for Verifiable Scholarly Novelty Asse
 IMA++: ISIC Archive Multi-Annotator Dermoscopic Skin Lesion Segmentation Dataset
 Project Ariadne: A Structural Causal Framework for Auditing Faithfulness in LLM Agents
 M-ErasureBench: A Comprehensive Multimodal Evaluation Benchmark for Concept Erasure in Diffusion Models
+Confidence Estimation for LLMs in Multi-turn Interactions
+CPPO: Contrastive Perception for Vision Language Policy Optimization
+DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies
+Selective Imperfection as a Generative Framework for Analysis, Creativity and Discovery
+Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping
