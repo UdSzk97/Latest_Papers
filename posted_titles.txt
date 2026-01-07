@@ -8047,3 +8047,25 @@ CPPO: Contrastive Perception for Vision Language Policy Optimization
 DiffProxy: Multi-View Human Mesh Recovery via Diffusion-Generated Dense Proxies
 Selective Imperfection as a Generative Framework for Analysis, Creativity and Discovery
 Prithvi-Complimentary Adaptive Fusion Encoder (CAFE): unlocking full-potential for flood inundation mapping
+Upper limits of CH<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si25.svg" display="inline" id="d1e270" class="math"><msub><mrow></mrow><mrow><mn>4</mn></mrow></msub></math> and OCS in the Martian atmosphere from NOMAD/TGO solar occultation: A study of vertical averaging and systematic uncertainties
+Equatorial Waves Associated with Dust Storms as Simulated in a Mars General Circulation Model
+InfiniDepth: Arbitrary-Resolution and Fine-Grained Depth Estimation with Neural Implicit Fields
+MOSS Transcribe Diarize: Accurate Transcription with Speaker Diarization
+SciEvalKit: An Open-source Evaluation Toolkit for Scientific General Intelligence
+LTX-2: Efficient Joint Audio-Visual Foundation Model
+UniCorn: Towards Self-Improving Unified Multimodal Models through Self-Generated Supervision
+DreamStyle: A Unified Framework for Video Stylization
+CogFlow: Bridging Perception and Reasoning through Knowledge Internalization for Visual Mathematical Problem Solving
+MiMo-V2-Flash Technical Report
+NitroGen: An Open Foundation Model for Generalist Gaming Agents
+SOP: A Scalable Online Post-Training System for Vision-Language-Action Models
+OpenRT: An Open-Source Red Teaming Framework for Multimodal LLMs
+Muses: Designing, Composing, Generating Nonexistent Fantasy 3D Creatures without Training
+The Sonar Moment: Benchmarking Audio-Language Models in Audio Geo-Localization
+X-MuTeST: A Multilingual Benchmark for Explainable Hate Speech Detection and A Novel LLM-consulted Explanation Framework
+Parallel Latent Reasoning for Sequential Recommendation
+WebGym: Scaling Training Environments for Visual Web Agents with Realistic Tasks
+FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing
+AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules
+Steerability of Instrumental-Convergence Tendencies in LLMs
+U-Net-Like Spiking Neural Networks for Single Image Dehazing
