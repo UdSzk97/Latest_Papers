@@ -8069,3 +8069,8 @@ FFP-300K: Scaling First-Frame Propagation for Generalizable Video Editing
 AceFF: A State-of-the-Art Machine Learning Potential for Small Molecules
 Steerability of Instrumental-Convergence Tendencies in LLMs
 U-Net-Like Spiking Neural Networks for Single Image Dehazing
+Digital Twin AI: Opportunities and Challenges from Large Language Models to World Models
+Mechanistic Interpretability of Large-Scale Counting in LLMs through a System-2 Strategy
+Unified Thinker: A General Reasoning Modular Core for Image Generation
+Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners
+ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors
