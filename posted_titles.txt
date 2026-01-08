@@ -8088,3 +8088,10 @@ MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecula
 ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing
 MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents
 RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization
+Coupled 1D Chemical Kinetic Transport and 2D Hydrodynamic Modeling Supports a Modest 1–1.5× Supersolar Oxygen Abundance in Jupiter’s Atmosphere
+Evolving Programmatic Skill Networks
+Why LLMs Aren't Scientists Yet: Lessons from Four Autonomous Research Attempts
+Enhancing Linguistic Competence of Language Models through Pre-training with Language Learning Tasks
+Pearmut: Human Evaluation of Translation Made Trivial
+Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction
+ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Autoregressive Image Generation
