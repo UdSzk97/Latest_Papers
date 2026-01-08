@@ -8074,3 +8074,17 @@ Mechanistic Interpretability of Large-Scale Counting in LLMs through a System-2 
 Unified Thinker: A General Reasoning Modular Core for Image Generation
 Large Reasoning Models Are (Not Yet) Multilingual Latent Reasoners
 ExposeAnyone: Personalized Audio-to-Expression Diffusion Models Are Robust Zero-Shot Face Forgery Detectors
+Determining the Detectability of H2O with Photometric Observations Using Bayesian Analysis for Remote Biosignature Identification on exo-Earths (BARBIE)
+Entropy-Adaptive Fine-Tuning: Resolving Confident Conflicts to Mitigate Forgetting
+Benchmark^2: Systematic Evaluation of LLM Benchmarks
+Atlas: Orchestrating Heterogeneous Models and Tools for Multi-Domain Complex Reasoning
+Klear: Unified Multi-Task Audio-Video Joint Generation
+Choreographing a World of Dynamic Objects
+EpiQAL: Benchmarking Large Language Models in Epidemiological Question Answering for Enhanced Alignment and Reasoning
+E-GRPO: High Entropy Steps Drive Effective Reinforcement Learning for Flow Models
+Agentic Rubrics as Contextual Verifiers for SWE Agents
+RedBench: A Universal Dataset for Comprehensive Red Teaming of Large Language Models
+MDAgent2: Large Language Model for Code Generation and Knowledge Q&A in Molecular Dynamics
+ThinkRL-Edit: Thinking in Reinforcement Learning for Reasoning-Centric Image Editing
+MAGMA: A Multi-Graph based Agentic Memory Architecture for AI Agents
+RGS-SLAM: Robust Gaussian Splatting SLAM with One-Shot Dense Initialization
