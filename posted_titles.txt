@@ -8095,3 +8095,28 @@ Enhancing Linguistic Competence of Language Models through Pre-training with Lan
 Pearmut: Human Evaluation of Translation Made Trivial
 Gen3R: 3D Scene Generation Meets Feed-Forward Reconstruction
 ResTok: Learning Hierarchical Residuals in 1D Visual Tokenizers for Autoregressive Image Generation
+On the Border: Searching for Cometary Activity near the Centaur–JFC Transition Line
+GDPO: Group reward-Decoupled Normalization Policy Optimization for Multi-reward RL Optimization
+Learnable Multipliers: Freeing the Scale of Language Model Matrix Layers
+RoboVIP: Multi-View Video Generation with Visual Identity Prompting Augments Robot Manipulation
+RL-AWB: Deep Reinforcement Learning for Auto White Balance Correction in Low-Light Night-time Scenes
+RelayLLM: Efficient Reasoning via Collaborative Decoding
+AT^2PO: Agentic Turn-based Policy Optimization via Tree Search
+VerseCrafter: Dynamic Realistic Video World Model with 4D Geometric Control
+VideoAuto-R1: Video Auto Reasoning via Thinking Once, Answering Twice
+The Illusion of Specialization: Unveiling the Domain-Invariant "Standing Committee" in Mixture-of-Experts Models
+Plenoptic Video Generation
+Agent-as-a-Judge
+DocDancer: Towards Agentic Document-Grounded Information Seeking
+Re-Align: Structured Reasoning-guided Alignment for In-Context Image Generation and Editing
+DiffCoT: Diffusion-styled Chain-of-Thought Reasoning in LLMs
+Guardians of the Hair: Rescuing Soft Boundaries in Depth, Stereo, and Novel Views
+Memorization in 3D Shape Generation: An Empirical Study
+Token-Level LLM Collaboration via FusionRoute
+AgentDevel: Reframing Self-Evolving LLM Agents as Release Engineering
+Beyond Binary Preference: Aligning Diffusion Models to Fine-grained Criteria by Decoupling Attributes
+Enhancing Object Detection with Privileged Information: A Model-Agnostic Teacher-Student Approach
+VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insights for Training Data Enhancement in Visually-Rich Document Understanding
+ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting
+Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance
+Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset
