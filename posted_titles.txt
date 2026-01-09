@@ -8120,3 +8120,13 @@ VERSE: Visual Embedding Reduction and Space Exploration. Clustering-Guided Insig
 ProFuse: Efficient Cross-View Context Fusion for Open-Vocabulary 3D Gaussian Splatting
 Safety at One Shot: Patching Fine-Tuned LLMs with A Single Instance
 Towards Open-Vocabulary Industrial Defect Understanding with a Large-Scale Multimodal Dataset
+NASA won’t bring Mars samples back to Earth: this is the science that will be lost
+Few Tokens Matter: Entropy Guided Attacks on Vision-Language Models
+CoV: Chain-of-View Prompting for Spatial Reasoning
+One Sample to Rule Them All: Extreme Data Efficiency in RL Scaling
+Multi-Scale Local Speculative Decoding for Image Generation
+PyramidalWan: On Making Pretrained Video Model Pyramidal for Efficient Inference
+Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time Video Game Playing
+ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers
+Learning User Preferences Through Interaction for Long-Term Collaboration
+LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
