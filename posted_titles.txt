@@ -8161,3 +8161,14 @@ Over-Searching in Search-Augmented Large Language Models
 TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration
 IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck
 Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs
+Mapping of the Ganymede surface reflectance from Juno/UVS data
+Exoplanets beyond the Conservative Habitable Zone. I. Habitability
+MrMARTIAN: A Multiresolution Mass Reconstruction Algorithm Combining Free-form and Analytic Components
+Exoplanets beyond the Conservative Habitable Zone. II. Occurrence
+Reprocessing of lunar crust at ∼4.3 Ga inferred from in situ U-Pb isotopic and trace element investigation of Northwest Africa 11479
+Impact-induced Contamination of Ganymede’s Deep Ice Shell
+An Empirical Study on Preference Tuning Generalization and Diversity Under Domain Shift
+TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Agents
+Afri-MCQA: Multimodal Cultural Question Answering for African Languages
+The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models
+Legal Alignment for Safe and Ethical AI
