@@ -8130,3 +8130,34 @@ Scaling Behavior Cloning Improves Causal Reasoning: An Open Model for Real-Time 
 ReHyAt: Recurrent Hybrid Attention for Video Diffusion Transformers
 Learning User Preferences Through Interaction for Long-Term Collaboration
 LEMAS: Large A 150K-Hour Large-scale Extensible Multilingual Audio Suite with Generative Speech Models
+Planetary Habitability Under the Light of a Rapidly Changing Star
+A Photometric Study of the Late-type Contact Binary MT Cassiopeiae: A Robust Detection of Three Periodic Eclipse Timing Variations
+Robust Extraction of Global 21 cm Spectrum from Experiments with a Chromatic Beam Based on Physics-motivated Error Modeling
+An Anomalous Symmetric Flare Observed in the Single-lined Spectroscopic Binary TIC 380907942: Assessing Self-lensing and Alternative Hypotheses
+Interaction of Solar Wind Energy Helium Ions with Enstatite Surfaces Progressively Altered by Simulated Impact Melting
+Similar Topography and Crater Retention Record yet Divergent Space Weathering Extents across Reiner Gamma on the Moon
+Thinking with Map: Reinforced Parallel Map-Augmented Agent for Geolocalization
+MMFormalizer: Multimodal Autoformalization in the Wild
+The Molecular Structure of Thought: Mapping the Topology of Long Chain-of-Thought Reasoning
+CaricatureGS: Exaggerating 3D Gaussian Splatting Faces With Gaussian Curvature
+Chaining the Evidence: Robust Reinforcement Learning for Deep Search Agents with Citation-Aware Rubric Rewards
+EnvScaler: Scaling Tool-Interactive Environments for LLM Agent via Programmatic Synthesis
+Can We Predict Before Executing Machine Learning Agents?
+VideoAR: Autoregressive Video Generation via Next-Frame & Scale Prediction
+AgentOCR: Reimagining Agent History via Optical Self-Compression
+Illusions of Confidence? Diagnosing LLM Truthfulness via Neighborhood Consistency
+Qwen3-VL-Embedding and Qwen3-VL-Reranker: A Unified Framework for State-of-the-Art Multimodal Retrieval and Ranking
+Orient Anything V2: Unifying Orientation and Rotation Understanding
+SmartSearch: Process Reward-Guided Query Refinement for Search Agents
+Goal Force: Teaching Video Models To Accomplish Physics-Conditioned Goals
+GenCtrl -- A Formal Controllability Toolkit for Generative Models
+Same Claim, Different Judgment: Benchmarking Scenario-Induced Bias in Multilingual Financial Misinformation Detection
+DR-LoRA: Dynamic Rank LoRA for Mixture-of-Experts Adaptation
+Memory Matters More: Event-Centric Memory as a Logic Map for Agent Searching and Reasoning
+AnyDepth: Depth Estimation Made Easy
+Distilling Feedback into Memory-as-a-Tool
+ViTNT-FIQA: Training-Free Face Image Quality Assessment with Vision Transformers
+Over-Searching in Search-Augmented Large Language Models
+TCAndon-Router: Adaptive Reasoning Router for Multi-Agent Collaboration
+IIB-LPO: Latent Policy Optimization via Iterative Information Bottleneck
+Router-Suggest: Dynamic Routing for Multimodal Auto-Completion in Visually-Grounded Dialogs
