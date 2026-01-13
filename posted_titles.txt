@@ -8172,3 +8172,33 @@ TowerMind: A Tower Defence Game Learning Environment and Benchmark for LLM as Ag
 Afri-MCQA: Multimodal Cultural Question Answering for African Languages
 The Persona Paradox: Medical Personas as Behavioral Priors in Clinical Language Models
 Legal Alignment for Safe and Ethical AI
+Orbital Modulation Induced by a Third Component in the Overcontact Binary V0554 Dra
+Reliability of Assessing Lunar Crustal Density Structures Using the GRAIL Gravity Model
+Watching, Reasoning, and Searching: A Video Deep Research Benchmark on Open Web for Agentic Video Reasoning
+BabyVision: Visual Reasoning Beyond Language
+PaCoRe: Learning to Scale Test-Time Compute with Parallel Coordinated Reasoning
+X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests
+MHLA: Restoring Expressivity of Linear Attention via Token-Level Multi-Head
+GlimpRouter: Efficient Collaborative Inference by Glimpsing One Token of Thoughts
+OS-Symphony: A Holistic Framework for Robust and Generalist Computer-Using Agent
+Lost in the Noise: How Reasoning Models Fail with Contextual Distractors
+Beyond Hard Masks: Progressive Token Evolution for Diffusion Language Models
+Controllable Memory Usage: Balancing Anchoring and Innovation in Long-Term Human-Agent Interaction
+MegaFlow: Large-Scale Distributed Orchestration System for the Agentic Era
+DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving
+Boosting Latent Diffusion Models via Disentangled Representation Alignment
+What Users Leave Unsaid: Under-Specified Queries Limit Vision-Language Models
+ET-Agent: Incentivizing Effective Tool-Integrated Reasoning Agent via Behavior Calibration
+TourPlanner: A Competitive Consensus Framework with Constraint-Gated Reinforcement Learning for Travel Planning
+Dr. Zero: Self-Evolving Search Agents without Training Data
+OpenTinker: Separating Concerns in Agentic Reinforcement Learning
+Are LLM Decisions Faithful to Verbal Confidence?
+Structured Episodic Event Memory
+"TODO: Fix the Mess Gemini Created": Towards Understanding GenAI-Induced Self-Admitted Technical Debt
+Codified Foreshadowing-Payoff Text Generation
+e5-omni: Explicit Cross-modal Alignment for Omni-modal Embeddings
+ShowUI-Aloha: Human-Taught GUI Agent
+SketchJudge: A Diagnostic Benchmark for Grading Hand-drawn Diagrams with Multimodal Large Language Models
+FinForge: Semi-Synthetic Financial Benchmark Generation
+3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence
+On the Fallacy of Global Token Perplexity in Spoken Language Model Evaluation
