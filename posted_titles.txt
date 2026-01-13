@@ -8202,3 +8202,15 @@ SketchJudge: A Diagnostic Benchmark for Grading Hand-drawn Diagrams with Multimo
 FinForge: Semi-Synthetic Financial Benchmark Generation
 3D CoCa v2: Contrastive Learners with Test-Time Search for Generalizable Spatial Intelligence
 On the Fallacy of Global Token Perplexity in Spoken Language Model Evaluation
+Forest Before Trees: Latent Superposition for Efficient Visual Reasoning
+Sci-Reasoning: A Dataset Decoding AI Innovation Patterns
+Can Textual Reasoning Improve the Performance of MLLMs on Fine-grained Visual Classification?
+Artificial Entanglement in the Fine-Tuning of Large Language Models
+Gecko: An Efficient Neural Architecture Inherently Processing Sequences with Arbitrary Lengths
+Does Inference Scaling Improve Reasoning Faithfulness? A Multi-Model Analysis of Self-Consistency Tradeoffs
+FlyPose: Towards Robust Human Pose Estimation From Aerial Views
+Benchmarking Small Language Models and Small Reasoning Language Models on System Log Severity Classification
+Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variability Is the Heartbeat of Artifical Cognition
+RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction
+A Rising Tide Lifts All Boats: MTQE Rewards for Idioms Improve General Translation Quality
+SPINAL -- Scaling-law and Preference Integration in Neural Alignment Layers
