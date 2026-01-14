@@ -8232,3 +8232,17 @@ SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image G
 JudgeRLVR: Judge First, Generate Second for Efficient Reasoning
 Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization
 Towards Comprehensive Stage-wise Benchmarking of Large Language Models in Fact-Checking
+AstroQ: Automated Scheduling of Cadenced Astronomical Observations
+On the Divergent Evolution of Io and Europa as Primordial Ocean Worlds
+Detecting and measuring Transverse Aeolian Ridges on Mars using deep learning
+Upper estimate of possible sizes of Venusian lava tubes from the perspective of structural stability
+Reprocessing of Pioneer Venus Orbiter radio occultation data: Principles and methodology using a test case
+From Dawn till Dusk: How Light Reduces Martian Granular Slope Angles
+MemoBrain: Executive Memory as an Agentic Brain for Reasoning
+3AM: Segment Anything with Geometric Consistency in Videos
+Parallel Context-of-Experts Decoding for Retrieval Augmented Generation
+ViDoRe V3: A Comprehensive Evaluation of Retrieval Augmented Generation in Complex Real-World Scenarios
+UM-Text: A Unified Multimodal Model for Image Understanding
+VideoLoom: A Video Large Language Model for Joint Spatial-Temporal Understanding
+EpiCaR: Knowing What You Don't Know Matters for Better Reasoning in LLMs
+GeoMotionGPT: Geometry-Aligned Motion Understanding with Large Language Models
