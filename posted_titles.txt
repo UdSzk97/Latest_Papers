@@ -8214,3 +8214,21 @@ Stochastic CHAOS: Why Deterministic Inference Kills, and Distributional Variabil
 RealMem: Benchmarking LLMs in Real-World Memory-Driven Interaction
 A Rising Tide Lifts All Boats: MTQE Rewards for Idioms Improve General Translation Quality
 SPINAL -- Scaling-law and Preference Integration in Neural Alignment Layers
+Modulation of Whistler-mode Waves in the Solar Wind in the Vicinity of Earth’s Moon
+Simple Analytical Models of Grain Fragmentation in a Cometary Coma
+Exo-Geoscience Perspectives Beyond Habitability
+Solar Open Technical Report
+User-Oriented Multi-Turn Dialogue Generation with Tool Use at scale
+MemGovern: Enhancing Code Agents through Learning from Governed Human Experiences
+ShowUI-π: Flow-based Generative Models as GUI Dexterous Hands
+KnowMe-Bench: Benchmarking Person Understanding for Lifelong Digital Companions
+ArenaRL: Scaling RL for Open-Ended Agents via Tournament-based Relative Ranking
+Ministral 3
+The Confidence Dichotomy: Analyzing and Mitigating Miscalibration in Tool-Use Agents
+VLingNav: Embodied Navigation with Adaptive Reasoning and Visual-Assisted Linguistic Memory
+End-to-End Video Character Replacement without Structural Guidance
+Motion Attribution for Video Generation
+SnapGen++: Unleashing Diffusion Transformers for Efficient High-Fidelity Image Generation on Edge Devices
+JudgeRLVR: Judge First, Generate Second for Efficient Reasoning
+Aligning Text, Code, and Vision: A Multi-Objective Reinforcement Learning Framework for Text-to-Visualization
+Towards Comprehensive Stage-wise Benchmarking of Large Language Models in Fact-Checking
