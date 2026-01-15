@@ -8263,3 +8263,13 @@ The AI Hippocampus: How Far are We From Human Memory?
 FocusUI: Efficient UI Grounding via Position-Preserving Visual Token Selection
 Efficient Camera-Controlled Video Generation of Static Scenes via Sparse Diffusion and 3D Rendering
 Focal Guidance: Unlocking Controllability from Semantic-Weak Layers in Video Diffusion Models
+Limit cycles and the climate history of Mars
+OpenDecoder: Open Large Language Model Decoding to Incorporate Document Quality in RAG
+Geometric Stability: The Missing Axis of Representations
+Flow Equivariant World Models: Memory for Partially Observed Dynamic Environments
+DPWriter: Reinforcement Learning with Diverse Planning Branching for Creative Writing
+Omni-R1: Towards the Unified Generative Paradigm for Multimodal Reasoning
+No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning
+Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing
+sui-1: Grounded and Verifiable Long-Form Summarization
+SampoNLP: A Self-Referential Toolkit for Morphological Analysis of Subword Tokenizers
