@@ -8304,3 +8304,14 @@ CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents
 HeartMuLa: A Family of Open Sourced Music Foundation Models
 VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation
 WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments
+High-precision Relativistic Timescales for Cislunar Navigation
+CO<math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e721" altimg="si54.svg" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math> condensation and sublimation on a range of substrates under simulated mars conditions
+PACEvolve: Enabling Long-Horizon Progress-Aware Consistent Evolution
+M^4olGen: Multi-Agent, Multi-Stage Molecular Generation under Precise Multi-Property Constraints
+Patient-Similarity Cohort Reasoning in Clinical Text-to-SQL
+Agent Skills in the Wild: An Empirical Study of Security Vulnerabilities at Scale
+V-DPM: 4D Video Reconstruction with Dynamic Point Maps
+RigMo: Unifying Rig and Motion Learning for Generative Animation
+Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques
+Demystifying the Slash Pattern in Attention: The Role of RoPE
+Memory Bank Compression for Continual Adaptation of Large Language Models
