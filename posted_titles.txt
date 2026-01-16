@@ -8273,3 +8273,34 @@ No More Stale Feedback: Co-Evolving Critics for Open-World Agent Learning
 Cluster Workload Allocation: Semantic Soft Affinity Using Natural Language Processing
 sui-1: Grounded and Verifiable Long-Form Summarization
 SampoNLP: A Self-Referential Toolkit for Morphological Analysis of Subword Tokenizers
+Surface Modifications of a Space-weathered Ryugu Sample and the Reflectance Spectral Response
+VISTA: Dust and Volatile Sensor for the ESA Hera Mission
+STEP3-VL-10B Technical Report
+Urban Socio-Semantic Segmentation with Vision-Language Reasoning
+Rewarding the Rare: Uniqueness-Aware RL for Creative Problem Solving in LLMs
+Collaborative Multi-Agent Test-Time Reinforcement Learning for Reasoning
+Beyond Static Tools: Test-Time Tool Evolution for Scientific Reasoning
+DanQing: An Up-to-Date Large-Scale Chinese Vision-Language Pre-training Dataset
+CoF-T2I: Video Models as Pure Visual Reasoners for Text-to-Image Generation
+Toward Ultra-Long-Horizon Agentic Science: Cognitive Accumulation for Machine Learning Engineering
+Think-Then-Generate: Reasoning-Aware Text-to-Image Diffusion with LLM Encoders
+MatchTIR: Fine-Grained Supervision for Tool-Integrated Reasoning via Bipartite Matching
+A Safety Report on GPT-5.2, Gemini 3 Pro, Qwen3-VL, Doubao 1.8, Grok 4.1 Fast, Nano Banana Pro, and Seedream 4.5
+ToolSafe: Enhancing Tool Invocation Safety of LLM-based agents via Proactive Step-level Guardrail and Feedback
+FlowAct-R1: Towards Interactive Humanoid Video Generation
+VIBE: Visual Instruction Based Editor
+Transition Matching Distillation for Fast Video Generation
+Molmo2: Open Weights and Data for Vision-Language Models with Video Understanding and Grounding
+EvasionBench: Detecting Evasive Answers in Financial Q&A via Multi-Model Consensus and LLM-as-Judge
+Action100M: A Large-scale Video Action Dataset
+Alterbute: Editing Intrinsic Attributes of Objects in Images
+LSRIF: Logic-Structured Reinforcement Learning for Instruction Following
+Inference-time Physics Alignment of Video Generative Models with Latent World Models
+LaViT: Aligning Latent Visual Thoughts for Multi-modal Reasoning
+TAG-MoE: Task-Aware Gating for Unified Generative Mixture-of-Experts
+PRL: Process Reward Learning Improves LLMs' Reasoning Ability and Broadens the Reasoning Boundary
+Deriving Character Logic from Storyline as Codified Decision Trees
+CaMeLs Can Use Computers Too: System-level Security for Computer Use Agents
+HeartMuLa: A Family of Open Sourced Music Foundation Models
+VQ-Seg: Vector-Quantized Token Perturbation for Semi-Supervised Medical Image Segmentation
+WildRayZer: Self-supervised Large View Synthesis in Dynamic Environments
