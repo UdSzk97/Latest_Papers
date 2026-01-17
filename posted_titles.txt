@@ -8315,3 +8315,5 @@ RigMo: Unifying Rig and Motion Learning for Generative Animation
 Enhancing Sentiment Classification and Irony Detection in Large Language Models through Advanced Prompt Engineering Techniques
 Demystifying the Slash Pattern in Attention: The Role of RoPE
 Memory Bank Compression for Continual Adaptation of Large Language Models
+Reprocessing of lunar crust at ∼4.3 Ga inferred from in situ U-Pb isotopic and trace element investigation of Northwest Africa 11479
+Automated precision counting of very small lunar craters – A simulation study
