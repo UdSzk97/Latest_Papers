@@ -8317,3 +8317,21 @@ Demystifying the Slash Pattern in Attention: The Role of RoPE
 Memory Bank Compression for Continual Adaptation of Large Language Models
 Reprocessing of lunar crust at ∼4.3 Ga inferred from in situ U-Pb isotopic and trace element investigation of Northwest Africa 11479
 Automated precision counting of very small lunar craters – A simulation study
+The High Plasma Density Observed Along the PJ57 Juno Flyby of Io Implies the Presence of a Dense Atomic Corona
+Your Group-Relative Advantage Is Biased
+The Poisoned Apple Effect: Strategic Manipulation of Mediated Markets via Technology Expansion of AI Agents
+Unlocking Implicit Experience: Synthesizing Tool-Use Trajectories from Text
+RubricHub: A Comprehensive and Highly Discriminative Rubric Dataset via Automated Coarse-to-Fine Generation
+When Personalization Misleads: Understanding and Mitigating Hallucinations in Personalized LLMs
+ACoT-VLA: Action Chain-of-Thought for Vision-Language-Action Models
+BAPO: Boundary-Aware Policy Optimization for Reliable Agentic Search
+ProFit: Leveraging High-Value Signals in SFT via Probability-Guided Token Selection
+FrankenMotion: Part-level Human Motion Generation and Composition
+Reasoning Models Generate Societies of Thought
+Building Production-Ready Probes For Gemini
+PhysRVG: Physics-Aware Unified Reinforcement Learning for Video Generative Models
+ShapeR: Robust Conditional 3D Shape Generation from Casual Captures
+AstroReason-Bench: Evaluating Unified Agentic Planning across Heterogeneous Space Planning Problems
+Language of Thought Shapes Output Diversity in Large Language Models
+PhyRPR: Training-Free Physics-Constrained Video Generation
+More Images, More Problems? A Controlled Analysis of VLM Failure Modes
