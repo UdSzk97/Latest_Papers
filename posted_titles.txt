@@ -8359,3 +8359,28 @@ Near-Earth Asteroid orbit determination with Physics-Informed Extreme Learning M
 NAACL: Noise-AwAre Verbal Confidence Calibration for LLMs in RAG Systems
 PubMed-OCR: PMC Open Access OCR Annotations
 CLARE: Continual Learning for Vision-Language-Action Models via Autonomous Adapter Routing and Expansion
+Evaluating Star–Planet Interactions with Zeeman Doppler Imaging: Case Study in YZ Ceti
+On the Importance of Geometry in Exoplanet Irradiation: Implications for the Day–Night Contrast
+Coupled Planetary Interior and Tidal Evolution
+Crater Ray Explorer (CRAYEX): Toolkit to evaluate the spallation expanse of rayed craters on lunar surface
+Advances and Frontiers of LLM-based Issue Resolution in Software Engineering: A Comprehensive Survey
+FutureOmni: Evaluating Future Forecasting from Omni-Modal Context for Multimodal LLMs
+Toward Efficient Agents: Memory, Tool learning, and Planning
+OmniTransfer: All-in-one Framework for Spatio-temporal Video Transfer
+Being-H0.5: Scaling Human-Centric Robot Learning for Cross-Embodiment Generalization
+MemoryRewardBench: Benchmarking Reward Models for Long-Term Memory Management in Large Language Models
+Think3D: Thinking with Space for Spatial Reasoning
+UniX: Unifying Autoregression and Diffusion for Chest X-Ray Understanding and Generation
+ToolPRMBench: Evaluating and Advancing Process Reward Models for Tool-using Agents
+Aligning Agentic World Models via Knowledgeable Experience Learning
+Agentic-R: Learning to Retrieve for Agentic Search
+LightOnOCR: A 1B End-to-End Multilingual Vision-Language Model for State-of-the-Art OCR
+PRiSM: Benchmarking Phone Realization in Speech Models
+On the Evidentiary Limits of Membership Inference for Copyright Auditing
+Fundamental Limitations of Favorable Privacy-Utility Guarantees for DP-SGD
+A BERTology View of LLM Orchestrations: Token- and Layer-Selective Probes for Efficient Single-Pass Classification
+SciCoQA: Quality Assurance for Scientific Paper--Code Alignment
+LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs with Structural Counterfactuals
+KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
+A Hybrid Protocol for Large-Scale Semantic Dataset Generation in Low-Resource Languages: The Turkish Semantic Relations Corpus
+Beyond Cosine Similarity: Taming Semantic Drift and Antonym Intrusion in a 15-Million Node Turkish Synonym Graph
