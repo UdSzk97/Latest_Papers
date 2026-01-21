@@ -8384,3 +8384,14 @@ LIBERTy: A Causal Framework for Benchmarking Concept-Based Explanations of LLMs 
 KAGE-Bench: Fast Known-Axis Visual Generalization Evaluation for Reinforcement Learning
 A Hybrid Protocol for Large-Scale Semantic Dataset Generation in Low-Resource Languages: The Turkish Semantic Relations Corpus
 Beyond Cosine Similarity: Taming Semantic Drift and Antonym Intrusion in a 15-Million Node Turkish Synonym Graph
+ASASSN-24fw: Candidate Gas-rich Circumsecondary Disk Occultation of a Main-sequence Star
+Inferring and Interpreting the Visual Geometric Albedo and Phase Function of Earth
+Locate, Steer, and Improve: A Practical Survey of Actionable Mechanistic Interpretability in Large Language Models
+FantasyVLN: Unified Multimodal Chain-of-Thought Reasoning for Vision-Language Navigation
+Which Reasoning Trajectories Teach Students to Reason Better? A Simple Metric of Informative Alignment
+InT: Self-Proposed Interventions Enable Credit Assignment in LLM Reasoning
+Uncertainty-Aware Gradient Signal-to-Noise Data Selection for Instruction Tuning
+DSAEval: Evaluating Data Science Agents on a Wide Range of Real-World Data Science Problems
+METIS: Mentoring Engine for Thoughtful Inquiry & Solutions
+Finally Outshining the Random Baseline: A Simple and Effective Solution for Active Learning in 3D Biomedical Imaging
+RemoteVAR: Autoregressive Visual Modeling for Remote Sensing Change Detection
