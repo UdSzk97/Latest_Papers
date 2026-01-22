@@ -8416,3 +8416,15 @@ The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems
 Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek
 FARE: Fast-Slow Agentic Robotic Exploration
 sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation
+Io and Europa formed differently
+The Prospects for Gravitational Seismology at Uranus with an Orbiting Spacecraft
+Penetration Law in Loose Granular Medium for the Chang’E 5 and Chang’E 6 Footpad
+The Sesquinary Catastrophe on Deimos Can Reconcile Its Excited Past with Its Dynamically Cool Present
+Behavior Knowledge Merge in Reinforced Agentic Models
+GutenOCR: A Grounded Vision-Language Front-End for Documents
+FlashLabs Chroma 1.0: A Real-Time End-to-End Spoken Dialogue Model with Personalized Voice Cloning
+Privacy Collapse: Benign Fine-Tuning Can Break Contextual Privacy in Language Models
+Implicit Neural Representation Facilitates Unified Universal Vision Encoding
+Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking
+Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis
+CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning
