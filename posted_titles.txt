@@ -8395,3 +8395,24 @@ DSAEval: Evaluating Data Science Agents on a Wide Range of Real-World Data Scien
 METIS: Mentoring Engine for Thoughtful Inquiry & Solutions
 Finally Outshining the Random Baseline: A Simple and Effective Solution for Active Learning in 3D Biomedical Imaging
 RemoteVAR: Autoregressive Visual Modeling for Remote Sensing Change Detection
+On the Mass Budget Problem of Protoplanetary Disks: Streaming Instability and Optically Thick Emission
+Isotopic evidence for volatile loss driven by South Pole-Aitken basin–forming impact
+Remote Compositional Analyses of Space-weathered Lunar Maria
+Agentic Reasoning for Large Language Models
+Paper2Rebuttal: A Multi-Agent Framework for Transparent Author Response Assistance
+Rethinking Video Generation Model for the Embodied World
+MMDeepResearch-Bench: A Benchmark for Multimodal Deep Research Agents
+Render-of-Thought: Rendering Textual Chain-of-Thought as Images for Visual Latent Reasoning
+Typhoon OCR: Open Vision-Language Model For Thai Document Extraction
+FinVault: Benchmarking Financial Agent Safety in Execution-Grounded Environments
+Typhoon ASR Real-time: FastConformer-Transducer for Thai Automatic Speech Recognition
+XR: Cross-Modal Agents for Composed Image Retrieval
+Quantifying Speaker Embedding Phonological Rule Interactions in Accented Speech Synthesis
+Numina-Lean-Agent: An Open and General Agentic Reasoning System for Formal Mathematics
+RoboBrain 2.5: Depth in Sight, Time in Mind
+Lost in the Prompt Order: Revealing the Limitations of Causal Attention in Language Models
+AgentEHR: Advancing Autonomous Clinical Decision-Making via Retrospective Summarization
+The Responsibility Vacuum: Organizational Failure in Scaled Agent Systems
+Facilitating Proactive and Reactive Guidance for Decision Making on the Web: A Design Probe with WebSeek
+FARE: Fast-Slow Agentic Robotic Exploration
+sangkuriang: A pseudo-spectral Python library for Korteweg-de Vries soliton simulation
