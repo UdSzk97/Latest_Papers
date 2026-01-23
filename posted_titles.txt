@@ -8428,3 +8428,26 @@ Implicit Neural Representation Facilitates Unified Universal Vision Encoding
 Show me the evidence: Evaluating the role of evidence and natural language explanations in AI-supported fact-checking
 Motion 3-to-4: 3D Motion Reconstruction for 4D Synthesis
 CURE-Med: Curriculum-Informed Reinforcement Learning for Multilingual Medical Reasoning
+Solar Orbiter’s Passage through Comet Leonard’s Tail while in the He+ Focusing Cone
+Observations of Electrostatic Solitary Waves in the Martian Magnetic Reconnection Exhaust Region
+BayesianVLA: Bayesian Decomposition of Vision Language Action Models via Latent Action Queries
+The Flexibility Trap: Why Arbitrary Order Limits Reasoning Potential in Diffusion Language Models
+HERMES: KV Cache as Hierarchical Memory for Efficient Streaming Video Understanding
+EvoCUA: Evolving Computer Use Agents via Learning from Scalable Synthetic Experience
+LLM-in-Sandbox Elicits General Agentic Intelligence
+Stable-DiffCoder: Pushing the Frontier of Code Diffusion Large Language Model
+SAMTok: Representing Any Mask with Two Words
+Scaling Text-to-Image Diffusion Transformers with Representation Autoencoders
+Learning to Discover at Test Time
+Rethinking Composed Image Retrieval Evaluation: A Fine-Grained Benchmark from Image Editing
+Towards Automated Kernel Generation in the Era of LLMs
+OpenVision 3: A Family of Unified Visual Encoder for Both Understanding and Generation
+Terminal-Bench: Benchmarking Agents on Hard, Realistic Tasks in Command Line Interfaces
+Qwen3-TTS Technical Report
+Cosmos Policy: Fine-Tuning Video Models for Visuomotor Control and Planning
+VideoMaMa: Mask-Guided Video Matting via Generative Prior
+360Anything: Geometry-Free Lifting of Images and Videos to 360°
+VIOLA: Towards Video In-Context Learning with Minimal Annotations
+LLM Prompt Evaluation for Educational Applications
+Numba-Accelerated 2D Diffusion-Limited Aggregation: Implementation and Fractal Characterization
+Wigner's Friend as a Circuit: Inter-Branch Communication Witness Benchmarks on Superconducting Quantum Hardware
