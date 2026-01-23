@@ -8451,3 +8451,16 @@ VIOLA: Towards Video In-Context Learning with Minimal Annotations
 LLM Prompt Evaluation for Educational Applications
 Numba-Accelerated 2D Diffusion-Limited Aggregation: Implementation and Fractal Characterization
 Wigner's Friend as a Circuit: Inter-Branch Communication Witness Benchmarks on Superconducting Quantum Hardware
+Background Intensity Estimation for Cassini–ISS Image Using Deep-learning-based Diffusion Model
+TIRAMISU: Non-LTE Radiative Transfer for Molecules in Exoplanet Atmospheres
+CO<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si54.svg" display="inline" id="d1e723" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math> condensation and sublimation on a range of substrates under simulated mars conditions
+Duration of high temperature-pressure conditions in impact-induced plumes on the moon
+Radiatively coupled equatorial waves in Mars’ Aphelion Cloud Belt: Wavenumber-frequency analysis in Mars GCM simulations
+Determination of Venus’s Rotation State Using Radio-tracking Data from the Venus Express Spacecraft
+Model for Determining the Origin of Lunar Volatiles Based on Their Composition: Application to NASA’s VIPER and Other Landed Missions
+PROGRESSLM: Towards Progress Reasoning in Vision-Language Models
+ActionMesh: Animated 3D Mesh Generation with Temporal 3D Diffusion
+Agentic Confidence Calibration
+Agentic Uncertainty Quantification
+From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models
+MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness
