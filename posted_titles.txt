@@ -8481,3 +8481,5 @@ Endless Terminals: Scaling RL Environments for Terminal Agents
 DSGym: A Holistic Framework for Evaluating and Training Data Science Agents
 Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind
 Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization
+GameTalk: Training LLMs for Strategic Conversation
+ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch
