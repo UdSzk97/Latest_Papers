@@ -8465,3 +8465,19 @@ Agentic Uncertainty Quantification
 From Passive Metric to Active Signal: The Evolving Role of Uncertainty Quantification in Large Language Models
 MirrorBench: An Extensible Framework to Evaluate User-Proxy Agents for Human-Likeness
 Radiatively coupled equatorial waves in Mars’ Aphelion Cloud Belt: Wavenumber–frequency analysis in Mars GCM simulations
+The Effect of Colored Noise on Doppler Measurements for Planetary Geodesy: Application to the VERITAS Gravity Science Experiment
+LongCat-Flash-Thinking-2601 Technical Report
+SWE-Pruner: Self-Adaptive Context Pruning for Coding Agents
+TwinBrainVLA: Unleashing the Potential of Generalist VLMs for Embodied Tasks via Asymmetric Mixture-of-Transformers
+VisGym: Diverse, Customizable, Scalable Environments for Multimodal Agents
+Inference-Time Scaling of Verification: Self-Evolving Deep Research Agents via Test-Time Rubric-Guided Verification
+Jet-RL: Enabling On-Policy FP8 Reinforcement Learning with Unified Training and Rollout Precision Flow
+SALAD: Achieve High-Sparsity Attention via Efficient Linear Attention Tuning for Video Diffusion Transformer
+Mecellem Models: Turkish Models Trained from Scratch and Continually Pre-trained for the Legal Domain
+MeepleLM: A Virtual Playtester Simulating Diverse Subjective Experiences
+Memory-V2V: Augmenting Video-to-Video Diffusion Models with Memory
+Knowledge is Not Enough: Injecting RL Skills for Continual Adaptation
+Endless Terminals: Scaling RL Environments for Terminal Agents
+DSGym: A Holistic Framework for Evaluating and Training Data Science Agents
+Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind
+Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization
