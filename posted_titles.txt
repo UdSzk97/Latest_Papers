@@ -8517,3 +8517,8 @@ RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agen
 PingPong: A Natural Benchmark for Multi-Turn Code-Switching Dialogues
 TensorLens: End-to-End Transformer Analysis via High-Order Attention Tensors
 Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control
+TSRBench: A Comprehensive Multi-task Multi-modal Time Series Reasoning Benchmark for Generalist Models
+MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency Contexts
+HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs
+Masked Depth Modeling for Spatial Perception
+Interp3D: Correspondence-aware Interpolation for Generative Textured 3D Morphing
