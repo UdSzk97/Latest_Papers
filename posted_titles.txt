@@ -8483,3 +8483,37 @@ Dancing in Chains: Strategic Persuasion in Academic Rebuttal via Theory of Mind
 Guidelines to Prompt Large Language Models for Code Generation: An Empirical Characterization
 GameTalk: Training LLMs for Strategic Conversation
 ChartVerse: Scaling Chart Reasoning via Reliable Programmatic Synthesis from Scratch
+Modeling the Impact of Unresolved Stellar Companions on Detection Sensitivity in Kepler’s Small-planet Occurrence Rates
+A Method for Quantifying Paleoenvironmental Impacts on Lunar Recession and the Moon’s Age
+The Uncertainty in Water Mass Fraction of Wet Planets
+daVinci-Dev: Agent-native Mid-training for Software Engineering
+Can LLMs Clean Up Your Mess? A Survey of Application-Ready Data Preparation with LLMs
+The Script is All You Need: An Agentic Framework for Long-Horizon Dialogue-to-Cinematic Video Generation
+Scientific Image Synthesis: Benchmarking, Methodologies, and Downstream Utility
+iFSQ: Improving FSQ for Image Generation with 1 Line of Code
+Elastic Attention: Test-time Adaptive Sparsity Ratios for Efficient Transformers
+Self-Refining Video Sampling
+Teaching Models to Teach Themselves: Reasoning at the Edge of Learnability
+VIBEVOICE-ASR Technical Report
+CGPT: Cluster-Guided Partial Tables with LLM-Generated Supervision for Table Retrieval
+STAR: Semantic Table Representation with Header-Aware Clustering and Adaptive Weighted Fusion
+Paying Less Generalization Tax: A Cross-Domain Generalization Study of RL Training for LLM Agents
+AR-Omni: A Unified Autoregressive Model for Any-to-Any Generation
+SAGE: Steerable Agentic Data Generation for Deep Search with Execution Feedback
+Agentic Very Long Video Understanding
+DeepPlanning: Benchmarking Long-Horizon Agentic Planning with Verifiable Constraints
+DRPG (Decompose, Retrieve, Plan, Generate): An Agentic Framework for Academic Rebuttal
+End-to-End Joint ASR and Speaker Role Diarization with Child-Adult Interactions
+SkyReels-V3 Technique Report
+Least-Loaded Expert Parallelism: Load Balancing An Imbalanced Mixture-of-Experts
+Diffusion In Diffusion: Reclaiming Global Coherence in Semi-Autoregressive Diffusion
+One Adapts to Any: Meta Reward Modeling for Personalized LLM Alignment
+A Mechanistic View on Video Generation as World Models: State and Dynamics
+IVRA: Improving Visual-Token Relations for Robot Action Policy with Training-Free Hint-Based Guidance
+The Side Effects of Being Smart: Safety Risks in MLLMs' Multi-Image Reasoning
+Less Is More -- Until It Breaks: Security Pitfalls of Vision Token Compression in Large Vision-Language Models
+UI Remix: Supporting UI Design Through Interactive Example Retrieval and Remixing
+RouteMoA: Dynamic Routing without Pre-Inference Boosts Efficient Mixture-of-Agents
+PingPong: A Natural Benchmark for Multi-Turn Code-Switching Dialogues
+TensorLens: End-to-End Transformer Analysis via High-Order Attention Tensors
+Plug-and-Play Benchmarking of Reinforcement Learning Algorithms for Large-Scale Flow Control
