@@ -8522,3 +8522,21 @@ MortalMATH: Evaluating the Conflict Between Reasoning Objectives and Emergency C
 HalluGuard: Demystifying Data-Driven and Reasoning-Driven Hallucinations in LLMs
 Masked Depth Modeling for Spatial Perception
 Interp3D: Correspondence-aware Interpolation for Generative Textured 3D Morphing
+Radiation-driven Destruction of N-heterocycles in the Presence and Absence of Water Ice
+CN Trianguli: A W-type Contact Binary Exhibiting A-type Light Curve via Starspot-induced Dimming
+Discovery of a Rapidly Evolving Global Magnetic Field in the M Dwarf YZ Cet and Constraints on the Magnetic Field of Its Planet YZ Cet b
+Impact-induced submicroscopic metallic iron particles identified in “dusty olivine” from brecciated lunar meteorite Bechar 012
+Characterizing Martian Primary Crustal Compositions With Gamma Ray Spectroscopy
+AgentDoG: A Diagnostic Guardrail Framework for AI Agent Safety and Security
+AdaReasoner: Dynamic Tool Orchestration for Iterative Visual Reasoning
+A Pragmatic VLA Foundation Model
+Visual Generation Unlocks Human-Like Reasoning through Multimodal World Models
+World Craft: Agentic Framework to Create Visualizable Worlds via Text
+AVMeme Exam: A Multimodal Multilingual Multicultural Benchmark for LLMs' Contextual and Cultural Knowledge and Thinking
+Selective Steering: Norm-Preserving Control Through Discriminative Layer Selection
+Revisiting Parameter Server in LLM Post-Training
+GPCR-Filter: a deep learning framework for efficient and precise GPCR modulator discovery
+HalluCitation Matters: Revealing the Impact of Hallucinated References with 300 Hallucinated Papers in ACL Conferences
+TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment
+FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning
+Benchmarks Saturate When The Model Gets Smarter Than The Judge
