@@ -8540,3 +8540,15 @@ HalluCitation Matters: Revealing the Impact of Hallucinated References with 300 
 TriPlay-RL: Tri-Role Self-Play Reinforcement Learning for LLM Safety Alignment
 FABLE: Forest-Based Adaptive Bi-Path LLM-Enhanced Retrieval for Multi-Document Reasoning
 Benchmarks Saturate When The Model Gets Smarter Than The Judge
+A Deep Learning–Based Approach for Dielectric Permittivity Inversion of RIMFAX Ground-penetrating Radar Data
+Heterogeneous ejection temperatures recorded in a “low-shock” Martian meteorite by (U-Th)/He thermochronology and a high-pressure phosphate polymorph
+Hyper Spectral Range Index: Detection and quantification of H<math xmlns:mml="http://www.w3.org/1998/Math/MathML" display="inline" id="d1e533" altimg="si60.svg" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math>O vapor in the Martian atmosphere with PFS/MEx
+Polar vortex dynamics on gas giants: Insights from 2D energy cascades
+Constraints on the impactor flux to the Earth–Moon system from oxygen isotopes of the lunar regolith
+Youtu-VL: Unleashing Visual Potential via Unified Vision-Language Supervision
+Post-LayerNorm Is Back: Stable, ExpressivE, and Deep
+Towards Pixel-Level VLM Perception via Simple Points Prediction
+HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models
+DeFM: Learning Foundation Representations from Depth for Robotics
+EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization
+CooperBench: Why Coding Agents Cannot be Your Teammates Yet
