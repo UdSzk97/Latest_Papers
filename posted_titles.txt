@@ -8552,3 +8552,19 @@ HyperAlign: Hypernetwork for Efficient Test-Time Alignment of Diffusion Models
 DeFM: Learning Foundation Representations from Depth for Robotics
 EvolVE: Evolutionary Search for LLM-based Verilog Generation and Optimization
 CooperBench: Why Coding Agents Cannot be Your Teammates Yet
+Fractal Aggregate Aerosols in the Virga Cloud Code. II. Exploring the Effects of Key Cloud Parameters in Warm Neptune, Hot Jupiter and Brown Dwarf Atmospheres
+Polka-dotted Stars. II. Starspots and Obliquities of Kepler-17 and Kepler-63
+A Closed-form Analytical Theory of Nonisobaric Transmission Spectroscopy for Exoplanet Atmospheres
+Harder Is Better: Boosting Mathematical Reasoning via Difficulty-Aware GRPO and Multi-Aspect Question Reformulation
+Advancing Open-source World Models
+DeepSeek-OCR 2: Visual Causal Flow
+Spark: Strategic Policy-Aware Exploration via Dynamic Branching for Long-Horizon Agentic Learning
+Innovator-VL: A Multimodal Large Language Model for Scientific Discovery
+Linear representations in language models can change dramatically over a conversation
+SERA: Soft-Verified Efficient Repository Agents
+OmegaUse: Building a General-Purpose GUI Agent for Autonomous Task Execution
+GDCNet: Generative Discrepancy Comparison Network for Multimodal Sarcasm Detection
+SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper
+RIR-Mega-Speech: A Reverberant Speech Corpus with Comprehensive Acoustic Metadata and Reproducible Evaluation
+SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation
+UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders
