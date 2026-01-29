@@ -8568,3 +8568,12 @@ SE-DiCoW: Self-Enrolled Diarization-Conditioned Whisper
 RIR-Mega-Speech: A Reverberant Speech Corpus with Comprehensive Acoustic Metadata and Reproducible Evaluation
 SketchDynamics: Exploring Free-Form Sketches for Dynamic Intent Expression in Animation Generation
 UPLiFT: Efficient Pixel-Dense Feature Upsampling with Local Attenders
+Warm Jupiter Tidal Migration Can Spare Inner Planets; Hot Jupiter Tidal Migration May Not
+Off-equatorial Electron Trajectories in Ganymede’s Magnetosphere: Implications for a Bifurcated Ring Current Under Different Jovian Wind Conditions
+Hyper Spectral Range Index: Detection and quantification of H<math xmlns:mml="http://www.w3.org/1998/Math/MathML" altimg="si60.svg" display="inline" id="d1e531" class="math"><msub><mrow></mrow><mrow><mn>2</mn></mrow></msub></math>O vapor in the Martian atmosphere with PFS/MEx
+An Integrated Framework for Global Detection and Quantification of Lunar Pyroclastic Deposits
+Reinforcement Learning via Self-Distillation
+VERGE: Formal Refinement and Guidance Engine for Verifiable LLM Reasoning
+Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning
+Group Distributionally Robust Optimization-Driven Reinforcement Learning for LLM Reasoning
+Shallow-π: Knowledge Distillation for Flow-based VLAs
