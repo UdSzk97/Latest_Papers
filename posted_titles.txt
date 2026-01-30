@@ -8620,3 +8620,15 @@ WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents
 Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation
 WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models
 STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation
+Surrogate-accelerated Bayesian Inversion for Exoplanet Interior Characterization
+Duration of high temperature-pressure conditions in impact-induced plumes on the Moon
+The effect of thermo-tidal winds on the expansion of local and regional dust storms on Mars
+Exploring Mons Mouton (lunar south circumpolar region): Reconstruction of the 3D geology and stratigraphy of a prominent Lunar Mountain region
+LoL: Longer than Longer, Scaling Video Generation to Hour
+Latent Adversarial Regularization for Offline Preference Optimization
+Shaping capabilities with token-level data filtering
+KromHC: Manifold-Constrained Hyper-Connections with Kronecker-Product Residual Matrices
+JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion
+Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels
+Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis
+Flow-based Extremal Mathematical Structure Discovery
