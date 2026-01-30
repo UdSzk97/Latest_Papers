@@ -8577,3 +8577,46 @@ VERGE: Formal Refinement and Guidance Engine for Verifiable LLM Reasoning
 Training Reasoning Models on Saturated Problems via Failure-Prefix Conditioning
 Group Distributionally Robust Optimization-Driven Reinforcement Learning for LLM Reasoning
 Shallow-π: Knowledge Distillation for Flow-based VLAs
+A Comparison of One-dimensional and Three-dimensional Exoplanet Atmosphere Model Grids: ScCHIMERA and the SPARC/MiTgcm
+Detectability of Lunar-origin Asteroids in the LSST Era
+Saturation of Ionospheric Currents under Extreme Environments
+Sound Velocities of FeO‐Bearing Ringwoodite and Majorite: Implication for Martian Mantle Seismic Profiles
+Evaluation of Particle Scattering by Locally Generated Fast Magnetosonic Waves in the Martian Ionosphere
+Slantwise Convection and Heat Transport in Icy Moon Oceans
+Photochemistry in Jupiter’s Ionosphere: Insights from Simultaneous H ...
+Everything in Its Place: Benchmarking Spatial Intelligence of Text-to-Image Models
+Idea2Story: An Automated Pipeline for Transforming Research Concepts into Complete Scientific Narratives
+Scaling Embeddings Outperforms Scaling Experts in Language Models
+OCRVerse: Towards Holistic OCR in End-to-End Vision-Language Models
+DynamicVLA: A Vision-Language-Action Model for Dynamic Object Manipulation
+MMFineReason: Closing the Multimodal Reasoning Gap via Open Data-Centric Methods
+PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction
+ConceptMoE: Adaptive Token-to-Concept Compression for Implicit Compute Allocation
+AgentLongBench: A Controllable Long Benchmark For Long-Contexts Agents via Environment Rollouts
+Exploring Reasoning Reward Model for Agents
+Qwen3-ASR Technical Report
+Language-based Trial and Error Falls Behind in the Era of Experience
+Typhoon-S: Minimal Open Post-Training for Sovereign Large Language Models
+Scalable Power Sampling: Unlocking Efficient, Training-Free Reasoning for LLMs via Distribution Sharpening
+MAD: Modality-Adaptive Decoding for Mitigating Cross-Modal Hallucinations in Multimodal Large Language Models
+Discovering Hidden Gems in Model Repositories
+VTC-R1: Vision-Text Compression for Efficient Long-Context Reasoning
+Llama-3.1-FoundationAI-SecurityLLM-Reasoning-8B Technical Report
+MetricAnything: Scaling Metric Depth Pretraining with Noisy Heterogeneous Sources
+DeepSearchQA: Bridging the Comprehensiveness Gap for Deep Research Agents
+One-step Latent-free Image Generation with Pixel Mean Flows
+Mechanistic Data Attribution: Tracing the Training Origins of Interpretable LLM Units
+Beyond Imitation: Reinforcement Learning for Active Latent Planning
+Generation Enhances Understanding in Unified Multimodal Models via Multi-Representation Generation
+Self-Improving Pretraining: using post-trained models to pretrain better models
+Hybrid Linear Attention Done Right: Efficient Distillation and Effective Architectures for Extremely Long Contexts
+FineInstructions: Scaling Synthetic Instructions to Pre-Training Scale
+BMAM: Brain-inspired Multi-Agent Memory Framework
+FROST: Filtering Reasoning Outliers with Attention for Efficient Reasoning
+Segment Length Matters: A Study of Segment Lengths on Audio Fingerprinting Performance
+PRISM: Learning Design Knowledge from Data for Stylistic Design Improvement
+ECO: Quantized Training without Full-Precision Master Weights
+WebArbiter: A Principle-Guided Reasoning Process Reward Model for Web Agents
+Spotlighting Task-Relevant Features: Object-Centric Representations for Better Generalization in Robotic Manipulation
+WorldBench: Disambiguating Physics for Diagnostic Evaluation of World Models
+STORM: Slot-based Task-aware Object-centric Representation for robotic Manipulation
