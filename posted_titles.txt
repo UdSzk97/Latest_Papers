@@ -8632,3 +8632,6 @@ JUST-DUB-IT: Video Dubbing via Joint Audio-Visual Diffusion
 Reinforcement Learning from Meta-Evaluation: Aligning Language Models Without Ground-Truth Labels
 Benchmarking Reward Hack Detection in Code Environments via Contrastive Analysis
 Flow-based Extremal Mathematical Structure Discovery
+Differentiating Plumes and Local Torus Segments of Enceladus
+Space weathering on the lunar nearside and farside revealed by iron and potassium isotopes
+EEG Foundation Models: Progresses, Benchmarking, and Open Problems
