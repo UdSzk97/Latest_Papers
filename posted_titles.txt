@@ -8668,3 +8668,16 @@ Machine Learning for Energy-Performance-aware Scheduling
 NativeTok: Native Visual Tokenization for Improved Image Generation
 Scaling Multiagent Systems with Process Rewards
 Why Attention Patterns Exist: A Unifying Temporal Perspective Analysis
+The MUSCLES Extension for Atmospheric Transmission Spectroscopy: Spectral Energy Distributions for 20 Exoplanet Host Stars that JWST Observed in Cycle 1
+Spectral Evidence for Recent/Ongoing Activity in Mercury’s Praxiteles Basin
+Quartet II: Accurate LLM Pre-Training in NVFP4 by Improved Unbiased Gradient Estimation
+Golden Goose: A Simple Trick to Synthesize Unlimited RLVR Tasks from Unverifiable Internet Text
+Do Reasoning Models Enhance Embedding Models?
+Causal World Modeling for Robot Control
+Drive-JEPA: Video JEPA Meets Multimodal Trajectory Distillation for End-to-End Driving
+Memorization Dynamics in Knowledge Distillation for Language Models
+Visual Personalization Turing Test
+ExpAlign: Expectation-Guided Vision-Language Alignment for Open-Vocabulary Grounding
+Value-Based Pre-Training with Downstream Feedback
+KAPSO: A Knowledge-grounded framework for Autonomous Program Synthesis and Optimization
+SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding
