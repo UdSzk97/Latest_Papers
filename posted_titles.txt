@@ -8637,3 +8637,34 @@ Space weathering on the lunar nearside and farside revealed by iron and potassiu
 EEG Foundation Models: Progresses, Benchmarking, and Open Problems
 Low temperature brine formation by serpentinization on asteroid (162,173) Ryugu
 Corrigendum to “A dual-branch automatic classification network for lunar simple crater degradation grades integrating image and morphological parameters” [Icarus 445 (2026) 116863]
+Erratum: “Probing 2D Asymmetries of an Exoplanet Atmosphere from Chromatic Transit Variation” (2025, AJ, 169, 255)
+The size and shape of Jupiter
+ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas
+THINKSAFE: Self-Generated Safety Alignment for Reasoning Models
+TTCS: Test-Time Curriculum Synthesis for Self-Evolving
+SSL: Sweet Spot Learning for Differentiated Guidance in Agentic Optimization
+PaperBanana: Automating Academic Illustration for AI Scientists
+FourierSampler: Unlocking Non-Autoregressive Potential in Diffusion Language Models via Frequency-Guided Generation
+DenseGRPO: From Sparse to Dense Reward for Flow Matching Model Alignment
+PaddleOCR-VL-1.5: Towards a Multi-Task 0.9B VLM for Robust In-the-Wild Document Parsing
+DreamActor-M2: Universal Character Image Animation via Spatiotemporal In-Context Learning
+MemOCR: Layout-Aware Visual Memory for Efficient Long-Horizon Reasoning
+RM -RF: Reward Model for Run-Free Unit Test Evaluation
+Pushing the Boundaries of Natural Reasoning: Interleaved Bonus from Formal-Logic Verification
+Statistical Estimation of Adversarial Risk in Large Language Models under Best-of-N Sampling
+ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought
+Latent Chain-of-Thought as Planning: Decoupling Reasoning from Verbalization
+Deep Search with Hierarchical Meta-Cognitive Monitoring Inspired by Cognitive Neuroscience
+DINO-SAE: DINO Spherical Autoencoder for High-Fidelity Image Reconstruction and Generation
+Revisiting Diffusion Model Predictions Through Dimensionality
+Continual GUI Agents
+TAM-Eval: Evaluating LLMs for Automated Unit Test Maintenance
+Robust Tool Use via Fission-GRPO: Learning to Recover from Execution Errors
+Real-Time Aligned Reward Model beyond Semantics
+Routing the Lottery: Adaptive Subnetworks for Heterogeneous Data
+LMK > CLS: Landmark Pooling for Dense Embeddings
+DIFFA-2: A Practical Diffusion Large Language Model for General Audio Understanding
+Machine Learning for Energy-Performance-aware Scheduling
+NativeTok: Native Visual Tokenization for Improved Image Generation
+Scaling Multiagent Systems with Process Rewards
+Why Attention Patterns Exist: A Unifying Temporal Perspective Analysis
