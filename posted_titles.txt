@@ -8734,3 +8734,27 @@ Influence Guided Sampling for Domain Adaptation of Text Retrievers
 Enhancing Multi-Image Understanding through Delimiter Token Scaling
 INDIBATOR: Diverse and Fact-Grounded Individuality for Multi-Agent Debate in Molecular Discovery
 SEA-Guard: Culturally Grounded Multilingual Safeguard for Southeast Asia
+A Near-Earth Object Model Calibrated to Earth Impactors
+Modelling 3D flow of potential glaciers on Mt. Sharp (Aeolis Mons) in Gale Crater, Mars
+Geodetic Investigations of the Europa Clipper Mission
+Rethinking Selective Knowledge Distillation
+Fast Autoregressive Video Diffusion and World Models with Temporal Cache Compression and Sparse Attention
+Generative Visual Code Mobile World Models
+PolySAE: Modeling Feature Interactions in Sparse Autoencoders via Polynomial Decoding
+CUA-Skill: Develop Skills for Computer Using Agent
+Thinking with Comics: Enhancing Multimodal Reasoning through Structured Visual Storytelling
+Sparse Reward Subsystem in Large Language Models
+VoxServe: Streaming-Centric Serving System for Speech Language Models
+Hunt Instead of Wait: Evaluating Deep Data Research on Large Language Models
+Training LLMs for Divide-and-Conquer Reasoning Elevates Test-Time Scalability
+Mano: Restriking Manifold Optimization for LLM Training
+Cross-Lingual Stability of LLM Judges Under Controlled Generation: Evidence from Finno-Ugric Languages
+Diagnosing the Reliability of LLM-as-a-Judge via Item Response Theory
+Clipping-Free Policy Optimization for Large Language Models
+A Semantically Consistent Dataset for Data-Efficient Query-Based Universal Sound Separation
+ParalESN: Enabling parallel information processing in Reservoir Computing
+Gaming the Judge: Unfaithful Chain-of-Thought Can Undermine Agent Evaluation
+Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic Quantization Beyond LLMs
+Internal Flow Signatures for Self-Checking and Refinement in LLMs
+Where to Attend: A Principled Vision-Centric Position Encoding with Parabolas
+YOLOE-26: Integrating YOLO26 with YOLOE for Real-Time Open-Vocabulary Instance Segmentation
