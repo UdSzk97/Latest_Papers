@@ -8681,3 +8681,56 @@ ExpAlign: Expectation-Guided Vision-Language Alignment for Open-Vocabulary Groun
 Value-Based Pre-Training with Downstream Feedback
 KAPSO: A Knowledge-grounded framework for Autonomous Program Synthesis and Optimization
 SONIC-O1: A Real-World Benchmark for Evaluating Multimodal Large Language Models on Audio-Video Understanding
+RV×TESS. I. Modeling Asteroseismic Signals with Simultaneous Photometry and Radial Velocities*
+Prolonged cooling and degassing of Apollo 17 volcanic glasses on the lunar surface
+Green-VLA: Staged Vision-Language-Action Model for Generalist Robots
+Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models
+Kimi K2.5: Visual Agentic Intelligence
+Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models
+UniReason 1.0: A Unified Reasoning Framework for World Knowledge Aligned Image Generation and Editing
+Closing the Loop: Universal Repository Representation with RPG-Encoder
+WildGraphBench: Benchmarking GraphRAG with Wild-Source Corpora
+FS-Researcher: Test-Time Scaling for Long-Horizon Research Tasks with File-System-Based Agents
+SWE-Universe: Scale Real-World Verifiable Environments to Millions
+Wiki Live Challenge: Challenging Deep Research Agents with Expert-Level Wikipedia Articles
+RLAnything: Forge Environment, Policy, and Reward Model in Completely Dynamic RL System
+SLIME: Stabilized Likelihood Implicit Margin Enforcement for Preference Optimization
+PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss
+Mind-Brush: Integrating Agentic Cognitive Search and Reasoning into Image Generation
+PISCES: Annotation-free Text-to-Video Post-Training via Optimal Transport-Aligned Rewards
+Causal Forcing: Autoregressive Diffusion Distillation Done Right for High-Quality Real-Time Interactive Video Generation
+How Well Do Models Follow Visual Instructions? VIBE: A Systematic Benchmark for Visual Instruction-Driven Image Editing
+FSVideo: Fast Speed Video Diffusion Model in a Highly-Compressed Latent Space
+Toward Cognitive Supersensing in Multimodal Large Language Model
+Making Avatars Interact: Towards Text-Driven Human-Object Interaction for Controllable Talking Avatars
+Beyond Pixels: Visual Metaphor Transfer via Schema-Driven Agentic Reasoning
+RE-TRAC: REcursive TRAjectory Compression for Deep Search Agents
+Show, Don't Tell: Morphing Latent Reasoning into Image Generation
+Ebisu: Benchmarking Large Language Models in Japanese Finance
+SPARKLING: Balancing Signal Preservation and Symmetry Breaking for Width-Progressive Learning
+Good SFT Optimizes for SFT, Better SFT Prepares for Reinforcement Learning
+AgentIF-OneDay: A Task-level Instruction-Following Benchmark for General AI Agents in Daily Scenarios
+LoopViT: Scaling Visual ARC with Looped Transformers
+Why Steering Works: Toward a Unified View of Language Model Parameter Dynamics
+PromptRL: Prompt Matters in RL for Flow-Based Image Generation
+Adaptive Ability Decomposing for Unlocking Large Reasoning Model Effective Reinforcement Learning
+TRIP-Bench: A Benchmark for Long-Horizon Interactive Agents in Real-World Scenarios
+CoDiQ: Test-Time Scaling for Controllable Difficult Question Generation
+Alternating Reinforcement Learning for Rubric-Based Reward Modeling in Non-Verifiable LLM Post-Training
+Interacted Planes Reveal 3D Line Mapping
+PISA: Piecewise Sparse Attention Is Wiser for Efficient Diffusion Transformers
+An Empirical Study of World Model Quantization
+On the Limits of Layer Pruning for Generative Reasoning in LLMs
+Evolving from Tool User to Creator via Training-Free Experience Reuse in Multimodal Reasoning
+Prism: Efficient Test-Time Scaling via Hierarchical Search and Self-Verification for Discrete Diffusion Language Models
+Rethinking LLM-as-a-Judge: Representation-as-a-Judge with Small Language Models via Semantic Capacity Asymmetry
+On the Relationship Between Representation Geometry and Generalization in Deep Neural Networks
+Implicit neural representation of textures
+Small Generalizable Prompt Predictive Models Can Steer Efficient RL Post-Training of Large Reasoning Models
+AI-Generated Image Detectors Overrely on Global Artifacts: Evidence from Inpainting Exchange
+VisionTrim: Unified Vision Token Compression for Training-Free MLLM Acceleration
+OVD: On-policy Verbal Distillation
+Influence Guided Sampling for Domain Adaptation of Text Retrievers
+Enhancing Multi-Image Understanding through Delimiter Token Scaling
+INDIBATOR: Diverse and Fact-Grounded Individuality for Multi-Agent Debate in Molecular Discovery
+SEA-Guard: Culturally Grounded Multilingual Safeguard for Southeast Asia
