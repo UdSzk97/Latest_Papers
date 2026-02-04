@@ -8798,3 +8798,21 @@ Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration
 The Necessity of a Unified Framework for LLM-Based Agent Evaluation
 SimpleGPT: Improving GPT via A Simple Normalization Strategy
 Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion
+The Chemical Diversity of Giant-planet Nurseries as Revealed by ALMA
+The high oxygen fugacity of the chang’e-5 lunar basalt: Implications for redox stratification of the lunar mantle
+Phase equilibria partial melting modelling of basaltic rocks from Venus
+RANKVIDEO: Reasoning Reranking for Text-to-Video Retrieval
+Neural Predictor-Corrector: Solving Homotopy Problems with Reinforcement Learning
+LIVE: Long-horizon Interactive Video World Modeling
+Position: Agentic Evolution is the Path to Evolving LLMs
+POP: Prefill-Only Pruning for Efficient Large Model Inference
+Scaling Small Agents Through Strategy Auctions
+MedSAM-Agent: Empowering Interactive Medical Image Segmentation with Multi-turn Agentic Reinforcement Learning
+MEG-XL: Data-Efficient Brain-to-Text via Long-Context Pre-Training
+Didactic to Constructive: Turning Expert Solutions into Learnable Reasoning
+LangMap: A Hierarchical Benchmark for Open-Vocabulary Goal Navigation
+Feedback by Design: Understanding and Overcoming User Feedback Barriers in Conversational Agents
+RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommendation with Dual Semantic Alignment
+MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers
+Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch
+You Need an Encoder for Native Position-Independent Caching
