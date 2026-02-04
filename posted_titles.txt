@@ -8758,3 +8758,43 @@ Rethinking Generative Recommender Tokenizer: Recsys-Native Encoding and Semantic
 Internal Flow Signatures for Self-Checking and Refinement in LLMs
 Where to Attend: A Principled Vision-Centric Position Encoding with Parabolas
 YOLOE-26: Integrating YOLO26 with YOLOE for Real-Time Open-Vocabulary Instance Segmentation
+The dynamically hazardous asteroid 2025 TV10
+Evidence for a Mixture of Mirror Mode and Electromagnetic Ion Cyclotron Waves in the Martian Magnetosheath
+Origins of Mercury’s Big Heart of Iron: Exploring Pathways to Form High Core Mass Fraction Planets via N-body Simulations
+Mass-wasting Features on Galilean Icy Moons: Morphological Analysis and Implications
+CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding
+AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration
+Research on World Models Is Not Merely Injecting World Knowledge into Specific Tasks
+daVinci-Agency: Unlocking Long-Horizon Agency Data-Efficiently
+3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation
+MARS: Modular Agent with Reflective Search for Automated AI Research
+No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs
+Diversity-Preserved Distribution Matching Distillation for Fast Visual Synthesis
+CoBA-RL: Capability-Oriented Budget Allocation for Reinforcement Learning in LLMs
+SWE-World: Building Software Engineering Agents in Docker-Free Environments
+SWE-Master: Unleashing the Potential of Software Engineering Agents via Post-Training
+Learning Query-Specific Rubrics from Human Preferences for DeepResearch Report Generation
+Parallel-Probe: Towards Efficient Parallel Thinking via 2D Probing
+Unified Personalized Reward Model for Vision Generation
+WideSeek: Advancing Wide Research via Multi-Agent Scaling
+Less Noise, More Voice: Reinforcement Learning for Reasoning via Instruction Purification
+Token Sparse Attention: Efficient Long-Context Inference with Interleaved Token Selection
+Balancing Understanding and Generation in Discrete Diffusion Models
+AdaptMMBench: Benchmarking Adaptive Multimodal Reasoning for Mode Selection and Reasoning Process
+Decouple Searching from Training: Scaling Data Mixing via Model Merging for Large Language Model Pre-training
+FullStack-Agent: Enhancing Agentic Full-Stack Web Coding via Development-Oriented Testing and Repository Back-Translation
+No Shortcuts to Culture: Indonesian Multi-hop Question Answering for Complex Cultural Understanding
+LRAgent: Efficient KV Cache Sharing for Multi-LoRA LLM Agents
+WorldVQA: Measuring Atomic World Knowledge in Multimodal Large Language Models
+Glance and Focus Reinforcement for Pan-cancer Screening
+Bridging Online and Offline RL: Contextual Bandit Learning for Multi-Turn Code Generation
+SafeGround: Know When to Trust GUI Grounding Models via Uncertainty Calibration
+ObjEmbed: Towards Universal Multimodal Object Embeddings
+Accelerating Scientific Research with Gemini: Case Studies and Common Techniques
+Instruction Anchors: Dissecting the Causal Dynamics of Modality Arbitration
+Contextualized Visual Personalization in Vision-Language Models
+FaceLinkGen: Rethinking Identity Leakage in Privacy-Preserving Face Recognition with Identity Extraction
+Search-R2: Enhancing Search-Integrated Reasoning via Actor-Refiner Collaboration
+The Necessity of a Unified Framework for LLM-Based Agent Evaluation
+SimpleGPT: Improving GPT via A Simple Normalization Strategy
+Adaptive Evidence Weighting for Audio-Spatiotemporal Fusion
