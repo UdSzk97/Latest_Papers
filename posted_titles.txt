@@ -8857,3 +8857,14 @@ Proxy Compression for Language Modeling
 LongVPO: From Anchored Cues to Self-Reasoning for Long-Form Video Preference Optimization
 Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models
 OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis
+Toward Reliable Interpretations of Small-exoplanet Compositions: Comparisons and Considerations of Equations of State and Materials Used in Common Rocky Planet Models
+AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations
+D-CORE: Incentivizing Task Decomposition in Large Reasoning Models for Complex Tool Use
+No One-Size-Fits-All: Building Systems For Translation to Bashkir, Kazakh, Kyrgyz, Tatar and Chuvash Using Synthetic And Original Data
+SAFE: Stable Alignment Finetuning with Entropy-Aware Predictive Control for RLHF
+SkeletonGaussian: Editable 4D Generation through Gaussian Skeletonization
+AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent
+"I May Not Have Articulated Myself Clearly": Diagnosing Dynamic Instability in LLM Reasoning at Inference Time
+Reward-free Alignment for Conflicting Objectives
+FOTBCD: A Large-Scale Building Change Detection Benchmark from French Orthophotos and Topographic Data
+HalluHard: A Hard Multi-Turn Hallucination Benchmark
