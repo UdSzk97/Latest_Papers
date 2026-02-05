@@ -8816,3 +8816,44 @@ RecGOAT: Graph Optimal Adaptive Transport for LLM-Enhanced Multimodal Recommenda
 MemoryLLM: Plug-n-Play Interpretable Feed-Forward Memory for Transformers
 Privasis: Synthesizing the Largest "Public" Private Dataset from Scratch
 You Need an Encoder for Native Position-Independent Caching
+Two-source Terrestrial Planet Formation with a Sweeping Secular Resonance
+X‐ray computed tomography study of terrestrial analog cores in preparation for Mars sample return
+ERNIE 5.0 Technical Report
+Training Data Efficiency in Multimodal Process Reward Models
+FASA: Frequency-aware Sparse Attention
+WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning
+OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models
+EgoActor: Grounding Task Planning into Spatial-aware Egocentric Actions for Humanoid Robots via Visual-Language Models
+HySparse: A Hybrid Sparse Attention Architecture with Oracle Token Selection and KV Cache Sharing
+Quant VideoGen: Auto-Regressive Long Video Generation via 2-Bit KV-Cache Quantization
+SoMA: A Real-to-Sim Neural Simulator for Robotic Soft-body Manipulation
+TIDE: Trajectory-based Diagnostic Evaluation of Test-Time Improvement in LLM Agents
+Semantic Routing: Exploring Multi-Layer LLM Feature Weighting for Diffusion Transformers
+Rethinking the Trust Region in LLM Reinforcement Learning
+Residual Context Diffusion Language Models
+HY3D-Bench: Generation of 3D Assets
+Self-Hinting Language Models Enhance Reinforcement Learning
+Vibe AIGC: A New Paradigm for Content Generation via Agentic Orchestration
+A-RAG: Scaling Agentic Retrieval-Augmented Generation via Hierarchical Retrieval Interfaces
+VLS: Steering Pretrained Robot Policies via Vision-Language Models
+CL-bench: A Benchmark for Context Learning
+MEnvAgent: Scalable Polyglot Environment Construction for Verifiable Software Engineering
+PaperSearchQA: Learning to Search and Reason over Scientific Papers with RLVR
+From Data to Behavior: Predicting Unintended Model Behaviors Before Training
+Agent-Omit: Training Efficient LLM Agents for Adaptive Thought and Observation Omission via Agentic Reinforcement Learning
+Horizon-LM: A RAM-Centric Architecture for LLM Training
+BatCoder: Self-Supervised Bidirectional Code-Documentation Learning via Back-Translation
+A2Eval: Agentic and Automated Evaluation for Embodied Brain
+SpatiaLab: Can Vision-Language Models Perform Spatial Reasoning in the Wild?
+Beyond Unimodal Shortcuts: MLLMs as Cross-Modal Reasoners for Grounded Named Entity Recognition
+Quantifying the Gap between Understanding and Generation within Unified Multimodal Models
+Context Learning for Multi-Agent Discussion
+Skin Tokens: A Learned Compact Representation for Unified Autoregressive Rigging
+Likelihood-Based Reward Designs for General LLM Reasoning
+Efficient Autoregressive Video Diffusion with Dummy Head
+Protein Autoregressive Modeling via Multiscale Structure Generation
+RexBERT: Context Specialized Bidirectional Encoders for E-commerce
+Proxy Compression for Language Modeling
+LongVPO: From Anchored Cues to Self-Reasoning for Long-Form Video Preference Optimization
+Self-Rewarding Sequential Monte Carlo for Masked Diffusion Language Models
+OmniRad: A Radiological Foundation Model for Multi-Task Medical Image Analysis
