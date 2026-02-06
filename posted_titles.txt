@@ -8905,3 +8905,19 @@ Approximation of Log-Partition Function in Policy Mirror Descent Induces Implici
 A Unified Framework for Rethinking Policy Divergence Measures in GRPO
 Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention
 Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning
+Response of Venusian plasma environment to the interplanetary coronal mass ejections on 5 November 2011: A magnetohydrodynamics simulation study
+Debris-covered glaciers on deception island (Antarctica) as analogues for possible glaciers on the lower northwest flank of Hecates Tholus volcano, Mars
+Distribution and surface morphology of debris-covered glaciers and the latitude dependent mantle (LDM) in Phlegra Montes, Mars
+Modeling the Effects of Anthropogenic Activities on the Lunar Environment with a Systems-theoretic Approach
+Covertly Active Comet (139359) 2001 ME1
+Smoothed particle hydrodynamics modeling of volatile emissions: Drill-induced releases in the martian subsurface
+MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents
+Privileged Information Distillation for Language Models
+SocialVeil: Probing Social Intelligence of Language Agents under Communication Barriers
+DFlash: Block Diffusion for Flash Speculative Decoding
+Towards Reducible Uncertainty Modeling for Reliable Large Language Model Agents
+CoPE: Clipped RoPE as A Scalable Free Lunch for Long Context LLMs
+Infinite-World: Scaling Interactive World Models to 1000-Frame Horizons via Pose-Free Hierarchical Memory
+Learning Rate Matters: Vanilla LoRA May Suffice for LLM Fine-tuning
+Failing to Explore: Language Models on Interactive Tasks
+Focus-dLLM: Accelerating Long-Context Diffusion LLM Inference via Confidence-Guided Context Focusing
