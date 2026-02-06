@@ -8868,3 +8868,40 @@ AgentArk: Distilling Multi-Agent Intelligence into a Single LLM Agent
 Reward-free Alignment for Conflicting Objectives
 FOTBCD: A Large-Scale Building Change Detection Benchmark from French Orthophotos and Topographic Data
 HalluHard: A Hard Multi-Turn Hallucination Benchmark
+A window into the early stages of aqueous alteration from mackinawite in samples of asteroid Bennu
+Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR
+Context Forcing: Consistent Autoregressive Video Generation with Long Context
+RISE-Video: Can Video Generators Decode Implicit World Rules?
+ProAct: Agentic Lookahead in Interactive Environments
+Dr. Kernel: Reinforcement Learning Done Right for Triton Kernel Generations
+Steering LLMs via Scalable Interactive Oversight
+Grounding and Enhancing Informativeness and Utility in Dataset Distillation
+Retrieval-Infused Reasoning Sandbox: A Benchmark for Decoupling Retrieval and Reasoning Capabilities
+Semantic Search over 9 Million Mathematical Theorems
+Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening
+InterPrior: Scaling Generative Control for Physics-Based Human-Object Interactions
+CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty
+Thinking in Frames: How Visual Context and Test-Time Scaling Empower Video Reasoning
+SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs
+SAGE: Benchmarking and Improving Retrieval for Deep Research Agents
+LatentMem: Customizing Latent Memory for Multi-Agent Systems
+V-Retrver: Evidence-Driven Agentic Reasoning for Universal Multimodal Retrieval
+Reinforcement World Model Learning for LLM-based Agents
+Reinforced Attention Learning
+Multi-Task GRPO: Reliable LLM Reasoning Across Tasks
+BABE: Biology Arena BEnchmark
+Breaking the Static Graph: Context-Aware Traversal for Robust Retrieval-Augmented Generation
+Late-to-Early Training: LET LLMs Learn Earlier, So Faster and Better
+Light Forcing: Accelerating Autoregressive Video Diffusion via Sparse Attention
+Pathwise Test-Time Correction for Autoregressive Long Video Generation
+FastVMT: Eliminating Redundancy in Video Motion Transfer
+Fast-SAM3D: 3Dfy Anything in Images but Faster
+Do Vision-Language Models Respect Contextual Integrity in Location Disclosure?
+UniAudio 2.0: A Unified Audio Language Model with Text-Aligned Factorized Audio Tokenization
+Adaptive 1D Video Diffusion Autoencoder
+Beyond Fixed Frames: Dynamic Character-Aligned Speech Tokenization
+PhysicsAgentABM: Physics-Guided Generative Agent-Based Modeling
+Approximation of Log-Partition Function in Policy Mirror Descent Induces Implicit Regularization for LLM Post-Training
+A Unified Framework for Rethinking Policy Divergence Measures in GRPO
+Accurate Failure Prediction in Agents Does Not Imply Effective Failure Prevention
+Assessing Domain-Level Susceptibility to Emergent Misalignment from Narrow Finetuning
