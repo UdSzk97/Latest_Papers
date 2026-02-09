@@ -8925,3 +8925,40 @@ Solar Soft X‐Ray Proxy Derived From Observed Auger Photoelectrons by MGS and a
 DASH: Faster Shampoo via Batched Block Preconditioning and Efficient Inverse-Root Solvers
 A Statistical Study of Electron Cyclotron Harmonic Waves in the Lunar Plasma Environment
 Mars as one system: Insights from the 8th international conference on Mars polar science and exploration
+Stellar Flares in the TESS Light Curves of Planet-hosting M Dwarfs
+P‐ and S‐wave Velocity Measurement of Lunar Orthopyroxene up to 5.5 GPa and 1,273 K: Implication for the Iron Content of the Lunar Upper Mantle
+The chemical habitability of Earth and rocky planets prescribed by core formation
+Jupiter-like uniform metal enrichment in a system of multiple giant exoplanets
+Dawn–Dusk Asymmetry of the Io Plasma Torus Derived from Io’s Auroral Footprints Observed by Juno-UVS
+Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making
+OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions
+On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models
+F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare
+MSign: An Optimizer Preventing Training Instability in Large Language Models via Stable Rank Restoration
+DreamDojo: A Generalist Robot World Model from Large-Scale Human Videos
+Self-Improving Multilingual Long Reasoning via Translation-Reasoning Integrated Training
+Judging What We Cannot Solve: A Consequence-Based Approach for Oracle-Free Evaluation of Research-Level Math
+POINTS-GUI-G: GUI-Grounding Journey
+MemGUI-Bench: Benchmarking Memory of Mobile GUI Agents in Dynamic Environments
+Back to Basics: Revisiting Exploration in Reinforcement Learning for LLM Reasoning via Generative Probabilities
+AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders
+Canzona: A Unified, Asynchronous, and Load-Balanced Framework for Distributed Matrix-based Optimizers
+InftyThink+: Effective and Efficient Infinite-Horizon Reasoning via Reinforcement Learning
+PlanViz: Evaluating Planning-Oriented Image Generation and Editing for Computer-Use Tasks
+RaBiT: Residual-Aware Binarization Training for Accurate and Efficient LLMs
+OmniMoE: An Efficient MoE by Orchestrating Atomic Experts at Scale
+SEMA: Simple yet Effective Learning for Multi-Turn Jailbreak Attacks
+Group-Evolving Agents: Open-Ended Self-Improvement via Experience Sharing
+SeeUPO: Sequence-Level Agentic-RL with Convergence Guarantees
+Revisiting the Shape Convention of Transformer Language Models
+OmniVideo-R1: Reinforcing Audio-visual Reasoning with Query Intention and Modality Attention
+SEAD: Self-Evolving Agent for Multi-Turn Service Dialogue
+ReMiT: RL-Guided Mid-Training for Iterative LLM Evolution
+Table-as-Search: Formulate Long-Horizon Agentic Information Seeking as Table Completion
+EgoAVU: Egocentric Audio-Visual Understanding
+Urban Spatio-Temporal Foundation Models for Climate-Resilient Housing: Scaling Diffusion Transformers for Disaster Risk Prediction
+Seg-ReSearch: Segmentation with Interleaved Reasoning and External Search
+QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals
+Avoiding Premature Collapse: Adaptive Annealing for Entropy-Regularized Structural Inference
+Vision Transformer Finetuning Benefits from Non-Smooth Components
+Exploring Knowledge Purification in Multi-Teacher Knowledge Distillation for LLMs
