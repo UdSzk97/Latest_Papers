@@ -8962,3 +8962,14 @@ QuantLRM: Quantization of Large Reasoning Models via Fine-Tuning Signals
 Avoiding Premature Collapse: Adaptive Annealing for Entropy-Regularized Structural Inference
 Vision Transformer Finetuning Benefits from Non-Smooth Components
 Exploring Knowledge Purification in Multi-Teacher Knowledge Distillation for LLMs
+Aligned, Misaligned, and Polar Orbits of Hot Jupiters: Measuring Spin-orbit Angles via Doppler Tomography with HARPS-N
+Stratified Evolution of Ryugu’s Regolith Revealed by Spectroscopic Analyses of Two Hayabusa2 Collected Particles
+Pisets: A Robust Speech Recognition System for Lectures and Interviews
+Self-Improving World Modelling with Latent Actions
+Uncovering Cross-Objective Interference in Multi-Objective Alignment
+compar:IA: The French Government's LLM arena to collect French-language human prompts and preference data
+Large Language Model Reasoning Failures
+SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLMs
+AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology
+Learning a Generative Meta-Model of LLM Activations
+SE-Bench: Benchmarking Self-Evolution with Knowledge Internalization
