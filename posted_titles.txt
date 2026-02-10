@@ -8973,3 +8973,43 @@ SPARC: Separating Perception And Reasoning Circuits for Test-time Scaling of VLM
 AtlasPatch: An Efficient and Scalable Tool for Whole Slide Image Preprocessing in Computational Pathology
 Learning a Generative Meta-Model of LLM Activations
 SE-Bench: Benchmarking Self-Evolution with Knowledge Internalization
+Functionalization of Benzene Ices by Atomic Oxygen
+Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models
+MOVA: Towards Scalable and Synchronized Video-Audio Generation
+QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining
+Recurrent-Depth VLA: Implicit Test-Time Compute Scaling of Vision-Language-Action Models via Latent Iterative Reasoning
+Alleviating Sparse Rewards by Modeling Step-Wise and Long-Term Sampling Effects in Flow-Based GRPO
+LLaDA2.1: Speeding Up Text Diffusion via Token Editing
+GEBench: Benchmarking Image Generation Models as GUI Environments
+Learning Query-Aware Budget-Tier Routing for Runtime Agent Memory
+Demo-ICL: In-Context Learning for Procedural Video Knowledge Acquisition
+Weak-Driven Learning: How Weak Agents make Strong Agents Stronger
+LOCA-bench: Benchmarking Language Agents Under Controllable and Extreme Context Growth
+GISA: A Benchmark for General Information-Seeking Assistant
+LatentChem: From Textual CoT to Latent Thinking in Chemical Reasoning
+Theory of Space: Can Foundation Models Construct Spatial Beliefs through Active Exploration?
+WorldCompass: Reinforcement Learning for Long-Horizon World Models
+InternAgent-1.5: A Unified Agentic Framework for Long-Horizon Autonomous Scientific Discovery
+AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents
+AgentCPM-Report: Interleaving Drafting and Deepening for Open-Ended Deep Research
+RelayGen: Intra-Generation Model Switching for Efficient Reasoning
+When and How Much to Imagine: Adaptive Test-Time Scaling with World Models for Visual Spatial Reasoning
+NanoQuant: Efficient Sub-1-Bit Quantization of Large Language Models
+How2Everything: Mining the Web for How-To Procedures to Evaluate and Improve LLMs
+Towards Bridging the Gap between Large-Scale Pretraining and Efficient Finetuning for Humanoid Control
+MotionCrafter: Dense Geometry and Motion Reconstruction with a 4D VAE
+ECO: Energy-Constrained Optimization with Reinforcement Learning for Humanoid Walking
+Reliable and Responsible Foundation Models: A Comprehensive Survey
+WildReward: Learning Reward Models from In-the-Wild Human Interactions
+Rolling Sink: Bridging Limited-Horizon Training and Open-Ended Testing in Autoregressive Video Diffusion
+Data Science and Technology Towards AGI Part I: Tiered Data Management
+FlexMoRE: A Flexible Mixture of Rank-heterogeneous Experts for Efficient Federatedly-trained Large Language Models
+Learning-guided Kansa collocation for forward and inverse PDEs beyond linearity
+SoulX-Singer: Towards High-Quality Zero-Shot Singing Voice Synthesis
+Thinking Makes LLM Agents Introverted: How Mandatory Thinking Can Backfire in User-Engaged Agents
+GraphAgents: Knowledge Graph-Guided Agentic AI for Cross-Domain Materials Design
+On Randomness in Agentic Evals
+Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning
+Concept-Aware Privacy Mechanisms for Defending Embedding Inversion Attacks
+AVERE: Improving Audiovisual Emotion Reasoning with Preference Optimization
+Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods
