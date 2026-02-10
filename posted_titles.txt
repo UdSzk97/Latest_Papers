@@ -9013,3 +9013,21 @@ Echoes as Anchors: Probabilistic Costs and Attention Refocusing in LLM Reasoning
 Concept-Aware Privacy Mechanisms for Defending Embedding Inversion Attacks
 AVERE: Improving Audiovisual Emotion Reasoning with Preference Optimization
 Aster: Autonomous Scientific Discovery over 20x Faster Than Existing Methods
+A laboratory model for Jovian polar vortex crystals
+Perchlorate radiolysis in silicate matrices and ice on Mars and Europa
+A One-dimensional Microphysical Model of the Venus Cloud System between 40 and 80 km Including Photochemistry and Radiative-dynamic Feedback
+Towards Agentic Intelligence for Materials Science
+Context Compression via Explicit Information Transmission
+Fundamental Reasoning Paradigms Induce Out-of-Domain Generalization in Language Models
+Optimal Turkish Subword Strategies at Scale: Systematic Evaluation of Data, Vocabulary, Morphology Interplay
+Anchored Decoding: Provably Reducing Copyright Risk for Any Language Model
+CodeCircuit: Toward Inferring LLM-Generated Code Correctness via Attribution Graphs
+KV-CoRE: Benchmarking Data-Dependent Low-Rank Compressibility of KV-Caches in LLMs
+Cost-Efficient RAG for Entity Matching with LLMs: A Blocking-based Exploration
+Col-Bandit: Zero-Shot Query-Time Pruning for Late-Interaction Retrieval
+CauScale: Neural Causal Discovery at Scale
+Agent Skills: A Data-Driven Analysis of Claude Skills for Extending Large Language Model Functionality
+dewi-kadita: A Python Library for Idealized Fish Schooling Simulation with Entropy-Based Diagnostics
+Reasoning-Augmented Representations for Multimodal Retrieval
+f-GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment
+Statistical Learning Theory in Lean 4: Empirical Processes from Scratch
