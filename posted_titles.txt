@@ -9031,3 +9031,49 @@ dewi-kadita: A Python Library for Idealized Fish Schooling Simulation with Entro
 Reasoning-Augmented Representations for Multimodal Retrieval
 f-GRPO and Beyond: Divergence-Based Reinforcement Learning Algorithms for General LLM Alignment
 Statistical Learning Theory in Lean 4: Empirical Processes from Scratch
+Two Potential Exoplanets around A-type Stars Selected from 18 Planetary Candidates
+Detectability of Atmospheric Biosignatures in Earth Analogs with Varying Surface Boundary Conditions: Prospects for Characterization in the UV, Visible, Near-infrared, and Mid-infrared Regions
+A Fast, Parallelized, GPU-accelerated Photochemical Model, XODIAC, with Built-in Equilibrium Chemistry and Multiple Chemical Networks for Exoplanetary Atmospheres
+Young Planets around Young Accreting Stars. I. Migration and Inner Stalling Orbits
+A Comprehensive Photometric Study of the Eclipsing SU UMa-type Cataclysmic Variable OY Carinae
+Drelów, the 13th and latest meteorite fall in Poland—A typical L6 chondrite with shock veins
+OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration
+Code2World: A GUI World Model via Renderable Code Generation
+UI-Venus-1.5 Technical Report
+Chain of Mindset: Reasoning with Adaptive Cognitive Modes
+SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning
+P1-VL: Bridging Visual Perception and Scientific Reasoning in Physics Olympiads
+Agent World Model: Infinity Synthetic Environments for Agentic Reinforcement Learning
+Prism: Spectral-Aware Block-Sparse Attention
+DLLM-Searcher: Adapting Diffusion Large Language Model for Search Agents
+Olaf-World: Orienting Latent Actions for Video World Modeling
+Agent Banana: High-Fidelity Image Editing with Agentic Thinking and Tooling
+SCALE: Self-uncertainty Conditioned Adaptive Looking and Execution for Vision-Language-Action Models
+Condition Errors Refinement in Autoregressive Image Generation with Diffusion Loss
+Dr. MAS: Stable Reinforcement Learning for Multi-Agent LLM Systems
+VideoWorld 2: Learning Transferable Knowledge from Real-world Videos
+ScaleEnv: Scaling Environment Synthesis from Scratch for Generalist Interactive Tool-Use Agent Training
+BagelVLA: Enhancing Long-Horizon Manipulation via Interleaved Vision-Language-Action Generation
+Rethinking Global Text Conditioning in Diffusion Transformers
+Dynamic Long Context Reasoning over Compressed Memory via End-to-End Reinforcement Learning
+VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model
+Covo-Audio Technical Report
+ANCHOR: Branch-Point Data Generation for GUI Agents
+SAGE: Scalable Agentic 3D Scene Generation for Embodied AI
+TreeCUA: Efficiently Scaling GUI Automation with Tree-Structured Verifiable Evolution
+Autoregressive Image Generation with Masked Bit Modeling
+OPE: Overcoming Information Saturation in Parallel Thinking via Outline-Guided Path Exploration
+Fine-T2I: An Open, Large-Scale, and Diverse Dataset for High-Quality T2I Fine-Tuning
+TodoEvolve: Learning to Architect Agent Planning Systems
+Stop the Flip-Flop: Context-Preserving Verification for Fast Revocable Diffusion Decoding
+Stable Velocity: A Variance Perspective on Flow Matching
+From Directions to Regions: Decomposing Activations in Language Models via Local Geometry
+Learning Self-Correction in Vision-Language Models via Rollout Augmentation
+Steer2Adapt: Dynamically Composing Steering Vectors Elicits Efficient Adaptation of LLMs
+Learning on the Manifold: Unlocking Standard Diffusion Transformers with Representation Encoders
+LLMs Encode Their Failures: Predicting Success from Pre-Generation Activations
+Temporal Pair Consistency for Variance-Reduced Flow Matching
+SafePred: A Predictive Guardrail for Computer-Using Agents via World Models
+SHARP: Social Harm Analysis via Risk Profiles for Measuring Inequities in Large Language Models
+Bridging Academia and Industry: A Comprehensive Benchmark for Attributed Graph Clustering
+Learning to Continually Learn via Meta-learning Agentic Memory Designs
