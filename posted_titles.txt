@@ -9077,3 +9077,24 @@ SafePred: A Predictive Guardrail for Computer-Using Agents via World Models
 SHARP: Social Harm Analysis via Risk Profiles for Measuring Inequities in Large Language Models
 Bridging Academia and Industry: A Comprehensive Benchmark for Attributed Graph Clustering
 Learning to Continually Learn via Meta-learning Agentic Memory Designs
+Accumulation of volatiles under salt crusts in the highly evaporative Qaidam basin: Implications for salt crust fluid processes on Mars
+The high oxygen fugacity of the Chang’e-5 lunar basalt: Implications for redox stratification of the lunar mantle
+Hydrogen sulfide consumption by lunar regolith simulants
+Evolution of the Mercurian Crust as Recorded in Carbon
+A Mars Microbial Survival Model: Calculating Bioburden Reductions for Past Mars Spacecraft to Estimate Forward Contamination on Mars
+TokenTrim: Inference-Time Token Pruning for Autoregressive Long Video Generation
+LatentLens: Revealing Highly Interpretable Visual Tokens in LLMs
+Contact-Anchored Policies: Contact Conditioning Creates Strong Robot Utility Models
+Large-Scale Terminal Agentic Trajectory Generation from Dockerized Environments
+Effective Reasoning Chains Reduce Intrinsic Dimensionality
+iGRPO: Self-Feedback-Driven LLM Reasoning
+Secure Code Generation via Online Reinforcement Learning with Vulnerability Reward Model
+On the Optimal Reasoning Length for RL-Trained Language Models
+ContextBench: A Benchmark for Context Retrieval in Coding Agents
+CausalArmor: Efficient Indirect Prompt Injection Guardrails via Causal Attribution
+Surprisal-Guided Selection: Compute-Optimal Test-Time Strategies for Execution-Grounded Code Generation
+AgentSys: Secure and Dynamic LLM Agents Through Explicit Hierarchical Memory Management
+Locas: Your Models are Principled Initializers of Locally-Supported Parametric Memories
+VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?
+C-ΔΘ: Circuit-Restricted Weight Arithmetic for Selective Refusal
+SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes
