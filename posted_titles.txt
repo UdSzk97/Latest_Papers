@@ -9134,3 +9134,20 @@ When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Compute
 Weight Decay Improves Language Model Plasticity
 GoodVibe: Security-by-Vibe for LLM-Based Code Generation
 Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing
+KMT-2025-BLG-1616Lb: First Microlensing Bound Planet From DREAMS
+A JWST Transit of a Jupiter Analog. I. Constraints on the Oblateness of Kepler-167 e
+Axisymmetric Modeling of DSHARP Dusty Disks: Asymmetric Structures and Inner-disk Dispersal
+Novel Physics of Escaping Secondary Atmospheres May Shape the Cosmic Shoreline
+Dating Young, Low-K Martian Meteorites with an In Situ K–Ar Isochron Technique for Mars Missions
+The Relative Cold-trapping Likelihood of Water on Airless Rocky Bodies
+Smoothed particle hydrodynamics modeling of volatile emissions: Drill-induced releases in the Martian subsurface
+How Do Decoder-Only LLMs Perceive Users? Rethinking Attention Masking for User Representation Learning
+GameDevBench: Evaluating Agentic Capabilities Through Game Development
+LiveMedBench: A Contamination-Free Medical Benchmark for LLMs with Automated Rubric Evaluation
+VidVec: Unlocking Video MLLM Embeddings for Video-Text Retrieval
+ECHO-2: A Large-Scale Distributed Rollout Framework for Cost-Efficient Reinforcement Learning
+Latent Thoughts Tuning: Bridging Context and Reasoning with Fused Information in Latent Tokens
+Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering Agents
+Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL
+Graph-Enhanced Deep Reinforcement Learning for Multi-Objective Unrelated Parallel Machine Scheduling
+StealthRL: Reinforcement Learning Paraphrase Attacks for Multi-Detector Evasion of AI-Text Detectors
