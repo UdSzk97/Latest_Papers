@@ -9098,3 +9098,39 @@ Locas: Your Models are Principled Initializers of Locally-Supported Parametric M
 VISTA-Bench: Do Vision-Language Models Really Understand Visualized Text as Well as Pure Text?
 C-ΔΘ: Circuit-Restricted Weight Arithmetic for Selective Refusal
 SceneSmith: Agentic Generation of Simulation-Ready Indoor Scenes
+Architectures of Planetary Systems. II. Trends with Host Star Mass and Metallicity
+Corrigendum to “Isotope effects (Cl, O, C) of heterogeneous electrochemistry induced by Martian dust activities” [Earth and Planetary Science Letters 676 (2026) 119784]
+Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters
+GENIUS: Generative Fluid Intelligence Evaluation Suite
+PhyCritic: Multimodal Critic Models for Physical AI
+ASA: Training-Free Representation Engineering for Tool-Calling Agents
+When to Memorize and When to Stop: Gated Recurrent Memory for Long-Context Reasoning
+Towards Autonomous Mathematics Research
+TimeChat-Captioner: Scripting Multi-Scene Videos with Time-Aware and Structural Audio-Visual Captions
+G-LNS: Generative Large Neighborhood Search for LLM-Based Automatic Heuristic Design
+DataChef: Cooking Up Optimal Data Recipes for LLM Adaptation via Reinforcement Learning
+FeatureBench: Benchmarking Agentic Coding for Complex Feature Development
+ROCKET: Rapid Optimization via Calibration-guided Knapsack Enhanced Truncation for Efficient Model Compression
+Internalizing Meta-Experience into Memory for Guided Reinforcement Learning in Large Language Models
+Ex-Omni: Enabling 3D Facial Animation Generation for Omni-modal Large Language Models
+CLI-Gym: Scalable CLI Task Generation via Agentic Environment Inversion
+Online Causal Kalman Filtering for Stable and Effective Policy Optimization
+Stroke3D: Lifting 2D strokes into rigged 3D model via latent diffusion models
+EcoGym: Evaluating LLMs for Long-Horizon Plan-and-Execute in Interactive Economies
+QP-OneModel: A Unified Generative LLM for Multi-Task Query Understanding in Xiaohongshu Search
+When the Prompt Becomes Visual: Vision-Centric Jailbreak Attacks for Large Image Editing Models
+Data Repetition Beats Data Scaling in Long-CoT Supervised Fine-Tuning
+Benchmarking Large Language Models for Knowledge Graph Validation
+Beyond Correctness: Learning Robust Reasoning via Transfer
+Free(): Learning to Forget in Malloc-Only Reasoning Models
+Bielik Guard: Efficient Polish Language Safety Classifiers for LLM Content Moderation
+ArcFlow: Unleashing 2-Step Text-to-Image Generation via High-Precision Non-Linear Flow Distillation
+AgenticPay: A Multi-Agent LLM Negotiation System for Buyer-Seller Transactions
+UMEM: Unified Memory Extraction and Management Framework for Generalizable Memory
+Blockwise Advantage Estimation for Multi-Objective RL with Verifiable Rewards
+FedPS: Federated data Preprocessing via aggregated Statistics
+Spend Search Where It Pays: Value-Guided Structured Sampling and Optimization for Generative Recommendation
+When Actions Go Off-Task: Detecting and Correcting Misaligned Actions in Computer-Use Agents
+Weight Decay Improves Language Model Plasticity
+GoodVibe: Security-by-Vibe for LLM-Based Code Generation
+Large Language Lobotomy: Jailbreaking Mixture-of-Experts via Expert Silencing
