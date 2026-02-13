@@ -9151,3 +9151,47 @@ Rethinking the Value of Agent-Generated Tests for LLM-Based Software Engineering
 Reasoning Cache: Continual Improvement Over Long Horizons via Short-Horizon RL
 Graph-Enhanced Deep Reinforcement Learning for Multi-Objective Unrelated Parallel Machine Scheduling
 StealthRL: Reinforcement Learning Paraphrase Attacks for Multi-Detector Evasion of AI-Text Detectors
+Most Hot Jupiters Were Cool Giant Planets for More Than 1 Gyr
+Free-floating Planets Produced by Planet–Planet Scatterings: Ejection Velocity and Survival Rate of Their Moons
+Quantifying High‐Frequency Migrating Tides in the Atmosphere of Mars With Observations From EMIRS, Curiosity and Perseverance
+Dyke swarm history of Eastern Eistla Regio, Venus and implications for its plume origin
+Classical spectral unmixing-based lunar mineralogical analysis using hyperspectral data from Chandrayaan-2
+The shape of Jupiter is redefined by radio-occultation data from the Juno spacecraft
+The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies
+MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models
+Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation
+GigaBrain-0.5M*: a VLA That Learns From World Model-Based Reinforcement Learning
+LawThinker: A Deep Research Legal Agent in Dynamic Environments
+Think Longer to Explore Deeper: Learn to Explore In-Context via Length-Incentivized Reinforcement Learning
+Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching
+Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models
+Thinking with Drafting: Optical Decompression via Logical Reconstruction
+dVoting: Fast Voting for dLLMs
+DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing
+χ_{0}: Resource-Aware Robust Manipulation via Taming Distributional Inconsistencies
+RISE: Self-Improving Robot Policy with Compositional World Model
+Unveiling Implicit Advantage Symmetry: Why GRPO Struggles with Exploration and Difficulty Adaptation
+DeepSight: An All-in-One LM Safety Toolkit
+NarraScore: Bridging Visual Narrative and Musical Dynamics via Hierarchical Affective Control
+EgoHumanoid: Unlocking In-the-Wild Loco-Manipulation with Robot-Free Egocentric Demonstration
+Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation
+Dreaming in Code for Curriculum Learning in Open-Ended Worlds
+MiniCPM-SALA: Hybridizing Sparse and Linear Attention for Efficient Long-Context Modeling
+Adapting Vision-Language Models for E-commerce Understanding at Scale
+ThinkRouter: Efficient Reasoning via Routing Thinking between Latent and Discrete Spaces
+MolmoSpaces: A Large-Scale Open Ecosystem for Robot Navigation and Manipulation
+T3D: Few-Step Diffusion Language Models via Trajectory Self-Distillation with Direct Discriminative Optimization
+P-GenRM: Personalized Generative Reward Model with Test-time User-based Scaling
+Budget-Constrained Agentic Large Language Models: Intention-Based Planning for Costly Tool Use
+Voxtral Realtime
+MetaphorStar: Image Metaphor Understanding and Reasoning with End-to-End Visual Reinforcement Learning
+Sci-CoE: Co-evolving Scientific Reasoning LLMs via Geometric Consensus with Sparse Supervision
+Gaia2: Benchmarking LLM Agents on Dynamic and Asynchronous Environments
+ScalSelect: Scalable Training-Free Multimodal Data Selection for Efficient Visual Instruction Tuning
+ABot-N0: Technical Report on the VLA Foundation Model for Versatile Embodied Navigation
+Pretraining A Large Language Model using Distributed GPUs: A Memory-Efficient Decentralized Paradigm
+Multimodal Fact-Level Attribution for Verifiable Reasoning
+ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction from Document Images
+Detecting RLVR Training Data via Structural Convergence of Reasoning
+Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity
+PISCO: Precise Video Instance Insertion with Sparse Control
