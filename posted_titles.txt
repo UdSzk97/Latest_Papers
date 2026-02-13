@@ -9195,3 +9195,7 @@ ExStrucTiny: A Benchmark for Schema-Variable Structured Information Extraction f
 Detecting RLVR Training Data via Structural Convergence of Reasoning
 Neural Additive Experts: Context-Gated Experts for Controllable Model Additivity
 PISCO: Precise Video Instance Insertion with Sparse Control
+A Method for Habitability Analysis of Planets with True Polar Wander
+Geology and Surface Properties of the Galilean Moons
+Single-minus gluon tree amplitudes are nonzero
+Stemphonic: All-at-once Flexible Multi-stem Music Generation
