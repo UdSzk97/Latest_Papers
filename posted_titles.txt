@@ -9200,3 +9200,5 @@ Geology and Surface Properties of the Galilean Moons
 Single-minus gluon tree amplitudes are nonzero
 Stemphonic: All-at-once Flexible Multi-stem Music Generation
 MemFly: On-the-Fly Memory Optimization via Information Bottleneck
+Solar wind neon storage in vesicles in space weathered lunar samples: Implications for neon behavior in planetary materials
+Energetic constraints on chemolithoautotrophy and habitability in the deep continental subsurface: Kidd creek deep fluid and deep life observatory
