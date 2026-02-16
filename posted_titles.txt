@@ -9232,3 +9232,10 @@ Light4D: Training-Free Extreme Viewpoint 4D Video Relighting
 Code2Worlds: Empowering Coding LLMs for 4D World Generation
 GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning
 Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost
+Formation Age of Ernutet Crater, Ceres, and Implications for Origin of the Organics
+SQuTR: A Robustness Benchmark for Spoken Query to Text Retrieval under Acoustic Noise
+SemanticMoments: Training-Free Motion Similarity via Third Moment Features
+Favia: Forensic Agent for Vulnerability-fix Identification and Analysis
+Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching
+OpenLID-v3: Improving the Precision of Closely Related Language Identification -- An Experience Report
+Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation
