@@ -9202,3 +9202,33 @@ Stemphonic: All-at-once Flexible Multi-stem Music Generation
 MemFly: On-the-Fly Memory Optimization via Information Bottleneck
 Solar wind neon storage in vesicles in space weathered lunar samples: Implications for neon behavior in planetary materials
 Energetic constraints on chemolithoautotrophy and habitability in the deep continental subsurface: Kidd creek deep fluid and deep life observatory
+A Multiwavelength Study of Comet C/2022 E3 (ZTF): Complementary ALMA and JWST Investigations of Water and Methanol in Cometary Comae
+Probing Thermal Gradient of Habitable-zone Rocky Planets as an Anti-indicator of a Global Surface Ocean Using Mid-infrared Direct Imaging
+LROC-derived 1 m Resolution Digital Elevation Model and Regolith Temperature Simulation of Banting Crater
+Undetected Past Contacts with Technological Species: Implications for Technosignature Science
+Measuring Rotation Periods in Crowded Star Clusters with TESS: A Proof of Concept with NGC 3532
+Pacing Early Mars Sedimentary Rock Formation
+Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs
+Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception
+MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs
+OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence
+What does RL improve for Visual Reasoning? A Frankenstein-Style Analysis
+ABot-M0: VLA Foundation Model for Robotic Manipulation with Action Manifold Learning
+RLinf-Co: Reinforcement Learning-Based Sim-Real Co-Training for VLA Models
+Towards Universal Video MLLMs with Attribute-Structured and Quality-Verified Instructions
+Intelligent AI Delegation
+GeoAgent: Learning to Geolocate Everywhere with Reinforced Geographic Characteristics
+BPDQ: Bit-Plane Decomposition Quantization on a Variable Grid for Large Language Models
+FLAC: Maximum Entropy RL via Kinetic Energy Regularized Bridge Matching
+On Robustness and Chain-of-Thought Consistency of RL-Finetuned VLMs
+DICE: Diffusion Large Language Models Excel at Generating CUDA Kernels
+SciAgentGym: Benchmarking Multi-Step Scientific Tool-use in LLM Agents
+CoPE-VideoLM: Codec Primitives For Efficient Video Language Models
+Learning Image-based Tree Crown Segmentation from Enhanced Lidar-based Pseudo-labels
+Xiaomi-Robotics-0: An Open-Sourced Vision-Language-Action Model with Real-Time Execution
+Self-EvolveRec: Self-Evolving Recommender Systems with LLM-based Directional Feedback
+TADA! Tuning Audio Diffusion Models through Activation Steering
+Light4D: Training-Free Extreme Viewpoint 4D Video Relighting
+Code2Worlds: Empowering Coding LLMs for 4D World Generation
+GeneralVLA: Generalizable Vision-Language-Action Models with Knowledge-Guided Trajectory Planning
+Quantized Evolution Strategies: High-precision Fine-tuning of Quantized LLMs at Low-precision Cost
