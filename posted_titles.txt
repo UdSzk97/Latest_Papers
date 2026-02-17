@@ -9270,3 +9270,14 @@ Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Gene
 Blind to the Human Touch: Overlap Bias in LLM-Based Summary Evaluation
 A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn't)
 Preliminary sonification of ENSO using traditional Javanese gamelan scales
+DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories
+STATe-of-Thoughts: Structured Action Templates for Tree-of-Thoughts
+Learning to Configure Agentic AI Systems
+LM-Lexicon: Improving Definition Modeling via Harmonizing Semantic Experts
+EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing
+AnchorWeave: World-Consistent Video Generation with Retrieved Local Spatial Memories
+Can I Have Your Order? Monte-Carlo Tree Search for Slot Filling Ordering in Diffusion Language Models
+CellMaster: Collaborative Cell Type Annotation in Single-Cell Analysis
+DHPLT: large-scale multilingual diachronic corpora and word representations for semantic change modelling
+SPILLage: Agentic Oversharing on the Web
+VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction
