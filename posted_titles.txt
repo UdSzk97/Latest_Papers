@@ -9239,3 +9239,34 @@ Favia: Forensic Agent for Vulnerability-fix Identification and Analysis
 Best of Both Worlds: Multimodal Reasoning and Generation via Unified Discrete Flow Matching
 OpenLID-v3: Improving the Precision of Closely Related Language Identification -- An Experience Report
 Principled Synthetic Data Enables the First Scaling Laws for LLMs in Recommendation
+Anatomy of Empirical Transit Spectra of Mars Based on TGO/NOMAD
+Primitive Crust Buried Below the Southern Highland of Mars
+A Highly Magnetic Ultramassive White Dwarf with a 23 minute Rotation Period
+The Ionospheric Lunar Tidal Response to the 2020–2021 Sudden Stratospheric Warming Observed by COSMIC‐2, ICON and Modeled by SD‐WACCMX, TIE‐GCM
+Al‐Khadhaf: The first camera‐observed (H5–6) meteorite fall from Oman
+Formation and Survival of Complex Organic Molecules in the Jovian Circumplanetary Disk
+Near-infrared Hapke Photometric Analysis of the Moon’s Regolith with Passive Radiometry from the Lunar Orbiter Laser Altimeter (LOLA)
+Thermal Stability of Ice at Shackleton Crater: Implications for Water Ice Detection for the Chang’E-7 Mission
+Query as Anchor: Scenario-Adaptive User Representation via Large Language Model
+Qute: Towards Quantum-Native Database
+InnoEval: On Research Idea Evaluation as a Knowledge-Grounded, Multi-Perspective Reasoning Problem
+REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents
+BitDance: Scaling Autoregressive Generative Models with Binary Tokens
+Experiential Reinforcement Learning
+Embed-RL: Reinforcement Learning for Reasoning-Driven Multimodal Embeddings
+UniWeTok: An Unified Binary Tokenizer with Codebook Size 2^{128} for Unified Multimodal Large Language Model
+BrowseComp-V^3: A Visual, Vertical, and Verifiable Benchmark for Multimodal Browsing Agents
+FireRed-Image-Edit-1.0 Techinical Report
+WebWorld: A Large-Scale World Model for Web Agent Training
+MoRL: Reinforced Reasoning for Unified Motion Understanding and Generation
+LaViDa-R1: Advancing Reasoning for Unified Multimodal Diffusion Language Models
+Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision
+Nanbeige4.1-3B: A Small General Model that Reasons, Aligns, and Acts
+AIDev: Studying AI Coding Agents on GitHub
+Data Darwinism Part I: Unlocking the Value of Scientific Data for Pre-training
+Exposing the Systematic Vulnerability of Open-Weight Models to Prefill Attacks
+Acoustivision Pro: An Open-Source Interactive Platform for Room Impulse Response Analysis and Acoustic Characterization
+Benchmarking Knowledge-Extraction Attack and Defense on Retrieval-Augmented Generation
+Blind to the Human Touch: Overlap Bias in LLM-Based Summary Evaluation
+A Critical Look at Targeted Instruction Selection: Disentangling What Matters (and What Doesn't)
+Preliminary sonification of ENSO using traditional Javanese gamelan scales
