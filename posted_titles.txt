@@ -9302,3 +9302,13 @@ Learning Native Continuation for Action Chunking Flow Policies
 Prescriptive Scaling Reveals the Evolution of Language Model Capabilities
 Geometry-Aware Rotary Position Embedding for Consistent Video World Model
 Causal-JEPA: Learning World Models through Object-Level Latent Interventions
+Variability Study and Searching for Quasiperiodic Oscillations with Day-like Periods in the Blazar S5 0716+714 with TESS
+SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks
+jina-embeddings-v5-text: Task-Targeted Embedding Distillation
+TAROT: Test-driven and Capability-adaptive Curriculum Reinforcement Fine-tuning for Code Generation with Large Language Models
+Panini: Continual Learning in Token Space via Structured Memory
+The Vision Wormhole: Latent-Space Communication in Heterogeneous Multi-Agent Systems
+A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)
+HLE-Verified: A Systematic Verification and Structured Revision of Humanity's Last Exam
+Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation
+How Much Reasoning Do Retrieval-Augmented Models Add beyond LLMs? A Benchmarking Framework for Multi-Hop Inference over Hybrid Knowledge
