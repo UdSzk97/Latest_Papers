@@ -9281,3 +9281,24 @@ CellMaster: Collaborative Cell Type Annotation in Single-Cell Analysis
 DHPLT: large-scale multilingual diachronic corpora and word representations for semantic change modelling
 SPILLage: Agentic Oversharing on the Web
 VisPhyWorld: Probing Physical Reasoning via Code-Driven Video Reconstruction
+Eight Phase-step δ Scuti Variables in TESS Data
+Analysis of Karin and Koronis2 Asteroid Families: New Findings and Challenges
+Secular Excitation of Polar Neptune Orbits in Pure Disk–Planet Systems
+Next-generation Improvements in Giant-exoplanet Evolutionary and Structural Models
+The Mass Distribution of Clumpy Accretion onto the Nearby Young Star TW Hya
+GLM-5: from Vibe Coding to Agentic Engineering
+Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook
+ResearchGym: Evaluating Language Model Agents on Real-World AI Research
+UniT: Unified Multimodal Chain-of-Thought Test-time Scaling
+COMPOT: Calibration-Optimized Matrix Procrustes Orthogonalization for Transformers Compression
+Revisiting the Platonic Representation Hypothesis: An Aristotelian View
+Understanding vs. Generation: Navigating Optimization Dilemma in Multimodal Models
+On Surprising Effectiveness of Masking Updates in Adaptive Optimizers
+ClinAlign: Scaling Healthcare Alignment from Clinician Preference
+STAPO: Stabilizing Reinforcement Learning for LLMs by Silencing Rare Spurious Tokens
+Visual Persuasion: What Influences Decisions of Vision-Language Models?
+Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?
+Learning Native Continuation for Action Chunking Flow Policies
+Prescriptive Scaling Reveals the Evolution of Language Model Capabilities
+Geometry-Aware Rotary Position Embedding for Consistent Video World Model
+Causal-JEPA: Learning World Models through Object-Level Latent Interventions
