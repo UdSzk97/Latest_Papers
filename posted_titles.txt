@@ -9331,3 +9331,11 @@ MMA: Multimodal Memory Agent
 MAEB: Massive Audio Embedding Benchmark
 Visual Memory Injection Attacks for Multi-Turn Conversations
 BiManiBench: A Hierarchical Benchmark for Evaluating Bimanual Coordination of Multimodal Large Language Models
+Debris-covered glaciers on Deception Island (Antarctica) as analogues for possible glaciers on the lower northwest flank of Hecates Tholus volcano, Mars
+Inferring Exoplanet Parameters from Transit Timing Variations Using LSTM Networks
+Ejecta thickness and layering estimation for an example Artemis landing site candidate on the Moon
+Carbonated ultramafic igneous rocks in Jezero crater, Mars
+Mars Express: Genesis and Infancy
+CADEvolve: Creating Realistic CAD via Program Evolution
+Reinforced Fast Weights with Next-Sequence Prediction
+Learning Personalized Agents from Human Feedback
