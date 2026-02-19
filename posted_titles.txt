@@ -9312,3 +9312,22 @@ A Trajectory-Based Safety Audit of Clawdbot (OpenClaw)
 HLE-Verified: A Systematic Verification and Structured Revision of Humanity's Last Exam
 Detecting Overflow in Compressed Token Representations for Retrieval-Augmented Generation
 How Much Reasoning Do Retrieval-Augmented Models Add beyond LLMs? A Benchmarking Framework for Multi-Hop Inference over Hybrid Knowledge
+Paving the Road to the Habitable Worlds Observatory with High-resolution Imaging. I. New and Archival Speckle Observations of Potential HWO Target Stars
+On the Estimation of Sulfuric Acid Vapor Concentrations below the Venus Cloud Deck Using the Akatsuki Radio Science Experiment
+Metal Pipe: A Broadly Applicable Stellar Abundance Pipeline Using Isochronal Parameters
+Author Correction: Abundant supernova dust and heterogeneous aqueous alteration revealed by stardust in two lithologies of asteroid Bennu
+Formation of Water-rich Giant Planet Satellites at Decretion Disk Ice Lines
+SLA2: Sparse-Linear Attention with Learnable Routing and QAT
+Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation
+RynnBrain: Open Embodied Foundation Models
+Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality
+SAM 3D Body: Robust Full-Body Human Mesh Recovery
+Multi-agent cooperation through in-context co-player inference
+World Action Models are Zero-shot Policies
+Towards a Science of AI Agent Reliability
+Optimizing Few-Step Generation with Adaptive Matching Distillation
+Learning Situated Awareness in the Real World
+MMA: Multimodal Memory Agent
+MAEB: Massive Audio Embedding Benchmark
+Visual Memory Injection Attacks for Multi-Turn Conversations
+BiManiBench: A Hierarchical Benchmark for Evaluating Bimanual Coordination of Multimodal Large Language Models
