@@ -9339,3 +9339,24 @@ Mars Express: Genesis and Infancy
 CADEvolve: Creating Realistic CAD via Program Evolution
 Reinforced Fast Weights with Next-Sequence Prediction
 Learning Personalized Agents from Human Feedback
+Simulations of Electron Beam Interactions in Brown Dwarf Atmospheres
+Impact of Coronal Mass Ejection-driven Enhanced Magnetic Pressure on the Martian Northern Hemispheric Ionosphere during 2024 May 17–18
+Spectroscopic Signatures and Photochemical Stability of the ClSO3 and ClOSO2 Radicals: New Benchmarks for Atmospheric and Astrochemical Models
+A Simulation Study of an HFA-like Event at Mars
+Galileo PLS Plasma Observations During the E12 Europa Flyby Refuting an Encounter With a Cryovolcanic Plume
+SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning
+Unified Latents (UL): How to train your latents
+Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents
+Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5
+DDiT: Dynamic Patch Scheduling for Efficient Diffusion Transformers
+Arcee Trinity Large Technical Report
+"What Are You Doing?": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing
+ArXiv-to-Model: A Practical Study of Scientific LM Training
+Discovering Multiagent Learning Algorithms with Large Language Models
+TactAlign: Human-to-Robot Policy Transfer via Tactile Alignment
+Computer-Using World Model
+FRAPPE: Infusing World Modeling into Generalist Policies via Multiple Future Representation Alignment
+World Models for Policy Refinement in StarCraft II
+2Mamba2Furious: Linear in Complexity, Competitive in Accuracy
+StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
+References Improve LLM Alignment in Non-Verifiable Domains
