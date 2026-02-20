@@ -9360,3 +9360,12 @@ World Models for Policy Refinement in StarCraft II
 2Mamba2Furious: Linear in Complexity, Competitive in Accuracy
 StereoAdapter-2: Globally Structure-Consistent Underwater Stereo Depth Estimation
 References Improve LLM Alignment in Non-Verifiable Domains
+The Solar Neighborhood LV: Spectral Characterization of an Equatorial Sample of 580 K Dwarfs
+Twin spacecraft open a new paradigm for Mars
+Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents
+On the Mechanism and Dynamics of Modular Addition: Fourier Features, Lottery Ticket, and Grokking
+CrispEdit: Low-Curvature Projections for Scalable Non-Destructive LLM Editing
+Modeling Distinct Human Interaction in Web Agents
+NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist
+Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs
+NeST: Neuron Selective Tuning for LLM Safety
