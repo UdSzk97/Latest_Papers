@@ -9371,3 +9371,6 @@ Hardware Co-Design Scaling Laws via Roofline Modelling for On-Device LLMs
 NeST: Neuron Selective Tuning for LLM Safety
 Searching for Electron‐Only Magnetic Reconnection on Lunar Crustal Magnetic Fields: A Case Study of Kaguya Low‐Altitude Observations
 Redox reactions in the outermost thin surfaces of meteorite fusion crusts
+M‐GITM Simulations of the Ionosphere and Thermosphere of Mars During the 10 September 2017 Solar Flare Event: Changes Over Time During the Flare Event
+M‐GITM Simulations of the Ionosphere and Thermosphere of Mars During the 10 September 2017 Solar Flare Event: Comparison With MAVEN NGIMS Observations
+Freeze‐Thaw Cycling Accelerated Olivine Weathering and Water Sequestration on Icy Mars
