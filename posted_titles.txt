@@ -9374,3 +9374,12 @@ Redox reactions in the outermost thin surfaces of meteorite fusion crusts
 M‐GITM Simulations of the Ionosphere and Thermosphere of Mars During the 10 September 2017 Solar Flare Event: Changes Over Time During the Flare Event
 M‐GITM Simulations of the Ionosphere and Thermosphere of Mars During the 10 September 2017 Solar Flare Event: Comparison With MAVEN NGIMS Observations
 Freeze‐Thaw Cycling Accelerated Olivine Weathering and Water Sequestration on Icy Mars
+Thermophysical Modeling of Asteroid (15) Eunomia from Spatially Resolved ALMA and VLA Data
+VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training
+Does Your Reasoning Model Implicitly Know When to Stop Thinking?
+Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control
+EgoPush: Learning End-to-End Egocentric Multi-Object Rearrangement for Mobile Robots
+SARAH: Spatially Aware Real-time Agentic Humans
+Selective Training for Large Vision Language Models via Visual Information Gain
+DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning
+Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty
