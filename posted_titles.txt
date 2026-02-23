@@ -9383,3 +9383,16 @@ SARAH: Spatially Aware Real-time Agentic Humans
 Selective Training for Large Vision Language Models via Visual Information Gain
 DeepVision-103K: A Visually Diverse, Broad-Coverage, and Verifiable Mathematical Dataset for Multimodal Reasoning
 Learning Smooth Time-Varying Linear Policies with an Action Jacobian Penalty
+Bayesian Analysis for Remote Biosignature Identification on exoEarths (BARBIE). IV. Analyzing CO2 Detections in the Near-IR to Determine the Long-wavelength Cutoff for the Habitable Worlds Observatory Coronagraph
+The formation of gypsum ridges in the endorheic Qaidam Basin and implications for irregular polygonal ridges on Mars
+Surface Properties, Orbital Dynamics, and Thermophysical Modeling of the Primitive Asteroid (269) Justitia
+Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers
+Spanning the Visual Analogy Space with a Weight Basis of LoRAs
+VidEoMT: Your ViT is Secretly Also a Video Segmentation Model
+Avey-B
+Sink-Aware Pruning for Diffusion Language Models
+Adam Improves Muon: Adaptive Moment Estimation with Orthogonalized Momentum
+ReIn: Conversational Error Recovery with Reasoning Inception
+Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions
+Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges
+4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere
