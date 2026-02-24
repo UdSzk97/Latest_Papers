@@ -9396,3 +9396,22 @@ ReIn: Conversational Error Recovery with Reasoning Inception
 Whom to Query for What: Adaptive Group Elicitation via Multi-Turn LLM Interactions
 Rubrics as an Attack Surface: Stealthy Preference Drift in LLM Judges
 4RC: 4D Reconstruction via Conditional Querying Anytime and Anywhere
+Fringe Detection in the Lunar Orbit VLBI Experiment: The Initial Clock Search
+UV–Vis–NIR Reflectance Spectra of Ilmenite Mixtures: Implications for Estimation of TiO2 Content in Lunar Mare Regions
+A Very Big Video Reasoning Suite
+VLANeXt: Recipes for Building Strong VLA Models
+ManCAR: Manifold-Constrained Latent Reasoning with Adaptive Test-Time Computation for Sequential Recommendation
+TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics
+Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device
+DSDR: Dual-Scale Diversity Regularization for Exploration in LLM Reasoning
+Agents of Chaos
+SkillOrchestra: Learning to Route Agents via Skill Transfer
+Learning Cross-View Object Correspondence via Cycle-Consistent Mask Prediction
+K-Search: LLM Kernel Generation via Co-Evolving Intrinsic World Model
+RoboCurate: Harnessing Diversity with Action-Verified Neural Trajectory for Robot Learning
+SimVLA: A Simple VLA Baseline for Robotic Manipulation
+tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction
+Nacrith: Neural Lossless Compression via Ensemble Context Modeling and High-Precision CDF Coding
+AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting
+AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer
+SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning
