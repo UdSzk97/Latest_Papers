@@ -9415,3 +9415,13 @@ Nacrith: Neural Lossless Compression via Ensemble Context Modeling and High-Prec
 AAVGen: Precision Engineering of Adeno-associated Viral Capsids for Renal Selective Targeting
 AssetFormer: Modular 3D Assets Generation with Autoregressive Transformer
 SenTSR-Bench: Thinking with Injected Knowledge for Time-Series Reasoning
+Persistence of Solar Wind Velocity along Radial, Longitudinal, and Latitudinal Spacecraft Separation
+Phosphorus Zoning in Olivines: A critical tool for tracking magma ascent and storage in the martian crust
+Energetic constraints on chemolithoautotrophy and habitability in the deep continental subsurface: Kidd Creek Deep Fluid and Deep Life Observatory
+SimToolReal: An Object-Centric Policy for Zero-Shot Dexterous Tool Manipulation
+DODO: Discrete OCR Diffusion Models
+Anatomy of Agentic Memory: Taxonomy and Empirical Analysis of Evaluation and System Limitations
+Decoding ML Decision: An Agentic Reasoning Framework for Large-Scale Ranking System
+Large Causal Models for Temporal Causal Discovery
+On the "Induction Bias" in Sequence Models
+Contact-Anchored Proprioceptive Odometry for Quadruped Robots
