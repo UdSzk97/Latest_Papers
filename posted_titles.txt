@@ -9454,3 +9454,13 @@ OCR-Agent: Agentic OCR with Capability and Memory Reflection
 OmniOCR: Generalist OCR for Ethnic Minority Languages
 TextPecker: Rewarding Structural Anomaly Quantification for Enhancing Visual Text Rendering
 Generative AI and Machine Learning Collaboration for Container Dwell Time Prediction via Data Standardization
+Demonstrating Exoplanet Transit Photometry from Space with a 15 mm Aperture Optical Navigation Camera on Hayabusa2
+The First Quantitative Study of Cometary Tail Regrowth following a Coronal Mass Ejection-driven Disconnection Event
+Multi-Vector Index Compression in Any Modality
+See and Fix the Flaws: Enabling VLMs and Diffusion Models to Comprehend Visual Artifacts via Agentic Data Synthesis
+PETS: A Principled Framework Towards Optimal Trajectory Allocation for Efficient Test-Time Self-Consistency
+TAPE: Tool-Guided Adaptive Planning and Constrained Execution in Language Model Agents
+RankEvolve: Automating the Discovery of Retrieval Algorithms via LLM-Driven Evolution
+Benchmark Test-Time Scaling of General LLM Agents
+SIMSPINE: A Biomechanics-Aware Simulation Framework for 3D Spine Motion Annotation and Benchmarking
+Learning to Detect Language Model Training Data via Active Reconstruction
