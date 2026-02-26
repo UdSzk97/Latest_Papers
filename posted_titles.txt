@@ -9464,3 +9464,26 @@ RankEvolve: Automating the Discovery of Retrieval Algorithms via LLM-Driven Evol
 Benchmark Test-Time Scaling of General LLM Agents
 SIMSPINE: A Biomechanics-Aware Simulation Framework for 3D Spine Motion Annotation and Benchmarking
 Learning to Detect Language Model Training Data via Active Reconstruction
+Evaluation of the effects of meteoroid impacts on properties of the Hermean exosphere
+DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation
+MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models
+ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning
+SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model
+HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation
+GUI-Libra: Training Native GUI Agents to Reason and Act with Action-aware Supervision and Partially Verifiable RL
+JavisDiT++: Unified Modeling and Optimization for Joint Audio-Video Generation
+Solaris: Building a Multiplayer Video World Model in Minecraft
+Image Generation with a Sphere Encoder
+World Guidance: World Modeling in Condition Space for Action Generation
+NanoKnow: How to Know What Your Language Model Knows
+DualPath: Breaking the Storage Bandwidth Bottleneck in Agentic LLM Inference
+VecGlypher: Unified Vector Glyph Generation with Language Models
+SeaCache: Spectral-Evolution-Aware Cache for Accelerating Diffusion Models
+Model Context Protocol (MCP) Tool Descriptions Are Smelly! Towards Improving AI Agent Efficiency with Augmented MCP Tool Descriptions
+NoLan: Mitigating Object Hallucinations in Large Vision-Language Models via Dynamic Suppression of Language Priors
+The Design Space of Tri-Modal Masked Diffusion Models
+Functional Continuous Decomposition
+JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Environments
+UniVBench: Towards Unified Evaluation for Video Foundation Models
+MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment
+Yor-Sarc: A gold-standard dataset for sarcasm detection in a low-resource African language
