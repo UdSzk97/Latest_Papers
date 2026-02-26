@@ -9487,3 +9487,13 @@ JAEGER: Joint 3D Audio-Visual Grounding and Reasoning in Simulated Physical Envi
 UniVBench: Towards Unified Evaluation for Video Foundation Models
 MoBind: Motion Binding for Fine-Grained IMU-Video Pose Alignment
 Yor-Sarc: A gold-standard dataset for sarcasm detection in a low-resource African language
+An intermittent dynamo linked to high-titanium volcanism on the Moon
+A Comprehensive Spectroscopic Reference of the Solar System and Its Application to Exoplanet Direct Imaging
+Impact-driven Deposition of Metallic Titanium on the Moon
+Origin of Hyperion and Saturn’s Rings in a Two-stage Saturnian System Instability
+From Statics to Dynamics: Physics-Aware Image Editing with Latent Transition Priors
+Small Language Models for Privacy-Preserving Clinical Information Extraction in Low-Resource Languages
+The Truthfulness Spectrum Hypothesis
+ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?
+Intent Laundering: AI Safety Datasets Are Not What They Seem
+DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction
