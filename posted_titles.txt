@@ -9519,3 +9519,18 @@ GeoWorld: Geometric World Models
 DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation
 Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns
 Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models
+Stellar and Orbital Characterization of Three Low Mass M Dwarf Binary Stars with Dynamical Spectroscopy from the Habitable Zone Planet Finder*
+Mapping the Cloud-driven Atmospheric Dynamics and Chemistry of an Isolated Exoplanet Analog with Harmonic Signatures
+HET/HPF Observations of Helium in Warm, Hot, and Ultrahot Jupiters
+The effects of sulfur on near-liquidus phase relations of highly reduced basaltic melts with implications for magmatism in Mercury
+Lightning-generated waves detected at Mars
+MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios
+VGG-T^3: Offline Feed-Forward 3D Reconstruction at Scale
+Retrieve and Segment: Are a Few Examples Enough to Bridge the Supervision Gap in Open-Vocabulary Segmentation?
+No One Size Fits All: QueryBandits for Hallucination Mitigation
+What Makes a Good Query? Measuring the Impact of Human-Confusing Linguistic Features on LLM Performance
+General Agent Evaluation
+DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology Domain
+MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
+Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning
+MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data
