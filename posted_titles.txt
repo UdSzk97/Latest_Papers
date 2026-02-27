@@ -9497,3 +9497,25 @@ The Truthfulness Spectrum Hypothesis
 ISO-Bench: Can Coding Agents Optimize Real-World Inference Workloads?
 Intent Laundering: AI Safety Datasets Are Not What They Seem
 DM4CT: Benchmarking Diffusion Models for Computed Tomography Reconstruction
+Spectral variability of Phobos and Deimos from TGO/CaSSIS multiband observations
+The Keck/DEIMOS Stellar Archive. I. Uniform Velocities and Metallicities for 78 Milky Way Dwarf Galaxies and Globular Clusters
+Sulfur Enrichment in Close-in Exoplanet Atmospheres Induced by Pebble Drift across the Salt Line
+Solar Activity Dependence of the Dayside Lunar Surface Potential in the Terrestrial Magnetotail
+From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models
+The Trinity of Consistency as a Defining Principle for General World Models
+OmniGAIA: Towards Native Omni-Modal AI Agents
+Imagination Helps Visual Reasoning, But Not Yet in Latent Space
+Exploratory Memory-Augmented LLM Agent via Hybrid On- and Off-Policy Optimization
+AgentDropoutV2: Optimizing Information Flow in Multi-Agent Systems via Test-Time Rectify-or-Reject Pruning
+Search More, Think Less: Rethinking Long-Horizon Agentic Search for Efficiency and Generalization
+MediX-R1: Open Ended Medical Reinforcement Learning
+Accelerating Diffusion via Hybrid Data-Pipeline Parallelism Based on Conditional Guidance Scheduling
+AI Gamestore: Scalable, Open-Ended Evaluation of Machine General Intelligence with Human Games
+EmbodMocap: In-the-Wild 4D Human-Scene Reconstruction for Embodied Agents
+Causal Motion Diffusion Models for Autoregressive Motion Generation
+veScale-FSDP: Flexible and High-Performance FSDP at Scale
+Risk-Aware World Model Predictive Control for Generalizable End-to-End Autonomous Driving
+GeoWorld: Geometric World Models
+DyaDiT: A Multi-Modal Diffusion Transformer for Socially Favorable Dyadic Gesture Generation
+Efficient Continual Learning in Language Models via Thalamically Routed Cortical Columns
+Echoes Over Time: Unlocking Length Generalization in Video-to-Audio Generation Models
