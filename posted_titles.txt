@@ -9534,3 +9534,5 @@ DLT-Corpus: A Large-Scale Text Collection for the Distributed Ledger Technology 
 MedCLIPSeg: Probabilistic Vision-Language Adaptation for Data-Efficient and Generalizable Medical Image Segmentation
 Overconfident Errors Need Stronger Correction: Asymmetric Confidence Penalties for Reinforcement Learning
 MEG-to-MEG Transfer Learning and Cross-Task Speech/Silence Detection with Limited Data
+Model Calculations for Cosmogenic Nuclides in Meteorites and the Lunar Surface. 1. Long‐lived Radionuclides
+Daily variations of carbon, nitrogen and oxygen ions in a thin lunar atmosphere
