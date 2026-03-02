@@ -9539,3 +9539,23 @@ Daily variations of carbon, nitrogen and oxygen ions in a thin lunar atmosphere
 A new pair of lunar gabbroic meteorites record magma recharge at ∼ 3.0 Ga
 Molecular inventory and comparative organic profiling of a homogenized aggregate sample from asteroid (101955) Bennu
 Reactive Gossans as Iron-Rich Mars Analogue Environments of Astrobiological Interest, Axel Heiberg Island, Nunavut
+First Astrometric Limits on Binary Planets and Exomoons Orbiting β Pictoris b
+New Observations of an Extended Hall Interaction Region Downstream of Lunar Crustal Magnetic Fields
+Hydration Features on Near-Earth Objects: Integrating New Data with Prior Results
+The ESA JUICE Ground Segment
+dLLM: Simple Diffusion Language Modeling
+Enhancing Spatial Understanding in Image Generation via Reward Modeling
+Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets
+CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation
+Mode Seeking meets Mean Seeking for Fast Long Video Generation
+LK Losses: Direct Acceptance Rate Optimization for Speculative Decoding
+CiteAudit: You Cited It, But Did You Read It? A Benchmark for Verifying Scientific References in the LLM Era
+Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models
+Accelerating Masked Image Generation by Learning Latent Controlled Dynamics
+Memory Caching: RNNs with Growing Memory
+InfoNCE Induces Gaussian Distribution
+Ref-Adv: Exploring MLLM Visual Reasoning in Referring Expression Tasks
+SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching
+LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding
+Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators
+DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
