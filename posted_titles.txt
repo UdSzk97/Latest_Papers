@@ -9559,3 +9559,7 @@ SenCache: Accelerating Diffusion Model Inference via Sensitivity-Aware Caching
 LongVideo-R1: Smart Navigation for Low-cost Long Video Understanding
 Vectorizing the Trie: Efficient Constrained Decoding for LLM-based Generative Retrieval on Accelerators
 DLEBench: Evaluating Small-scale Object Editing Ability for Instruction-based Image Editing Model
+Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context Structure Modeling
+CL4SE: A Context Learning Benchmark For Software Engineering Tasks
+How to Take a Memorable Picture? Empowering Users with Actionable Feedback
+DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference
