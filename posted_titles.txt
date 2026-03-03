@@ -9563,3 +9563,43 @@ Shared Nature, Unique Nurture: PRISM for Pluralistic Reasoning via In-context St
 CL4SE: A Context Learning Benchmark For Software Engineering Tasks
 How to Take a Memorable Picture? Empowering Users with Actionable Feedback
 DUET-VLM: Dual stage Unified Efficient Token reduction for VLM Training and Inference
+Exomoons and Exorings with the Habitable Worlds Observatory. II. Finding “Endor” with Lunar Eclipses
+The Radius Cliff is a Waterfall: Explaining Sub-Neptune Exoplanets with Steam Worlds
+The Effect of Planetary Rotation Period on Clouds in a Global Climate Model with a Bin Microphysics Scheme
+Constraining the Effects of Pre- and Post-accretionary Processes on Ryugu Insoluble Organic Matter
+Petrography and mineral chemistry of Northeast Africa 053—A remnant of Martian crystal mush
+From Scale to Speed: Adaptive Test-Time Scaling for Image Editing
+OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens
+OpenAutoNLU: Open Source AutoML Library for NLU
+MMR-Life: Piecing Together Real-life Scenes for Multimodal Multi-image Reasoning
+RubricBench: Aligning Model-Generated Rubrics with Human Standards
+CHIMERA: Compact Synthetic Data for Generalizable LLM Reasoning
+VGGT-Det: Mining VGGT Internal Priors for Sensor-Geometry-Free Multi-View Indoor 3D Object Detection
+CoVe: Training Interactive Tool-Use Agents via Constraint-Guided Verification
+Spectral Condition for μP under Width-Depth Scaling
+WorldStereo: Bridging Camera-Guided Video Generation and Scene Reconstruction via 3D Geometric Memories
+LLaDA-o: An Effective and Length-Adaptive Omni Diffusion Model
+SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale
+Learn Hard Problems During RL with Reference Guided Fine-tuning
+When Does RL Help Medical VLMs? Disentangling Vision, SFT, and RL Gains
+Legal RAG Bench: an end-to-end benchmark for legal RAG
+Tool-R0: Self-Evolving LLM Agents for Tool-Learning from Zero Data
+Recursive Think-Answer Process for LLMs and VLMs
+LaSER: Internalizing Explicit Reasoning into Latent Space for Dense Retrieval
+Half-Truths Break Similarity-Based Retrieval
+Reasoning Core: A Scalable Procedural Data Generation Suite for Symbolic Pre-training and Post-Training
+Tool Verification for Test-Time Reinforcement Learning
+CharacterFlywheel: Scaling Iterative Improvement of Engaging and Steerable LLMs in Production
+Efficient RLVR Training via Weighted Mutual Information Data Selection
+Agentic Code Reasoning
+Spectral Attention Steering for Prompt Highlighting
+RAISE: Requirement-Adaptive Evolutionary Refinement for Training-Free Text-to-Image Alignment
+CC-VQA: Conflict- and Correlation-Aware Method for Mitigating Knowledge Conflict in Knowledge-Based Visual Question Answering
+ArtLLM: Generating Articulated Assets via 3D LLM
+MicroVerse: A Preliminary Exploration Toward a Micro-World Simulation
+ProtegoFed: Backdoor-Free Federated Instruction Tuning with Interspersed Poisoned Data
+Synthetic Visual Genome 2: Extracting Large-scale Spatio-Temporal Scene Graphs from Videos
+SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation
+FireRed-OCR Technical Report
+Using Songs to Improve Kazakh Automatic Speech Recognition
+Monocular Mesh Recovery and Body Measurement of Female Saanen Goats
