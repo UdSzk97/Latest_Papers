@@ -9603,3 +9603,12 @@ SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation
 FireRed-OCR Technical Report
 Using Songs to Improve Kazakh Automatic Speech Recognition
 Monocular Mesh Recovery and Body Measurement of Female Saanen Goats
+TOI-6692 b: An Eccentric 130 Day Period Giant Planet with a Single Transit from TESS
+Zircon evidence for exogenous water delivery to the lunar interior
+Retention of water ice in lunar permanent shadowed regions
+Ejecta plume evolution in the Hayabusa2 impact experiment on asteroid Ryugu
+PhotoBench: Beyond Visual Matching Towards Personalized Intent-Driven Photo Retrieval
+Unified Vision-Language Modeling via Concept Space Alignment
+Classroom Final Exam: An Instructor-Tested Reasoning Benchmark
+Cryo-Bench: Benchmarking Foundation Models for Cryosphere Applications
+Planning from Observation and Interaction
