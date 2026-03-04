@@ -9612,3 +9612,34 @@ Unified Vision-Language Modeling via Concept Space Alignment
 Classroom Final Exam: An Instructor-Tested Reasoning Benchmark
 Cryo-Bench: Benchmarking Foundation Models for Cryosphere Applications
 Planning from Observation and Interaction
+UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?
+Utonia: Toward One Encoder for All Point Clouds
+BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?
+Beyond Language Modeling: An Exploration of Multimodal Pretraining
+Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models
+How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities
+Kling-MotionControl Technical Report
+Kiwi-Edit: Versatile Video Editing via Instruction and Reference Guidance
+PRISM: Pushing the Frontier of Deep Think via Process Reward Model-Guided Inference
+Qwen3-Coder-Next Technical Report
+InfoPO: Information-Driven Policy Optimization for User-Centric Agents
+Surgical Post-Training: Cutting Errors, Keeping Knowledge
+CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance
+NOVA: Sparse Control, Dense Synthesis for Pair-Free Video Editing
+Spilled Energy in Large Language Models
+Track4World: Feedforward World-centric Dense 3D Tracking of All Pixels
+Learning When to Act or Refuse: Guarding Agentic Reasoning Models for Safe Multi-Step Tool Use
+Chain of World: World Model Thinking in Latent Motion
+APRES: An Agentic Paper Revision and Evaluation System
+HateMirage: An Explainable Multi-Dimensional Dataset for Decoding Faux Hate and Subtle Online Abuse
+DREAM: Where Visual Understanding Meets Text-to-Image Generation
+Token Reduction via Local and Global Contexts Optimization for Efficient Video Large Language Models
+Whisper-RIR-Mega: A Paired Clean-Reverberant Speech Benchmark for ASR Robustness to Room Acoustics
+SGDC: Structurally-Guided Dynamic Convolution for Medical Image Segmentation
+Towards Simulating Social Media Users with LLMs: Evaluating the Operational Validity of Conditioned Comment Prediction
+Code2Math: Can Your Code Agent Effectively Evolve Math Problems Through Exploration?
+Conditioned Activation Transport for T2I Safety Steering
+Fast Matrix Multiplication in Small Formats: Discovering New Schemes with an Open-Source Flip Graph Framework
+Transform-Invariant Generative Ray Path Sampling for Efficient Radio Propagation Modeling
+Multi-Domain Riemannian Graph Gluing for Building Graph Foundation Models
+AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation
