@@ -9643,3 +9643,16 @@ Fast Matrix Multiplication in Small Formats: Discovering New Schemes with an Ope
 Transform-Invariant Generative Ray Path Sampling for Efficient Radio Propagation Modeling
 Multi-Domain Riemannian Graph Gluing for Building Graph Foundation Models
 AgentConductor: Topology Evolution for Multi-Agent Competition-Level Code Generation
+Linking planetary–scale spatio-temporal trends in magma compositions and volcanic resurfacing on Mars
+Volcanic emissions and diatom blooms enhanced mercury accumulation and methylation in hadal sediments during the last deglacial phase
+Drying induces Mars intermediate-sized cracks: New evidence and insight from geometrical quantification
+Next Embedding Prediction Makes World Models Stronger
+Humans and LLMs Diverge on Probabilistic Inferences
+BBQ-to-Image: Numeric Bounding Box and Qolor Control in Large-Scale Text-to-Image Models
+SciDER: Scientific Data-centric End-to-end Researcher
+Transformers converge to invariant algorithmic cores
+DynaMoE: Dynamic Token-Level Expert Activation with Layer-Wise Adaptive Capacity for Mixture-of-Experts Neural Networks
+GroupGPT: A Token-efficient and Privacy-preserving Agentic Framework for Multi-User Chat Assistant
+Easy to Learn, Yet Hard to Forget: Towards Robust Unlearning Under Bias
+QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs
+ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution
