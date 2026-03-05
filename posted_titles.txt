@@ -9656,3 +9656,26 @@ GroupGPT: A Token-efficient and Privacy-preserving Agentic Framework for Multi-U
 Easy to Learn, Yet Hard to Forget: Towards Robust Unlearning Under Bias
 QEDBENCH: Quantifying the Alignment Gap in Automated Evaluation of University-Level Mathematical Proofs
 ParEVO: Synthesizing Code for Irregular Data: High-Performance Parallelism through Agentic Evolution
+What to Make of the Earth’s Curiously Intermediate Land Fraction?
+Proton Trapping in Ganymede’s Magnetosphere: A Quantitative Test Particle Study
+Origin of the Lunar Inclination from Tidal Interaction of Multiple-Moon System
+Modeling the EMIC Wave‐Induced Acceleration of Energetic Protons in the Io Footprint Tail
+The daylight fireball of June 25, 2022, leading to a meteorite fall and find near Pusté Úľany, Slovakia
+The smallest pedigree fall event meteorite ever recovered: Pusté Úl'any—Physical, mineralogical, chemical, and radionuclide analyses
+Helios: Real Real-Time Long Video Generation Model
+T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning
+Heterogeneous Agent Collaborative Reinforcement Learning
+Proact-VL: A Proactive VideoLLM for Real-Time AI Companions
+MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning
+ArtHOI: Articulated Human-Object Interaction Synthesis by 4D Reconstruction from Video Priors
+Memex(RL): Scaling Long-Horizon LLM Agents via Indexed Experience Memory
+Phi-4-reasoning-vision-15B Technical Report
+CubeComposer: Spatio-Temporal Autoregressive 4K 360° Video Generation from Perspective Video
+RIVER: A Real-Time Interaction Benchmark for Video LLMs
+InfinityStory: Unlimited Video Generation with World Consistency and Character-Aware Shot Transitions
+EmbodiedSplat: Online Feed-Forward Semantic 3DGS for Open-Vocabulary 3D Scene Understanding
+BeamPERL: Parameter-Efficient RL with Verifiable Rewards Specializes Compact LLMs for Structured Beam Mechanics Reasoning
+SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous Integration
+MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models
+GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection
+Specificity-aware reinforcement learning for fine-grained open-world classification
