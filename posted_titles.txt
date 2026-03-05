@@ -9679,3 +9679,8 @@ SWE-CI: Evaluating Agent Capabilities in Maintaining Codebases via Continuous In
 MUSE: A Run-Centric Platform for Multimodal Unified Safety Evaluation of Large Language Models
 GroupEnsemble: Efficient Uncertainty Estimation for DETR-based Object Detection
 Specificity-aware reinforcement learning for fine-grained open-world classification
+Io and the Minor Jovian Moons – Prospects for JUICE
+AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual Token Pruning in Large Vision-Language Models
+V_1: Unifying Generation and Self-Verification for Parallel Reasoners
+MIBURI: Towards Expressive Interactive Gesture Synthesis
+HDINO: A Concise and Efficient Open-Vocabulary Detector
