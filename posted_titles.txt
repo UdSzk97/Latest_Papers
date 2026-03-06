@@ -9684,3 +9684,24 @@ AgilePruner: An Empirical Study of Attention and Diversity for Adaptive Visual T
 V_1: Unifying Generation and Self-Verification for Parallel Reasoners
 MIBURI: Towards Expressive Interactive Gesture Synthesis
 HDINO: A Concise and Efficient Open-Vocabulary Detector
+Exoplanet Synchronization in the Habitable Zone: Learning from Venus’ Retrograde Rotation
+The Fate of Frozen Carbonated Water at Europa-like Conditions
+MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier
+DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval
+RoboPocket: Improve Robot Policies Instantly with Your Phone
+SkillNet: Create, Evaluate, and Connect AI Skills
+HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images
+AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios
+SageBwd: A Trainable Low-bit Attention
+Large Multimodal Models as General In-Context Classifiers
+MASQuant: Modality-Aware Smoothing Quantization for Multimodal Large Language Models
+DreamWorld: Unified World Modeling in Video Generation
+RealWonder: Real-Time Physical Action-Conditioned Video Generation
+Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline
+On-Policy Self-Distillation for Reasoning Compression
+KARL: Knowledge Agents via Reinforcement Learning
+Locality-Attending Vision Transformer
+Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling
+Mozi: Governed Autonomy for Drug Discovery LLM Agents
+UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data
+Distribution-Conditioned Transport
