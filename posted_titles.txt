@@ -9705,3 +9705,12 @@ Timer-S1: A Billion-Scale Time Series Foundation Model with Serial Scaling
 Mozi: Governed Autonomy for Drug Discovery LLM Agents
 UltraDexGrasp: Learning Universal Dexterous Grasping for Bimanual Robots with Synthetic Data
 Distribution-Conditioned Transport
+A VNIR spectral database of terrestrial magmatic rocks for the interpretation of Martian plagioclase hyperspectral detections
+Evidence of Recent Material Transport within a Binary Asteroid System
+Not Earth-like yet Temperate? More Generic Climate Feedback Configurations Still Allow Temperate Climates in Habitable Zone Exo-Earth Candidates
+Reactive gossans as iron-rich Mars analogue environments of astrobiological interest, Axel Heiberg Island, Nunavut
+Interactive Benchmarks
+STMI: Segmentation-Guided Token Modulation with Cross-Modal Hypergraph Interaction for Multi-Modal Object Re-Identification
+Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics Modeling
+Lightweight Visual Reasoning for Socially-Aware Robots
+Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
