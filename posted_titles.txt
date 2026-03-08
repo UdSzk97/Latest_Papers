@@ -9715,3 +9715,4 @@ Latent Particle World Models: Self-supervised Object-centric Stochastic Dynamics
 Lightweight Visual Reasoning for Socially-Aware Robots
 Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
 A prolonged bombardment history of asteroid 4 Vesta: insights from U–Pb chronology of eucrite phosphates and zircons
+Hydrocarbon complexity and photochemical shielding of prebiotic feedstock molecules in exoplanet atmospheres
