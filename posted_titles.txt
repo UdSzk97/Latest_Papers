@@ -9716,3 +9716,27 @@ Lightweight Visual Reasoning for Socially-Aware Robots
 Truncated Step-Level Sampling with Process Rewards for Retrieval-Augmented Reasoning
 A prolonged bombardment history of asteroid 4 Vesta: insights from U–Pb chronology of eucrite phosphates and zircons
 Hydrocarbon complexity and photochemical shielding of prebiotic feedstock molecules in exoplanet atmospheres
+Predictions of the Nancy Grace Roman Space Telescope Galactic Exoplanet Survey. IV. Lens Mass and Distance Measurements
+A Narrowband Technosignature Search toward the Hycean Candidate K2-18 b Using the VLA and MeerKAT
+Stellar Flare Study of nearby Young Moving Group Members with TESS Data
+Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders
+BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning
+Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model
+Progressive Residual Warmup for Language Model Pretraining
+RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies
+WildActor: Unconstrained Identity-Preserving Video Generation
+Reasoning Models Struggle to Control their Chains of Thought
+HiMAP-Travel: Hierarchical Multi-Agent Planning for Long-Horizon Constrained Travel
+FlashPrefill: Instantaneous Pattern Discovery and Thresholding for Ultra-Fast Long-Context Prefilling
+π-StepNFT: Wider Space Needs Finer Steps in Online RL for Flow-based VLAs
+Mario: Multimodal Graph Reasoning with Large Language Models
+Physical Simulator In-the-Loop Video Generation
+Dynamic Chunking Diffusion Transformer
+SLER-IR: Spherical Layer-wise Expert Routing for All-in-One Image Restoration
+PixARMesh: Autoregressive Mesh-Native Single-View Scene Reconstruction
+Beyond the Grid: Layout-Informed Multi-Vector Retrieval with Parsed Visual Document Representations
+DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation
+WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching
+Making Reconstruction FID Predictive of Diffusion Generation FID
+Layer by layer, module by module: Choose both for optimal OOD probing of ViT
+Demystifying Action Space Design for Robotic Manipulation Policies
