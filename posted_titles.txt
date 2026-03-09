@@ -9740,3 +9740,13 @@ WorldCache: Accelerating World Models for Free via Heterogeneous Token Caching
 Making Reconstruction FID Predictive of Diffusion Generation FID
 Layer by layer, module by module: Choose both for optimal OOD probing of ViT
 Demystifying Action Space Design for Robotic Manipulation Policies
+Geology of Rimae Bode region as priority site candidate for China’s first crewed lunar mission
+First Global Map of Mercury’s Surface Roughness Down to Kilometric Baselines: Implications for the Planet’s Geologic Evolution
+EffectMaker: Unifying Reasoning and Generation for Customized Visual Effect Creation
+DreamCAD: Scaling Multi-modal CAD Generation using Differentiable Parametric Surfaces
+τ-Knowledge: Evaluating Conversational Agents over Unstructured Knowledge
+Dynamic Model Routing and Cascading for Efficient LLM Inference: A Survey
+Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation
+IF-RewardBench: Benchmarking Judge Models for Instruction-Following Evaluation
+Operator Learning Using Weak Supervision from Walk-on-Spheres
+Physics Informed Viscous Value Representations
