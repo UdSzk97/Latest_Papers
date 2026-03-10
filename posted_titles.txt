@@ -9791,3 +9791,16 @@ MWM: Mobile World Models for Action-Conditioned Consistent Prediction
 Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity
 SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation
 Autophoresis of a Janus particle near a planar wall: a lubrication limit
+Backscattering Characteristics and the Underlying Mechanism of Lunar Soil at the Chang’e-6 Landing Site: Insight from In Situ Spectroscopy Analyses
+Heat Reveals What Clouds Conceal: Global Carbon and Longitudinally Asymmetric Chemistry on LTT 9779 b
+One hundred years of Venus polarimetry: PICSARR observations of the phase curves
+Dust, gas activity and morphology of comet 12P/Pons-Brooks at heliocentric distances beyond 1.1 au
+Observed Changes in Mars Soil Thermophysical Properties Due to Rover Wheel Interactions: MER Mini-TES Observations and Applications to Upcoming Lunar Rover Exploration
+Training-free Latent Inter-Frame Pruning with Attention Recovery
+Scaling Data Difficulty: Improving Coding Models via Reinforcement Learning on Fresh and Challenging Problems
+Breaking Training Bottlenecks: Effective and Stable Reinforcement Learning for Coding Models
+Variational Flow Maps: Make Some Noise for One-Step Conditional Generation
+LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models
+MedSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering
+Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation
+ByteFlow: Language Modeling through Adaptive Byte Compression without a Tokenizer
