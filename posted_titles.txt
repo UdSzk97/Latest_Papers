@@ -9750,3 +9750,44 @@ Censored LLMs as a Natural Testbed for Secret Knowledge Elicitation
 IF-RewardBench: Benchmarking Judge Models for Instruction-Following Evaluation
 Operator Learning Using Weak Supervision from Walk-on-Spheres
 Physics Informed Viscous Value Representations
+Terrestrial ages of meteorites from the Atacama Desert (Chile) and insights into the past meteorite flux to Earth
+Worlds between Earth and Neptune defy a simple story
+Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence
+Lost in Stories: Consistency Bugs in Long Story Generation by LLMs
+How Far Can Unsupervised RLVR Scale LLM Training?
+Believe Your Model: Distribution-Guided Confidence Calibration
+LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory
+CARE-Edit: Condition-Aware Routing of Experts for Contextual Image Editing
+CoCo: Code as CoT for Text-to-Image Preview and Rare Concept Generation
+HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising
+\$OneMillion-Bench: How Far are Language Agents from Human Experts?
+Concept-Guided Fine-Tuning: Steering ViTs away from Spurious Correlations to Improve Robustness
+Scaling Agentic Capabilities, Not Context: Efficient Reinforcement Finetuning for Large Toolspaces
+PIRA-Bench: A Transition from Reactive GUI Agents to GUI-based Proactive Intent Recommendation Agents
+TDM-R1: Reinforcing Few-Step Diffusion Models with Non-Differentiable Reward
+PureCC: Pure Learning for Text-to-Image Concept Customization
+Unlocking Data Value in Finance: A Study on Distillation and Difficulty-Aware Training
+From Narrow to Panoramic Vision: Attention-Guided Cold-Start Reshapes Multimodal Reasoning
+Scale Space Diffusion
+Agentic Critical Training
+NLE: Non-autoregressive LLM-based ASR by Transcript Editing
+FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models
+AutoResearch-RL: Perpetual Self-Evaluating Reinforcement Learning Agents for Autonomous Neural Architecture Discovery
+CaTok: Taming Mean Flows for One-Dimensional Causal Image Tokenization
+NaviDriveVLM: Decoupling High-Level Reasoning and Motion Planning for Autonomous Driving
+OfficeQA Pro: An Enterprise Benchmark for End-to-End Grounded Reasoning
+Skip to the Good Part: Representation Structure & Inference-Time Layer Skipping in Diffusion vs. Autoregressive LLMs
+Making LLMs Optimize Multi-Scenario CUDA Kernels Like Experts
+Building AI Coding Agents for the Terminal: Scaffolding, Harness, Context Engineering, and Lessons Learned
+Generalizable Knowledge Distillation from Vision Foundation Models for Semantic Segmentation
+SlowBA: An efficiency backdoor attack towards VLM-based GUI agents
+PresentBench: A Fine-Grained Rubric-Based Benchmark for Slide Generation
+HY-WU (Part I): An Extensible Functional Neural Memory Framework and An Instantiation in Text-Guided Image Editing
+Agentic Planning with Reasoning for Image Styling via Offline RL
+Spatiotemporal Heterogeneity of AI-Driven Traffic Flow Patterns and Land Use Interaction: A GeoAI-Based Analysis of Multimodal Urban Mobility
+TAPFormer: Robust Arbitrary Point Tracking via Transient Asynchronous Fusion of Frames and Events
+HydroShear: Hydroelastic Shear Simulation for Tactile Sim-to-Real Reinforcement Learning
+MWM: Mobile World Models for Action-Conditioned Consistent Prediction
+Sparse-BitNet: 1.58-bit LLMs are Naturally Friendly to Semi-Structured Sparsity
+SeedPolicy: Horizon Scaling via Self-Evolving Diffusion Policy for Robot Manipulation
+Autophoresis of a Janus particle near a planar wall: a lubrication limit
