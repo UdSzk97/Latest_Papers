@@ -9804,3 +9804,27 @@ LiveWorld: Simulating Out-of-Sight Dynamics in Generative Video World Models
 MedSteer: Counterfactual Endoscopic Synthesis via Training-Free Activation Steering
 Retrieval-Augmented Generation for Predicting Cellular Responses to Gene Perturbation
 ByteFlow: Language Modeling through Adaptive Byte Compression without a Tokenizer
+Characterizing Lunar Regolith at the Chang’E-3 Landing Site with an Improved Microphysical Photometric Model
+Particle-in-cell Simulations of Plasma Oscillations Excited by Dust Impacts
+Interaction between ilmenite-bearing cumulates and lunar mantle: implications for the origin of intermediate and high-titanium lunar basalts
+Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing
+Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion
+Thinking to Recall: How Reasoning Unlocks Parametric Knowledge in LLMs
+MM-Zero: Self-Evolving Multi-Model Vision Language Models From Zero Data
+InternVL-U: Democratizing Unified Multimodal Models for Understanding, Reasoning, Generation and Editing
+Stepping VLMs onto the Court: Benchmarking Spatial Intelligence in Sports
+Reading, Not Thinking: Understanding and Bridging the Modality Gap When Text Becomes Pixels in Multimodal LLMs
+VLM-SubtleBench: How Far Are VLMs from Human-Level Subtle Comparative Reasoning?
+Do What I Say: A Spoken Prompt Dataset for Instruction-Following
+MiniAppBench: Evaluating the Shift from Text to Interactive HTML Responses in LLM-Powered Assistants
+Fish Audio S2 Technical Report
+Are Audio-Language Models Listening? Audio-Specialist Heads for Adaptive Audio Steering
+Streaming Autoregressive Video Generation via Diagonal Distillation
+Decoupling Reasoning and Confidence: Resurrecting Calibration in Reinforcement Learning from Verifiable Rewards
+The Reasoning Trap -- Logical Reasoning as a Mechanistic Pathway to Situational Awareness
+ConFu: Contemplate the Future for Better Speculative Sampling
+SAHOO: Safeguarded Alignment for High-Order Optimization Objectives in Recursive Self-Improvement
+BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-Video Generation
+Towards a Neural Debugger for Python
+Reward Prediction with Factorized World States
+A Text-Native Interface for Generative Video Authoring
