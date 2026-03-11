@@ -9828,3 +9828,13 @@ BrandFusion: A Multi-Agent Framework for Seamless Brand Integration in Text-to-V
 Towards a Neural Debugger for Python
 Reward Prediction with Factorized World States
 A Text-Native Interface for Generative Video Authoring
+Revealing Exotic Nanophase Iron in Lunar Samples through Impact-driven Spatial Fingerprints
+Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral Specifications
+Compiler-First State Space Duality and Portable O(1) Autoregressive Caching for Inference
+BiCLIP: Domain Canonicalization via Structured Geometric Transformation
+Bolbosh: Script-Aware Flow Matching for Kashmiri Text-to-Speech
+ReflexiCoder: Teaching Large Language Models to Self-Reflect on Generated Code and Self-Correct It via Reinforcement Learning
+Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Control
+Micro-Diffusion Compression -- Binary Tree Tweedie Denoising for Online Probability Estimation
+TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery
+Multi-Head Low-Rank Attention
