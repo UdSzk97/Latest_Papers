@@ -9838,3 +9838,25 @@ Beyond Test-Time Training: Learning to Reason via Hardware-Efficient Optimal Con
 Micro-Diffusion Compression -- Binary Tree Tweedie Denoising for Online Probability Estimation
 TALON: Test-time Adaptive Learning for On-the-Fly Category Discovery
 Multi-Head Low-Rank Attention
+Non‐innocent solvents in meteorite extractions: Evidence for artifact formation
+OpenClaw-RL: Train Any Agent Simply by Talking
+Flash-KMeans: Fast and Memory-Efficient Exact K-Means
+MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents
+In-Context Reinforcement Learning for Tool Use in Large Language Models
+ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning
+Can Large Language Models Keep Up? Benchmarking Online Adaptation to Continual Knowledge Streams
+RetroAgent: From Solving to Evolving via Retrospective Dual Intrinsic Feedback
+CodePercept: Code-Grounded Visual STEM Perception for MLLMs
+Prism-Δ: Differential Subspace Steering for Prompt Highlighting in Large Language Models
+V_{0.5}: Generalist Value Model as a Prior for Sparse RL Rollouts
+Just-in-Time: Training-Free Spatial Acceleration for Diffusion Transformers
+Bootstrapping Exploration with Group-Level Natural Language Feedback in Reinforcement Learning
+RbtAct: Rebuttal as Supervision for Actionable Review Feedback Generation
+Hindsight Credit Assignment for Long-Horizon LLM Agents
+V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation
+UniCom: Unified Multimodal Modeling via Compressed Continuous Semantic Representations
+CLIPO: Contrastive Learning in Policy Optimization Generalizes RLVR
+Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with Large Language Models
+EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation
+Any to Full: Prompting Depth Anything for Depth Completion in One Stage
+LLM2Vec-Gen: Generative Embeddings from Large Language Models
