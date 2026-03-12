@@ -9860,3 +9860,13 @@ Code-Space Response Oracles: Generating Interpretable Multi-Agent Policies with 
 EmboAlign: Aligning Video Generation with Compositional Constraints for Zero-Shot Manipulation
 Any to Full: Prompting Depth Anything for Depth Completion in One Stage
 LLM2Vec-Gen: Generative Embeddings from Large Language Models
+The neodymium and samarium isotope compositions and cosmic ray exposure history of B-type asteroid (101955) Bennu
+Dust, gas activity and morphology of comet 12P/Pons–Brooks at heliocentric distances beyond 1.1 au
+SVG-EAR: Parameter-Free Linear Compensation for Sparse Video Generation via Error-aware Routing
+ID-LoRA: Identity-Driven Audio-Video Personalization with In-Context LoRA
+COMIC: Agentic Sketch Comedy Generation
+Causal Concept Graphs in LLM Latent Space for Stepwise Reasoning
+Lost in Backpropagation: The LM Head is a Gradient Bottleneck
+Meissa: Multi-modal Medical Agentic Intelligence
+According to Me: Long-Term Personalized Referential Memory QA
+StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving
