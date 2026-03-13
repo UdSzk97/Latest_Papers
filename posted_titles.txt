@@ -9911,3 +9911,14 @@ The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training
 Training Language Models via Neural Cellular Automata
 Causal Attribution of Coastal Water Clarity Degradation to Nickel Processing Expansion at the Indonesia Morowali Industrial Park, Sulawesi
 A Mixed Diet Makes DINO An Omnivorous Vision Encoder
+Worlds Next Door. III. Indirect Evidence for Enhanced Atmospheric Metallicity and/or the Presence of Water Clouds in the Nearest Jupiter-analog ϵ Eri b
+A new pair of lunar gabbroic meteorites record magma recharge at ∼ 3.0 Ga
+Origin of the ice of the Latitude Dependent Mantle (LDM) revealed by ice-exposing scarps on Mars
+Variability of Europa’s Optical Aurora on Orbital and Multiyear Timescales
+Chang’E-6 reveals solar wind–dependent H− ions on the Moon
+CREATE: Testing LLMs for Associative Creativity
+RubiCap: Rubric-Guided Reinforcement Learning for Dense Image Captioning
+Meta-Reinforcement Learning with Self-Reflection for Agentic Search
+PACED: Distillation at the Frontier of Student Competence
+SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Survival Analysis
+Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights
