@@ -9870,3 +9870,44 @@ Lost in Backpropagation: The LM Head is a Gradient Bottleneck
 Meissa: Multi-modal Medical Agentic Intelligence
 According to Me: Long-Term Personalized Referential Memory QA
 StyleVLA: Driving Style-Aware Vision Language Action Model for Autonomous Driving
+Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training
+IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse
+Video-Based Reward Modeling for Computer-Use Agents
+Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections
+DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning
+Trust Your Critic: Robust Reward Modeling and Reinforcement Learning for Faithful Image Editing and Generation
+WeEdit: A Dataset, Benchmark and Glyph-Guided Framework for Text-centric Image Editing
+GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing
+DVD: Deterministic Video Depth Estimation with Generative Priors
+ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation
+EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation
+OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams
+EndoCoT: Scaling Endogenous Chain-of-Thought Reasoning in Diffusion Models
+One Model, Many Budgets: Elastic Latent Interfaces for Diffusion Transformers
+XSkill: Continual Learning from Experience and Skills in Multimodal Agents
+Mobile-GS: Real-time Gaussian Splatting for Mobile Devices
+Are Video Reasoning Models Ready to Go Outside?
+DIVE: Scaling Diversity in Agentic Task Synthesis for Generalizable Tool Use
+Examining Reasoning LLMs-as-Judges in Non-Verifiable LLM Post-Training
+Coarse-Guided Visual Generation via Weighted h-Transform Sampling
+Understanding by Reconstruction: Reversing the Software Development Process for LLM Pretraining
+Geometric Autoencoder for Diffusion Models
+Automatic Generation of High-Performance RL Environments
+Multi-Task Reinforcement Learning for Enhanced Multimodal LLM-as-a-Judge
+Tiny Aya: Bridging Scale and Multilingual Depth
+FireRedASR2S: A State-of-the-Art Industrial-Grade All-in-One Automatic Speech Recognition System
+TeamHOI: Learning a Unified Policy for Cooperative Human-Object Interactions with Any Team Size
+SoundWeaver: Semantic Warm-Starting for Text-to-Audio Diffusion Serving
+Accent Vector: Controllable Accent Manipulation for Multilingual TTS Without Accented Data
+EmbTracker: Traceable Black-box Watermarking for Federated Language Models
+Dr. SHAP-AV: Decoding Relative Modality Contributions via Shapley Attribution in Audio-Visual Speech Recognition
+Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation
+NerVE: Nonlinear Eigenspectrum Dynamics in LLM Feed-Forward Networks
+Simple Recipe Works: Vision-Language-Action Models are Natural Continual Learners with Reinforcement Learning
+Attention Sinks Are Provably Necessary in Softmax Transformers: Evidence from Trigger-Conditional Tasks
+HyPER-GAN: Hybrid Patch-Based Image-to-Image Translation for Real-Time Photorealism Enhancement
+The Curse and Blessing of Mean Bias in FP4-Quantized LLM Training
+4DEquine: Disentangling Motion and Appearance for 4D Equine Reconstruction from Monocular Video
+Training Language Models via Neural Cellular Automata
+Causal Attribution of Coastal Water Clarity Degradation to Nickel Processing Expansion at the Indonesia Morowali Industrial Park, Sulawesi
+A Mixed Diet Makes DINO An Omnivorous Vision Encoder
