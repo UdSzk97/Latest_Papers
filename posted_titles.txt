@@ -9924,3 +9924,34 @@ SurvHTE-Bench: A Benchmark for Heterogeneous Treatment Effect Estimation in Surv
 Neural Thickets: Diverse Task Experts Are Dense Around Pretrained Weights
 WaDi: Weight Direction-aware Distillation for One-step Image Synthesis
 A Search for the Lunar Ionosphere With Danuri/Korea Pathfinder Lunar Orbiter (KPLO) Radio Occultations
+Multibandpass Photometry for Exoplanet Atmosphere Reconnaissance (MPEAR) with the Habitable Worlds Observatory (HWO). I. Differentiating Earth from Neptunes during Discovery
+JWST Spectral Retrieval of Cold Directly Imaged Planet WD 0806 b and the First Measurement of Altitude-dependent K zz in Exoplanet Atmospheres
+Possible Stratospheric Emission in the Warm Neptune GJ 436 b from High-resolution Spectroscopy
+3D Hydrodynamic Simulations of Massive Main-sequence Stars. IV. Internal Gravity Wave Matter for Stochastic Low-frequency Variability
+Atmospheric Collapse and Habitability on Tidally Locked Exoplanets
+An Investigation on the Apparent North‐South Asymmetry Identified in Multiple Current Sheet Crossing Events in Jovian Dawn Outer Magnetosphere
+LMEB: Long-horizon Memory Embedding Benchmark
+Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation
+daVinci-Env: Open SWE Environment Synthesis at Scale
+OmniForcing: Unleashing Real-time Joint Audio-Visual Generation
+Visual-ERM: Reward Modeling for Visual Equivalence
+V-Bridge: Bridging Video Generative Priors to Versatile Few-shot Image Restoration
+MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning
+HomeSafe-Bench: Evaluating Vision-Language Models on Unsafe Action Detection for Embodied Agents in Household Scenarios
+Multimodal OCR: Parse Anything from Documents
+Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously
+Steve-Evolving: Open-World Embodied Self-Evolution via Fine-Grained Diagnosis and Dual-Track Knowledge Distillation
+From Sparse to Dense: Multi-View GRPO for Flow Models via Augmented Condition Space
+Can Vision-Language Models Solve the Shell Game?
+HybridStitch: Pixel and Timestep Level Model Stitching for Diffusion Acceleration
+VQQA: An Agentic Approach for Video Evaluation and Quality Improvement
+LookaheadKV: Fast and Accurate KV Cache Eviction by Glimpsing into the Future without Generation
+Spend Less, Reason Better: Budget-Aware Value Tree Search for LLM Agents
+Think While Watching: Online Streaming Segment-Level Memory for Multi-Turn Video Reasoning in Multimodal Large Language Models
+CreativeBench: Benchmarking and Enhancing Machine Creativity via Self-Evolving Challenges
+SimRecon: SimReady Compositional Scene Reconstruction from Real Videos
+Surprised by Attention: Predictable Query Dynamics for Time Series Anomaly Detection
+NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder for Visual Document Retrieval
+Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol
+ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection
+Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction
