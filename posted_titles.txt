@@ -9955,3 +9955,10 @@ NanoVDR: Distilling a 2B Vision-Language Retriever into a 70M Text-Only Encoder 
 Detecting Intrinsic and Instrumental Self-Preservation in Autonomous Agents: The Unified Continuation-Interest Protocol
 ECoLAD: Deployment-Oriented Evaluation for Automotive Time-Series Anomaly Detection
 Fine-grained Motion Retrieval via Joint-Angle Motion Images and Token-Patch Late Interaction
+A complete set of canonical nucleobases in the carbonaceous asteroid (162173) Ryugu
+EvoScientist: Towards Multi-Agent Evolving AI Scientists for End-to-End Scientific Discovery
+Can Fairness Be Prompted? Prompt-Based Debiasing Strategies in High-Stakes Recommendations
+Compression Favors Consistency, Not Truth: When and Why Language Models Prefer Correct Information
+Taking Shortcuts for Categorical VQA Using Super Neurons
+SDF-Net: Structure-Aware Disentangled Feature Learning for Opticall-SAR Ship Re-identification
+Do You See What I Am Pointing At? Gesture-Based Egocentric Video Question Answering
