@@ -10002,3 +10002,11 @@ Garments2Look: A Multi-Reference Dataset for High-Fidelity Outfit-Level Virtual 
 SCoCCA: Multi-modal Sparse Concept Decomposition via Canonical Correlation Analysis
 SNCE: Geometry-Aware Supervision for Scalable Discrete Image Generation
 sebis at ArchEHR-QA 2026: How Much Can You Do Locally? Evaluating Grounded EHR QA on a Single Notebook
+POLCA: Stochastic Generative Optimization with LLM
+The PokeAgent Challenge: Competitive and Long-Context Learning at Scale
+VisionCoach: Reinforcing Grounded Video Reasoning via Visual-Perception Prompting
+HorizonMath: Measuring AI Progress Toward Mathematical Discovery with Automatic Verification
+Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact Exchange
+Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion
+Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion
+VoXtream2: Full-stream TTS with dynamic speaking rate control
