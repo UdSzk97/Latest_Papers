@@ -10010,3 +10010,46 @@ Autonomous Agents Coordinating Distributed Discovery Through Emergent Artifact E
 Spectrum Matching: a Unified Perspective for Superior Diffusability in Latent Diffusion
 Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion
 VoXtream2: Full-stream TTS with dynamic speaking rate control
+Identifying Exoplanets with Deep Learning. VI. Enhancing Neural Network Mitigation of Stellar Activity RV Signals with Additional Metrics
+Power Spectral Characteristics of Martian Ionospheric Irregularities
+InCoder-32B: Code Foundation Model for Industrial Scenarios
+MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification
+Qianfan-OCR: A Unified End-to-End Model for Document Intelligence
+Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation
+Demystifing Video Reasoning
+WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation
+TRUST-SQL: Tool-Integrated Multi-Turn Reinforcement Learning for Text-to-SQL over Unknown Schemas
+Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding
+Online Experiential Learning for Language Models
+FinToolBench: Evaluating LLM Agents for Real-World Financial Tool Use
+Rethinking UMM Visual Generation: Masked Modeling for Efficient Image-Only Pre-training
+WiT: Waypoint Diffusion Transformers via Trajectory Conflict Navigation
+AgentProcessBench: Diagnosing Step-Level Process Quality in Tool-Using Agents
+SegviGen: Repurposing 3D Generative Model for Part Segmentation
+SocialOmni: Benchmarking Audio-Visual Social Interactivity in Omni Models
+GradMem: Learning to Write Context into Memory with Test-Time Gradient Descent
+SWE-Skills-Bench: Do Agent Skills Actually Help in Real-World Software Engineering?
+Efficient Reasoning on the Edge
+One-Eval: An Agentic System for Automated and Traceable LLM Evaluation
+M^3: Dense Matching Meets Multi-View Foundation Models for Monocular Gaussian Splatting SLAM
+Reliable Reasoning in SVG-LLMs via Multi-Task Multi-Reward Reinforcement Learning
+Semi-Autonomous Formalization of the Vlasov-Maxwell-Landau Equilibrium
+From Passive Observer to Active Critic: Reinforcement Learning Elicits Process Reasoning for Robotic Manipulation
+SK-Adapter: Skeleton-Based Structural Control for Native 3D Generation
+Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context
+Mixture of Style Experts for Diverse Image Stylization
+FlashSampling: Fast and Memory-Efficient Exact Sampling
+MolmoB0T: Large-Scale Simulation Enables Zero-Shot Manipulation
+Anticipatory Planning for Multimodal AI Agents
+Learning Human-Object Interaction for 3D Human Pose Estimation from LiDAR Point Clouds
+Polyglot-Lion: Efficient Multilingual ASR for Singapore via Balanced Fine-Tuning of Qwen3-ASR
+OneWorld: Taming Scene Generation with 3D Unified Representation Autoencoder
+ViT-AdaLA: Adapting Vision Transformers with Linear Attention
+CCTU: A Benchmark for Tool Use under Complex Constraints
+SuperLocalMemory V3: Information-Geometric Foundations for Zero-LLM Enterprise Agent Memory
+Theoretical Foundations of Latent Posterior Factors: Formal Guarantees for Multi-Evidence Reasoning
+I Know What I Don't Know: Latent Posterior Factor Models for Multi-Evidence Probabilistic Reasoning
+VAREX: A Benchmark for Multi-Modal Structured Extraction from Documents
+Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimality of Diffusion Models via Graph-Theoretic Planning
+Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia
+Test-Time Strategies for More Efficient and Accurate Agentic RAG
