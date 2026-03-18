@@ -10053,3 +10053,18 @@ VAREX: A Benchmark for Multi-Modal Structured Extraction from Documents
 Chain-of-Trajectories: Unlocking the Intrinsic Generative Optimality of Diffusion Models via Graph-Theoretic Planning
 Measuring Primitive Accumulation: An Information-Theoretic Approach to Capitalist Enclosure in PIK2, Indonesia
 Test-Time Strategies for More Efficient and Accurate Agentic RAG
+A prolonged bombardment history of asteroid 4 Vesta: Insights from U–Pb chronology of eucrite phosphates and zircons
+Ground penetrating radar observations of ancient large-scale deltaic structures in Jezero crater, Mars
+Searching for surficial water ice in lunar permanently shaded regions (PSRs) with ShadowCam
+Upper Atmosphere Dynamics and Drivers of Volatiles Loss from Terrestrial-Type (Exo)Planets
+MEMO: Memory-Augmented Model Context Optimization for Robust Multi-Turn Multi-Agent LLM Games
+SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation
+Omnilingual MT: Machine Translation for 1,600 Languages
+V-Co: A Closer Look at Visual Representation Alignment via Co-Denoising
+Sparking Scientific Creativity via LLM-Driven Interdisciplinary Inspiration
+MDM-Prime-v2: Binary Encoding and Index Shuffling Enable Compute-optimal Scaling of Diffusion Language Models
+Residual Stream Duality in Modern Transformer Architectures
+ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilities in ECG Interpretation
+HistoAtlas: A Pan-Cancer Morphology Atlas Linking Histomics to Molecular Programs and Clinical Outcomes
+ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning
+BERTology of Molecular Property Prediction
