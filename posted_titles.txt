@@ -10094,3 +10094,11 @@ VideoAtlas: Navigating Long-Form Video in Logarithmic Compute
 AI Scientist via Synthetic Task Scaling
 ACE-LoRA: Graph-Attentive Context Enhancement for Parameter-Efficient Adaptation of Medical Vision-Language Models
 PRISM: Demystifying Retention and Interaction in Mid-Training
+ExoIris: Fast Exoplanet Transmission Spectroscopy in Python
+Expert Threshold Routing for Autoregressive Language Modeling with Dynamic Computation Allocation and Load Balancing
+V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning
+FINER: MLLMs Hallucinate under Fine-grained Negative Queries
+HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models
+Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass
+From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning
+Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA
