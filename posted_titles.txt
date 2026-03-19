@@ -10068,3 +10068,29 @@ ECG-Reasoning-Benchmark: A Benchmark for Evaluating Clinical Reasoning Capabilit
 HistoAtlas: A Pan-Cancer Morphology Atlas Linking Histomics to Molecular Programs and Clinical Outcomes
 ARISE: Agent Reasoning with Intrinsic Skill Evolution in Hierarchical Reinforcement Learning
 BERTology of Molecular Property Prediction
+Nonreciprocal buckling makes active filaments polyfunctional
+Lunar Regolith Sampling by Combining Electrostatic Force Generation and Vibration
+Video-CoE: Reinforcing Video Event Prediction via Chain of Events
+MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild
+MosaicMem: Hybrid Spatial Memory for Controllable Video World Models
+Complementary Reinforcement Learning
+Alignment Makes Language Models Normative, Not Descriptive
+Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models
+Temporal Gains, Spatial Costs: Revisiting Video Fine-Tuning in Multimodal Large Language Models
+GigaWorld-Policy: An Efficient Action-Centered World--Action Model
+BenchPreS: A Benchmark for Context-Aware Personalized Preference Selectivity of Persistent-Memory LLMs
+ESPIRE: A Diagnostic Benchmark for Embodied Spatial Reasoning of Vision-Language Models
+When AI Navigates the Fog of War
+LoST: Level of Semantics Tokenization for 3D Shapes
+Conservative Offline Robot Policy Learning via Posterior-Transition Reweighting
+Stereo World Model: Camera-Guided Stereo Video Generation
+AdaMem: Adaptive User-Centric Memory for Long-Horizon Dialogue Agents
+Unified Spatio-Temporal Token Scoring for Efficient Video VLMs
+LaDe: Unified Multi-Layered Graphic Media Generation and Decomposition
+Efficient Exploration at Scale
+Efficient Training-Free Multi-Token Prediction via Embedding-Space Probing
+RAMP: Reinforcement Adaptive Mixed Precision Quantization for Efficient On Device LLM Inference
+VideoAtlas: Navigating Long-Form Video in Logarithmic Compute
+AI Scientist via Synthetic Task Scaling
+ACE-LoRA: Graph-Attentive Context Enhancement for Parameter-Efficient Adaptation of Medical Vision-Language Models
+PRISM: Demystifying Retention and Interaction in Mid-Training
