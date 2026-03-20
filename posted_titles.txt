@@ -10102,3 +10102,28 @@ HeBA: Heterogeneous Bottleneck Adapters for Robust Vision-Language Models
 Coherent Human-Scene Reconstruction from Multi-Person Multi-View Video in a Single Pass
 From Prior to Pro: Efficient Skill Mastery via Distribution Contractive RL Finetuning
 Fanar-Sadiq: A Multi-Agent Architecture for Grounded Islamic QA
+Joint Long-baseline Study Based on WASP, Kepler, and TESS: Revealing the Pulsation Characteristics of δ Scuti Star KIC 8712760
+Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding
+SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing
+FASTER: Rethinking Real-Time Flow VLAs
+3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model
+Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer
+MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction
+LVOmniBench: Pioneering Long Audio-Video Understanding Evaluation for Omnimodal LLMs
+Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens
+Memento-Skills: Let Agents Design Agents
+F2LLM-v2: Inclusive, Performant, and Efficient Embeddings for a Multilingual World
+Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation
+Cognitive Mismatch in Multimodal Large Language Models for Discrete Symbol Understanding
+EffectErase: Joint Video Object Removal and Insertion for High-Quality Effect Erasing
+VTC-Bench: Evaluating Agentic Multimodal Models via Compositional Visual Tool Chaining
+MOSS-TTS Technical Report
+OSM-based Domain Adaptation for Remote Sensing VLMs
+ProRL Agent: Rollout-as-a-Service for RL Training of Multi-Turn LLM Agents
+Loc3R-VLM: Language-based Localization and 3D Reasoning with Vision-Language Models
+MHPO: Modulated Hazard-aware Policy Optimization for Stable Reinforcement Learning
+Reasoning over mathematical objects: on-policy reward modeling and test time aggregation
+Prompt-Free Universal Region Proposal Network
+Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation
+Matryoshka Gaussian Splatting
+COT-FM: Cluster-wise Optimal Transport Flow Matching
