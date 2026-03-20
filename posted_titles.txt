@@ -10127,3 +10127,13 @@ Prompt-Free Universal Region Proposal Network
 Mending the Holes: Mitigating Reward Hacking in Reinforcement Learning for Multilingual Translation
 Matryoshka Gaussian Splatting
 COT-FM: Cluster-wise Optimal Transport Flow Matching
+Color and Size Distributions of Small Jupiter Trojans
+The influence of layered roof on the stability of lunar lava tubes
+ReactMotion: Generating Reactive Listener Motions from Speaker Utterance
+AndroTMem: From Interaction Trajectories to Anchored Memory in Long-Horizon GUI Agents
+Tinted Frames: Question Framing Blinds Vision-Language Models
+SimulU: Training-free Policy for Long-form Simultaneous Speech-to-Speech Translation
+What Really Controls Temporal Reasoning in Large Language Models: Tokenisation or Representation of Time?
+DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising
+PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark
+VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction
