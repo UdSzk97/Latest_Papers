@@ -10137,3 +10137,4 @@ What Really Controls Temporal Reasoning in Large Language Models: Tokenisation o
 DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative Latent Denoising
 PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark
 VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction
+Preparation and characterization of an S-type asteroid regolith simulant based on the mineral composition of Itokawa particles
