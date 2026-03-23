@@ -10163,3 +10163,17 @@ CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware
 Teaching an Agent to Sketch One Part at a Time
 s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs
 Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders
+Probabilistic Modeling of Lunar Topography for Exosphere Simulations and Implications for Helium, Neon, and Argon
+The Asteroid Framing Cameras on ESA’s Hera Mission
+Reasoning as Compression: Unifying Budget Forcing via the Conditional Information Bottleneck
+Breaking the Capability Ceiling of LLM Post-Training by Reintroducing Markov States
+DROID-SLAM in the Wild
+Probing Cultural Signals in Large Language Models through Author Profiling
+From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering
+ReLi3D: Relightable Multi-view 3D Reconstruction with Disentangled Illumination
+Adaptive Layerwise Perturbation: Unifying Off-Policy Corrections for LLM RL
+Automatic detection of Gen-AI texts: A comparative framework of neural models
+Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultrasound Image Segmentation
+TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos
+ReLMXEL: Adaptive RL-Based Memory Controller with Explainable Energy and Latency Optimization
+Human-AI Synergy in Agentic Code Review
