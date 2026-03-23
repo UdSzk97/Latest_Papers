@@ -10138,3 +10138,28 @@ DreamPartGen: Semantically Grounded Part-Level 3D Generation via Collaborative L
 PARSA-Bench: A Comprehensive Persian Audio-Language Model Benchmark
 VID-AD: A Dataset for Image-Level Logical Anomaly Detection under Vision-Induced Distraction
 Preparation and characterization of an S-type asteroid regolith simulant based on the mineral composition of Itokawa particles
+HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning
+Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models
+TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation
+ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models
+LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation
+FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow
+The Y-Combinator for LLMs: Solving Long-Context Rot with λ-Calculus
+A Subgoal-driven Framework for Improving Long-Horizon LLM Agents
+How Well Does Generative Recommendation Generalize?
+WorldAgents: Can Foundation Image Models be Agents for 3D World Models?
+BEAVER: A Training-Free Hierarchical Prompt Compression Method via Structure-Aware Page Selection
+Hyperagents
+EgoForge: Goal-Directed Egocentric World Simulator
+Deep Tabular Research via Continual Experience-Driven Execution
+LoopRPT: Reinforcement Pre-Training for Looped Language Models
+HiMu: Hierarchical Multimodal Frame Selection for Long Video Question Answering
+Versatile Editing of Video Content, Actions, and Dynamics without Training
+Beyond Single Tokens: Distilling Discrete Diffusion Models via Discrete MMD
+Cooperation and Exploitation in LLM Policy Synthesis for Sequential Social Dilemmas
+AgentDS Technical Report: Benchmarking the Future of Human-AI Collaboration in Domain-Specific Data Science
+Language on Demand, Knowledge at Core: Composing LLMs with Encoder-Decoder Translation Models for Extensible Multilinguality
+CurveStream: Boosting Streaming Video Understanding in MLLMs via Curvature-Aware Hierarchical Visual Memory Management
+Teaching an Agent to Sketch One Part at a Time
+s2n-bignum-bench: A practical benchmark for evaluating low-level code reasoning of LLMs
+Do VLMs Need Vision Transformers? Evaluating State Space Models as Vision Encoders
