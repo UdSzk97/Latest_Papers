@@ -10177,3 +10177,41 @@ Multiscale Switch for Semi-Supervised and Contrastive Learning in Medical Ultras
 TAPESTRY: From Geometry to Appearance via Consistent Turntable Videos
 ReLMXEL: Adaptive RL-Based Memory Controller with Explainable Energy and Latency Optimization
 Human-AI Synergy in Agentic Code Review
+TESS Hunt for Young and Maturing Exoplanets (THYME). XIV. A Comoving-based Age Constraint for KELT-20
+Revisiting the Orbital Dynamics of the Hot Jupiter WASP-12 b with New Transit Times
+Exomoons of Circumbinary Planets
+Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models
+Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model
+LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning
+VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding
+SpatialBoost: Enhancing Visual Representation through Language-Guided Reasoning
+F4Splat: Feed-Forward Predictive Densification for Feed-Forward 3D Gaussian Splatting
+Manifold-Aware Exploration for Reinforcement Learning in Video Generation
+mSFT: Addressing Dataset Mixtures Overfiting Heterogeneously in Multi-task SFT
+Group3D: MLLM-Driven Semantic Grouping for Open-Vocabulary 3D Object Detection
+BubbleRAG: Evidence-Driven Retrieval-Augmented Generation for Black-Box Knowledge Graphs
+RoboAlign: Learning Test-Time Reasoning for Language-Action Alignment in Vision-Language-Action Models
+Repurposing Geometric Foundation Models for Multi-view Diffusion
+OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis
+SEM: Sparse Embedding Modulation for Post-Hoc Debiasing of Vision-Language Models
+On the Direction of RLVR Updates for LLM Reasoning: Identification and Exploitation
+Insight-V++: Towards Advanced Long-Chain Visual Reasoning with Multimodal Large Language Models
+Scaling DoRA: High-Rank Adaptation via Factored Norms and Fused Kernels
+PivotRL: High Accuracy Agentic Post-Training at Low Compute Cost
+Generalized Discrete Diffusion from Snapshots
+Agentic AI and the next intelligence explosion
+WorldCache: Content-Aware Caching for Accelerated Video World Models
+AnimalCLAP: Taxonomy-Aware Language-Audio Pretraining for Species Recognition and Trait Inference
+Perceptio: Perception Enhanced Vision Language Models via Spatial Token Generation
+MemDLM: Memory-Enhanced DLM Training
+Demystifying Reinforcement Learning for Long-Horizon Tool-Using Agents: A Comprehensive Recipe
+Effective Strategies for Asynchronous Software Engineering Agents
+SNAP: Speaker Nulling for Artifact Projection in Speech Deepfake Detection
+REVERE: Reflective Evolving Research Engineer for Scientific Workflows
+The Universal Normal Embedding
+FluidWorld: Reaction-Diffusion Dynamics as a Predictive Substrate for World Models
+Understanding Behavior Cloning with Action Quantization
+In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Editing
+Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation
+Semantic Audio-Visual Navigation in Continuous Environments
+ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization
