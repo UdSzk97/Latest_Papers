@@ -10215,3 +10215,13 @@ In-the-Wild Camouflage Attack on Vehicle Detectors through Controllable Image Ed
 Not All Layers Are Created Equal: Adaptive LoRA Ranks for Personalized Image Generation
 Semantic Audio-Visual Navigation in Continuous Environments
 ToolRosetta: Bridging Open-Source Repositories and Large Language Model Agents through Automated Tool Standardization
+A Ground-based Transit Observation of the Long-period Extremely Low-density Planet HIP 41378 f
+A search for the lost comet P/2010 H2 (Vales)
+The Maskelyne irregular mare patch as interpreted with lunar optical data, including Danuri polarimetric measurements
+Helium on Mars
+Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs
+Scalable Prompt Routing via Fine-Grained Latent Task Discovery
+Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Based Flow Policies
+AdditiveLLM2: A Multi-modal Large Language Model for Additive Manufacturing
+Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs
+Aperiodic Structures Never Collapse: Fibonacci Hierarchies for Lossless Compression
