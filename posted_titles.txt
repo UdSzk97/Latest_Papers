@@ -10225,3 +10225,32 @@ Safe Flow Q-Learning: Offline Safe Reinforcement Learning with Reachability-Base
 AdditiveLLM2: A Multi-modal Large Language Model for Additive Manufacturing
 Progressive Training for Explainable Citation-Grounded Dialogue: Reducing Hallucination to Zero in English-Hindi LLMs
 Aperiodic Structures Never Collapse: Fibonacci Hierarchies for Lossless Compression
+Earth-mass Planets in Tandem Disks
+Thermal and Dielectric Properties of Juno’s Regolith at One Millimeter Wavelength
+MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding
+WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG
+PEARL: Personalized Streaming Video Understanding Model
+DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models
+From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents
+SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning
+SIMART: Decomposing Monolithic Meshes into Sim-ready Articulated Assets via MLLM
+UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation
+RealMaster: Lifting Rendered Scenes into Photorealistic Video
+2Xplat: Two Experts Are Better Than One Generalist
+Rethinking Token-Level Policy Optimization for Multimodal Chain-of-Thought
+Attend Before Attention: Efficient and Scalable Video Understanding via Autoregressive Gazing
+VP-VLA: Visual Prompting as an Interface for Vision-Language-Action Models
+ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model
+AgentSLR: Automating Systematic Literature Reviews in Epidemiology with Agentic AI
+MultiBind: A Benchmark for Attribute Misbinding in Multi-Subject Generation
+TrajLoom: Dense Future Trajectory Generation from Video
+Ego2Web: A Web Agent Benchmark Grounded in Egocentric Videos
+Sparse but Critical: A Token-Level Analysis of Distributional Shifts in RLVR Fine-Tuning of LLMs
+Uncertainty-guided Compositional Alignment with Part-to-Whole Semantic Representativeness in Hyperbolic Vision-Language Models
+VISion On Request: Enhanced VLLM efficiency with sparse, dynamically selected, vision-language interactions
+ABot-PhysWorld: Interactive World Foundation Model for Robotic Manipulation with Physics Alignment
+VTAM: Video-Tactile-Action Models for Complex Physical Interaction Beyond VLAs
+Regulating AI Agents
+Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models
+STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems
+Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates
