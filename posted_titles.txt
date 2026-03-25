@@ -10254,3 +10254,10 @@ Regulating AI Agents
 Reasoning or Rhetoric? An Empirical Analysis of Moral Reasoning Explanations in Large Language Models
 STEM Agent: A Self-Adapting, Tool-Enabled, Extensible Architecture for Multi-Protocol AI Agent Systems
 Session Risk Memory (SRM): Temporal Authorization for Deterministic Pre-Execution Safety Gates
+CanViT: Toward Active-Vision Foundation Models
+Fair splits flip the leaderboard: CHANRG reveals limited generalization in RNA secondary-structure prediction
+Abstraction as a Memory-Efficient Inductive Bias for Continual Learning
+One View Is Enough! Monocular Training for In-the-Wild Novel View Generation
+Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
+SHAMISA: SHAped Modeling of Implicit Structural Associations for Self-supervised No-Reference Image Quality Assessment
+Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
