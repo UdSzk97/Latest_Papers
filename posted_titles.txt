@@ -10280,3 +10280,10 @@ UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmen
 LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis
 6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models
 PLDR-LLMs Reason At Self-Organized Criticality
+Reversal of Spin: Comet 41P/Tuttle–Giacobini–Kresak
+Rare earth elements and stable isotope signatures from hydrothermal alteration in Vargeão dome with implications for impact-generated hydrothermal systems on Mars
+First science from private Moon lander challenges picture of lunar volcanism
+Understanding the Challenges in Iterative Generative Optimization with LLMs
+SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision
+The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics
+Qworld: Question-Specific Evaluation Criteria for LLMs
