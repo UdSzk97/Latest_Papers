@@ -10261,3 +10261,22 @@ One View Is Enough! Monocular Training for In-the-Wild Novel View Generation
 Reconstruction-Guided Slot Curriculum: Addressing Object Over-Fragmentation in Video Object-Centric Learning
 SHAMISA: SHAped Modeling of Implicit Structural Associations for Self-supervised No-Reference Image Quality Assessment
 Can AI Agents Answer Your Data Questions? A Benchmark for Data Agents
+An Eclipsing 8.56 Minutes Orbital Period Mass-transferring Binary
+EVA: Efficient Reinforcement Learning for End-to-End Video Agent
+T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search
+UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience
+Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?
+GameplayQA: A Benchmarking Framework for Decision-Dense POV-Synced Multi-Video Understanding of 3D Virtual Agents
+When Models Judge Themselves: Unsupervised Self-Evolution for Multimodal Reasoning
+CarePilot: A Multi-Agent Framework for Long-Horizon Computer Task Automation in Healthcare
+4DGS360: 360° Gaussian Reconstruction of Dynamic Objects from a Single Video
+Toward Physically Consistent Driving Video World Models under Challenging Trajectories
+OmniWeaving: Towards Unified Video Generation with Free-form Composition and Reasoning
+CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents
+Can LLM Agents Be CFOs? A Benchmark for Resource Allocation in Dynamic Enterprise Environments
+Unleashing Spatial Reasoning in Multimodal Large Language Models via Textual Representation Guided Reasoning
+StreamingClaw Technical Report
+UniFunc3D: Unified Active Spatial-Temporal Grounding for 3D Functionality Segmentation
+LagerNVS: Latent Geometry for Fully Neural Real-time Novel View Synthesis
+6Bit-Diffusion: Inference-Time Mixed-Precision Quantization for Video Diffusion Models
+PLDR-LLMs Reason At Self-Organized Criticality
