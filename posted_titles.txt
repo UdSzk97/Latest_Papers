@@ -10287,3 +10287,28 @@ Understanding the Challenges in Iterative Generative Optimization with LLMs
 SpectralSplats: Robust Differentiable Tracking via Spectral Moment Supervision
 The Pulse of Motion: Measuring Physical Frame Rate from Visual Dynamics
 Qworld: Question-Specific Evaluation Criteria for LLMs
+Impact of Subsurface Temperature Gradients on Emission Spectra of Airless Exoplanets: The Solid-state Greenhouse and Anti-greenhouse
+Asteroidal Activity among Meteor Datasets: Confirmed New “Rock-comet” Stream and Search for a Tidal-disruption Signature
+A Practical Method for Improving an Asteroid’s Astrometric Measurement
+Rotational Influence on the Martian Magnetotail Current Sheet: A Multispecies MHD Study
+Homogeneous accretion of the Earth in the inner Solar System
+PixelSmile: Toward Fine-Grained Facial Expression Editing
+Intern-S1-Pro: Scientific Multimodal Foundation Model at Trillion Scale
+RealRestorer: Towards Generalizable Real-World Image Restoration with Large-Scale Image Editing Models
+MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data
+Voxtral TTS
+MSA: Memory Sparse Attention for Efficient End-to-End Memory Model Scaling to 100M Tokens
+SlopCodeBench: Benchmarking How Coding Agents Degrade Over Long-Horizon Iterative Tasks
+Less Gaussians, Texture More: 4K Feed-Forward Textured Splatting
+MuRF: Unlocking the Multi-Scale Potential of Vision Foundation Models
+Representation Alignment for Just Image Transformers is not Easier than You Think
+S2D2: Fast Decoding for Diffusion LLMs via Training-Free Self-Speculation
+FinMCP-Bench: Benchmarking LLM Agents for Real-World Financial Tool Use under the Model Context Protocol
+Calibri: Enhancing Diffusion Transformers via Parameter-Efficient Calibration
+AVControl: Efficient Framework for Training Audio-Visual Controls
+BioVITA: Biological Dataset, Model, and Benchmark for Visual-Textual-Acoustic Alignment
+Vega: Learning to Drive with Natural Language Instructions
+Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors
+Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes
+Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors
+MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution
