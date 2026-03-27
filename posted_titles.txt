@@ -10312,3 +10312,14 @@ Electrostatic Photoluminescence Tuning in All-Solid-State Perovskite Transistors
 Revisiting On-Policy Distillation: Empirical Failure Modes and Simple Fixes
 Extending Precipitation Nowcasting Horizons via Spectral Fusion of Radar Observations and Foundation Model Priors
 MemMA: Coordinating the Memory Cycle through Multi-Agent Reasoning and In-Situ Self-Evolution
+Hot Rocks Survey. V. Secondary Eclipse Photometry of GJ 3473 b with JWST/MIRI
+Depth-dependent mass fractionation of solar wind noble gases in lunar ilmenites revealed by high-resolution depth profiling
+AVO: Agentic Variation Operators for Autonomous Evolutionary Search
+PMT: Plain Mask Transformer for Image and Video Segmentation with Frozen Vision Encoders
+Can MLLMs Read Students' Minds? Unpacking Multimodal Error Analysis in Handwritten Math
+Pixel-level Scene Understanding in One Token: Visual States Need What-is-Where Composition
+Reaching Beyond the Mode: RL for Distributional Reasoning in Language Models
+WAFT-Stereo: Warping-Alone Field Transforms for Stereo Matching
+VFIG: Vectorizing Complex Figures in SVG with Vision-Language Models
+IQuest-Coder-V1 Technical Report
+Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models
