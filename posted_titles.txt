@@ -10325,3 +10325,6 @@ IQuest-Coder-V1 Technical Report
 Nudging Hidden States: Training-Free Model Steering for Chain-of-Thought Reasoning in Large Audio-Language Models
 Impacts of Carbon Dioxide Deposition on Martian Near‐Surface Wave Activity
 Corrigendum to Gravity-driven fold-thrust belt at the Martian dichotomy Earth Planet. Sci. Lett. 671 (2025) 119645
+From dry to damp lunar mantle: How trace water in orthopyroxene reshapes the internal thermal state of the Moon
+The effects of magmatic recharge on primary lunar melt compositions: Implications for the water and other volatile budget of the Moon
+Carbonatites from Ol Doinyo Lengai, Tanzania — An unusual rock as analog for Mercury as potential species for hollow formation
