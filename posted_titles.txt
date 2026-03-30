@@ -10340,3 +10340,8 @@ Natural-Language Agent Harnesses
 Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models
 MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies
 Diffutron: A Masked Diffusion Language Model for Turkish Language
+Countdown to Artemis: is NASA’s Moon mission the dawn of a new space age?
+Composer 2 Technical Report
+GenMask: Adapting DiT for Segmentation via Direct Mask
+Learning to Commit: Generating Organic Pull Requests via Online Repository Memory
+Lie to Me: How Faithful Is Chain-of-Thought Reasoning in Reasoning Models?
