@@ -10328,3 +10328,15 @@ Corrigendum to Gravity-driven fold-thrust belt at the Martian dichotomy Earth Pl
 From dry to damp lunar mantle: How trace water in orthopyroxene reshapes the internal thermal state of the Moon
 The effects of magmatic recharge on primary lunar melt compositions: Implications for the water and other volatile budget of the Moon
 Carbonatites from Ol Doinyo Lengai, Tanzania — An unusual rock as analog for Mercury as potential species for hollow formation
+A Multi‐Fluid Model of Plasma Transport in the Equatorial Ionosphere of Saturn
+Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models
+ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling
+PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference
+Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills
+LongTail Driving Scenarios with Reasoning Traces: The KITScenes LongTail Dataset
+RealChart2Code: Advancing Chart-to-Code Generation with Real Data and Multi-Task Evaluation
+Know3D: Prompting 3D Generation with Knowledge from Vision-Language Models
+Natural-Language Agent Harnesses
+Sommelier: Scalable Open Multi-turn Audio Pre-processing for Full-duplex Speech Language Models
+MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies
+Diffutron: A Masked Diffusion Language Model for Turkish Language
