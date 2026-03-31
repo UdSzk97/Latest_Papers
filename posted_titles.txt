@@ -10375,3 +10375,13 @@ HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention
 MOOZY: A Patient-First Foundation Model for Computational Pathology
 Unified Number-Free Text-to-Motion Generation Via Flow Matching
 KAT-Coder-V2 Technical Report
+Corrigendum to classical spectral unmixing-based lunar mineralogical analysis using hyperspectral data from Chandrayaan-2 [Icarus 451 (2026) 117000]
+Artemis II mission is about to fly humans to the Moon — here’s the science they’ll do
+Humanity is heading back to the Moon — why aren’t more scientists thrilled?
+ChartNet: A Million-Scale, High-Quality Multimodal Dataset for Robust Chart Understanding
+HandX: Scaling Bimanual Motion and Interaction Generation
+AdaptToken: Entropy-based Adaptive Token Selection for MLLM Long Video Understanding
+A Comparative Study in Surgical AI: Datasets, Foundation Models, and Barriers to Med-AGI
+Text Data Integration
+INSID3: Training-Free In-Context Segmentation with DINOv3
+STRIDE: When to Speak Meets Sequence Denoising for Streaming Video Understanding
