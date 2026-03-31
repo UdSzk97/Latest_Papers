@@ -10345,3 +10345,33 @@ Composer 2 Technical Report
 GenMask: Adapting DiT for Segmentation via Direct Mask
 Learning to Commit: Generating Organic Pull Requests via Online Repository Memory
 Lie to Me: How Faithful Is Chain-of-Thought Reasoning in Reasoning Models?
+Investigating the High-energy Radiation Environment of Planets in Sun-like Binary Systems
+The Impact of Irradiation on the Radius and Thermal Evolution of Transiting Brown Dwarfs
+The Influence of Clouds and Deuterium-burning on Brown Dwarf Habitable Zones
+Daily briefing: Women’s academic careers are knocked by parenthood much more than men’s
+TAPS: Task Aware Proposal Distributions for Speculative Sampling
+Towards a Medical AI Scientist
+Gen-Searcher: Reinforcing Agentic Search for Image Generation
+Emergent Social Intelligence Risks in Generative Multi-Agent Systems
+GEditBench v2: A Human-Aligned Benchmark for General Image Editing
+On Token's Dilemma: Dynamic MoE with Drift-Aware Token Assignment for Continual Learning of Large Vision Language Models
+EpochX: Building the Infrastructure for an Emergent Agent Civilization
+PRBench: End-to-end Paper Reproduction in Physics Research
+Make Geometry Matter for Spatial Reasoning
+MuSEAgent: A Multimodal Reasoning Agent with Stateful Experiences
+ResAdapt: Adaptive Resolution for Efficient Multimodal Reasoning
+Kernel-Smith: A Unified Recipe for Evolutionary Kernel Optimization
+ImagenWorld: Stress-Testing Image Generation Models with Explainable Human Evaluation on Open-ended Real-World Tasks
+Marco DeepResearch: Unlocking Efficient Deep Research Agents via Verification-Centric Design
+On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers
+DreamLite: A Lightweight On-Device Unified Model for Image Generation and Editing
+Story2Proposal: A Scaffold for Structured Scientific Paper Writing
+Density-aware Soft Context Compression with Semi-Dynamic Compression Ratio
+SEAR: Schema-Based Evaluation and Routing for LLM Gateways
+MolmoPoint: Better Pointing for VLMs with Grounding Tokens
+Think over Trajectories: Leveraging Video Generation to Reconstruct GPS Trajectories from Cellular Signaling
+Superintelligence and Law
+HISA: Efficient Hierarchical Indexing for Fine-Grained Sparse Attention
+MOOZY: A Patient-First Foundation Model for Computational Pathology
+Unified Number-Free Text-to-Motion Generation Via Flow Matching
+KAT-Coder-V2 Technical Report
