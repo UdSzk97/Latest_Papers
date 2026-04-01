@@ -10415,3 +10415,17 @@ How Auditory Knowledge in LLM Backbones Shapes Audio Language Models: A Holistic
 Ghost-FWL: A Large-Scale Full-Waveform LiDAR Dataset for Ghost Detection and Removal
 Distilling Conversations: Abstract Compression of Conversational Audio Context for LLM-based ASR
 Distilling Human-Aligned Privacy Sensitivity Assessment from Large Language Models
+Project Imaging-X: A Survey of 1000+ Open-Access Medical Imaging Datasets for Foundation Model Development
+BizGenEval: A Systematic Benchmark for Commercial Visual Content Generation
+Falcon Perception
+The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning
+WorldFlow3D: Flowing Through 3D Distributions for Unbounded World Generation
+CREval: An Automated Interpretable Evaluation for Creative Image Manipulation under Complex Instructions
+Colon-Bench: An Agentic Workflow for Scalable Dense Lesion Annotation in Full-Procedure Colonoscopy Videos
+MPDiT: Multi-Patch Global-to-Local Transformer Architecture For Efficient Flow Matching and Diffusion Model
+It Takes Two: A Duet of Periodicity and Directionality for Burst Flicker Removal
+When Documents Disagree: Measuring Institutional Variation in Transplant Guidance with Retrieval-Augmented Language Models
+OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation
+TrajectoryMover: Generative Movement of Object Trajectories in Videos
+TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets
+Tabular LLMs for Interpretable Few-Shot Alzheimer's Disease Prediction with Multimodal Biomedical Data
