@@ -10429,3 +10429,35 @@ OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation
 TrajectoryMover: Generative Movement of Object Trajectories in Videos
 TokenDial: Continuous Attribute Control in Text-to-Video via Spatiotemporal Token Offsets
 Tabular LLMs for Interpretable Few-Shot Alzheimer's Disease Prediction with Multimodal Biomedical Data
+Spectrophotometric properties of Martian soil at the landing area of the Tianwen–1 Zhurong rover
+NASA’s Pandora SmallSat Mission: Simulated Modeling and Retrieval of Near-infrared Exoplanet Transmission Spectra
+Flaring Behavior in the M Dwarf PM J11183+1347 from TESS Observations
+Global Effects of Chorus and Hiss Waves on Trapped Energetic Electrons at Jupiter
+Is the Deep Martian Mantle Heterogeneous? A Reappraisal of Seismological Evidences
+The Moon belongs to all of us — not just countries that can afford to reach it
+Lift off! Artemis II mission sends humans to the Moon — opening a new era of exploration
+Daily briefing: NASA’s Artemis II Moon mission launches
+Different architecture of Jupiter and Saturn satellite systems from magnetospheric cavity formation
+ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers
+MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome
+Terminal Agents Suffice for Enterprise Automation
+ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?
+Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification
+QuitoBench: A High-Quality Open Time Series Forecasting Benchmark
+Reasoning Shift: How Context Silently Shortens LLM Reasoning
+HippoCamp: Benchmarking Contextual Agents on Personal Computers
+PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning
+Universal YOCO for Efficient Depth Scaling
+GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation
+Embarrassingly Simple Self-Distillation Improves Code Generation
+Paper Reconstruction Evaluation: Evaluating Presentation and Hallucination in AI-written Papers
+Proactive Agent Research Environment: Simulating Active Users to Evaluate Proactive Assistants
+Think, Act, Build: An Agentic Framework with Vision Language Models for Zero-Shot 3D Visual Grounding
+A Survey of On-Policy Distillation for Large Language Models
+UniMixer: A Unified Architecture for Scaling Laws in Recommendation Systems
+MMaDA-VLA: Large Diffusion Vision-Language-Action Model with Unified Multi-Modal Instruction and Generation
+Revision or Re-Solving? Decomposing Second-Pass Gains in Multi-LLM Pipelines
+Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depiction Assembly Instruction Alignment
+Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference
+MemRerank: Preference Memory for Personalized Product Reranking
+AI Generalisation Gap In Comorbid Sleep Disorder Staging
