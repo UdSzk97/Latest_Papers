@@ -10461,3 +10461,17 @@ Benchmarking and Mechanistic Analysis of Vision-Language Models for Cross-Depict
 Understand and Accelerate Memory Processing Pipeline for Disaggregated LLM Inference
 MemRerank: Preference Memory for Personalized Product Reranking
 AI Generalisation Gap In Comorbid Sleep Disorder Staging
+HATPI Preperihelion Time-series Photometry of the Interstellar Comet 3I/ATLAS
+High-resolution Spectroscopic Atmospheric Studies of Five Hot Jupiters Across the Edge of the Neptune Desert
+A Smooth Transition from Giant Planets to Brown Dwarfs from the Radial Occurrence Distribution
+Hot Jupiters Are Inflated Primarily by Shallow Heating
+Atomic condensation of Na and K vapor followed by oxidation in lunar impact glass beads revealed by Chang’E-6
+Artemis II is go: humans head to the Moon after half-century absence
+China is planning to land people on the Moon — and might beat the United States to it
+Daily briefing: The countdown to NASA’s Artemis II Moon mission launch
+Brevity Constraints Reverse Performance Hierarchies in Language Models
+Consistency Amplifies: How Behavioral Variance Shapes Agent Accuracy
+S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models
+Do Phone-Use Agents Respect Your Privacy?
+When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation
+AgentWatcher: A Rule-based Prompt Injection Monitor
