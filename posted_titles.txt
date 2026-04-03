@@ -10475,3 +10475,38 @@ S0 Tuning: Zero-Overhead Adaptation of Hybrid Recurrent-Attention Models
 Do Phone-Use Agents Respect Your Privacy?
 When Users Change Their Mind: Evaluating Interruptible Agents in Long-Horizon Web Navigation
 AgentWatcher: A Rule-based Prompt Injection Monitor
+Topography-induced Stationary Waves and the Onset of Nightside Warming on Rocky Planets around M Dwarf Stars
+Observation Timeline for the Potential Lunar Impact of Asteroid 2024 YR4
+Interaction between Winds from Weak-lined T Tauri Stars with Exoplanetary Magnetospheres
+The Response of the Martian Ion Precipitation to Extreme Solar Events
+A highly limited amino acid library from asteroid Bennu yields wide-ranging protein folds
+DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models
+The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook
+SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization
+Generative World Renderer
+EgoSim: Egocentric World Simulator for Embodied Interaction Generation
+Omni-SimpleMem: Autoresearch-Guided Discovery of Lifelong Multimodal Agent Memory
+UniDriveVLA: Unifying Understanding, Perception, and Action Planning for Autonomous Driving
+LatentUM: Unleashing the Potential of Interleaved Cross-Modal Reasoning via a Latent-Space Unified Model
+VOID: Video Object and Interaction Deletion
+Investigating Autonomous Agent Contributions in the Wild: Activity Patterns and Code Change over Time
+GPA: Learning GUI Process Automation from Demonstrations
+Tex3D: Objects as Attack Surfaces via Adversarial 3D Textures for Vision-Language-Action Models
+VideoZeroBench: Probing the Limits of Video MLLMs with Spatio-Temporal Evidence Verification
+AutoMIA: Improved Baselines for Membership Inference Attack via Agentic Self-Exploration
+Steerable Visual Representations
+T5Gemma-TTS Technical Report
+FlowSlider: Training-Free Continuous Image Editing via Fidelity-Steering Decomposition
+Gated Condition Injection without Multimodal Attention: Towards Controllable Linear-Attention Transformers
+DynaVid: Learning to Generate Highly Dynamic Videos using Synthetic Motion Data
+MDPBench: A Benchmark for Multilingual Document Parsing in Real-World Scenarios
+Omni123: Exploring 3D Native Foundation Models with Limited 3D Data by Unifying Text to 2D and 3D Generation
+Automatic Image-Level Morphological Trait Annotation for Organismal Images
+Apriel-Reasoner: RL Post-Training for General-Purpose and Efficient Reasoning
+Executing as You Generate: Hiding Execution Latency in LLM Code Generation
+LinguDistill: Recovering Linguistic Ability in Vision- Language Models via Selective Cross-Modal Distillation
+UniRecGen: Unifying Multi-View 3D Reconstruction and Generation
+Memory-Augmented Vision-Language Agents for Persistent and Semantically Consistent Object Captioning
+Woosh: A Sound Effects Foundation Model
+Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning
+Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models
