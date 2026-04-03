@@ -10510,3 +10510,18 @@ Memory-Augmented Vision-Language Agents for Persistent and Semantically Consiste
 Woosh: A Sound Effects Foundation Model
 Brainstacks: Cross-Domain Cognitive Capabilities via Frozen MoE-LoRA Stacks for Continual LLM Learning
 Friends and Grandmothers in Silico: Localizing Entity Cells in Language Models
+Ground-based monitoring of the color of Jovian cloud features between 2021 and 2023
+High-resolution TNG/HARPS-N spectroscopy of comet C/2022 E3 (ZTF)
+NearID: Identity Representation Learning via Near-identity Distractors
+Therefore I am. I Think
+ASI-Evolve: AI Accelerates AI
+CORAL: Towards Autonomous Multi-Agent Evolution for Open-Ended Discovery
+Video Models Reason Early: Exploiting Plan Commitment for Maze Solving
+AIBench: Evaluating Visual-Logical Consistency in Academic Illustration Generation
+Forecasting Supply Chain Disruptions with Foresight Learning
+Efficient and Principled Scientific Discovery through Bayesian Optimization: A Tutorial
+Working Notes on Late Interaction Dynamics: Analyzing Targeted Behaviors of Late Interaction Models
+ActionParty: Multi-Subject Action Binding in Generative Video Games
+Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents
+An Empirical Recipe for Universal Phone Recognition
+MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines
