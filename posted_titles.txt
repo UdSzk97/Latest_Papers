@@ -10525,3 +10525,6 @@ ActionParty: Multi-Subject Action Binding in Generative Video Games
 Ask or Assume? Uncertainty-Aware Clarification-Seeking in Coding Agents
 An Empirical Recipe for Universal Phone Recognition
 MultiGen: Level-Design for Editable Multiplayer Worlds in Diffusion Game Engines
+The rapidly evolving surface of asteroid 4 Vesta revealed by rayed craters and optical maturity
+Signals: Trajectory Sampling and Triage for Agentic Interactions
+LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric World Model
