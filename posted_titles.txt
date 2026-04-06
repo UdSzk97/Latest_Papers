@@ -10531,3 +10531,16 @@ LOME: Learning Human-Object Manipulation with Action-Conditioned Egocentric Worl
 Osmium isotope dichotomy between impactites from the Procellarum KREEP Terrane and the lunar highlands
 The Evolution of Hot Flow Anomalies in Martian Space Environment
 Asymmetrically Distributed Kelvin‐Helmholtz Instability at Venusian Magnetosphere
+Thin regolith layer anticipated on the surface of the Tianwen-2 target asteroid (469219) Kamo‘oalewa
+QUIJOTE-TFGI polarization calibration
+The Response of Planetary Atmospheres to the Impact of Icy Comets. III. Impact Driven Atmospheric Escape
+Architectures of Exoplanetary Systems. IV. A Multiplanet Model for Reproducing the Radius Valley and Intrasystem Size Similarity of Planets around Kepler’s FGK Dwarfs
+A Simple Baseline for Streaming Video Understanding
+Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?
+Token Warping Helps MLLMs Look from Nearby Viewpoints
+Self-Distilled RLVR
+InCoder-32B-Thinking: Industrial Code World Model for Thinking
+AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents
+Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation
+CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning
+AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks
