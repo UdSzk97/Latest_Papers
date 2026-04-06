@@ -10544,3 +10544,10 @@ AgentHazard: A Benchmark for Evaluating Harmful Behavior in Computer-Use Agents
 Xpertbench: Expert Level Tasks with Rubrics-Based Evaluation
 CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning
 AgentSocialBench: Evaluating Privacy Risks in Human-Centered Agentic Social Networks
+The Eclipsing Novalike Cataclysmic Variable CRTS SSS100505 J093417-174421
+Test-Time Scaling Makes Overtraining Compute-Optimal
+Communicating about Space: Language-Mediated Spatial Integration Across Partial Views
+Swift-SVD: Theoretical Optimality Meets Practical Efficiency in Low-Rank LLM Compression
+VLMs Need Words: Vision Language Models Ignore Visual Detail In Favor of Semantic Anchors
+Salt: Self-Consistent Distribution Matching with Cache-Aware Training for Fast Video Generation
+Do World Action Models Generalize Better than VLAs? A Robustness Study
