@@ -10579,3 +10579,19 @@ AvatarPointillist: AutoRegressive 4D Gaussian Avatarization
 HDP: A Lightweight Cryptographic Protocol for Human Delegation Provenance in Agentic AI Systems
 SciLT: Long-Tailed Classification in Scientific Image Domains
 POEMetric: The Last Stanza of Humanity
+Predictions of Imminent Earth Impactors Discovered by LSST
+Historic Artemis II Moon fly-by: <i>Nature</i>’s live coverage as it happened
+Observational constraints on the history of lunar polar ice accumulation
+Stress- and strain-dependent dynamic properties of the EAC-1A lunar regolith simulant
+Age dating, geometry and movement direction of a 411 km long lunar lobate scarp complex: Evidence of recent tectonism on the far side of the Moon
+ONE-SHOT: Compositional Human-Environment Video Synthesis via Spatial-Decoupled Motion Injection and Hybrid Context Integration
+Synthetic Sandbox for Training Machine Learning Engineering Agents
+The Geometric Alignment Tax: Tokenization vs. Continuous Geometry in Scientific Foundation Models
+Paper Espresso: From Paper Overload to Research Insight
+BidirLM: From Text to Omnimodal Bidirectional Encoders by Adapting and Composing Causal LLMs
+Cog-DRIFT: Exploration on Adaptively Reformulated Instances Enables Learning from Hard Reasoning Problems
+Do Audio-Visual Large Language Models Really See and Hear?
+Type-Checked Compliance: Deterministic Guardrails for Agentic Financial Systems Using Lean 4 Theorem Proving
+Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems
+Emergent Compositional Communication for Latent World Properties
+Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models
