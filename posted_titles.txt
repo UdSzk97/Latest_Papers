@@ -10595,3 +10595,31 @@ Type-Checked Compliance: Deterministic Guardrails for Agentic Financial Systems 
 Scaling Teams or Scaling Time? Memory Enabled Lifelong Learning in LLM Multi-Agent Systems
 Emergent Compositional Communication for Latent World Properties
 Locally Confident, Globally Stuck: The Quality-Exploration Dilemma in Diffusion Language Models
+Atmospheric Supply of Hydrogen Cyanide Is Not the Rate-limiting Step for Prebiotic Chemistry across Rocky Exoplanets
+Connecting JWST Silicate Cloud Observations to Exoplanet Cloud Microphysics with Nimbus
+Is the Uranus Heat Flow Puzzling?
+Daily briefing: Quantum computers could crack cybersecurity systems before 2030
+Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding
+Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents
+Learning to Retrieve from Agent Trajectories
+ACES: Who Tests the Tests? Leave-One-Out AUC Consistency for Code Generation
+Beyond Accuracy: Unveiling Inefficiency Patterns in Tool-Integrated Reasoning
+Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision
+ThinkTwice: Jointly Optimizing Large Language Models for Reasoning and Self-Refinement
+How Well Do Agentic Skills Work in the Wild: Benchmarking LLM Skill Usage in Realistic Settings
+Paper Circle: An Open-source Multi-agent Research Discovery and Analysis Framework
+MegaTrain: Full Precision Training of 100B+ Parameter Large Language Models on a Single GPU
+DARE: Diffusion Large Language Models Alignment and Reinforcement Executor
+In-Place Test-Time Training
+Watch Before You Answer: Learning from Visually Grounded Post-Training
+Demystifying When Pruning Works via Representation Hierarchies
+Action Images: End-to-End Policy Learning via Multiview Video Generation
+MedGemma 1.5 Technical Report
+MMEmb-R1: Reasoning-Enhanced Multimodal Embedding with Pair-Aware Selection and Adaptive Control
+FactReview: Evidence-Grounded Reviews with Literature Positioning and Execution-Based Claim Verification
+GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers
+QiMeng-PRepair: Precise Code Repair via Edit-Aware Reward Optimization
+Experience Transfer for Multimodal LLM Agents in Minecraft Game
+Context-Value-Action Architecture for Value-Driven Large Language Model Agents
+Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning
+Can Natural Image Autoencoders Compactly Tokenize fMRI Volumes for Long-Range Dynamics Modeling?
