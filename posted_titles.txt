@@ -10623,3 +10623,13 @@ Experience Transfer for Multimodal LLM Agents in Minecraft Game
 Context-Value-Action Architecture for Value-Driven Large Language Model Agents
 Scientific Graphics Program Synthesis via Dual Self-Consistency Reinforcement Learning
 Can Natural Image Autoencoders Compactly Tokenize fMRI Volumes for Long-Range Dynamics Modeling?
+Rare earth elements and stable isotope signatures from hydrothermal alteration in Vargeão Dome with implications for impact-generated hydrothermal systems on Mars
+Artemis II relied on European science: what that means for the region’s space ambitions
+Nanoscale infrared spectroscopy reveals complex organic–mineral assemblages in asteroid Bennu
+Impact-processed nitrogen-bearing organics in Chang’e-5 and Chang’e-6 lunar regolith
+General Multimodal Protein Design Enables DNA-Encoding of Chemistry
+ClawsBench: Evaluating Capability and Safety of LLM Productivity Agents in Simulated Workspaces
+Squeez: Task-Conditioned Tool-Output Pruning for Coding Agents
+CUE-R: Beyond the Final Answer in Retrieval-Augmented Generation
+REAM: Merging Improves Pruning of Experts in LLMs
+Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models
