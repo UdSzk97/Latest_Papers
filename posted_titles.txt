@@ -10661,3 +10661,8 @@ Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language 
 R3PM-Net: Real-time, Robust, Real-world Point Matching Network
 A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning
 Tunable Soft Equivariance with Guarantees
+An Agnostic Biosignature Based on Modeling Panspermia and Terraforming
+I was with Artemis II’s scientists during the Moon fly-by. Here’s what I saw
+Combee: Scaling Prompt Learning for Self-Improving Language Model Agents
+Graph-Based Chain-of-Thought Pruning for Reducing Redundant Reflections in Reasoning LLMs
+GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos
