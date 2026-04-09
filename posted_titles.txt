@@ -10633,3 +10633,31 @@ Squeez: Task-Conditioned Tool-Output Pruning for Coding Agents
 CUE-R: Beyond the Final Answer in Retrieval-Augmented Generation
 REAM: Merging Improves Pruning of Experts in LLMs
 Expert-Choice Routing Enables Adaptive Computation in Diffusion Language Models
+CO and N2 Produced from H2O, CO2, and NH3 Cometary Ice Analogs
+Investigation of the performance and influencing factors of imaging asteroid interiors by 2-D full-waveform inversion of quasi-monostatic radar data
+A lack of carbon at Io and its plasma torus
+RAGEN-2: Reasoning Collapse in Agentic RL
+Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning
+MARS: Enabling Autoregressive Models Multi-Token Generation
+INSPATIO-WORLD: A Real-Time 4D World Simulator via Spatiotemporal Autoregressive Modeling
+SEVerA: Verified Synthesis of Self-Evolving Agents
+TC-AE: Unlocking Token Capacity for Deep Compression Autoencoders
+FP4 Explore, BF16 Train: Diffusion Reinforcement Learning via Efficient Rollout Scaling
+FlowInOne:Unifying Multimodal Generation as Image-in, Image-out Flow Matching
+Neural Computers
+Personalized RewardBench: Evaluating Reward Models with Human Aligned Personalization
+Beyond Hard Negatives: The Importance of Score Distribution in Knowledge Distillation for Dense Retrieval
+Learning to Hint for Reinforcement Learning
+Fast Spatial Memory with Elastic Test-Time Training
+MoRight: Motion Control Done Right
+Improving Semantic Proximity in Information Retrieval through Cross-Lingual Alignment
+DeonticBench: A Benchmark for Reasoning over Rules
+Qualixar OS: A Universal Operating System for AI Agent Orchestration
+AgentGL: Towards Agentic Graph Learning with LLMs via Reinforcement Learning
+The Depth Ceiling: On the Limits of Large Language Models in Discovering Latent Planning
+A Frame is Worth One Token: Efficient Generative World Modeling with Delta Tokens
+VenusBench-Mobile: A Challenging and User-Centric Benchmark for Mobile GUI Agents with Capability Diagnostics
+Q-Zoom: Query-Aware Adaptive Perception for Efficient Multimodal Large Language Models
+R3PM-Net: Real-time, Robust, Real-world Point Matching Network
+A Systematic Study of Cross-Modal Typographic Attacks on Audio-Visual Reasoning
+Tunable Soft Equivariance with Guarantees
