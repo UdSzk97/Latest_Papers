@@ -10703,3 +10703,12 @@ POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP
 Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
 Personalizing Text-to-Image Generation to Individual Taste
 Structural Graph Probing of Vision-Language Models
+A Planetary Illusion’s Funeral: Nondetection of a Gaia DR3 Exoplanet Candidate, and the Role of Intermediate-precision Radial Velocities in Gaia Exoplanet Follow-up
+Probabilistic Estimation of Asteroid Sizes from Single-chord Stellar Occultations
+Behind the scenes with Artemis II’s scientists during the historic Moon fly-by
+Small Vision-Language Models are Smart Compressors for Long Video Understanding
+The Master Key Hypothesis: Unlocking Cross-Model Capability Transfer via Linear Subspace Alignment
+QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pareto-Optimal Energy Modeling and Multi-Objective Orchestration
+Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images
+CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation
+Training a Student Expert via Semi-Supervised Foundation Model Distillation
