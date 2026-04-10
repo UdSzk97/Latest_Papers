@@ -10666,3 +10666,40 @@ I was with Artemis II’s scientists during the Moon fly-by. Here’s what I saw
 Combee: Scaling Prompt Learning for Self-Improving Language Model Agents
 Graph-Based Chain-of-Thought Pruning for Reducing Redundant Reflections in Reasoning LLMs
 GenLCA: 3D Diffusion for Full-Body Avatars from In-the-Wild Videos
+In Situ Temperatures, Regolith Properties, and Evidence of Erosion at Chandrayaan-3 Post-hop Location from ChaSTE Twilight Observations
+SkillClaw: Let Skills Evolve Collectively with Agentic Evolver
+When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models
+MegaStyle: Constructing Diverse and Scalable Style Dataset via Consistent Text-to-Image Style Mapping
+HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents
+Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability
+ClawBench: Can AI Agents Complete Everyday Online Tasks?
+KnowU-Bench: Towards Interactive, Proactive, and Personalized Mobile Agent Evaluation
+LPM 1.0: Video-based Character Performance Model
+Externalization in LLM Agents: A Unified Review of Memory, Skills, Protocols and Harness Engineering
+OpenSpatial: A Principled Data Engine for Empowering Spatial Intelligence
+Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models
+DMax: Aggressive Parallel Decoding for dLLMs
+Graph of Skills: Dependency-Aware Structural Retrieval for Massive Agent Skills
+OmniJigsaw: Enhancing Omni-Modal Reasoning via Modality-Orchestrated Reordering
+OpenVLThinkerV2: A Generalist Multimodal Reasoning Model for Multi-domain Visual Tasks
+Automating Database-Native Function Code Synthesis with LLMs
+ViVa: A Video-Generative Value Model for Robot Reinforcement Learning
+SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds
+FIT: A Large-Scale Dataset for Fit-Aware Virtual Try-On
+Towards Real-world Human Behavior Simulation: Benchmarking Large Language Models on Long-horizon, Cross-scenario, Heterogeneous Behavior Traces
+Flux Attention: Context-Aware Hybrid Attention for Efficient LLMs Inference
+Lighting-grounded Video Generation with Renderer-based Agent Reasoning
+MolmoWeb: Open Visual Web Agent and Open Data for the Open Web
+GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents
+Beyond Stochastic Exploration: What Makes Training Data Valuable for Agentic Search
+PokeGym: A Visually-Driven Long-Horizon Benchmark for Vision-Language Models
+Faithful GRPO: Improving Visual Spatial Reasoning in Multimodal Language Models via Constrained Policy Optimization
+AnomalyVFM -- Transforming Vision Foundation Models into Zero-Shot Anomaly Detectors
+On the Global Photometric Alignment for Low-Level Vision
+ImplicitMemBench: Measuring Unconscious Behavioral Adaptation in Large Language Models
+Structured Distillation of Web Agent Capabilities Enables Generalization
+RewardFlow: Generate Images by Optimizing What You Reward
+POS-ISP: Pipeline Optimization at the Sequence Level for Task-aware ISP
+Phantom: Physics-Infused Video Generation via Joint Modeling of Visual and Latent Physical Dynamics
+Personalizing Text-to-Image Generation to Individual Taste
+Structural Graph Probing of Vision-Language Models
