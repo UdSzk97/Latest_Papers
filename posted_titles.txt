@@ -10712,3 +10712,4 @@ QEIL v2: Heterogeneous Computing for Edge Intelligence via Roofline-Derived Pare
 Appear2Meaning: A Cross-Cultural Benchmark for Structured Cultural Metadata Inference from Images
 CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supervised Surround Depth Estimation
 Training a Student Expert via Semi-Supervised Foundation Model Distillation
+New Constraints on the Jovian Narrowband Radio Components From Juno/Waves Observations and 3D Geometrical Simulations
