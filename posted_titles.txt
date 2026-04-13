@@ -10736,3 +10736,16 @@ Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme
 AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation
 CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation
 Large Language Models Align with the Human Brain during Creative Thinking
+Twinkle Twinkle Little Star, Roman Sees Where You Are: Predicting Exoplanet Transit Yields in the Rosette Nebula with the Nancy Grace Roman Space Telescope
+Infalling ring material produce layers of charged dust in the ionosphere of Saturn
+Multi-User Large Language Model Agents
+Backdoor Attacks on Decentralised Post-Training
+Envisioning the Future, One Step at a Time
+p1: Better Prompt Optimization with Fewer Prompts
+Process Reward Agents for Steering Knowledge-Intensive Reasoning
+EquiformerV3: Scaling Efficient, Expressive, and General SE(3)-Equivariant Graph Attention Transformers
+Beyond the Assistant Turn: User Turn Generation as a Probe of Interaction Awareness in Language Models
+Semantic Richness or Geometric Reasoning? The Fragility of VLM's Visual Invariance
+Robust Reasoning Benchmark
+MixFlow: Mixed Source Distributions Improve Rectified Flows
+Cactus: Accelerating Auto-Regressive Decoding with Constrained Acceptance Speculative Sampling
