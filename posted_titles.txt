@@ -10714,3 +10714,25 @@ CylinderDepth: Cylindrical Spatial Attention for Multi-View Consistent Self-Supe
 Training a Student Expert via Semi-Supervised Foundation Model Distillation
 New Constraints on the Jovian Narrowband Radio Components From Juno/Waves Observations and 3D Geometrical Simulations
 Subsurface geometry beneath the Rima Bode region unveils sources of multiple lunar volcanism
+Detection of Radio Emission from Superflaring Solar-type Stars in the VLA Sky Survey
+Saving Doomed Planets: Mass Loss and Angular Momentum Return Boost Hot Jupiter Survival Rates
+Model calculations for cosmogenic nuclides in meteorites and the lunar surface. 1. Long‐lived radionuclides
+The Evolution in Coma Molecular Composition of Comet C/2017 K2 (PanSTARRS) across the H2O Sublimation Zone: ALMA Imaging of a H2O-dominated Coma
+WildDet3D: Scaling Promptable 3D Detection in the Wild
+FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios
+RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details
+EXAONE 4.5 Technical Report
+Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory
+ECHO: Efficient Chest X-ray Report Generation with One-step Block Diffusion
+ELT: Elastic Looped Transformers for Visual Generation
+VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images
+Structured Causal Video Reasoning via Multi-Objective Alignment
+AgentSwing: Adaptive Parallel Context Management Routing for Long-Horizon Web Agents
+Large Language Models Generate Harmful Content Using a Distinct, Unified Mechanism
+Cross-Modal Emotion Transfer for Emotion Editing in Talking Face Video
+ScheMatiQ: From Research Question to Structured Data through Interactive Schema Discovery
+On Semiotic-Grounded Interpretive Evaluation of Generative Art
+Initialisation Determines the Basin: Efficient Codebook Optimisation for Extreme LLM Quantization
+AVGen-Bench: A Task-Driven Benchmark for Multi-Granular Evaluation of Text-to-Audio-Video Generation
+CT-1: Vision-Language-Camera Models Transfer Spatial Reasoning Knowledge to Camera-Controllable Video Generation
+Large Language Models Align with the Human Brain during Creative Thinking
