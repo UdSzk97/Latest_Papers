@@ -10787,3 +10787,14 @@ SHARE: Social-Humanities AI for Research and Education
 Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation
 Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind
 SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation
+TRACE: Capability-Targeted Agentic Training
+Agentic Aggregation for Parallel Scaling of Long-Horizon Agentic Tasks
+Efficient RL Training for LLMs with Experience Replay
+SCOPE: Signal-Calibrated On-Policy Distillation Enhancement with Dual-Path Adaptive Weighting
+Learning Long-term Motion Embeddings for Efficient Kinematics Generation
+Panoptic Pairwise Distortion Graph
+Audio-Omni: Extending Multi-modal Understanding to Versatile Audio Generation and Editing
+Counting to Four is still a Chore for VLMs
+How Alignment Routes: Localizing, Scaling, and Controlling Policy Circuits in Language Models
+IceCache: Memory-efficient KV-cache Management for Long-Sequence LLMs
+ATANT: An Evaluation Framework for AI Continuity
