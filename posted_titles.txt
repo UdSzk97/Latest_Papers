@@ -10749,3 +10749,41 @@ Semantic Richness or Geometric Reasoning? The Fragility of VLM's Visual Invarian
 Robust Reasoning Benchmark
 MixFlow: Mixed Source Distributions Improve Rectified Flows
 Cactus: Accelerating Auto-Regressive Decoding with Constrained Acceptance Speculative Sampling
+Antisolar Differential Rotation May Have Revived Magnetic Braking in the Subgiant 31 Aquilae
+Morphometric Properties of the CP-21 Landing Site on the Moon at Mons Gruithuisen Gamma
+Constraints on Paleohydrological Activities on Mars Derived from Delta Formation
+The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping
+QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation
+Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation
+OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation
+Strips as Tokens: Artist Mesh Generation with Native UV Segmentation
+Uni-ViGU: Towards Unified Video Generation and Understanding via A Diffusion-Based Video Generator
+Pseudo-Unification: Entropy Probing Reveals Divergent Information Patterns in Unified Multimodal Models
+CodeTracer: Towards Traceable Agent States
+CocoaBench: Evaluating Unified Digital Agents in the Wild
+Tracing the Roots: A Multi-Agent Framework for Uncovering Data Lineage in Post-Training LLMs
+Introspective Diffusion Language Models
+Solving Physics Olympiad via Reinforcement Learning on Physics Simulators
+Prompt Relay: Inference-Time Temporal Control for Multi-Event Video Generation
+Audio Flamingo Next: Next-Generation Open Audio-Language Models for Speech, Sound, and Music
+SPEED-Bench: A Unified and Diverse Benchmark for Speculative Decoding
+From Reasoning to Agentic: Credit Assignment in Reinforcement Learning for Large Language Models
+Mobile GUI Agent Privacy Personalization with Trajectory Induced Preference Optimization
+General365: Benchmarking General Reasoning in Large Language Models Across Diverse and Challenging Tasks
+Not All Denoising Steps Are Equal: Model Scheduling for Faster Masked Diffusion Language Models
+Zero-shot World Models Are Developmentally Efficient Learners
+Continuous Adversarial Flow Models
+Eliciting Medical Reasoning with Knowledge-enhanced Data Synthesis: A Semi-Supervised Reinforcement Learning Approach
+SWE-AGILE: A Software Agent Framework for Efficiently Managing Dynamic Reasoning Context
+Low-rank Optimization Trajectories Modeling for LLM RLVR Acceleration
+Advancing Polish Language Modeling through Tokenizer Optimization in the Bielik v3 7B and 11B Series
+DiningBench: A Hierarchical Multi-view Benchmark for Perception and Reasoning in the Dietary Domain
+TorchUMM: A Unified Multimodal Model Codebase for Evaluation, Analysis, and Post-training
+TAIHRI: Task-Aware 3D Human Keypoints Localization for Close-Range Human-Robot Interaction
+ADD for Multi-Bit Image Watermarking
+BMdataset: A Musicologically Curated LilyPond Dataset
+SciPredict: Can LLMs Predict the Outcomes of Scientific Experiments in Natural Sciences?
+SHARE: Social-Humanities AI for Research and Education
+Polyglot Teachers: Evaluating Language Models for Multilingual Synthetic Data Generation
+Playing Along: Learning a Double-Agent Defender for Belief Steering via Theory of Mind
+SPASM: Stable Persona-driven Agent Simulation for Multi-turn Dialogue Generation
