@@ -10832,3 +10832,15 @@ Domain-Specific Latent Representations Improve the Fidelity of Diffusion-Based M
 SpotSound: Enhancing Large Audio-Language Models with Fine-Grained Temporal Grounding
 Beyond Perception Errors: Semantic Fixation in Large Vision-Language Models
 CONSCIENTIA: Can LLM Agents Learn to Strategize? Emergent Deception and Trust in a Multi-Agent NYC Simulation
+Identifying the topographic signature of early Martian oceans
+Carbon Cycle Imbalances on Arid Terrestrial Planets with Implications for Venus
+The Population of Craters that Host Permanently Shadowed Regions Near the Lunar South Pole: Implications for Typical Cold-trap Lifetimes
+Age dating, geometry and movement direction of a 411 km long lunar lobate scarp complex: Evidence of recent tectonism on the far side of the moon
+The Blind Spot of Agent Safety: How Benign User Instructions Expose Critical Vulnerabilities in Computer-Use Agents
+GlotOCR Bench: OCR Models Still Struggle Beyond a Handful of Unicode Scripts
+Do Thought Streams Matter? Evaluating Reasoning in Gemini Vision-Language Models for Video Scene Understanding
+Parcae: Scaling Laws For Stable Looped Language Models
+Learning Versatile Humanoid Manipulation with Touch Dreaming
+LASA: Language-Agnostic Semantic Alignment at the Semantic Bottleneck for LLM Safety
+PokeRL: Reinforcement Learning for Pokemon Red
+Spatial Competence Benchmark
