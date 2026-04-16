@@ -10866,3 +10866,13 @@ Do AI Coding Agents Log Like Humans? An Empirical Study
 ROSE: Retrieval-Oriented Segmentation Enhancement
 Mobile GUI Agents under Real-world Threats: Are We There Yet?
 InfiniteScienceGym: An Unbounded, Procedurally-Generated Benchmark for Scientific Analysis
+Dayside Clouds and an Elevated C/O Ratio in the Atmosphere of the Ultrahot Jupiter WASP-19b
+Terrestrial formation of calcium sulfate and carbonate assemblages in Atacama CO chondrites: Implications for Martian evaporitic environments
+LangFlow: Continuous Diffusion Rivals Discrete in Language Modeling
+Self-Distillation Zero: Self-Revision Turns Binary Rewards into Dense Supervision
+Narrative-Driven Paper-to-Slide Generation via ArcDeck
+Anthropogenic Regional Adaptation in Multimodal Vision-Language Model
+SkVM: Compiling Skills for Efficient Execution Everywhere
+Geometric Context Transformer for Streaming 3D Reconstruction
+HDR Video Generation via Latent Alignment with Logarithmic Encoding
+What do Language Models Learn and When? The Implicit Curriculum Hypothesis
