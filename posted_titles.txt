@@ -10876,3 +10876,29 @@ SkVM: Compiling Skills for Efficient Execution Everywhere
 Geometric Context Transformer for Streaming 3D Reconstruction
 HDR Video Generation via Latent Alignment with Logarithmic Encoding
 What do Language Models Learn and When? The Implicit Curriculum Hypothesis
+GEMS JWST: HATS-75 b A Giant Planet with a Subsolar Metallicity Atmosphere Orbiting an M Dwarf
+Retrieving the Red Edge on Earth-like Planets with Heterogeneous Clouds and Surfaces
+HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds
+DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation
+RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework
+HiVLA: A Visual-Grounded-Centric Hierarchical Embodied Manipulation System
+ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack
+How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data
+GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens
+UniDoc-RL: Coarse-to-Fine Visual RAG with Hierarchical Actions and Dense Rewards
+Switch-KD: Visual-Switch Knowledge Distillation for Vision-Language Models
+TRACER: Trace-Based Adaptive Cost-Efficient Routing for LLM Classification
+Dive into Claude Code: The Design Space of Today's and Future AI Agent Systems
+Representations Before Pixels: Semantics-Guided Hierarchical Video Prediction
+Don't Retrieve, Navigate: Distilling Enterprise Knowledge into Navigable Agent Skills for QA and RAG
+LongAct: Harnessing Intrinsic Activation Patterns for Long-Context Reinforcement Learning
+KV Packet: Recomputation-Free Context-Independent KV Caching for LLMs
+LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories
+OneHOI: Unifying Human-Object Interaction Generation and Editing
+Cross-Tokenizer LLM Distillation through a Byte-Level Interface
+SuperLocalMemory V3.3: The Living Brain -- Biologically-Inspired Forgetting, Cognitive Quantization, and Multi-Channel Retrieval for Zero-LLM Agent Memory Systems
+RadAgent: A tool-using AI agent for stepwise interpretation of chest computed tomography
+MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation
+Towards Autonomous Mechanistic Reasoning in Virtual Cells
+Model Capability Dominates: Inference-Time Optimization Lessons from AIMO 3
+C2: Scalable Rubric-Augmented Reward Modeling from Binary Preferences
