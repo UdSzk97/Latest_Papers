@@ -10915,3 +10915,28 @@ An Optimal Transport-driven Approach for Cultivating Latent Space in Online Incr
 Three-Phase Transformer
 The steady-state population of Earth ’s co-orbitals of lunar provenance
 Serpentinization in Jezero crater: Comparing SuperCam Mars data to terrestrial serpentinites
+Perihelion observations of interstellar comet 3I/ATLAS with the IRAM 30-m telescope★
+Thrilling, frivolous, a waste: not everyone’s happy about the Artemis II Moon mission
+Short-duration Backward Integrations as Phase-space Diagnostics: A Sequence-based Machine Learning Approach to Near-Earth Asteroid Triage
+Quantifying Building Blocks of Life in Planetary Analog Materials: Implications for Prebiotic Chemistry and Biosignature Identification
+Elucidating the SNR-t Bias of Diffusion Probabilistic Models
+Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips
+PersonaVLM: Long-Term Personalized Multimodal LLMs
+Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems
+Cut Your Losses! Learning to Prune Paths Early for Efficient Parallel Reasoning
+Qwen3.5-Omni Technical Report
+Repurposing 3D Generative Model for Autoregressive Layout Generation
+(1D) Ordered Tokens Enable Efficient Test-Time Search
+Learning Adaptive Reasoning Paths for Efficient Visual Reasoning
+Can Large Language Models Reinvent Foundational Algorithms?
+QuantCode-Bench: A Benchmark for Evaluating the Ability of Large Language Models to Generate Executable Algorithmic Trading Strategies
+TIPSv2: Advancing Vision-Language Pretraining with Enhanced Patch-Text Alignment
+GTA-2: Benchmarking General Tool Agents from Atomic Tool-Use to Open-Ended Workflows
+AccelOpt: A Self-Improving LLM Agentic System for AI Accelerator Kernel Optimization
+TwinTrack: Post-hoc Multi-Rater Calibration for Medical Image Segmentation
+NTIRE 2026 Challenge on Video Saliency Prediction: Methods and Results
+PRL-Bench: A Comprehensive Benchmark Evaluating LLMs' Capabilities in Frontier Physics Research
+EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation for Federated Intrusion Detection
+DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off
+ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics
+VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
