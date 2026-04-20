@@ -10940,3 +10940,10 @@ EdgeDetect: Importance-Aware Gradient Compression with Homomorphic Aggregation f
 DiPO: Disentangled Perplexity Policy Optimization for Fine-grained Exploration-Exploitation Trade-Off
 ArtifactNet: Detecting AI-Generated Music via Forensic Residual Physics
 VEFX-Bench: A Holistic Benchmark for Generic Video Editing and Visual Effects
+Sub-Neptune Memories. I. Implications of Inefficient Mantle Cooling and Silicate Rain
+Impact cratering and ejecta dynamics in low-strength targets for asteroid deflection
+Where does output diversity collapse in post-training?
+Hierarchical Codec Diffusion for Video-to-Speech Generation
+The Amazing Agent Race: Strong Tool Users, Weak Navigators
+RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies
+Universal statistical signatures of evolution in artificial intelligence architectures
