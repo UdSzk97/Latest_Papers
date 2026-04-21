@@ -10947,3 +10947,40 @@ Hierarchical Codec Diffusion for Video-to-Speech Generation
 The Amazing Agent Race: Strong Tool Users, Weak Navigators
 RoboLab: A High-Fidelity Simulation Benchmark for Analysis of Task Generalist Policies
 Universal statistical signatures of evolution in artificial intelligence architectures
+Statistical Study of Short Large‐Amplitude Magnetic Structures at Mars Observed by MAVEN
+Simultaneous Compressive Kinetic‐Scale Fluctuations and Second‐Harmonic Proton Cyclotron Waves Inside a Martian Magnetosheath Structure
+Characterization of Europa’s Interior through Synthesis of Europa Clipper Data
+Lava Lakes on Io: Crust Age and Implications for Thermal Output
+Thin H2-dominated Atmospheres as Signposts of Magmatic Outgassing on Tidally Heated Terrestrial Exoplanets
+Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation
+OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation
+Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence
+OpenGame: Open Agentic Coding for Games
+MultiWorld: Scalable Multi-Agent Multi-View Video World Models
+EasyVideoR1: Easier RL for Video Understanding
+WebCompass: Towards Multimodal Web Coding Evaluation for Code Language Models
+GFT: From Imitation to Reward Fine-Tuning with Unbiased Group Advantages and Dynamic Coefficient Rectification
+SkillFlow:Benchmarking Lifelong Skill Discovery and Evolution for Autonomous Agents
+Crowded in B-Space: Calibrating Shared Directions for LoRA Merging
+When Can LLMs Learn to Reason with Weak Supervision?
+ClawEnvKit: Automatic Environment Generation for Claw-Like Agents
+OmniScript: Towards Audio-Visual Script Generation for Long-Form Cinematic Video
+Training LLM Agents for Spontaneous, Reward-Free Self-Evolution via World Knowledge Exploration
+MathNet: a Global Multimodal Benchmark for Mathematical Reasoning and Retrieval
+Stratagem: Learning Transferable Reasoning via Trajectory-Modulated Game Self-Play
+Revisiting a Pain in the Neck: A Semantic Reasoning Benchmark for Language Models
+Concrete Jungle: Towards Concreteness Paved Contrastive Negative Mining for Compositional Understanding
+Meta-learning In-Context Enables Training-Free Cross Subject Brain Decoding
+Multiplication in Multimodal LLMs: Computation with Text, Image, and Audio Inputs
+Precise Debugging Benchmark: Is Your Model Debugging or Regenerating?
+Beyond Text-Dominance: Understanding Modality Preference of Omni-modal Large Language Models
+MedConclusion: A Benchmark for Biomedical Conclusion Generation from Structured Abstracts
+Modeling Multiple Support Strategies within a Single Turn for Emotional Support Conversations
+The Geometric Canary: Predicting Steerability and Detecting Drift via Representational Stability
+EvoMaster: A Foundational Agent Framework for Building Evolving Autonomous Scientific Agents at Scale
+MNAFT: modality neuron-aware fine-tuning of multimodal large language models for image translation
+Modeling Sparse and Bursty Vulnerability Sightings: Forecasting Under Data Constraints
+Geometric coherence of single-cell CRISPR perturbations reveals regulatory architecture and predicts cellular stress
+Latent Preference Modeling for Cross-Session Personalized Tool Calling
+Back to Repair: A Minimal Denoising Network\ for Time Series Anomaly Detection
+HSG: Hyperbolic Scene Graph
