@@ -10984,3 +10984,21 @@ Geometric coherence of single-cell CRISPR perturbations reveals regulatory archi
 Latent Preference Modeling for Cross-Session Personalized Tool Calling
 Back to Repair: A Minimal Denoising Network\ for Time Series Anomaly Detection
 HSG: Hyperbolic Scene Graph
+Surface Clutter Separation for Asteroid Radar Imaging in the Tianwen-2 Mission
+Protons Reflected by Lunar Magnetic Anomalies Persistently Alter the Solar Wind Flow
+The Illusion of Certainty: Decoupling Capability and Calibration in On-Policy Distillation
+On the Reliability of Computer Use Agents
+GenericAgent: A Token-Efficient Self-Evolving LLM Agent via Contextual Information Density Maximization (V1.0)
+VoxMind: An End-to-End Agentic Spoken Dialogue System
+Agents Explore but Agents Ignore: LLMs Lack Environmental Curiosity
+River-LLM: Large Language Model Seamless Exit Based on KV Share
+MARCO: Navigating the Unseen Space of Semantic Correspondence
+When Background Matters: Breaking Medical Vision Language Models by Transferable Attack
+MTR-DuplexBench: Towards a Comprehensive Evaluation of Multi-Round Conversations for Full-Duplex Speech Language Models
+Forge-UGC: FX optimization and register-graph engine for universal graph compiler
+Terminal Wrench: A Dataset of 331 Reward-Hackable Environments and 3,632 Exploit Trajectories
+The Continuity Layer: Why Intelligence Needs an Architecture for What It Carries Forward
+On the Robustness of LLM-Based Dense Retrievers: A Systematic Analysis of Generalizability and Stability
+Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility
+Protecting Language Models Against Unauthorized Distillation through Trace Rewriting
+Significance and Stability Analysis of Gene-Environment Interaction using RGxEStat
