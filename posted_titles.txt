@@ -11037,3 +11037,10 @@ The Cognitive Penalty: Ablating System 1 and System 2 Reasoning in Edge-Native S
 Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs
 Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs
 SPRITE: From Static Mockups to Engine-Ready Game UI
+Assessing the Vera Rubin Observatory’s Ability to Discover Asteroid Impactors before They Collide with Earth
+The Uranus system’s struggle for survival
+Reply to: Challenges to detecting present-day volcanism on Venus
+Challenges to detecting present-day volcanism on Venus
+CityRAG: Stepping Into a City via Spatially-Grounded Video Generation
+RDP LoRA: Geometry-Driven Identification for Parameter-Efficient Adaptation in Large Language Models
+Micro Language Models Enable Instant Responses
