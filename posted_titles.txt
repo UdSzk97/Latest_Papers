@@ -11002,3 +11002,38 @@ On the Robustness of LLM-Based Dense Retrievers: A Systematic Analysis of Genera
 Symbolic Guardrails for Domain-Specific Agents: Stronger Safety and Security Guarantees Without Sacrificing Utility
 Protecting Language Models Against Unauthorized Distillation through Trace Rewriting
 Significance and Stability Analysis of Gene-Environment Interaction using RGxEStat
+A Postperihelion Constraint on the CO2/H2O Ratio of Interstellar Comet 3I/ATLAS from [O I] Forbidden Lines
+Southern Ocean seabird population shifts over the Holocene revealed by peat sequestration of mercury from guano
+A Portrait throughout Perihelion of the NH2-rich Interstellar Comet 2I/Borisov
+Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items
+AgentSPEX: An Agent SPecification and EXecution Language
+AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model
+CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation
+TEMPO: Scaling Test-time Training for Large Reasoning Models
+PlayCoder: Making LLM-Generated GUI Code Playable
+ShadowPEFT: Shadow Network for Parameter-Efficient Fine-Tuning
+Chat2Workflow: A Benchmark for Generating Executable Visual Workflows with Natural Language
+AJ-Bench: Benchmarking Agent-as-a-Judge for Environment-Aware Evaluation
+Dual-View Training for Instruction-Following Information Retrieval
+Code-Switching Information Retrieval: Benchmarks, Analysis, and the Limits of Current Retrievers
+Speculative Decoding for Autoregressive Video Generation
+Target-Oriented Pretraining Data Selection via Neuron-Activated Graph
+UniMesh: Unifying 3D Mesh Understanding and Generation
+Understanding and Enforcing Weight Disentanglement in Task Arithmetic
+LoopCTR: Unlocking the Loop Scaling Power for Click-Through Rate Prediction
+HP-Edit: A Human-Preference Post-Training Framework for Image Editing
+MM-JudgeBias: A Benchmark for Evaluating Compositional Biases in MLLM-as-a-Judge
+Accurate and scalable exchange-correlation with deep learning
+Contrastive Attribution in the Wild: An Interpretability Analysis of LLM Failures on Realistic Benchmarks
+UDM-GRPO: Stable and Efficient Group Relative Policy Optimization for Uniform Discrete Diffusion Models
+What Makes an LLM a Good Optimizer? A Trajectory Analysis of LLM-Guided Evolutionary Search
+SmartPhotoCrafter: Unified Reasoning, Generation and Optimization for Automatic Photographic Image Editing
+ClawNet: Human-Symbiotic Agent Network for Cross-User Autonomous Cooperation
+Evaluation-driven Scaling for Scientific Discovery
+Mitigating Multimodal Hallucination via Phase-wise Self-reward
+Predicting integers from continuous parameters
+MoVE: Translating Laughter and Tears via Mixture of Vocalization Experts in Speech-to-Speech Translation
+The Cognitive Penalty: Ablating System 1 and System 2 Reasoning in Edge-Native SLMs for Decentralized Consensus
+Chain-of-Thought Degrades Visual Spatial Reasoning Capabilities of Multimodal LLMs
+Mind's Eye: A Benchmark of Visual Abstraction, Transformation and Composition for Multimodal LLMs
+SPRITE: From Static Mockups to Engine-Ready Game UI
