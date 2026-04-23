@@ -11044,3 +11044,25 @@ Challenges to detecting present-day volcanism on Venus
 CityRAG: Stepping Into a City via Spatially-Grounded Video Generation
 RDP LoRA: Geometry-Driven Identification for Parameter-Efficient Adaptation in Large Language Models
 Micro Language Models Enable Instant Responses
+Spectral Similarity in the Thermal Infrared between Sulfide-rich Carbonaceous Chondrite Meteorites, Jupiter Trojans, and Other D- and P-type Asteroids
+LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model
+Near-Future Policy Optimization
+DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data
+DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation
+Reward Hacking in the Era of Large Models: Mechanisms, Emergent Misalignment, Challenges
+Exploring Spatial Intelligence from a Generative Perspective
+A Self-Evolving Framework for Efficient Terminal Agents via Observational Context Compression
+WavAlign: Enhancing Intelligence and Expressiveness in Spoken Dialogue Models via Adaptive Hybrid Post-Training
+SWE-chat: Coding Agent Interactions From Real Users in the Wild
+Cortex 2.0: Grounding World Models in Real-World Industrial Deployment
+Convergent Evolution: How Different Language Models Learn Similar Number Representations
+SAVOIR: Learning Social Savoir-Faire via Shapley-based Reward Attribution
+ReImagine: Rethinking Controllable High-Quality Human Video Generation via Image-First Synthesis
+Visual Reasoning through Tool-supervised Reinforcement Learning
+AI scientists produce results without reasoning scientifically
+Scaling Test-Time Compute for Agentic Coding
+Self-Evolving LLM Memory Extraction Across Heterogeneous Tasks
+Tadabur: A Large-Scale Quran Audio Dataset
+MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings
+Diverse Dictionary Learning
+CreativeGame:Toward Mechanic-Aware Creative Game Generation
