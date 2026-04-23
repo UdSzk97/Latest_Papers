@@ -11066,3 +11066,16 @@ Tadabur: A Large-Scale Quran Audio Dataset
 MMCORE: MultiModal COnnection with Representation Aligned Latent Embeddings
 Diverse Dictionary Learning
 CreativeGame:Toward Mechanic-Aware Creative Game Generation
+Effect of uncertainties in the electron temperature on the topside venus ionosphere
+Automatic detection of rocks on permanently shadowed regions (PSRs) of the Moon using PSR-BoulderNet
+High resolution spectroscopy of comet C/2023 A3 (Tsuchinshan–ATLAS) from LBT/PEPSI observations
+Water D/H in 3I/ATLAS as a probe of formation conditions in another planetary system
+NEO Colors from the Mission Accessible Near-Earth Object Survey (MANOS)
+OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis
+C-GenReg: Training-Free 3D Point Cloud Registration by Multi-View-Consistent Geometry-to-Image Generation with Probabilistic Modalities Fusion
+Expert Upcycling: Shifting the Compute-Efficient Frontier of Mixture-of-Experts
+Abstain-R1: Calibrated Abstention and Post-Refusal Clarification via Verifiable RL
+Image Generators are Generalist Vision Learners
+Streaming Structured Inference with Flash-SemiCRF
+COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling
+Benign Fine-Tuning Breaks Safety Alignment in Audio LLMs
