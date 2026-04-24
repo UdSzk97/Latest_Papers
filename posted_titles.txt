@@ -11079,3 +11079,25 @@ Image Generators are Generalist Vision Learners
 Streaming Structured Inference with Flash-SemiCRF
 COMPASS: COntinual Multilingual PEFT with Adaptive Semantic Sampling
 Benign Fine-Tuning Breaks Safety Alignment in Audio LLMs
+No Strong Associations between Eccentricity and Orbital Architecture in Kepler Compact Multis
+Oxygen Left Behind: Atmospheric Enrichment Due to Fractionation in Sub-Neptunes Using BOREAS
+Gas Giants Formed by Gravitational Instability May Accrete Atmospheres with Superstellar Carbon-to-oxygen Ratios
+From bats at dusk to asteroid quests: Books in brief
+LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics
+WorldMark: A Unified Benchmark Suite for Interactive Video World Models
+UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling
+StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition
+Seeing Fast and Slow: Learning the Flow of Time in Videos
+TingIS: Real-time Risk Event Discovery from Noisy Customer Incidents at Enterprise Scale
+Hybrid Policy Distillation for LLMs
+Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks
+VLAA-GUI: Knowing When to Stop, Recover, and Search, A Modular Framework for GUI Automation
+Context Unrolling in Omni Models
+EditCrafter: Tuning-free High-Resolution Image Editing via Pretrained Diffusion Model
+UniGenDet: A Unified Generative-Discriminative Framework for Co-Evolutionary Image Generation and Generated Image Detection
+WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning
+Trust but Verify: Introducing DAVinCI -- A Framework for Dual Attribution and Verification in Claim Inference for Language Models
+Explainable Disentangled Representation Learning for Generalizable Authorship Attribution in the Era of Generative AI
+Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts
+Encoder-Free Human Motion Understanding via Structured Motion Descriptions
+PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents
