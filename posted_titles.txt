@@ -11101,3 +11101,7 @@ Explainable Disentangled Representation Learning for Generalizable Authorship At
 Test-Time Adaptation for EEG Foundation Models: A Systematic Study under Real-World Distribution Shifts
 Encoder-Free Human Motion Understanding via Structured Motion Descriptions
 PersonalAI: A Systematic Comparison of Knowledge Graph Storage and Retrieval Approaches for Personalized LLM agents
+Vista4D: Video Reshooting with 4D Point Clouds
+Coevolving Representations in Joint Image-Feature Diffusion
+Temporally Extended Mixture-of-Experts Models
+3D-VCD: Hallucination Mitigation in 3D-LLM Embodied Agents through Visual Contrastive Decoding
