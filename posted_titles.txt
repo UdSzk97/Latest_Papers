@@ -11120,3 +11120,10 @@ dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Mode
 Sessa: Selective State Space Attention
 AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval
 Learning Evidence Highlighting for Frozen LLMs
+Comparing Results from Two Uniform Phase-curve Surveys
+Raman Spectroscopy of Salt Deposits from the Simulated Subsurface Ocean of Enceladus
+Video Analysis and Generation via a Semantic Progress Function
+Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Horizon Agents
+EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training
+DiagramBank: A Large-scale Dataset of Diagram Design Exemplars with Paper Metadata for Retrieval-Augmented Generation
+Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework
