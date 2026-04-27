@@ -11108,3 +11108,15 @@ Temporally Extended Mixture-of-Experts Models
 Polygonal impact craters on planetary surfaces – A review
 Magnetosphere of Mars at Almost Radial Interplanetary Magnetic Field
 The Dissipation Regime of Turbulence on Mars Observed With Microphone Data From the Mars 2020 Perseverance Rover
+Two-stage formation of the Moon from accreting fragmentation and resonance captures
+Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
+DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction
+LLM Safety From Within: Detecting Harmful Content with Internal Representations
+FlowAnchor: Stabilizing the Editing Signal for Inversion-Free Video Editing
+Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets
+AgentSearchBench: A Benchmark for AI Agent Search in the Wild
+Building a Precise Video Language with Human-AI Oversight
+dWorldEval: Scalable Robotic Policy Evaluation via Discrete Diffusion World Model
+Sessa: Selective State Space Attention
+AgriIR: A Scalable Framework for Domain-Specific Knowledge Retrieval
+Learning Evidence Highlighting for Frozen LLMs
