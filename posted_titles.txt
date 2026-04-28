@@ -11127,3 +11127,27 @@ Memanto: Typed Semantic Memory with Information-Theoretic Retrieval for Long-Hor
 EmbodiedMidtrain: Bridging the Gap between Vision-Language Models and Vision-Language-Action Models via Mid-training
 DiagramBank: A Large-scale Dataset of Diagram Design Exemplars with Paper Metadata for Retrieval-Augmented Generation
 Emergent Strategic Reasoning Risks in AI: A Taxonomy-Driven Evaluation Framework
+Discovery and Characterization of Three New High-amplitude δ Scuti Stars from TESS Observations
+World-R1: Reinforcing 3D Constraints for Text-to-Video Generation
+From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company
+ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning
+Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms
+Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation
+ClawMark: A Living-World Benchmark for Multi-Turn, Multi-Day, Multimodal Coworker Agents
+Rewarding the Scientific Process: Process-Level Reward Modeling for Agentic Data Analysis
+SketchVLM: Vision language models can annotate images to explain thoughts and guide users
+Efficient Agent Evaluation via Diversity-Guided User Simulation
+Taming Actor-Observer Asymmetry in Agents via Dialectical Alignment
+Stabilizing Efficient Reasoning with Step-Level Advantage Selection
+OmniShotCut: Holistic Relational Shot Boundary Detection with Shot-Query Transformer
+For-Value: Efficient Forward-Only Data Valuation for finetuning LLMs and VLMs
+TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction
+Improving Vision-language Models with Perception-centric Process Reward Models
+How Much Is One Recurrence Worth? Iso-Depth Scaling Laws for Looped Language Models
+ProEval: Proactive Failure Discovery and Efficient Performance Estimation for Generative AI Evaluation
+Discovering Agentic Safety Specifications from 1-Bit Danger Signals
+ATTN-FIQA: Interpretable Attention-based Face Image Quality Assessment with Vision Transformers
+EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transformers for Face Image Quality Assessment
+Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings
+Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data
+Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing
