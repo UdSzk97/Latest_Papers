@@ -11151,3 +11151,16 @@ EX-FIQA: Leveraging Intermediate Early eXit Representations from Vision Transfor
 Quantum Kernel Advantage over Classical Collapse in Medical Foundation Model Embeddings
 Zero-to-CAD: Agentic Synthesis of Interpretable CAD Programs at Million-Scale Without Real Data
 Stochastic KV Routing: Enabling Adaptive Depth-Wise Cache Sharing
+Effect of uncertainties in the electron temperature on the topside Venus ionosphere
+Wave Packets at Venus’s Cloud Tops as Seen by Akatsuki
+Why Fine-Tuning Encourages Hallucinations and How to Fix It
+Sapiens2
+UniGeo: Unifying Geometric Guidance for Camera-Controllable Image Editing via Video Models
+PageGuide: Browser extension to assist users in navigating a webpage and locating information
+Learning to Identify Out-of-Distribution Objects for 3D LiDAR Anomaly Segmentation
+Improving Robustness of Tabular Retrieval via Representational Stability
+RaV-IDP: A Reconstruction-as-Validation Framework for Faithful Intelligent Document Processing
+IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Question Answering in Industrial Asset Maintenance
+Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining
+Credal Concept Bottleneck Models for Epistemic-Aleatoric Uncertainty Decomposition
+Personality Shapes Gender Bias in Persona-Conditioned LLM Narratives Across English and Hindi: An Empirical Investigation
