@@ -11164,3 +11164,30 @@ IndustryAssetEQA: A Neurosymbolic Operational Intelligence System for Embodied Q
 Disentangled Robot Learning via Separate Forward and Inverse Dynamics Pretraining
 Credal Concept Bottleneck Models for Epistemic-Aleatoric Uncertainty Decomposition
 Personality Shapes Gender Bias in Persona-Conditioned LLM Narratives Across English and Hindi: An Empirical Investigation
+TESS Planet Occurrence Rates Reveal the Disappearance of the Radius Valley around Mid-to-late M Dwarfs
+Confirmation of Fe i on MASCARA-5 b’s Dayside Observed With EXPRES
+Uniform Reinterpretation of Rocky Exoplanet Secondary Eclipse Observations and the Impact of Stellar and Orbital Uncertainties
+Strongly Subisothermal Polytropic Behavior of Ions in the Martian Magnetosheath Revealed by MAVEN Observations
+Onset of Habitable Conditions on the Hadean Earth Set by Feedback between Tides and Greenhouse Forcing
+Formation and Trapping of CO2 from Cryogenic Irradiation of Carbonate
+Recursive Multi-Agent Systems
+Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora
+DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
+AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery
+Meta-CoT: Enhancing Granularity and Generalization in Image Editing
+Refinement via Regeneration: Enlarging Modification Space Boosts Image Refinement in Unified Multimodal Models
+Mutual Forcing: Dual-Mode Self-Evolution for Fast Autoregressive Audio-Video Character Generation
+Step-Audio-R1.5 Technical Report
+Co-Director: Agentic Generative Video Storytelling
+Toward Scalable Terminal Task Synthesis via Skill Graphs
+BARRED: Synthetic Training of Custom Policy Guardrails via Asymmetric Debate
+TCOD: Exploring Temporal Curriculum in On-Policy Distillation for Multi-turn Autonomous Agents
+MAIC-UI: Making Interactive Courseware with Generative UI
+IAM: Identity-Aware Human Motion and Shape Joint Generation
+A Systematic Post-Train Framework for Video Generation
+GoClick: Lightweight Element Grounding Model for Autonomous GUI Interaction
+AutoGUI-v2: A Comprehensive Multi-Modal GUI Functionality Understanding Benchmark
+V-GRPO: Online Reinforcement Learning for Denoising Generative Models Is Easier than You Think
+Preferences of a Voice-First Nation: Large-Scale Pairwise Evaluation and Preference Analysis for TTS in Indian Languages
+Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Models
+Offline Evaluation Measures of Fairness in Recommender Systems
