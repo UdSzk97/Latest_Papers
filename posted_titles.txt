@@ -11204,3 +11204,11 @@ Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising
 A Survey on LLM-based Conversational User Simulation
 FASH-iCNN: Making Editorial Fashion Identity Inspectable Through Multimodal CNN Probing
 Probing Visual Planning in Image Editing Models
+The Relevance of the VIPER Mission to NASA’s Artemis Human Exploration of the Moon
+RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments
+FAMA: Failure-Aware Meta-Agentic Framework for Open-Source LLMs in Interactive Tool Use Environments
+Operating-Layer Controls for Onchain Language-Model Agents Under Real Capital
+Praxy Voice: Voice-Prompt Recovery + BUPS for Commercial-Class Indic TTS from a Frozen Non-Indic Base at Zero Commercial-Training-Data Cost
+PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech
+Sample Selection Using Multi-Task Autoencoders in Federated Learning with Non-IID Data
+Enhanced Privacy and Communication Efficiency in Non-IID Federated Learning with Adaptive Quantization and Differential Privacy
