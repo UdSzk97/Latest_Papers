@@ -11193,3 +11193,14 @@ Seeing Isn't Believing: Uncovering Blind Spots in Evaluator Vision-Language Mode
 Offline Evaluation Measures of Fairness in Recommender Systems
 The Future of Rocky Worlds Exploration
 The Last Harness You'll Ever Build
+Horizontal transport as a source of disequilibrium chemistry on the nightside of a hot exoplanet
+GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents
+Large Language Models Explore by Latent Distilling
+Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models
+ClawGym: A Scalable Framework for Building Effective Claw Agents
+Diffusion Templates: A Unified Plugin Framework for Controllable Diffusion
+Accelerating RL Post-Training Rollouts via System-Integrated Speculative Decoding
+Unified 4D World Action Modeling from Video Priors with Asynchronous Denoising
+A Survey on LLM-based Conversational User Simulation
+FASH-iCNN: Making Editorial Fashion Identity Inspectable Through Multimodal CNN Probing
+Probing Visual Planning in Image Editing Models
