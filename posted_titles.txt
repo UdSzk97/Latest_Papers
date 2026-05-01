@@ -11212,3 +11212,21 @@ Praxy Voice: Voice-Prompt Recovery + BUPS for Commercial-Class Indic TTS from a 
 PSP: An Interpretable Per-Dimension Accent Benchmark for Indic Text-to-Speech
 Sample Selection Using Multi-Task Autoencoders in Federated Learning with Non-IID Data
 Enhanced Privacy and Communication Efficiency in Non-IID Federated Learning with Adaptive Quantization and Differential Privacy
+Global Mapping of Magnetic Field Topologies in the Martian Induced Magnetosphere
+Heterogeneous Scientific Foundation Model Collaboration
+Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling
+ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control
+Co-Evolving Policy Distillation
+Efficient Training on Multiple Consumer GPUs with RoundPipe
+Length Value Model: Scalable Value Pretraining for Token-Level Length Modeling
+Leveraging Verifier-Based Reinforcement Learning in Image Editing
+Claw-Eval-Live: A Live Agent Benchmark for Evolving Real-World Workflows
+Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists
+InteractWeb-Bench: Can Multimodal Agent Escape Blind Execution in Interactive Website Generation?
+Representation Fréchet Loss for Visual Generation
+Synthetic Computers at Scale for Long-Horizon Productivity Simulation
+Compliance versus Sensibility: On the Reasoning Controllability in Large Language Models
+The Last Human-Written Paper: Agent-Native Research Artifacts
+MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons
+PhyCo: Learning Controllable Physical Priors for Generative Motion
+World2Minecraft: Occupancy-Driven Simulated Scenes Construction
