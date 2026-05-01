@@ -11230,3 +11230,11 @@ The Last Human-Written Paper: Agent-Native Research Artifacts
 MoCapAnything V2: End-to-End Motion Capture for Arbitrary Skeletons
 PhyCo: Learning Controllable Physical Priors for Generative Motion
 World2Minecraft: Occupancy-Driven Simulated Scenes Construction
+Baroclinic pressure oscillations in the Martian atmosphere from surface observations
+Nemotron 3 Nano Omni: Efficient and Open Multimodal Intelligence
+Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization
+Instruction-Guided Poetry Generation in Arabic and Its Dialects
+Step-level Optimization for Efficient Computer-use Agents
+ViPO: Visual Preference Optimization at Scale
+FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Injection and Knowledge Corruption
+Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains
