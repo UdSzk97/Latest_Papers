@@ -11256,3 +11256,12 @@ LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Pres
 AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval
 Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring
 Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling
+Taxonomic Distribution of the Small Near-Earth Asteroid Population
+Variation in Lunar Regolith Space Weathering Relative to Latitude and Wavelength
+Prox-E: Fine-Grained 3D Shape Editing via Primitive-Based Abstractions
+Stable-GFlowNet: Toward Diverse and Robust LLM Red-Teaming via Contrastive Trajectory Balance
+When Do Diffusion Models learn to Generate Multiple Objects?
+Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement Learning
+MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks
+Better Models, Faster Training: Sigmoid Attention for single-cell Foundation Models
+Soft Anisotropic Diagrams for Differentiable Image Representation
