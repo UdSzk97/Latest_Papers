@@ -11240,3 +11240,19 @@ FlashRT: Towards Computationally and Memory Efficient Red-Teaming for Prompt Inj
 Safety Drift After Fine-Tuning: Evidence from High-Stakes Domains
 Thermal properties of lunar mantle olivine and constraints on the Moon's thermal asymmetry
 Constraining Electron‐Impact Ionization of O2 Through UV Aurora Observations at Ganymede
+Constraining the Dynamo Layers in Jupiter and Saturn with Observations and Scaling Laws
+The dark and featureless surface of rocky exoplanet LHS 3844 b from JWST mid-infrared spectroscopy
+UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors
+Web2BigTable: A Bi-Level Multi-Agent LLM System for Internet-Scale Information Search and Extraction
+Learning while Deploying: Fleet-Scale Reinforcement Learning for Generalist Robot Policies
+From Skill Text to Skill Structure: The Scheduling-Structural-Logical Representation for Agent Skills
+Map2World: Segment Map Conditioned Text to 3D World Generation
+End-to-End Autoregressive Image Generation with 1D Semantic Tokenizer
+Let ViT Speak: Generative Language-Image Pre-training
+Online Self-Calibration Against Hallucination in Vision-Language Models
+Learning to Act and Cooperate for Distributed Black-Box Consensus Optimization
+Trees to Flows and Back: Unifying Decision Trees and Diffusion Models
+LASE: Language-Adversarial Speaker Encoding for Indic Cross-Script Identity Preservation
+AnalogRetriever: Learning Cross-Modal Representations for Analog Circuit Retrieval
+Themis: Training Robust Multilingual Code Reward Models for Flexible Multi-Criteria Scoring
+Talker-T2AV: Joint Talking Audio-Video Generation with Autoregressive Diffusion Modeling
