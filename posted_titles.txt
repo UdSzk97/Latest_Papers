@@ -11281,3 +11281,16 @@ Generative Modeling with Orbit-Space Particle Flow Matching
 Perceptual Flow Network for Visually Grounded Reasoning
 Motion-Aware Caching for Efficient Autoregressive Video Generation
 Code World Model Preparedness Report
+The Transit Timing and Transmission Spectrum of Hot Jupiter WASP-43 b from a Decade of Multiband Transit follow-up Observations
+Fatigue-crack formation in samples from asteroid Bennu and petrologic controls on boulder properties and evolution
+Radar-derived Compositional Diversity of the Youngest Martian Volcanics: An Exploratory Study
+Hallucinations Undermine Trust; Metacognition is a Way Forward
+Counting as a minimal probe of language model reliability
+Linear-Time Global Visual Modeling without Explicit Attention
+Agentic AI Systems Should Be Designed as Marginal Token Allocators
+BlenderRAG: High-Fidelity 3D Object Generation via Retrieval-Augmented Code Synthesis
+Assessing Pancreatic Ductal Adenocarcinoma Vascular Invasion: the PDACVI Benchmark
+HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?
+Prior-Aligned Data Cleaning for Tabular Foundation Models
+A Hybrid Approach for Closing the Sim2real Appearance Gap in Game Engine Synthetic Datasets
+Linking spatial biology and clinical histology via Haiku
