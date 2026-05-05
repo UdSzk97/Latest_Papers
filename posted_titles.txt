@@ -11265,3 +11265,19 @@ Odysseus: Scaling VLMs to 100+ Turn Decision-Making in Games via Reinforcement L
 MASCing: Configurable Mixture-of-Experts Behavior via Activation Steering Masks
 Better Models, Faster Training: Sigmoid Attention for single-cell Foundation Models
 Soft Anisotropic Diagrams for Differentiable Image Representation
+Reassessing planetary composition: Evidence of rock-dominated envelopes in Uranus and Neptune
+Effect of Thermal Emission in Isotropic Scattering Atmospheres: An Invariant-embedding Extension of Chandrasekhar’s H(μ) Function
+MolmoAct2: Action Reasoning Models for Real-world Deployment
+From Context to Skills: Can Language Models Learn from Context Skillfully?
+Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling
+Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs
+OceanPile: A Large-Scale Multimodal Ocean Corpus for Foundation Models
+ComboStoc: Combinatorial Stochasticity for Diffusion Generative Models
+AcademiClaw: When Students Set Challenges for AI Agents
+PhysicianBench: Evaluating LLM Agents in Real-World EHR Environments
+T^2PO: Uncertainty-Guided Exploration Control for Stable Multi-Turn Agentic Reinforcement Learning
+Hierarchical Abstract Tree for Cross-Document Retrieval-Augmented Generation
+Generative Modeling with Orbit-Space Particle Flow Matching
+Perceptual Flow Network for Visually Grounded Reasoning
+Motion-Aware Caching for Efficient Autoregressive Video Generation
+Code World Model Preparedness Report
