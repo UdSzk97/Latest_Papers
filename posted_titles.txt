@@ -11294,3 +11294,26 @@ HiL-Bench (Human-in-Loop Benchmark): Do Agents Know When to Ask for Help?
 Prior-Aligned Data Cleaning for Tabular Foundation Models
 A Hybrid Approach for Closing the Sim2real Appearance Gap in Game Engine Synthetic Datasets
 Linking spatial biology and clinical histology via Haiku
+Are Thalassa and Despina in Resonance Lock with Neptune’s Oscillations?
+Deep learning-enabled size estimation of comets indicates a more dynamic early solar system
+Origin and Evolution of the Galilean Satellites Within the Jovian System
+ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration
+Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL
+X2SAM: Any Segmentation in Images and Videos
+OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories
+HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness
+Video Generation with Predictive Latents
+PatRe: A Full-Stage Office Action and Rebuttal Generation Benchmark for Patent Examination
+SVGS: Enhancing Gaussian Splatting Using Primitives with Spatially Varying Colors
+Workspace-Bench 1.0: Benchmarking AI Agents on Workspace Tasks with Large-Scale File Dependencies
+SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment
+Reinforcement Learning for LLM-based Multi-Agent Systems through Orchestration Traces
+A Benchmark for Interactive World Models with a Unified Action Generation Framework
+The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail
+TCDA: Thread-Constrained Discourse-Aware Modeling for Conversational Sentiment Quadruple Analysis
+ESARBench: A Benchmark for Agentic UAV Embodied Search and Rescue
+SplAttN: Bridging 2D and 3D with Gaussian Soft Splatting and Attention for Point Cloud Completion
+Healthcare AI GYM for Medical Agents
+StateSMix: Online Lossless Compression via Mamba State Space Models and Sparse N-gram Context Mixing
+Chain of Evidence: Pixel-Level Visual Attribution for Iterative Retrieval-Augmented Generation
+Skills-Coach: A Self-Evolving Skill Optimizer via Training-Free GRPO
