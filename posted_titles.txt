@@ -11321,3 +11321,21 @@ Characteristics of the stable and convective boundary layer on Mars during a glo
 A southward differentiated impactor forms the tapered shape of the South Pole–Aitken impact basin on the Moon
 Generate, Filter, Control, Replay: A Comprehensive Survey of Rollout Strategies for LLM Reinforcement Learning
 How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum
+Unraveling the Mystery of the Peculiar and Young Hot Jupiter CoRoT-2b. I. H2O and CO Detection from Dayside Observations with Gemini-S/IGRINS
+Self-lensing Signals in Binary Systems Containing White Dwarfs with Neutron Star or Stellar-mass Black Hole Companions
+Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation
+Stream-T1: Test-Time Scaling for Streaming Video Generation
+RLDX-1 Technical Report
+HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation
+OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents
+PhysForge: Generating Physics-Grounded 3D Assets for Interactive Virtual World
+D-OPSD: On-Policy Self-Distillation for Continuously Tuning Step-Distilled Diffusion Models
+Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems
+Lightning Unified Video Editing via In-Context Sparse Attention
+Awaking Spatial Intelligence in Unified Multimodal Understanding and Generation
+Parameter-Efficient Multi-View Proficiency Estimation: From Discriminative Classification to Generative Feedback
+APEX: Large-scale Multi-task Aesthetic-Informed Popularity Prediction for AI-Generated Music
+ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcement Learning
+Diffusion Model as a Generalist Segmentation Learner
+MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills
+When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning
