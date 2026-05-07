@@ -11339,3 +11339,13 @@ ResRL: Boosting LLM Reasoning via Negative Sample Projection Residual Reinforcem
 Diffusion Model as a Generalist Segmentation Learner
 MedSkillAudit: A Domain-Specific Audit Framework for Medical Research Agent Skills
 When to Think, When to Speak: Learning Disclosure Policies for LLM Reasoning
+Wind-driven transport and sampling bias correction of martian volatile gases
+Analysis of the Gilbert-type delta architecture and boulder conglomerate facies in Jezero Crater, Mars
+Inter-comparison of Mars Upper Atmosphere Neutral Density and Temperature Datasets from MAVEN
+MiniCPM-o 4.5: Towards Real-Time Full-Duplex Omni-Modal Interaction
+SWE-WebDevBench: Evaluating Coding Agent Application Platforms as Virtual Software Agencies
+The First Token Knows: Single-Decode Confidence for Hallucination Detection
+CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool Repurposing
+KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning
+TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos
+Turning Drift into Constraint: Robust Reasoning Alignment in Non-Stationary Environments
