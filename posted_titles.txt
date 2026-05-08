@@ -11349,3 +11349,44 @@ CreativityBench: Evaluating Agent Creative Reasoning via Affordance-Based Tool R
 KinDER: A Physical Reasoning Benchmark for Robot Learning and Planning
 TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos
 Turning Drift into Constraint: Robust Reasoning Alignment in Non-Stationary Environments
+NASA’s Pandora SmallSat Mission: Simulating the Impact of Stellar Photospheric Heterogeneity and Its Correction
+Hydrolyzed Hazes on Water-rich Exoplanets: Optical Constants and Detectability
+Long-term Dynamical Evolution and Ejection of Near-Earth Asteroids
+A Benchmark Model for the Sunlit Martian Ionosphere: Structure, Composition, and Energetics
+An unsupervised machine learning approach to iron meteorite classification
+Analysis of hydrogen, carbon, oxygen, sulfur, chlorine, and mercury in samples returned from asteroid (101955) Bennu
+Anhydrous minerals in asteroid Bennu: Evidence for well‐preserved primordial components
+Expanding the Global Martian Landslide Inventory with Multimodal DINOv2 Feature Fusion and SVM Classification
+Observations of [O I] Emission in Comets C/2014 Q2 (Lovejoy) and C/2007 N3 (Lulin): Possible Influence of Solar Activity on Oxygen Line Ratios
+MiA-Signature: Approximating Global Activation for Long-Context Understanding
+MARBLE: Multi-Aspect Reward Balance for Diffusion RL
+Continuous Latent Diffusion Language Model
+When to Trust Imagination: Adaptive Action Execution for World Action Models
+RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation
+Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning
+Nonsense Helps: Prompt Space Perturbation Broadens Reasoning Exploration
+Continuous-Time Distribution Matching for Few-Step Diffusion Distillation
+Auto Research with Specialist Agents Develops Effective and Non-Trivial Training Recipes
+A^2TGPO: Agentic Turn-Group Policy Optimization with Adaptive Turn-level Clipping
+Audio-Visual Intelligence in Large Foundation Models
+UniPool: A Globally Shared Expert Pool for Mixture-of-Experts
+ReflectDrive-2: Reinforcement-Learning-Aligned Self-Editing for Discrete Diffusion Driving
+TabEmbed: Benchmarking and Learning Generalist Embeddings for Tabular Understanding
+SwiftI2V: Efficient High-Resolution Image-to-Video Generation via Conditional Segment-wise Generation
+SkillOS: Learning Skill Curation for Self-Evolving Agents
+RemoteZero: Geospatial Reasoning with Zero Human Annotations
+AI Co-Mathematician: Accelerating Mathematicians with Agentic AI
+Can RL Teach Long-Horizon Reasoning to LLMs? Expressiveness Is Key
+The Granularity Axis: A Micro-to-Macro Latent Direction for Social Roles in Language Models
+Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction
+Are We Making Progress in Multimodal Domain Generalization? A Comprehensive Benchmark Study
+Think, then Score: Decoupled Reasoning and Scoring for Video Reward Modeling
+Sparkle: Realizing Lively Instruction-Guided Video Background Replacement via Decoupled Guidance
+When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
+KernelBench-X: A Comprehensive Benchmark for Evaluating LLM-Generated GPU Kernels
+The Scaling Properties of Implicit Deductive Reasoning in Transformers
+Recovering Hidden Reward in Diffusion-Based Policies
+EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World University-Level STEM Student Handwritten Solutions
+Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO
+BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models
+TIDE: Every Layer Knows the Token Beneath the Context
