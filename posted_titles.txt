@@ -11390,3 +11390,10 @@ EDU-CIRCUIT-HW: Evaluating Multimodal Large Language Models on Real-World Univer
 Balanced Aggregation: Understanding and Fixing Aggregation Bias in GRPO
 BioTool: A Comprehensive Tool-Calling Dataset for Enhancing Biomedical Capabilities of Large Language Models
 TIDE: Every Layer Knows the Token Beneath the Context
+Investigation of Transit Timing and an Optical Transmission Spectrum of the Hot Jupiter WASP-11 b
+Asymmetry of lava tube skylight segments: Segment structural analysis and implications for future lunar exploration
+StraTA: Incentivizing Agentic Reinforcement Learning with Strategic Trajectory Abstraction
+Prescriptive Scaling Laws for Data Constrained Training
+PianoCoRe: Combined and Refined Piano MIDI Dataset
+GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs
+Generative Quantum-inspired Kolmogorov-Arnold Eigensolver
