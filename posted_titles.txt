@@ -11397,3 +11397,5 @@ Prescriptive Scaling Laws for Data Constrained Training
 PianoCoRe: Combined and Refined Piano MIDI Dataset
 GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs
 Generative Quantum-inspired Kolmogorov-Arnold Eigensolver
+Apollo 17 Lunar Surface Gravimeter as a Seismometer: Relocating Shallow‐Moonquake Sources and Implications for Source Mechanism
+EMO: Pretraining Mixture of Experts for Emergent Modularity
