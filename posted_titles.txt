@@ -11399,3 +11399,5 @@ GeoStack: A Framework for Quasi-Abelian Knowledge Composition in VLMs
 Generative Quantum-inspired Kolmogorov-Arnold Eigensolver
 Apollo 17 Lunar Surface Gravimeter as a Seismometer: Relocating Shallow‐Moonquake Sources and Implications for Source Mechanism
 EMO: Pretraining Mixture of Experts for Emergent Modularity
+Geodynamic controls on the habitable basement of shallow coral reefs at rifted continental margins
+Ages and origins of lunar light plains
