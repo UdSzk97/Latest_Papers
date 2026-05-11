@@ -11401,3 +11401,55 @@ Apollo 17 Lunar Surface Gravimeter as a Seismometer: Relocating Shallow‐Moonqu
 EMO: Pretraining Mixture of Experts for Emergent Modularity
 Geodynamic controls on the habitable basement of shallow coral reefs at rifted continental margins
 Ages and origins of lunar light plains
+Quantifying the Impact of Starspot-crossing Events on Retrieved Parameters from Transit Lightcurves
+Astrometric observations of six Jovian irregular satellites based on Gaia DR3 in 2019–2025
+Publisher Correction: Strong nickel enrichment co-located with redox-organic interactions in Neretva Vallis, Mars
+Sliding Terrains and Dislocated Plates in Amazonis Planitia (Mars) as the Result of Instability of a Frozen Martian Ocean
+Guidelines for Estimating the 3D Size and Shape of Boulders from Planetary Surface Images
+Can Radio Occultations Constrain Uranus or Neptune’s Internal Rotation Periods?
+The Hera Milani Mission: Use of a Nanosatellite for Planetary Defence Purposes
+MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation
+Flow-OPD: On-Policy Distillation for Flow Matching Models
+Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex
+HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents
+LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling
+Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers
+HumanNet: Scaling Human-centric Video Learning to One Million Hours
+Beyond Retrieval: A Multitask Benchmark and Model for Code Search
+Anisotropic Modality Align
+TextLDM: Language Modeling with Continuous Latent Diffusion
+UniPrefill: Universal Long-Context Prefill Acceleration via Block-wise Dynamic Sparsification
+AEM: Adaptive Entropy Modulation for Multi-Turn Agentic Reinforcement Learning
+4DThinker: Thinking with 4D Imagery for Dynamic Spatial Understanding
+DecodingTrust-Agent Platform (DTap): A Controllable and Interactive Red-Teaming Platform for AI Agents
+Rethinking State Tracking in Recurrent Models Through Error Control Dynamics
+MISA: Mixture of Indexer Sparse Attention for Long-Context LLM Inference
+A^2RD: Agentic Autoregressive Diffusion for Long Video Consistency
+MatryoshkaLoRA: Learning Accurate Hierarchical Low-Rank Representations for LLM Fine-Tuning
+UniSD: Towards a Unified Self-Distillation Framework for Large Language Models
+SCOPE: Structured Decomposition and Conditional Skill Orchestration for Complex Image Generation
+What Matters for Diffusion-Friendly Latent Manifold? Prior-Aligned Autoencoders for Latent Diffusion
+Normalizing Trajectory Models
+SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents
+Scaling Continual Learning to 300+ Tasks with Bi-Level Routing Mixture-of-Experts
+InterLV-Search: Benchmarking Interleaved Multimodal Agentic Search
+What if AI systems weren't chatbots?
+STARFlow2: Bridging Language Models and Normalizing Flows for Unified Multimodal Generation
+Fast Byte Latent Transformer
+From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms
+IntentGrasp: A Comprehensive Benchmark for Intent Understanding
+LiVeAction: a Lightweight, Versatile, and Asymmetric Neural Codec Design for Real-time Operation
+MDN: Parallelizing Stepwise Momentum for Delta Linear Attention
+Empirical Evidence for Simply Connected Decision Regions in Image Classifiers
+Who Prices Cognitive Labor in the Age of Agents? Compute-Anchored Wages
+Rethinking RL for LLM Reasoning: It's Sparse Policy Selection, Not Capability Learning
+Steering Visual Generation in Unified Multimodal Models with Understanding Supervision
+Gated QKAN-FWP: Scalable Quantum-inspired Sequence Learning
+CASCADE: Case-Based Continual Adaptation for Large Language Models During Deployment
+Sparse Autoencoders as Plug-and-Play Firewalls for Adversarial Attack Detection in VLMs
+SpecBlock: Block-Iterative Speculative Decoding with Dynamic Tree Drafting
+Shallow Prefill, Deep Decoding: Efficient Long-Context Inference via Layer-Asymmetric KV Visibility
+CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generalization
+PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors
+CGM-JEPA: Learning Consistent Continuous Glucose Monitor Representations via Predictive Self-Supervised Pretraining
+R^3-SQL: Ranking Reward and Resampling for Text-to-SQL
