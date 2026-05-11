@@ -11453,3 +11453,12 @@ CPCANet: Deep Unfolding Common Principal Component Analysis for Domain Generaliz
 PrefixGuard: From LLM-Agent Traces to Online Failure-Warning Monitors
 CGM-JEPA: Learning Consistent Continuous Glucose Monitor Representations via Predictive Self-Supervised Pretraining
 R^3-SQL: Ranking Reward and Resampling for Text-to-SQL
+Q-RAG: Long Context Multi-step Retrieval via Value-based Embedder Training
+ModelLens: Finding the Best for Your Task from Myriads of Models
+Discovering Reinforcement Learning Interfaces with Large Language Models
+BalCapRL: A Balanced Framework for RL-Based MLLM Image Captioning
+Learning Visual Feature-Based World Models via Residual Latent Action
+Rubric-based On-policy Distillation
+PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents
+Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation
+Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision
