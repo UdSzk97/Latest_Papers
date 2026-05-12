@@ -11462,3 +11462,63 @@ Rubric-based On-policy Distillation
 PACEvolve++: Improving Test-time Learning for Evolutionary Search Agents
 Trajectory as the Teacher: Few-Step Discrete Flow Matching via Energy-Navigated Distillation
 Delta-Adapter: Scalable Exemplar-Based Image Editing with Single-Pair Supervision
+Exploring Contact Binaries: Photometric Analysis of Short-period Contact Binaries in OGLE SMC Field
+The Impact of Supermassive Black Holes on Exoplanet Habitability. I. Spanning the Natural Mass Range
+TIME Commissioning Observations. I. Mapping Dust and Molecular Gas in the Sgr A Molecular Cloud Complex at the Galactic Center
+Sensitivity of Spectral Lines to Granulation: The Sun
+Flood-deposited boulders on the western fan record distinct alteration histories of Jezero watershed, Mars
+Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs
+Qwen-Image-2.0 Technical Report
+TMAS: Scaling Test-Time Compute via Multi-Agent Synergy
+CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models
+PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents
+Geometry Conflict: Explaining and Controlling Forgetting in LLM Continual Post-Training
+Model Merging Scaling Laws in Large Language Models
+WorldReasonBench: Human-Aligned Stress Testing of Video Generators as Future World-State Predictors
+Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria
+X-OmniClaw Technical Report: A Unified Mobile Agent for Multimodal Understanding and Interaction
+Memory-Efficient Looped Transformer: Decoupling Compute from Memory in Looped Language Models
+SEIF: Self-Evolving Reinforcement Learning for Instruction Following
+Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning
+Pixal3D: Pixel-Aligned 3D Generation from Images
+Rebellious Student: Reversing Teacher Signals for Reasoning Exploration with Self-Distilled RLVR
+G-Zero: Self-Play for Open-Ended Generation from Zero Data
+Make Each Token Count: Towards Improving Long-Context Performance with KV Cache Eviction
+Mela: Test-Time Memory Consolidation based on Transformation Hypothesis
+SlimQwen: Exploring the Pruning and Distillation in Large MoE Model Pre-training
+RigidFormer: Learning Rigid Dynamics using Transformers
+SlimSpec: Low-Rank Draft LM-Head for Accelerated Speculative Decoding
+Shaping Schema via Language Representation as the Next Frontier for LLM Intelligence Expanding
+Omni-Persona: Systematic Benchmarking and Improving Omnimodal Personalization
+Reinforcing Multimodal Reasoning Against Visual Degradation
+DeltaRubric: Generative Multimodal Reward Modeling via Joint Planning and Verification
+NanoResearch: Co-Evolving Skills, Memory, and Policy for Personalized Research Automation
+LLaVA-UHD v4: What Makes Efficient Visual Encoding in MLLMs?
+Metal-Sci: A Scientific Compute Benchmark for Evolutionary LLM Kernel Search on Apple Silicon
+AgentForesight: Online Auditing for Early Failure Prediction in Multi-Agent Systems
+FlashEvolve: Accelerating Agent Self-Evolution with Asynchronous Stage Orchestration
+ELF: Embedded Language Flows
+DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices
+Injecting Distributional Awareness into MLLMs via Reinforcement Learning for Deep Imbalanced Regression
+Crosslingual On-Policy Self-Distillation for Multilingual Reasoning
+Scratchpad Patching: Decoupling Compute from Patch Size in Byte-Level Language Models
+FORTIS: Benchmarking Over-Privilege in Agent Skills
+MuSS: A Large-Scale Dataset and Cinematic Narrative Benchmark for Multi-Shot Subject-to-Video Generation
+LLiMba: Sardinian on a Single GPU -- Adapting a 3B Language Model to a Vanishing Romance Language
+Pushing Biomolecular Utility-Diversity Frontiers with Supergroup Relative Policy Optimization
+Queryable LoRA: Instruction-Regularized Routing Over Shared Low-Rank Update Atoms
+SplatWeaver: Learning to Allocate Gaussian Primitives for Generalizable Novel View Synthesis
+Uncovering Entity Identity Confusion in Multimodal Knowledge Editing
+Can Muon Fine-tune Adam-Pretrained Models?
+CapVector: Learning Transferable Capability Vectors in Parametric Space for Vision-Language-Action Models
+RoboMemArena: A Comprehensive and Challenging Robotic Memory Benchmark
+The Alpha Blending Hypothesis: Compositing Shortcut in Deepfake Detection
+Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace
+Dystruct: Dynamically Structured Diffusion Language Model Decoding via Bayesian Inference
+SimWorld Studio: Automatic Environment Generation with Evolving Coding Agent for Embodied Agent Learning
+Sub-JEPA: Subspace Gaussian Regularization for Stable End-to-End World Models
+TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation
+100,000+ Movie Reviews from Kazakhstan: Russian, Kazakh, and Code-Switched Texts
+Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents
+A Closed-Form Upper Bound for Admissible Learning-Rate Steps in Belief-Space Dynamics
+Training-Free Dense Hand Contact Estimation with Multi-Modal Large Language Models
