@@ -11522,3 +11522,16 @@ TD3B: Transition-Directed Discrete Diffusion for Allosteric Binder Generation
 Safe, or Simply Incapable? Rethinking Safety Evaluation for Phone-Use Agents
 A Closed-Form Upper Bound for Admissible Learning-Rate Steps in Belief-Space Dynamics
 Training-Free Dense Hand Contact Estimation with Multi-Modal Large Language Models
+Reply to Russell et al. (2026): Complementary analyses further support a molten Basal Mantle Layer on Mars
+Key-Value Means
+Prompt-Activation Duality: Improving Activation Steering via Attention-Level Interventions
+Addressing Performance Saturation for LLM RL via Precise Entropy Curve Control
+Conformal Agent Error Attribution
+A Single Neuron Is Sufficient to Bypass Safety Alignment in Large Language Models
+Unmasking On-Policy Distillation: Where It Helps, Where It Hurts, and Why
+GridProbe: Posterior-Probing for Adaptive Test-Time Compute in Long-Video VLMs
+PlantMarkerBench: A Multi-Species Benchmark for Evidence-Grounded Plant Marker Reasoning
+DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning
+jina-embeddings-v5-omni: Text-Geometry-Preserving Multimodal Embeddings via Frozen-Tower Composition
+Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?
+InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition
