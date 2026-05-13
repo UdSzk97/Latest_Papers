@@ -11599,3 +11599,16 @@ FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Gene
 Geometric Factual Recall in Transformers
 Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs
 Reliable Chain-of-Thought via Prefix Consistency
+Coupled atmospHere Interior modeL Intercomparison (CHILI)—Protocol Version 1.0: A CUISINES Intercomparison Project of Magma Ocean Models
+Efficient Pre-Training with Token Superposition
+Learning, Fast and Slow: Towards LLMs That Adapt Continually
+A Single Layer to Explain Them All:Understanding Massive Activations in Large Language Models
+Micro-Defects Expose Macro-Fakes: Detecting AI-Generated Images via Local Distributional Shifts
+EgoForce: Forearm-Guided Camera-Space 3D Hand Pose from a Monocular Egocentric Camera
+Solve the Loop: Attractor Models for Language and Reasoning
+ORBIT: Preserving Foundational Language Capabilities in GenRetrieval via Origin-Regulated Merging
+EVOCHAMBER: Test-Time Co-evolution of Multi-Agent System at Individual, Team, and Population Scales
+SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-Language Navigation
+LLM Agents Already Know When to Call Tools -- Even Without Reasoning
+Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty
+Urban-ImageNet: A Large-Scale Multi-Modal Dataset and Evaluation Framework for Urban Space Perception
