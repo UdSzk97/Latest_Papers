@@ -11535,3 +11535,67 @@ DeepRefine: Agent-Compiled Knowledge Refinement via Reinforcement Learning
 jina-embeddings-v5-omni: Text-Geometry-Preserving Multimodal Embeddings via Frozen-Tower Composition
 Rethinking Agentic Search with Pi-Serini: Is Lexical Retrieval Sufficient?
 InfoLaw: Information Scaling Laws for Large Language Models with Quality-Weighted Mixture Data and Repetition
+A tidally detached super Neptune on a strongly misaligned retrograde orbit
+Impact of Cold Jupiter Scattering on the Mean-motion Resonance of Inner Small Planets
+Tungsten and xenon isotopic constraints on the timing of Moon formation and early Earth degassing
+The Electromagnetic Gradient Drift Instability: The Case of the Martian Ionosphere
+Densities of the Venusian thermosphere as revealed by Venus express torque data
+Environmental conditions associated with carbonate-bearing rocks in lower hawksbill gap, Jezero Western fan, Mars
+Prebiotic Chemistry Insights for Dragonfly. II. Thermodynamic Favorability of Nucleobases, Ribose, and Fatty Acids in Selk Crater on Titan
+CH4-clathrates in Clay Minerals and Sulfate Brines: Application to Gale Crater on Mars
+SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture
+MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents
+δ-mem: Efficient Online Memory for Large Language Models
+RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards
+World Action Models: The Next Frontier in Embodied AI
+Do Enterprise Systems Need Learned World Models? The Importance of Context to Infer Dynamics
+AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward
+Beyond the Last Layer: Multi-Layer Representation Fusion for Visual Tokenization
+ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents
+L2P: Unlocking Latent Potential for Pixel Generation
+CausalCine: Real-Time Autoregressive Generation for Multi-Shot Video Narratives
+Teaching Language Models to Think in Code
+Towards On-Policy Data Evolution for Visual-Native Multimodal Deep Search Agents
+Relit-LiVE: Relight Video by Jointly Learning Environment Video
+On-Policy Self-Evolution via Failure Trajectories for Agentic Safety Alignment
+MCP-Cosmos: World Model-Augmented Agents for Complex Task Execution in MCP Environments
+Your Language Model is Its Own Critic: Reinforcement Learning with Value Estimation from Actor's Internal States
+Missing Old Logits in Asynchronous Agentic RL: Semantic Mismatch and Repair Methods for Off-Policy Correction
+SeePhys Pro: Diagnosing Modality Transfer and Blind-Training Effects in Multimodal RLVR for Physics Reasoning
+From Web to Pixels: Bringing Agentic Search into Visual Perception
+World Model for Robot Learning: A Comprehensive Survey
+Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training
+Continual Harness: Online Adaptation for Self-Improving Foundation Agents
+LoopUS: Recasting Pretrained LLMs into Looped Latent Refinement Models
+PASA: A Principled Embedding-Space Watermarking Approach for LLM-Generated Text under Semantic-Invariant Attacks
+Multi-Stream LLMs: Unblocking Language Models with Parallel Streams of Thoughts, Inputs and Outputs
+Debiased Model-based Representations for Sample-efficient Continuous Control
+MEME: Multi-entity & Evolving Memory Evaluation
+Agent-ValueBench: A Comprehensive Benchmark for Evaluating Agent Values
+A Causal Language Modeling Detour Improves Encoder Continued Pretraining
+The Many Faces of On-Policy Distillation: Pitfalls, Mechanisms, and Fixes
+Do not copy and paste! Rewriting strategies for code retrieval
+LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues
+LychSim: A Controllable and Interactive Simulation Framework for Vision Research
+Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation
+One Turn Too Late: Response-Aware Defense Against Hidden Malicious Intent in Multi-Turn Dialogue
+VidSplat: Gaussian Splatting Reconstruction with Geometry-Guided Video Diffusion Priors
+Reward Hacking in Rubric-Based Reinforcement Learning
+Images in Sentences: Scaling Interleaved Instructions for Unified Visual Generation
+AutoLLMResearch: Training Research Agents for Automating LLM Experiment Configuration -- Learning from Cheap, Optimizing Expensive
+MoCam: Unified Novel View Synthesis via Structured Denoising Dynamics
+IndustryBench: Probing the Industrial Knowledge Boundaries of LLMs
+TacoMAS: Test-Time Co-Evolution of Topology and Capability in LLM-based Multi-Agent Systems
+AdaPreLoRA: Adafactor Preconditioned Low-Rank Adaptation
+UniPath: Adaptive Coordination of Understanding and Generation for Unified Multimodal Reasoning
+WildRelight: A Real-World Benchmark and Physics-Guided Adaptation for Single-Image Relighting
+Lite3R: A Model-Agnostic Framework for Efficient Feed-Forward 3D Reconstruction
+FocuSFT: Bilevel Optimization for Dilution-Aware Long-Context Fine-Tuning
+GLiNER-Relex: A Unified Framework for Joint Named Entity Recognition and Relation Extraction
+PAAC: Privacy-Aware Agentic Device-Cloud Collaboration
+Large Language Models over Networks: Collaborative Intelligence under Resource Constraints
+Implicit Preference Alignment for Human Image Animation
+FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation
+Geometric Factual Recall in Transformers
+Beyond Reasoning: Reinforcement Learning Unlocks Parametric Knowledge in LLMs
+Reliable Chain-of-Thought via Prefix Consistency
