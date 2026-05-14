@@ -11653,3 +11653,18 @@ PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mech
 WriteSAE: Sparse Autoencoders for Recurrent State
 M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement
 SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety
+Surface Roughness of the Chang’E-5 and Chang’E-6 Lunar Samples: Implications for the Microscopic Processes Shaping the Lunar Surface
+EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents
+LEAD: Length-Efficient Adaptive and Dynamic Reasoning for Large Language Models
+BEACON: A Multimodal Dataset for Learning Behavioral Fingerprints from Gameplay Data
+Retrieval from Within: An Intrinsic Capability of Attention-Based Models
+MC-RFM: Geometry-Aware Few-Shot Adaptation via Mixed-Curvature Riemannian Flow Matching
+IndicMedDialog: A Parallel Multi-Turn Medical Dialogue Dataset for Accessible Healthcare in Indic Languages
+An Empirical Study of Automating Agent Evaluation
+From Generalist to Specialist Representation
+Source or It Didn't Happen: A Multi-Agent Framework for Citation Hallucination Detection
+FAAST: Forward-Only Associative Learning via Closed-Form Fast Weights for Test-Time Supervised Adaptation
+Federation of Experts: Communication Efficient Distributed Inference for Large Language Models
+FlowCompile: An Optimizing Compiler for Structured LLM Workflows
+Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization
+Active Tabular Augmentation via Policy-Guided Diffusion Inpainting
