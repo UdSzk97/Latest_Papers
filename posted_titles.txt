@@ -11612,3 +11612,44 @@ SleepWalk: A Three-Tier Benchmark for Stress-Testing Instruction-Guided Vision-L
 LLM Agents Already Know When to Call Tools -- Even Without Reasoning
 Agent-BRACE: Decoupling Beliefs from Actions in Long-Horizon Tasks via Verbalized State Uncertainty
 Urban-ImageNet: A Large-Scale Multi-Modal Dataset and Evaluation Framework for Urban Space Perception
+Compact Hydrogen Sulfide Emission Indicates Sulfur-bearing Ice Sublimation in the Inner Disk of HD 163296
+Distal Marine Mercury Signals in Peak Late Paleozoic Ice Age: Implications for Aeolian Versus Volcanic Inputs
+MulTaBench: Benchmarking Multimodal Tabular Learning with Text and Image
+MinT: Managed Infrastructure for Training and Serving Millions of LLMs
+AnyFlow: Any-Step Video Diffusion Model with On-Policy Flow Map Distillation
+Training Long-Context Vision-Language Models Effectively with Generalization Beyond 128K Context
+Predicting Decisions of AI Agents from Limited Interaction through Text-Tabular Modeling
+Qwen-Image-VAE-2.0 Technical Report
+Edit-Compass & EditReward-Compass: A Unified Benchmark for Image Editing and Reward Modeling
+TrackCraft3R: Repurposing Video Diffusion Transformers for Dense 3D Tracking
+Many-Shot CoT-ICL: Making In-Context Learning Truly Learn
+FrameSkip: Learning from Fewer but More Informative Frames in VLA Training
+The DAWN of World-Action Interactive Models
+Asymmetric Flow Models
+Learning Agentic Policy from Action Guidance
+Retrieval is Cheap, Show Me the Code: Executable Multi-Hop Reasoning for Retrieval-Augmented Generation
+PresentAgent-2: Towards Generalist Multimodal Presentation Agents
+RoboEvolve: Co-Evolving Planner-Simulator for Robotic Manipulation with Limited Data
+Orthrus: Memory-Efficient Parallel Token Generation via Dual-View Diffusion
+Offline Preference Optimization for Rectified Flow with Noise-Tracked Pairs
+Revisiting DAgger in the Era of LLM-Agents
+HAGE: Harnessing Agentic Memory via RL-Driven Weighted Graph Evolution
+Results and Retrospective Analysis of the CODS 2025 AssetOpsBench Challenge
+MAP: A Map-then-Act Paradigm for Long-Horizon Interactive Agent Reasoning
+RealICU: Do LLM Agents Understand Long-Context ICU Data? A Benchmark Beyond Behavior Imitation
+FeatCal: Feature Calibration for Post-Merging Models
+AgentLens: Revealing The Lucky Pass Problem in SWE-Agent Evaluation
+Context Training with Active Information Seeking
+Visual Aesthetic Benchmark: Can Frontier Models Judge Beauty?
+Position: LLM Inference Should Be Evaluated as Energy-to-Token Production
+The Extrapolation Cliff in On-Policy Distillation of Near-Deterministic Structured Outputs
+Vividh-ASR: A Complexity-Tiered Benchmark and Optimization Dynamics for Robust Indic Speech Recognition
+F-GRPO: Factorized Group-Relative Policy Optimization for Unified Candidate Generation and Ranking
+Frequency Bias and OOD Generalization in Neural Operators under a Variable-Coefficient Wave Equation
+ShapeCodeBench: A Renewable Benchmark for Perception-to-Program Reconstruction of Synthetic Shape Scenes
+MemReread: Enhancing Agentic Long-Context Reasoning via Memory-Guided Rereading
+From Pixels to Concepts: Do Segmentation Models Understand What They Segment?
+PersonalAI 2.0: Enhancing knowledge graph traversal/retrieval with planning mechanism for Personalized LLM Agents
+WriteSAE: Sparse Autoencoders for Recurrent State
+M2Retinexformer: Multi-Modal Retinexformer for Low-Light Image Enhancement
+SafeHarbor: Hierarchical Memory-Augmented Guardrail for LLM Agent Safety
