@@ -11720,3 +11720,9 @@ Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Mo
 Quantitative Video World Model Evaluation for Geometric-Consistency
 LLM-based Detection of Manipulative Political Narratives
 CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves
+Long Context Pre-Training with Lighthouse Attention
+WildTableBench: Benchmarking Multimodal Foundation Models on Table Understanding In the Wild
+Aligning Latent Geometry for Spherical Flow Matching in Image Generation
+Sat3DGen: Comprehensive Street-Level 3D Scene Generation from Single Satellite Image
+Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Few-Shot Guidance
+PreScam: A Benchmark for Predicting Scam Progression from Early Conversations
