@@ -11668,3 +11668,55 @@ Federation of Experts: Communication Efficient Distributed Inference for Large L
 FlowCompile: An Optimizing Compiler for Structured LLM Workflows
 Learning to Explore: Scaling Agentic Reasoning via Exploration-Aware Policy Optimization
 Active Tabular Augmentation via Policy-Guided Diffusion Inpainting
+URANUS: Ultra-wideband Radio Astronomy Novel Utility for Shared Ring Buffer Pipeline
+The Goldilocks Problem for Detecting Water in Terrestrial Planets: Constraining Water Abundances in the Mid-infrared with LIFE
+Observational and Dynamical Constraints on an Unseen Outer Perturber in the GJ 436 Hot Neptune System
+Discovery of Spin-pulse Correlated Magnetic Gating Bursts in the Long-period Intermediate Polar PBC J0801.2–4625
+Potential Interaction of 99942 Apophis with the High Earth Orbit Population during the 2029 Close Approach
+Achieving Gold-Medal-Level Olympiad Reasoning via Simple and Unified Scaling
+Self-Distilled Agentic Reinforcement Learning
+MemLens: Benchmarking Multimodal Long-Term Memory in Large Vision-Language Models
+MemEye: A Visual-Centric Evaluation Framework for Multimodal Agent Memory
+SANA-WM: Efficient Minute-Scale World Modeling with Hybrid Linear Diffusion Transformer
+Causal Forcing++: Scalable Few-Step Autoregressive Diffusion Distillation for Real-Time Interactive Video Generation
+Darwin Family: MRI-Trust-Weighted Evolutionary Merging for Training-Free Scaling of Language-Model Reasoning
+WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
+STALE: Can LLM Agents Know When Their Memories Are No Longer Valid?
+Beyond Individual Intelligence: Surveying Collaboration, Failure Attribution, and Self-Evolution in LLM-based Multi-Agent Systems
+Warp-as-History: Generalizable Camera-Controlled Video Generation from One Training Video
+PREPING: Building Agent Memory without Tasks
+RouteProfile: Elucidating the Design Space of LLM Profiles for Routing
+EvolveMem:Self-Evolving Memory Architecture via AutoResearch for LLM Agents
+ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both
+DiffusionOPD: A Unified Perspective of On-Policy Distillation in Diffusion Models
+IntentVLA: Short-Horizon Intent Modeling for Aliased Robot Manipulation
+FrontierSmith: Synthesizing Open-Ended Coding Problems at Scale
+Learning to Communicate Locally for Large-Scale Multi-Agent Pathfinding
+Realiz3D: 3D Generation Made Photorealistic via Domain-Aware Learning
+VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction
+Orchard: An Open-Source Agentic Modeling Framework
+ViMU: Benchmarking Video Metaphorical Understanding
+Forcing-KV: Hybrid KV Cache Compression for Efficient Autoregressive Video Diffusion Models
+Does Synthetic Layered Design Data Benefit Layered Design Decomposition?
+PanoWorld: Towards Spatial Supersensing in 360^circ Panorama World
+BOOKMARKS: Efficient Active Storyline Memory for Role-playing
+RAVEN: Real-time Autoregressive Video Extrapolation with Consistency-model GRPO
+Adaptive Teacher Exposure for Self-Distillation in LLM Reasoning
+Learning to Build the Environment: Self-Evolving Reasoning RL via Verifiable Environment Synthesis
+FutureSim: Replaying World Events to Evaluate Adaptive Agents
+PhyMotion: Structured 3D Motion Reward for Physics-Grounded Human Video Generation
+PRISM: Prior Rectification and Uncertainty-Aware Structure Modeling for Diffusion-Based Text Image Super-Resolution
+Topology-Preserving Neural Operator Learning via Hodge Decomposition
+RewardHarness: Self-Evolving Agentic Post-Training
+BEAM: Binary Expert Activation Masking for Dynamic Routing in MoE
+LiSA: Lifelong Safety Adaptation via Conservative Policy Induction
+Unlocking Complex Visual Generation via Closed-Loop Verified Reasoning
+Dynamic Latent Routing
+Nexus : An Agentic Framework for Time Series Forecasting
+Ideology Prediction of German Political Texts
+Boosting Omni-Modal Language Models: Staged Post-Training with Visually Debiased Evaluation
+SPIN: Structural LLM Planning via Iterative Navigation for Industrial Tasks
+Overcoming Dynamics-Blindness: Training-Free Pace-and-Path Correction for VLA Models
+Quantitative Video World Model Evaluation for Geometric-Consistency
+LLM-based Detection of Manipulative Political Narratives
+CurveBench: A Benchmark for Exact Topological Reasoning over Nested Jordan Curves
