@@ -11728,3 +11728,35 @@ Boosting Reinforcement Learning with Verifiable Rewards via Randomly Selected Fe
 PreScam: A Benchmark for Predicting Scam Progression from Early Conversations
 Reaccumulation process after a catastrophic disruption event on a differentiated asteroid
 Revisiting the CO<sub>2</sub> stability problem of the Martian atmosphere with a three-dimensional climate-photochemistry model
+PhysBrain 1.0 Technical Report
+MMSkills: Towards Multimodal Skills for General Visual Agents
+CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence
+FashionChameleon: Towards Real-Time and Interactive Human-Garment Video Customization
+DexJoCo: A Benchmark and Toolkit for Task-Oriented Dexterous Manipulation on MuJoCo
+Learning to Foresee: Unveiling the Unlocking Efficiency of On-Policy Distillation
+InsightTok: Improving Text and Face Fidelity in Discrete Tokenization for Autoregressive Image Generation
+Distilling Long-CoT Reasoning through Collaborative Step-wise Multi-Teacher Decoding
+Flash-GRPO: Efficient Alignment for Video Diffusion via One-Step Policy Optimization
+Nudging Beyond the Comfort Zone: Efficient Strategy-Guided Exploration for RLVR
+ReactiveGWM: Steering NPC in Reactive Game World Models
+Hölder Policy Optimisation
+Solvita: Enhancing Large Language Models for Competitive Programming via Agentic Evolution
+CM-EVS: Sparse Panoramic RGB-D-Pose Data for Complete Scene Coverage
+PAGER: Bridging the Semantic-Execution Gap in Point-Precise Geometric GUI Control
+Unlocking Dense Metric Depth Estimation in VLMs
+From Plans to Pixels: Learning to Plan and Orchestrate for Open-Ended Image Editing
+FFAvatar: Few-Shot, Feed-Forward, and Generalizable Avatar Reconstruction
+DiagnosticIQ: A Benchmark for LLM-Based Industrial Maintenance Action Recommendation from Symbolic Rules
+MobileEgo Anywhere: Open Infrastructure for long horizon egocentric data on commodity hardware
+WorldAct: Activating Monolithic 3D Worlds into Interactive-Ready Object-Centric Scenes
+Agentic Discovery of Neural Architectures: AIRA-Compose and AIRA-Design
+Look Before You Leap: Autonomous Exploration for LLM Agents
+Sparse Autoencoders enable Robust and Interpretable Fine-tuning of CLIP models
+Learning from Failures: Correction-Oriented Policy Optimization with Verifiable Rewards
+Learning POMDP World Models from Observations with Language-Model Priors
+HodgeCover: Higher-Order Topological Coverage Drives Compression of Sparse Mixture-of-Experts
+Efficient Image Synthesis with Sphere Latent Encoder
+ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing
+OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation
+Steered LLM Activations are Non-Surjective
+GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding
