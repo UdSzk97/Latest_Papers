@@ -11760,3 +11760,15 @@ ChangeFlow -- Latent Rectified Flow for Change Detection in Remote Sensing
 OmniHumanoid: Streaming Cross-Embodiment Video Generation with Paired-Free Adaptation
 Steered LLM Activations are Non-Surjective
 GQLA: Group-Query Latent Attention for Hardware-Adaptive Large Language Model Decoding
+Mass Production of 2023 KMTNet Microlensing Planets. II. Two Planets and A Brown Dwarf
+MetaAgent-X : Breaking the Ceiling of Automatic Multi-Agent Systems via End-to-End Reinforcement Learning
+Auditing Agent Harness Safety
+Forgetting That Sticks: Quantization-Permanent Unlearning via Circuit Attribution
+Physics-R1: An Audited Olympiad Corpus and Recipe for Visual Physics Reasoning
+Follow the Mean: Reference-Guided Flow Matching
+Raster2Seq: Polygon Sequence Generation for Floorplan Reconstruction
+AuralSAM2: Enabling SAM2 Hear Through Pyramid Audio-Visual Feature Prompting
+Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces
+No One Knows the State of the Art in Geospatial Foundation Models
+MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocal
+Stress-Testing the Reasoning Competence of LLMs With Proofs Under Minimal Formalism
