@@ -11772,3 +11772,45 @@ Known By Their Actions: Fingerprinting LLM Browser Agents via UI Traces
 No One Knows the State of the Art in Geospatial Foundation Models
 MLAIRE: Multilingual Language-Aware Information Retrieval Evaluation Protocal
 Stress-Testing the Reasoning Competence of LLMs With Proofs Under Minimal Formalism
+Spectral Anisotropy at Ion Scales in the Solar Wind Upstream of the Martian Bow Shock
+Penetrating Solar Wind Protons in Venusian Upper Atmosphere Based on Venus Express Observations
+Venting and Outgassing Simulations of Pressurized Lunar Modules: Contamination of the Lunar Environment
+LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation
+Lance: Unified Multimodal Modeling by Multi-Task Synergy
+SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution
+AI for Auto-Research: Roadmap & User Guide
+Code-as-Room: Generating 3D Rooms from Top-Down View Images via Agentic Code Synthesis
+KVPO: ODE-Native GRPO for Autoregressive Video Alignment via KV Semantic Exploration
+OProver: A Unified Framework for Agentic Formal Theorem Proving
+Post-Trained MoE Can Skip Half Experts via Self-Distillation
+LiteFrame: Efficient Vision Encoders Unlock Frame Scaling in Video LLMs
+Stop When Reasoning Converges: Semantic-Preserving Early Exit for Reasoning Models
+Measuring Maximum Activations in Open Large Language Models
+StableVLA: Towards Robust Vision-Language-Action Models without Extra Data
+EndPrompt: Efficient Long-Context Extension via Terminal Anchoring
+Where Should Diffusion Enter a Language Model? Geometry-Guided Hidden-State Replacement
+CHI-Bench: Can AI Agents Automate End-to-End, Long-Horizon, Policy-Rich Healthcare Workflows?
+Model-Adaptive Tool Necessity Reveals the Knowing-Doing Gap in LLM Tool Use
+CompactAttention: Accelerating Chunked Prefill with Block-Union KV Selection
+From Runnable to Shippable: Multi-Agent Test-Driven Development for Generating Full-Stack Web Applications from Requirements
+Targeted Neuron Modulation via Contrastive Pair Search
+AtlasVA: Self-Evolving Visual Skill Memory for Teacher-Free VLM Agents
+FINESSE-Bench: A Hierarchical Benchmark Suite for Financial Domain Knowledge and Technical Analysis in Large Language Models
+Agent Bazaar: Enabling Economic Alignment in Multi-Agent Marketplaces
+NGM: A Plug-and-Play Training-Free Memory Module for LLMs
+Actionable World Representation
+SafeDiffusion-R1: Online Reward Steering for Safe Diffusion Post-Training
+A2RBench: An Automatic Paradigm for Formally Verifiable Abstract Reasoning Benchmark Generation
+TOBench: A Task-Oriented Omni-Modal Benchmark for Real-World Tool-Using Agents
+Evaluating Cognitive Age Alignment in Interactive AI Agents
+MementoGUI: Learning Agentic Multimodal Memory Control for Long-Horizon GUI Agents
+Incantation: Natural Language as the Action Interface for Multi-Entity Video World Models
+Code as Agent Harness
+SNLP: Layer-Parallel Inference via Structured Newton Corrections
+E-PMQ: Expert-Guided Post-Merge Quantization with Merged-Weight Anchoring
+Geometric Phase Transition Enables Extreme Hippocampal Memory Capacity
+VideoSeeker: Incentivizing Instance-level Video Understanding via Native Agentic Tool Invocation
+Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics
+MixSD: Mixed Contextual Self-Distillation for Knowledge Injection
+AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents
+GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions
