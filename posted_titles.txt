@@ -11814,3 +11814,16 @@ Monitoring the Internal Monologue: Probe Trajectories Reveal Reasoning Dynamics
 MixSD: Mixed Contextual Self-Distillation for Knowledge Injection
 AgentKernelArena: Generalization-Aware Benchmarking of GPU Kernel Optimization Agents
 GRASP: Learning to Ground Social Reasoning in Multi-Person Non-Verbal Interactions
+TOI-2494 c and TOI-5143 c: A Hot Saturn and a Hot Jupiter with Interior Planetary Companions
+Probabilistic Spectral Reconstruction of Trans-Neptunian Objects from Sparse Photometry: A Framework for Taxonomy, Survey Optimization, and Outlier Detection
+Resonant Networks of Spin–Orbit Coupling in Ellipsoid–Ellipsoid Binary Asteroid Systems
+Bilayered Martian Polar CO2 Snow Generation
+AstraFlow: Dataflow-Oriented Reinforcement Learning for Agentic LLMs
+WavFlow: Audio Generation in Waveform Space
+Symmetry-Compatible Principle for Optimizer Design: Embeddings, LM Heads, SwiGLU MLPs, and MoE Routers
+DexHoldem: Playing Texas Hold'em with Dexterous Embodied System
+OSCAR: Offline Spectral Covariance-Aware Rotation for 2-bit KV Cache Quantization
+Auditing Multimodal LLM Raters: Central Tendency Bias in Clinical Ordinal Scoring
+SCICONVBENCH: Benchmarking LLMs on Multi-Turn Clarification for Task Formulation in Computational Science
+TopoPrimer: The Missing Topological Context in Forecasting Models
+AR-VLA: True Autoregressive Action Expert for Vision-Language-Action Models
