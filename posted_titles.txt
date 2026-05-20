@@ -11863,3 +11863,24 @@ Omni-DuplexEval: Evaluating Real-time Duplex Omni-modal Interaction
 Echo-Forcing: A Scene Memory Framework for Interactive Long Video Generation
 Code-Guided Reasoning for Small Language Models: Evaluating Executable MCQA Scaffolds
 optimize_anything: A Universal API for Optimizing any Text Parameter
+Densities of the Venusian thermosphere as revealed by Venus Express torque data
+Resolution-sensitive analysis of lunar crater morphometry extracted automatically from orbital DEMs
+Anoxic photo-oxidation of Mn(II)-bearing carbonates on Mars and early Earth
+Highlighting a science strategy for human exploration of Mars
+Nereid as a regular satellite of Neptune
+Harnessing LLM Agents with Skill Programs
+Interactive Evaluation Requires a Design Science
+Fast 4D Mesh Generation by Spatio-Temporal Attention Chains
+Stage-adaptive Token Selection for Efficient Omni-modal LLMs
+Mid-Training with Self-Generated Data Improves Reinforcement Learning in Language Models
+Base Models Look Human To AI Detectors
+Matérn Noise for Triangulation-Agnostic Flow Matching on Meshes
+RT-Splatting: Joint Reflection-Transmission Modeling with Gaussian Splatting
+Bug or Feature^2: Weight Drift, Activation Sparsity, and Spikes
+Editor's Choice: Evaluating Abstract Intent in Image Editing through Atomic Entity Analysis
+Zero-Shot Sim-to-Real Robot Learning: A Dexterous Manipulation Study on Reactive Catching
+Computer Science Conferences Should Require Nonrepudiable Experimental Results
+Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR
+Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks
+Why Do Reasoning Models Lose Coverage? The Role of Data and Forks in the Road
+RoPE Distinguishes Neither Positions Nor Tokens in Long Contexts, Provably
