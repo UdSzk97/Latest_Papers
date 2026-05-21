@@ -11929,3 +11929,13 @@ DrawMotion: Generating 3D Human Motions by Freehand Drawing
 PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models
 Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models
 Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection
+Rotational Light-curve Recovery and Predictions of the LSST Yield of Hildas
+Cloudy mornings and clear evenings on a gas giant exoplanet
+Learning from Language Feedback via Variational Policy Distillation
+MINTEval: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems
+SaaSBench: Exploring the Boundaries of Coding Agents in Long-Horizon Enterprise SaaS Engineering
+TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload
+Lost in the Folds: When Cross-Validation Is Not a Deep Ensemble for Uncertainty Estimation
+Capturing LLM Capabilities via Evidence-Calibrated Query Clustering
+DynMuon: A Dynamic Spectral Shaping View of Muon
+Decoupling the Benefits of Subword Tokenization for Language Model Training via Byte-level Simulation
