@@ -11884,3 +11884,48 @@ Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR
 Be Kind, Rewrite: Benign Projections via Rewriting Defend Against LLM Data Poisoning Attacks
 Why Do Reasoning Models Lose Coverage? The Role of Data and Forks in the Road
 RoPE Distinguishes Neither Positions Nor Tokens in Long Contexts, Provably
+TOI-7154b: A Close-in Massive Brown Dwarf in an Eccentric Orbit*
+Stellar Control on Atmospheric Carbon Chemistry, CO Runaway, and Organic Synthesis on Lifeless Earth-like Planets
+StarCLR: Contrastive Learning Representation for Astronomical Light Curves
+Study on the Coupling between the Ionosphere and Thermosphere at Different Heights on Mars
+KIC 6464285: A Solar-type Eclipsing Binary in a Hierarchical Triple System with Quasiperiodic Out-of-eclipse Modulations
+First Detection of the Two‐Dimensional Vertical Propagation of Traveling Ionospheric Disturbances Associated With Atmospheric Gravity Waves in the Martian Ionosphere
+Discovery of Repeating Shallow Moonquakes in the Apollo Lunar Seismic Data
+Investigation of Venus’ Thermal History, Crustal Evolution, and Core Dynamics with a Coupled Interior-lithosphere-atmosphere Model
+Magma Activity History and Formation Mechanism of Lacus Somniorum, the Largest Lunar Lacus
+Internal Structure and Dynamics of the Galilean Satellites
+Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation
+Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos
+Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining
+OScaR: The Occam's Razor for Extreme KV Cache Quantization in LLMs and Beyond
+IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools
+You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories
+It Takes Two: Complementary Self-Distillation for Contextual Integrity in LLMs
+A Survey of Large Audio Language Models: Generalization, Trustworthiness, and Outlook
+CutVerse: A Compositional GUI Agents Benchmark for Media Post-Production Editing
+Uni-Edit: Intelligent Editing Is A General Task For Unified Model Tuning
+Mix-Quant: Quantized Prefilling, Precise Decoding for Agentic LLMs
+Generative Recursive Reasoning
+LLMEval-Logic: A Solver-Verified Chinese Benchmark for Logical Reasoning of LLMs with Adversarial Hardening
+Evaluating Temporal Semantic Caching and Workflow Optimization in Agentic Plan-Execute Pipelines
+On the limits and opportunities of AI reviewers: Reviewing the reviews of Nature-family papers with 45 expert scientists
+HRM-Text: Efficient Pretraining Beyond Scaling
+OcclusionFormer: Arranging Z-Order for Layout-Grounded Image Generation
+Stable Audio 3
+Stitched Value Model for Diffusion Alignment
+Toto 2.0: Time Series Forecasting Enters the Scaling Era
+PanoWorld: A Generative Spatial World Model for Consistent Whole-House Panorama Synthesis
+The Unlearnability Phenomenon in RLVR for Language Models
+OCTOPUS: Optimized KV Cache for Transformers via Octahedral Parametrization Under optimal Squared error quantization
+Conditional Equivalence of DPO and RLHF: Implicit Assumption, Failure Modes, and Provable Alignment
+SpecBench: Measuring Reward Hacking in Long-Horizon Coding Agents
+Mem-π: Adaptive Memory through Learning When and What to Generate
+UniT: Unified Geometry Learning with Group Autoregressive Transformer
+MOCHA: Multi-Objective Chebyshev Annealing for Agent Skill Optimization
+LongMINT: Evaluating Memory under Multi-Target Interference in Long-Horizon Agent Systems
+Learn-by-Wire Training Control Governance: Bounded Autonomous Training Under Stress for Stability and Efficiency
+iTryOn: Mastering Interactive Video Virtual Try-On with Spatial-Semantic Guidance
+DrawMotion: Generating 3D Human Motions by Freehand Drawing
+PlanningBench: Generating Scalable and Verifiable Planning Data for Evaluating and Training Large Language Models
+Rethinking Visual Attribution for Chest X-ray Reasoning in Large Vision Language Models
+Safety Alignment as Continual Learning: Mitigating the Alignment Tax via Orthogonal Gradient Projection
