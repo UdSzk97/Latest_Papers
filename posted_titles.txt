@@ -11983,3 +11983,16 @@ Same Architecture, Different Capacity: Optimizer-Induced Spectral Scaling Laws
 Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search
 OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding
 Minimalist Visual Inertial Odometry
+Direct Imaging Constraints on Binary Planets and Exomoons around Epsilon Indi A b
+Surface Roughness of the Chang’E-6 Lunar Samples and Landing Site from Submicrometer to Kilometer Scales: Implications for Lunar Surface Processes and Remote Sensing Data Modeling
+Forecasting Scientific Progress with Artificial Intelligence
+Forecasting Downstream Performance of LLMs With Proxy Metrics
+Efficient Agentic Reasoning Through Self-Regulated Simulative Planning
+AutoRubric-T2I: Robust Rule-Based Reward Model for Text-to-Image Alignment
+Rule2DRC: Benchmarking LLM Agents for DRC Script Synthesis with Execution-Guided Test Generation
+AnyMo: Geometry-Aware Setup-Agnostic Modeling of Human Motion in the Wild
+Platonic Representations in the Human Brain: Unsupervised Recovery of Universal Geometry
+Disentangling Sampling from Training Budget in Class-Imbalanced CT Body Composition Segmentation
+Live Music Diffusion Models: Efficient Fine-Tuning and Post-Training of Interactive Diffusion Music Generators
+FashionLens: Toward Versatile Fashion Image Retrieval via Task-Adaptive Learning
+SAM 3D Animal: Promptable Animal 3D Reconstruction from Images in the Wild
