@@ -11939,3 +11939,47 @@ Lost in the Folds: When Cross-Validation Is Not a Deep Ensemble for Uncertainty 
 Capturing LLM Capabilities via Evidence-Calibrated Query Clustering
 DynMuon: A Dynamic Spectral Shaping View of Muon
 Decoupling the Benefits of Subword Tokenization for Language Model Training via Byte-level Simulation
+TESS Light Curves of Two New Magnetic Cataclysmic Variables: An Asynchronous Polar at the Period Minimum and an Eclipsing System with a Large Spin-to-orbit Ratio
+Global Megaregolith Structure on the Moon from Gravity and Topography Data
+Dynamical Evolution and Potential Meteor Activity of Dust Streams from Near-Earth Asteroid 2024 YR4
+The Convection and Corotation Electric Field in the Jovian Magnetosphere
+Ion Cyclotron Waves Associated With Ionospheric Outflow at Jupiter
+Monitoring Volatile Evolution in Disrupting Comet D/2021 A1 (Leonard) with NOEMA and APEX
+Overview of Hayabusa2 Extended Mission’s Flyby of Near-Earth Asteroid (98943) Torifune
+TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation
+DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards
+π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows
+Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps
+Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?
+ACC: Compiling Agent Trajectories for Long-Context Training
+PhysX-Omni: Unified Simulation-Ready Physical 3D Generation for Rigid, Deformable, and Articulated Objects
+LatentOmni: Rethinking Omni-Modal Understanding via Unified Audio-Visual Latent Reasoning
+WorldKV: Efficient World Memory with World Retrieval and Compression
+Spreadsheet-RL: Advancing Large Language Model Agents on Realistic Spreadsheet Tasks via Reinforcement Learning
+FlowLong: Inference-time Long Video Generation via Manifold-constrained Tweedie Matching
+SpaceDG: Benchmarking Spatial Intelligence under Visual Degradation
+Maestro: Reinforcement Learning to Orchestrate Hierarchical Model-Skill Ensembles
+Sensor2Sensor: Cross-Embodiment Sensor Conversion for Autonomous Driving
+Q-ARVD: Quantizing Autoregressive Video Diffusion Models
+Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention
+KVServe: Service-Aware KV Cache Compression for Communication-Efficient Disaggregated LLM Serving
+GenEvolve: Self-Evolving Image Generation Agents via Tool-Orchestrated Visual Experience Distillation
+One Sentence, One Drama: Personalized Short-Form Drama Generation via Multi-Agent Systems
+Unsupervised Process Reward Models
+SEGA: Spectral-Energy Guided Attention for Resolution Extrapolation in Diffusion Transformers
+Swift Sampling: Selecting Temporal Surprises via Taylor Series
+Diversed Model Discovery via Structured Table Discovery
+ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning
+Segment Anything with Motion, Geometry, and Semantic Adaptation for Complex Nonlinear Visual Object Tracking
+Bernini: Latent Semantic Planning for Video Diffusion
+TerminalWorld: Benchmarking Agents on Real-World Terminal Tasks
+Training Large Language Models to Predict Clinical Events
+SceneAligner: 3D-Grounded Floorplan Localization in the Wild
+From Reasoning Chains to Verifiable Subproblems: Curriculum Reinforcement Learning Enables Credit Assignment for LLM Reasoning
+More Context, Larger Models, or Moral Knowledge? A Systematic Study of Schwartz Value Detection in Political Texts
+DecQ: Detail-Condensing Queries for Enhanced Reconstruction and Generation in Representation Autoencoders
+"I didn't Make the Micro Decisions": Measuring, Inducing, and Exposing Goal-Level AI Contributions in Collaboration
+Same Architecture, Different Capacity: Optimizer-Induced Spectral Scaling Laws
+Lean Refactor: Multi-Objective Controllable Proof Optimization via Agentic Strategy Search
+OmniPro: A Comprehensive Benchmark for Omni-Proactive Streaming Video Understanding
+Minimalist Visual Inertial Odometry
