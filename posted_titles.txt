@@ -12001,3 +12001,4 @@ LoREnc: Low-Rank Encryption for Securing Foundation Models and LoRA Adapters
 Exploring methods for identifying iron meteorites on the surface of Mars from orbit
 Effects of realistic surface temperature variations on the lunar neon exosphere
 A new deep-learning approach to infer solar and geomagnetic parameters for the 1859 Carrington event
+Organic matter and seasonal flooding control mercury and methane distribution in sediments of a floodplain lake in the Madeira River basin (western Amazon)
