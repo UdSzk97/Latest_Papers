@@ -12000,3 +12000,4 @@ Mineralogical Evidence for Highly Evolved Th‐Saturated Magma on Mars
 LoREnc: Low-Rank Encryption for Securing Foundation Models and LoRA Adapters
 Exploring methods for identifying iron meteorites on the surface of Mars from orbit
 Effects of realistic surface temperature variations on the lunar neon exosphere
+A new deep-learning approach to infer solar and geomagnetic parameters for the 1859 Carrington event
