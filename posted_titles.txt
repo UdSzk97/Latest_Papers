@@ -12026,3 +12026,6 @@ HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents
 Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
 GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
 The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm
+The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation
+Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
+Next-Acceleration-Scale Prediction for Autoregressive MRI Reconstruction
