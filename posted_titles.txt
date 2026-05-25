@@ -12002,3 +12002,27 @@ Exploring methods for identifying iron meteorites on the surface of Mars from or
 Effects of realistic surface temperature variations on the lunar neon exosphere
 A new deep-learning approach to infer solar and geomagnetic parameters for the 1859 Carrington event
 Organic matter and seasonal flooding control mercury and methane distribution in sediments of a floodplain lake in the Madeira River basin (western Amazon)
+The Distant Activity of Long-period Comet C/2023 A3 (Tsuchinshan-ATLAS)
+Impact‐diagnostic criteria for use in confirming a meteorite impact origin of terrestrial geological structures: Recommendations by the Impact Cratering Committee of the Meteoritical Society
+SkillOpt: Executive Strategy for Self-Evolving Agent Skills
+Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models
+Rethinking Cross-Layer Information Routing in Diffusion Transformers
+SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research
+StepAudio 2.5 Technical Report
+See What I Mean: Aligning Vision and Language Representations for Video Fine-grained Object Understanding
+PhotoFlow: Agentic 3D Virtual Photography Missions
+From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills
+VGenST-Bench: A Benchmark for Spatio-Temporal Reasoning via Active Video Synthesis
+PiD: Fast and High-Resolution Latent Decoding with Pixel Diffusion
+RankE: End-to-End Post-Training for Discrete Text-to-Image Generation with Decoder Co-Evolution
+ETCHR: Editing To Clarify and Harness Reasoning
+SCOPE: Simulating Cross-game Operations in Playable Environments for FPS World Models
+LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
+Geo-Align: Video Generation Alignment via Metric Geometry Reward
+Rethinking Muon Beyond Pretraining: Spectral Failures and High-Pass Remedies for VLA and RLVR
+From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models
+LatentUMM: Dual Latent Alignment for Unified Multimodal Models
+HINT-SD: Targeted Hindsight Self-Distillation for Long-Horizon Agents
+Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
+GenRecon: Bridging Generative Priors for Multi-View 3D Scene Reconstruction
+The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Monolithic Paradigm
