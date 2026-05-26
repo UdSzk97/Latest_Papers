@@ -12075,3 +12075,12 @@ Pixel-Level Pavement Distress Assessment Using Instance Segmentation
 ClaimDiff-RL: Fine-Grained Caption Reinforcement Learning through Visual Claim Comparison
 Decoding the Critique Mechanism in Large Reasoning Models
 Seeing the Needle in the Haystack: Towards Weakly-Supervised Log Instance Anomaly Localization via Counterfactual Perturbation
+Heterogeneous rock abundances in the lunar subsurface revealed by cold-spot craters
+The Large Smooth Patch on Comet 9P/Tempel 1: Remnant of a Recent Past Event
+CoSPlay: Cooperative Self-Play at Test-Time with Self-Generated Code and Unit Test
+Directional Alignment Mitigates Reward Hacking in Reinforcement Learning for Language Models
+ECHO: Terminal Agents Learn World Models for Free
+Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in the Wild
+How Far Will They Go? Red-Teaming Online Influence with Large Language Models
+RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator
+MotiMotion: Motion-Controlled Video Generation with Visual Reasoning
