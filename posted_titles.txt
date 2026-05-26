@@ -12029,3 +12029,49 @@ The Expense of Seeing: Attaining Trustworthy Multimodal Reasoning Within the Mon
 The Illusion of Reasoning: Exposing Evasive Data Contamination in LLMs via Zero-CoT Truncation
 Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
 Next-Acceleration-Scale Prediction for Autoregressive MRI Reconstruction
+Unusually Hot Interiors Could Reconcile the Missing-methane Problem for Warm-to-hot Exoplanets with Hydrogen Atmospheres
+Modeling Volcanic Plume Heights across Exoplanet Atmospheres: Insights from TRAPPIST-1
+Convergent Heavy-ion Plume from the Martian Ionosphere
+The HAges Catalog: Stellar Ages for High-priority HWO Target Stars
+DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning
+Macaron-A2UI: A Model for Generative UI in Personal Agents
+WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation
+Foundation Protocol: A Coordination Layer for Agentic Society
+TriSplat: Simulation-Ready Feed-Forward 3D Scene Reconstruction
+ParaVT: Taming the Tool Prior Paradox for Parallel Tool Use in Agentic Video Reinforcement Learning
+Toward Native Multimodal Modeling: A Roadmap
+AutoResearch AI: Towards AI-Powered Research Automation for Scientific Discovery
+QUEST: Training Frontier Deep Research Agents with Fully Synthetic Tasks
+ThriftAttention: Selective Mixed Precision for Long-Context FP4 Attention
+Your Embedding Model is SMARTer Than You Think
+Pantheon360: Taming Digital Twin Generation via 3D-Aware 360° Video Diffusion
+ControlLight: Towards Controllable, Consistent, and Generalizable Low-Light Enhancement
+Anticipate and Learn: Unleashing Idle-Time Compute in Proactive Agents
+On-Policy Adversarial Flow Distillation for Autoregressive Video Generation
+Claw-Anything: Benchmarking Always-On Personal Assistants with Broader Access to User's Digital World
+SkillEvolBench: Benchmarking the Evolution from Episodic Experience to Procedural Skills
+MemForest: An Efficient Agent Memory System with Hierarchical Temporal Indexing
+InstructSAM: Segment Any Instance with Any Instructions
+Channel-wise Vector Quantization
+Geometry-Aware Image Flow Matching
+CUA-Gym: Scaling Verifiable Training Environments and Tasks for Computer-Use Agents
+CRONOS: Benchmarking Counterfactual Physical Consistency in Video Models
+Helix4D: Complex 4D Mesh Generation
+MetaphorVU: Towards Metaphorical Video Understanding
+Towards Customized Multimodal Role-Play
+Injecting Image Guidance into Text-Conditioned Diffusion Models at Inference
+SEAL: Synergistic Co-Evolution of Agents and Learning Environments
+Coloring the Noise: Adversarial Sobolev Alignment for Faithful Image Super Resolution
+Reinforcing Few-step Generators via Reward-Tilted Distribution Matching
+Faithfulness Metrics Don't Measure Faithfulness: A Meta-Evaluation with Ground Truth
+Language Models Need Sleep
+SemBridge: Language Transfer in Sparse Encoders via Multilingual Semantic Bridges
+SimuWoB: Simulating Real-World Mobile Apps for Fast and Faithful GUI Agent Benchmarking
+HorizonStream: Long-Horizon Attention for Streaming 3D Reconstruction
+Representation over Routing: Overcoming Surrogate Hacking in Multi-Timescale PPO
+Broadening Access to Transportation Safety Data with Generative AI: A Schema-Grounded Framework for Spatial Natural Language Queries
+Decoupling Communication from Policy: Robust MARL under Bandwidth Constraints
+Pixel-Level Pavement Distress Assessment Using Instance Segmentation
+ClaimDiff-RL: Fine-Grained Caption Reinforcement Learning through Visual Claim Comparison
+Decoding the Critique Mechanism in Large Reasoning Models
+Seeing the Needle in the Haystack: Towards Weakly-Supervised Log Instance Anomaly Localization via Counterfactual Perturbation
