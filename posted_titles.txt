@@ -12084,3 +12084,40 @@ Towards Evaluation Engineering: An Empirical Study of ML Evaluation Harnesses in
 How Far Will They Go? Red-Teaming Online Influence with Large Language Models
 RankJudge: A Multi-Turn LLM-as-a-Judge Synthetic Benchmark Generator
 MotiMotion: Motion-Controlled Video Generation with Visual Reasoning
+Evidence for Random Walk Transport of Small Asteroids from the Main Belt to the Inner Solar System
+Turbulence-coupled Electrodynamics of the Martian Year 34 Global Dust Storm on Mars
+Emerging Diversity among the Main-belt Comets: Insights from JWST and Ground-based Observations of 457P/Lemmon-PANSTARRS
+Characterization of the Volatile Properties of 133P/Elst-Pizarro and Other Main-belt Comets with JWST and Ground-based Observations
+LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding
+SpatialBench: Is Your Spatial Foundation Model an All-Round Player?
+MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research
+EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation
+Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction
+LongAV-Compass: Towards Unified Evaluation of Minute-Scale Audio-Visual Generation Across T2AV, I2AV, and V2AV
+D^2-Monitor: Dynamic Safety Monitoring for Diffusion LLMs via Hesitation-Aware Routing
+The MiniMax-M2 Series: Mini Activations Unleashing Max Real-World Intelligence
+Share More, Search Less: Collaborative Parallel Thinking for Efficient Test-Time Scaling
+Soap2Soap: Long Cinematic Video Remaking via Multi-Agent Collaboration
+LLaVA-OneVision-2: Towards Next-Generation Perceptual Intelligence
+VitaBench 2.0: Evaluating Personalized and Proactive Agents in Long-Term User Interactions
+Does Seeing More Mean Knowing More? Mono-Anchored Advantage Normalization for Multi-Source Visual Reasoning
+Efficient Agentic Reinforcement Learning with On-Policy Intrinsic Knowledge Boundary Enhancement
+Negligible in Size, Significant in Effect: On Scale Vectors in Large Language Models
+Confidence and Calibration of Activation Oracles for Reliable Interpretation of Language Model Internals
+Rethinking VLM Representation for VLA Initialization
+MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation
+Beyond Final Answers: Auditing Trajectory-Level Hallucinations in Multi-Agent Industrial Workflows
+Gemini Embedding 2: A Native Multimodal Embedding Model from Gemini
+MobileMoE: Scaling On-Device Mixture of Experts
+Learning to Act under Noise: Enhancing Agent Robustness via Noisy Environments
+Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation
+MRT: Masked Region Transformer for Layered Image Generation and Editing at Scale
+RT-Lynx: Putting the GEMM Sparsity In a Right Way for Diffusion Models
+SAM: State-Adaptive Memory for Long-Horizon Reasoning Agent
+Understanding Data Temporality Impact on Large Language Models Pre-training
+ZeroUnlearn: Few-Shot Knowledge Unlearning in Large Language Models
+CroCo: Cross-Lingual Contrastive Preference Tuning on Self-Generations
+Learning High-Frequency Continuous Action Chunks in Latent Space
+DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs
+Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents
+STREAM: A Data-Centric Framework for Mining High-Value Task-Oriented Dialogues from Streaming Media
