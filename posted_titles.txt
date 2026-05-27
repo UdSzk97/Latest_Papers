@@ -12121,3 +12121,12 @@ Learning High-Frequency Continuous Action Chunks in Latent Space
 DarkForest: Less Talk, Higher Accuracy for Multi-Agent LLMs
 Agentic CLEAR: Automating Multi-Level Evaluation of LLM Agents
 STREAM: A Data-Centric Framework for Mining High-Value Task-Oriented Dialogues from Streaming Media
+Mantle melting and magma ocean dynamics on Mercury impacted by sulfur in reduced mafic magmas
+The H, C and N abundances and isotopic compositions of samples with outer Solar System heritage: asteroid Bennu and the Tarda and Tagish Lake meteorites
+Magnetic fluctuations in the Jupiter dusk magnetosheath: Cassini observations
+JLT: Clean-Latent Prediction in Latent Diffusion Transformers
+QUACK: Questioning, Understanding, and Auditing Communicated Knowledge in Multimodal Social Deduction Agents
+FastKernels: Benchmarking GPU Kernel Generation in Production
+Can LLMs Introspect? A Reality Check
+NSF-SciFy: Mining the NSF Awards Database for Scientific Claims
+EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration
