@@ -12182,3 +12182,18 @@ Efficient and Scalable Provenance Tracking for LLM-Generated Code Snippets
 Revealing Algorithmic Deductive Circuits for Logical Reasoning
 Clark Hash: Stateless Sparse Johnson-Lindenstrauss Quantization for Neural Embeddings
 PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft
+Hematite is a mineralogical marker of ancient climate change on Mars
+GUI-CIDER: Mid-training GUI Agents via Causal Internalization and Density-aware Exemplar Reselection
+Your Agents Are Aging Too: Agent Lifespan Engineering for Deployed Systems
+Rethinking How to Remember: Beyond Atomic Facts in Lifelong LLM Agent Memory
+How and What to Imagine? Visual Thinking in Unified Multimodal Models for Cross-View Spatial Reasoning
+AgentHijack: Benchmarking Computer Use Agent Robustness to Common Environment Corruptions
+LACUNA: Safe Agents as Recursive Program Holes
+Category-Level 3D Correspondence in Camera Space via Morphable Object Priors
+BatteryMFormer: Multi-level Learning for Battery Degradation Trajectory Forecasting
+Growing a Neural Network in Breadth, Depth, and Time
+Don't Guess, Just Ask: Resolving Ambiguity in Referring Segmentation via Multi-turn Clarification
+Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent Systems
+How Accurate are Video Quality Models for Diffusion-Based Video Super-Resolution?
+Breaking the Chains of Probability: Neutrosophic Logic as a New Framework for Epistemic Uncertainty in Large Language Models
+Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion
