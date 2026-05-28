@@ -12130,3 +12130,55 @@ FastKernels: Benchmarking GPU Kernel Generation in Production
 Can LLMs Introspect? A Reality Check
 NSF-SciFy: Mining the NSF Awards Database for Scientific Claims
 EverAnimate: Minute-Scale Human Animation via Latent Flow Restoration
+Impact of Climate States and Seasons on Future Exo-Earth Observations
+Postperihelion Integral Field Spectroscopy of the Interstellar Comet 3I/ATLAS
+Synergistic Effects of Ocean Salinity and Planetary Obliquity Enhance Habitability of Cold Exo-Earths
+Crater size scaling in the strength-dominated regime for weak porous targets: Implications for the tensile strength of asteroid surfaces
+Low temperatures and high water/rock ratios in asteroid (101955) Bennu's history based on X‐ray powder diffraction of returned samples
+Geomorphology and Mineralogy of Belén Crater in Iani Chaos (Mars) Point to Hydrothermal Activity
+Feasibility Analysis of a Hypothetical Kinetic-impact Deflection of 2024 YR4 Using In-space Hayabusa2 for Earth-impact Risk Reduction
+Investigating Azimuthal Anisotropy in the Angular Distribution of Solar Wind–sputtered Atoms
+Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players
+ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation
+Agent Explorative Policy Optimization for Multimodal Agentic Reasoning
+From Pixels to Words -- Towards Native One-Vision Models at Scale
+Self-Improving Language Models with Bidirectional Evolutionary Search
+ResearchMath-14K: Scaling Research-Level Mathematics via Agents
+DenoiseRL: Bootstrapping Reasoning Models to Recover from Noisy Prefixes
+MemTrace: Tracing and Attributing Errors in Large Language Model Memory Systems
+GEM: Generative Supervision Helps Embodied Intelligence
+Learn from Weaknesses: Automated Domain Specialization for Small Computer-Use Agents
+ScientistOne: Towards Human-Level Autonomous Research via Chain-of-Evidence
+AI Research Agents Narrow Scientific Exploration
+Rethinking Memory as Continuously Evolving Connectivity
+OSP-Next: Efficient High-Quality Video Generation with Sparse Sequence Parallelism, HiF8 Quantization, and Reinforcement Learning
+Triplet-Block Diffusion RWKV
+Long Live The Balance: Information Bottleneck Driven Tree-based Policy Optimization
+Fast-dDrive: Efficient Block-Diffusion VLM for Autonomous Driving
+GE-Sim 2.0: A Roadmap Towards Comprehensive Closed-loop Video World Simulators for Robotic Manipulation
+LiveBrowseComp: Are Search Agents Searching, or Just Verifying What They Already Know?
+Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders
+HRBench: Benchmarking and Understanding Thinking-Mode Switch Strategies in Hybrid-Reasoning LLMs
+OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration
+VibeSearchBench: Benchmarking Long-horizon Proactive Search in the Wild
+GradSentry: Gradient Spectral Entropy for Backdoor Sample Filtering in Large Language Model Fine-Tuning
+Less is More: Early Stopping Rollout for On-Policy Distillation
+SkillGrad: Optimizing Agent Skills Like Gradient Descent
+Lost in Sampling: Assessing Lexical Reachability in LLMs via the Word Coverage Score (WCS)
+The Fragility of Chain-of-Thought Monitoring Across Typologically Diverse Languages
+Joint Training of Multi-Token Prediction in Reinforcement Learning via Optimal Coefficient Calibration
+CubePart: An Open-Vocabulary Part-Controllable 3D Generator
+Models That Know How Evaluations Are Designed Score Safer
+AgensFlow: A Coordination-Policy Substrate for Multi-Agent Systems
+Everything at Every Scale: Scale-Invariant Diffusion with Continuous Super-Resolution
+PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective
+Verus-SpecGym: An Agentic Environment for Evaluating Specification Autoformalization
+Chartographer: Counterfactual Chart Generation for Evaluating Vision-Language Models
+AgentFugue: Agent Scaling for Long-Horizon Tasks through Collective Reasoning
+ESC-Skills: Discovering and Self-Evolving Skills for Emotional Support Conversations
+AutoScientists: Self-Organizing Agent Teams for Long-Running Scientific Experimentation
+Advancing Creative Physical Intelligence in Large Multimodal Models
+Efficient and Scalable Provenance Tracking for LLM-Generated Code Snippets
+Revealing Algorithmic Deductive Circuits for Logical Reasoning
+Clark Hash: Stateless Sparse Johnson-Lindenstrauss Quantization for Neural Embeddings
+PEAM: Parametric Embodied Agent Memory through Contrastive Internalization of Experience in Minecraft
