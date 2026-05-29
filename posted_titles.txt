@@ -12197,3 +12197,57 @@ Got a Secret? LLM Agents Can't Keep It: Evaluating Privacy in Multi-Agent System
 How Accurate are Video Quality Models for Diffusion-Based Video Super-Resolution?
 Breaking the Chains of Probability: Neutrosophic Logic as a New Framework for Epistemic Uncertainty in Large Language Models
 Contrastive Distribution Matching for Amortized Sequential Monte Carlo in Discrete Diffusion
+The meteorite analogs of (65803) Didymos and implications for its origin
+Impact of Digital Elevation Model Resolution on Illumination and Thermal Stability Modeling in the Lunar South Polar Region
+Physics‐Informed Neural Networks for Modeling the Martian Induced Magnetosphere
+The effects of shock process and terrestrial weathering on mercury isotopes in meteorites
+AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security
+Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments
+OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources
+CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation
+minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models
+YoCausal: How Far is Video Generation from World Model? A Causality Perspective
+GenClaw: Code-Driven Agentic Image Generation
+EarlyTom: Early Token Compression Completes Fast Video Understanding
+UniSteer: Text-Guided Flow Matching in Activation Space for Versatile LLM Steering
+How LoRA Remembers? A Parametric Memory Law for LLM Finetuning
+LoMo: Local Modality Substitution for Deeper Vision-Language Fusion
+Native Audio-Visual Alignment for Generation
+LaRA: Layer-wise Representation Analysis for Detecting Data Contamination in RL Post-Training
+Skill0.5: Joint Skill Internalization and Utilization for Out-of-Distribution Generalization in Agentic Reinforcement Learning
+Xetrieval: Mechanistically Explaining Dense Retrieval
+When Should Models Change Their Minds? Contextual Belief Management in Large Language Models
+Is Position Bias in Dense Retrievers Built In-or Learned from Data?
+Colored Noise Diffusion Sampling
+CausaLab: A Scalable Environment for Interactive Causal Discovery Toward AI Scientists
+AsyncTool: Evaluating the Asynchronous Function Calling Capability under Multi-Task Scenarios
+UI-KOBE: Knowledge-Oriented Behavior Exploration for Lightweight Graph-Guided GUI Agents
+LiteCoder-Terminal: Scaling Long-Horizon Terminal Environments for Learning Language Agents
+When Cloud Agents Meet Device Agents: Lessons from Hybrid Multi-Agent Systems
+Towards Verifiable Multimodal Deep Research: A Multi-Agent Harness for Interleaved Report Generation
+PRISM: A Multi-Dimensional Benchmark for Evaluating LLM Peer Reviewers
+PhyGenHOI: Physically-Aware 4D Generation of Dynamic Human-Object Interactions
+Verifiable Rewards Beyond Math and Code: Lightweight Corpus-Grounded Process Supervision for Factual Question Answering
+NeuROK: Generative 4D Neural Object Kinematics
+AdaState: Self-Evolving Anchors for Streaming Video Generation
+ChildVox: A Speech, Audio, and Large Audio-Language Model Benchmark in Understanding and Characterizing Sound across Childhood
+RUBRIC-ARROW: Alternating Pointwise Rubric Reward Modeling for LLM Post-training in Non-verifiable Domains
+SmartDirector: Keyframe-Conditioned Cinematic Video Generation with Narrative Pacing Control
+Learning A Unified Risk Map for Autonomous Driving in Partially Observable Environments
+Why Larger Models Learn More: Effects of Capacity, Interference, and Rare-Task Retention
+WorldMemArena: Evaluating Multimodal Agent Memory Through Action-World Interaction
+CoHyDE: Iterative Co-Training of LLM Rewriter & Dense Encoder for Tool Retrieval
+Geometry Matters: 3D Foundation Priors for Learning Semantic Correspondence
+Beyond 3D VQAs: Injecting 3D Spatial Priors into Vision-Language Models for Enhanced Geometric Reasoning
+Thinking Before Constraining: A Unified Decoding Framework for Large Language Models
+Discovering Cooperative Pipelines: Autoresearch for Sequential Social Dilemmas
+Parallax: Parameterized Local Linear Attention for Language Modeling
+Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases
+OmniInteract: Benchmarking Real-World Streaming Interaction for Real-Time Omnimodal Assistants
+Uniform Diffusion Models Revisited: Leave-One-Out Denoiser and Absorbing State Reformulation
+MoZoo:Unleashing Video Diffusion power in animal fur and muscle simulation
+REPOT: Recoverable Program-of-Thought via Checkpoint Repair
+Towards Consistent Video Geometry Estimation
+Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection
+PhoneWorld: Scaling Phone-Use Agent Environments
+ORACLE: Anticipating Scams from Partial Trajectories in Streaming App Usage
