@@ -12251,3 +12251,15 @@ Towards Consistent Video Geometry Estimation
 Token-Level Generalization in LoRA Adapter Backdoors: Attack Characterization and Behavioral Detection
 PhoneWorld: Scaling Phone-Use Agent Environments
 ORACLE: Anticipating Scams from Partial Trajectories in Streaming App Usage
+Racemic isoprenoids in the Murchison meteorite derive from petroleum-based aerosol pollutants
+Garnet pyroxenite at mid-mantle depths as a source of young lunar magmatism
+Blue Origin rocket explosion rattles NASA’s mission to put humans back on the Moon
+Why Far Looks Up: Probing Spatial Representation in Vision-Language Models
+DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation
+PANDO: Efficient Multimodal AI Agents via Online Skill Distillation
+CONF-KV: Confidence-Aware KV Cache Eviction with Mixed-Precision Storage for Long-Horizon LLM
+Multi-view Consistent 3D Gaussian Head Avatars 'without' Multi-view Generation
+Convex Low-resource Accent-Robust Language Detection in Speech Recognition
+Reflective Prompt Tuning through Language Model Function-Calling
+Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection
+Reducing Political Manipulation with Consistency Training
