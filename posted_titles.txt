@@ -12264,3 +12264,62 @@ Reflective Prompt Tuning through Language Model Function-Calling
 Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection
 Reducing Political Manipulation with Consistency Training
 Global Occurrence of Solitary Waves in the Martian Magnetosphere
+Correlation between Lunar Surface and Exospheric Sodium: Effects of Albedo-driven Temperature on Multilayer Sodium Reservoirs Rather than Surface Abundance Variations
+Reassessing the organic carbon budget in the Murchison meteorite through an extraction–recovery mass‐balance approach
+A modern dynamo at Triton as a consequence of its capture by Neptune
+Spitzer Observations of the Koronis Asteroid Family: Probing Size-dependent Surface Evolution
+Dust On, Dust Off: HST Observations of the Newly Dormant Jupiter Co-orbital Comet P/2023 V6 (PANSTARRS)
+GrepSeek: Training Search Agents for Direct Corpus Interaction
+COLLEAGUE.SKILL: Automated AI Skill Generation via Expert Knowledge Distillation
+Trust-Region Behavior Blending for On-Policy Distillation
+Representation Forcing for Bottleneck-Free Unified Multimodal Models
+SwanVoice: Expressive Long-Form Zero-Shot Speech Synthesis for Both Monologue and Dialogue
+Mellum2 Technical Report
+LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards
+GGT-100K: Generative Ground Truth for Generalizable Real-World Image Restoration
+Function2Scene: 3D Indoor Scene Layout from Functional Specifications
+Towards Streaming Synchronized Spatial Audio Generation via Autoregressive Diffusion Transformer
+SANA-Streaming: Real-time Streaming Video Editing with Hybrid Diffusion Transformer
+Comprehensive Benchmarking of Long-Form Speech Generation in Diverse Scenarios
+Task-Focused Memorization for Multimodal Agents
+dMoE: dLLMs with Learnable Block Experts
+Not All Disagreement Is Learnable: Token Teachability in On-Policy Distillation
+Exploring Autonomous Agentic Data Engineering for Model Specialization
+PEEK: Picking Essential frames via Efficient Knowledge distillation
+SCOPE: Self-Play via Co-Evolving Policies for Open-Ended Tasks
+SAAS: Self-Aware Reinforcement Learning for Over-Search Mitigation in Agentic Search
+Recovering Policy-Induced Errors: Benchmarking and Trajectory Synthesis for Robust GUI Agents
+From Prompt Injection to Persistent Control: Defending Agentic Harness Against Trojan Backdoors
+LongDS-Bench: On the Failure of Long-Horizon Agentic Data Analysis
+VLM3: Vision Language Models Are Native 3D Learners
+DecMem: Towards Minute-Long Consistent World Generation with Decoupled Memory
+Linear Scaling Video VLMs for Long Video Understanding
+Hide-and-Seek in Trajectories: Discovering Failure Signals for VLA Runtime Monitoring
+How can embedding models bind concepts?
+OpenSkillEval: Automatically Auditing the Open Skill Ecosystem for LLM Agents
+Emergent Languages in Populations of Language Model Agents: From Token Efficiency to Oversight Evasion
+The Flip Side of RLHF: On-Policy Feedback for Reward Model Self-Supervised Improvement
+GDSD: Reinforcement Learning as Guided Denoiser Self-Distillation for Diffusion Language Models
+Seeing Isn't Knowing: Do VLMs Know When Not to Answer Spatial Questions (and Why)?
+FRAPPE: Full Input, Residual Output Autoencoding with Projection Pursuit Encoder
+Flat-Pack Bench: Evaluating Spatio-Temporal Understanding in Large Vision-Language Models through Furniture Assembly
+DRIFT: Decoupled Rollouts and Importance-Weighted Fine-Tuning for Efficient Multi-Turn Optimization
+Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models
+Count Anything
+SoundnessBench: Can Your AI Scientist Really Tell Good Research Ideas from Bad Ones?
+MAAT: Multi-phase Adapter-Aware Targeted Unlearning
+VisualThink-VLA: Visual Intermediate Reasoning for Effective and Low-Latency Vision-Language-Action Policies
+The Good, the Bad, and the Ugly of Markov Boundary for Tabular Prediction
+When Confidence Misleads: Suffix Anchoring and Anchor-Proximity Confidence Modulation for Diffusion Language Models
+HL-OutPaint: Coarse-to-Fine Video Outpainting for High-Resolution Long-Range Videos
+RayDer: Scalable Self-Supervised Novel View Synthesis from Real-World Video
+iVGR: Internalizing Visually Grounded Reasoning for MLLMs with Reinforcement Learning
+Light Interaction: Training-Free Inference Acceleration for Interactive Video World Models
+One Click per Cell Type Suffices: Training-free Group Interaction for Cell Instance Segmentation
+From Model Scaling to System Scaling: Scaling the Harness in Agentic AI
+Benchmarking Composed Image Retrieval for Applied Earth Observation
+Memory-Bound but Not Bandwidth-Limited: The Physical AI Inference Gap in Batch-1 LLM Decode
+AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling
+Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal
+Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting
+A Topology-Aware Spatiotemporal Handover Framework for Continuous Multi-UAV Tracking
