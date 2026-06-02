@@ -12331,3 +12331,66 @@ AlphaTransit: Learning to Design City-scale Transit Routes
 One-Forcing: Towards Stable One-Step Autoregressive Video Generation
 Guidance Contrastive Token Credit Assignment for Discrete Policy Optimization
 Beyond Recall: Behavioral Specification as an Interpretive Layer for AI Personalization
+The Latitudinal Variation of the Ionospheric Lunar Signatures in the East‐Asian Sector
+Daily briefing: What it will take to stop the spiralling Ebola outbreak
+Crafter: A Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs
+On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters
+A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks
+K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts
+Draft-OPD: On-Policy Distillation for Speculative Draft Models
+Domino: Decoupling Causal Modeling from Autoregressive Drafting in Speculative Decoding
+Linear Ensembles Wash Away Watermarks: On the Fragility of Distributional Perturbations in LLMs
+VLMs are Good Teachers for Video Reasoning via Adaptive Test-Time Optimization
+X-Stream: Exploring MLLMs as Multiplexers for Multi-Stream Understanding
+SkillAdaptor: Self-Adapting Skills for LLM Agents from Trajectories
+VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion
+Where to Look: Can Foundation Models Reach a Target Viewpoint Through Active Exploration?
+NITP: Next Implicit Token Prediction for LLM Pre-training
+Which Pretraining Paradigm Better Serves Spatial Intelligence? An Empirical Comparison of Vision-Language and Video Generation Models
+When Does Multi-Agent RL Improve LLM Workflows? Workflow, Scale, and Policy-Sharing Tradeoffs
+MCP-Persona: Benchmarking LLM Agents on Real-World Personal Applications via Environment Simulation
+LVSA: Training-Free Sparse Attention for Long Video Diffusion
+ESPO: Early-Stopping Proximal Policy Optimization
+Joint Agent Memory and Exploration Learning via Novelty Signals
+Masking Stale Observations Helps Search Agents -- Until It Doesn't: A Regime Map and Its Mechanism
+Brain-IT-VQA: From Brain Signals to Answers
+StreamChar: Long-Horizon Streaming Character Audio-Video Generation with Decoupled Orchestration
+LongLive-RAG: A General Retrieval-Augmented Framework for Long Video Generation
+OpenWebRL: Demystifying Online Multi-turn Reinforcement Learning for Visual Web Agents
+Skill is Not One-Size-Fits-All: Model-Aware Skill Alignment for LLM Agents
+Speculative Pipeline Decoding: Higher-Accruacy and Zero-Bubble Speculation via Pipeline Parallelism
+RoboStressBench: Benchmarking VLM Robustness to Physical Visual Stress in Embodied Scenes
+MineExplorer: Evaluating Open-World Exploration of MLLM Agents in Minecraft
+Multi-Agent Computer Use
+RoboSemanticBench: Diagnosing Semantic Grounding in Action Prediction for VLA Models
+Agent Skills Should Go Beyond Text: The Case for Visual Skills
+SOCO: Benchmarking Semantic Object Correspondence in Vision Foundation Models
+PARCEL: Pool-Anchored Resampling with Conditioned Elastic Queries for Efficient Vision-Language Understanding
+HakushoBench: A Japanese Chart and Table VQA Benchmark from Governmental White Papers
+FineVerify: Scaling Test-Time Compute with Fine-Grained Self-Verification for Agentic Search
+Measuring the Depth of LLM Unlearning via Activation Patching
+Off-the-Shelf LLMs as Process Scorers: Training-Free Alternative to PRMs for Mathematical Reasoning
+3DCodeBench: Benchmarking Agentic Procedural 3D Modeling Via Code
+Adapting Multilingual Embedding Models to Turkish via Cross-Lingual Tokenizer Surgery and Offline Distillation
+Not only where, But when: Temporal Scheduling for RLVR
+Silent Failures in Physical AI: A Literature Review of Runtime Action Authorization for Autonomous Systems
+EVA01: Unified Native 3D Understanding and Generation via Mixture-of-Transformers
+LongAttnComp: Cross-Family Context Compression for Long-Context Reasoning
+Confidence-Adaptive SwiGLU for Mixture-of-Experts
+StressDream: Steering Video World Models for Robust Policy Evaluation and Improvement
+Compositional Text-to-Image Generation Via Region-aware Bimodal Direct Preference Optimization
+Can Predicted Dynamics Exist in the Physical World?
+Geometric Latent Reasoning Induces Shorter Generations in LLMs
+Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models
+A Formally Verified Library of Mathematical Finance in Lean 4
+ChartArena: Benchmarking Chart Parsing across Languages, Scenarios, and Formats
+Review Arcade: On the Human Alignment and Gameability of LLM Reviews
+AI, Take the Wheel: What Drives Delegation and Trust in Human-Computer Cooperative Question Answering?
+The Hamilton-Jacobi Theory of Deep Learning
+Unified Neural Scaling Laws
+ACL-Verbatim: hallucination-free question answering for research
+Who Annotates in NLP? A Large-scale Assessment of Human Annotation Reporting between 2018 and 2025
+τ_0-WM: A Unified Video-Action World Model for Robotic Manipulation
+Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG
+The Chain Holds, the Answer Folds: Trace-Answer Dissociation in Reasoning Models Under Adversarial Pressure
+Lost in Translation? Exploring the Shift in Grammatical Gender from Latin to Occitan
