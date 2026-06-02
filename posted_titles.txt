@@ -12323,3 +12323,11 @@ AnyMo: Scaling Any-Modality Conditional Motion Generation with Masked Modeling
 Frequency-Guided Action Diffusion via Sub-Frequency Manifold Traversal
 Beyond Holistic Models: Systematic Component-level Benchmarking of Deep Multivariate Time-Series Forecasting
 A Topology-Aware Spatiotemporal Handover Framework for Continuous Multi-UAV Tracking
+The Near-ultraviolet Transit of XO-3 b
+Harness Updating Is Not Harness Benefit: Disentangling Evolution Capabilities in Self-Evolving LLM Agents
+DEMON: Diffusion Engine for Musical Orchestrated Noise
+SurGe: Improved Surface Geometry in Point Maps
+AlphaTransit: Learning to Design City-scale Transit Routes
+One-Forcing: Towards Stable One-Step Autoregressive Video Generation
+Guidance Contrastive Token Credit Assignment for Discrete Policy Optimization
+Beyond Recall: Behavioral Specification as an Interpretive Layer for AI Personalization
