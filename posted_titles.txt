@@ -12394,3 +12394,14 @@ Who Annotates in NLP? A Large-scale Assessment of Human Annotation Reporting bet
 Same Question, Different Source, Different Answer: Auditing Source-Dependence in Medical Multi-Source RAG
 The Chain Holds, the Answer Folds: Trace-Answer Dissociation in Reasoning Models Under Adversarial Pressure
 Lost in Translation? Exploring the Shift in Grammatical Gender from Latin to Occitan
+Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses
+Policy and World Modeling Co-Training for Language Agents
+AFUN: Towards an Affordance Foundation Model for Functionality Understanding
+SVI-Bench: A Dynamic Microworld for Strategic Video Intelligence
+TVIR: Building Deep Research Agents Towards Text--Visual Interleaved Report Generation
+MindZero: Learning Online Mental Reasoning With Zero Annotations
+Model-Based Quality Assessment for Massively Multilingual Parallel Data
+FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigenmodes
+DOT-MoE: Differentiable Optimal Transport for MoEfication
+Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures
+Show, Don't TELL: Explainable AI-Generated Text Detection
