@@ -12405,3 +12405,42 @@ FreeForm: Reduced-Order Deformable Simulation from Particle-Based Skinning Eigen
 DOT-MoE: Differentiable Optimal Transport for MoEfication
 Semantic Motion Anchors: Bridging Motion and Meaning in Co-Speech Gestures
 Show, Don't TELL: Explainable AI-Generated Text Detection
+Spinning out of focus: The challenge of rotational line broadening in exoplanet reflection spectroscopy
+Interplanetary Shocks Observed from Multipoints at Venus and 1 au
+Investigating the Impact of the Spatially Heterogeneous Surface Dust Cover on Martian Global Dust Event Occurrence
+Development of a data retrieval algorithm for Venus nephelometry in preparation for the Rocket Lab Mission to Venus
+3D insights into the multiorigins of nanophase Fe0 in the Moon surface
+Social interactions in isolated, confined, and extreme environments: A study of Antarctic winter teams using wearable sensors
+JWST and Gemini Observations of the Active Centaur 450P/LONEOS: Nucleus and Coma Characterizations
+OCC-RAG: Optimal Cognitive Core for Faithful Question Answering
+Trust Region On-Policy Distillation
+Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking
+From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain
+KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks
+A Local Perturbation Theory for Cross-Domain Interference and Recovery in Multi-Domain RL
+MIRA: Mid-training Rubric Anchoring for Source-Aware Data Selection
+World Models Meet Language Models: On the Complementarity of Concrete and Abstract Reasoning
+AutoMedBench: Towards Medical AutoResearch with Agentic AI Models
+TRON: Targeted Rule-Verifiable Online Environments for Visual Reasoning RL
+Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories
+Decoupled Residual Denoising Diffusion Models for Unified and Data Efficient Image-to-Image Translation
+Ψ-Bench: Evaluating Persona-Sensitive Influencing in Persuasive Dialogues
+NVIDIA OmniDreams: Real-Time Generative World Model for Closed-Loop Autonomous Vehicle Simulation
+PlatonicNav: Unveiling Semantic Correspondence in Navigation with Platonic Topological Maps
+Decentralized Instruction Tuning: Conflict-Aware Splitting and Weight Merging
+Small RL Controller, Large Language Model: RL-Guided Adaptive Sampling for Test-Time Scaling
+Diagnosing Harmful Continuation in Answer-Correct Long-CoT Training Traces
+PaddleOCR-VL-1.6: Expanding the Frontier of Document Parsing with Under-Optimized Region Refinement and Progressive Post-Training
+MERIT: Learning Disentangled Music Representations for Audio Similarity
+Value-Aware Stochastic KV Cache Eviction for Reasoning Models
+Benchmarking Visual State Tracking in Multimodal Video Understanding
+Bootstrap Your Generator: Unpaired Visual Editing with Flow Matching
+ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree
+Domain-Specific Data Synthesis for LLMs via Minimal Sufficient Representation Learning
+AURA: Action-Gated Memory for Robot Policies at Constant VRAM
+αDepth: Learning Single-Pass Soft Boundary Decomposition for Stereo Conversion
+A Multi-AI-agent Framework Enabling End-to-end Finite Element Analysis for Solid Mechanics Problems
+Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and CAD-Unavailable Regimes
+BA-T: An Iterative Transformer for Two-View Bundle Adjustment
+Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
+Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations
