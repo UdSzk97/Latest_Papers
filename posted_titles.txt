@@ -12492,3 +12492,20 @@ Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain
 Score-Control for Hallucination Reduction in Diffusion Models
 Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting
 Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
+Smaller Than Earth Habitability Model (STEHM): The Lower Size Limit for Atmosphere Retention in the Habitable Zone
+Uranus Orbiter and Probe: Mission Challenges and Concept Updates Since the Origins, Worlds, and Life Decadal Survey
+Potential Cryovolcanic Regions on Ganymede: A Priority Target for JUICE
+ZipSplat: Fewer Gaussians, Better Splats
+KletterMix: Climbing Toward High-Quality German Pretraining Data
+Neural Networks Provably Learn Spectral Representations for Group Composition
+DAR: Deontic Reasoning with Agentic Harnesses
+Stable-Layers: Fine-Tuning Image Layer Decomposition Models with VLM-Scored Reinforcement Learning
+Probing Outcome-Level Resemblance and Mechanism-Level Alignment in LLM Risk Decisions: Evidence from the St. Petersburg Game
+When Graph Tokens Sink: A Mechanistic Analysis of Graph Language Models
+Agentic Chain-of-Thought Steering for Efficient and Controllable LLM Reasoning
+Large Language Models Hack Rewards, and Society
+Measuring the Symmetry--Data Exchange Rate
+SuperMemory-VQA: An Egocentric Visual Question-Answering Benchmark for Long-Horizon Memory
+Token Budgets: An Empirical Catalog of 63 LLM-Agent Budget-Overrun Incidents, with an Affine-Typed Rust Mitigation as a Case Study
+Scalable Inference-Time Annealing with Surrogate Likelihood Estimators
+Functional Attention: From Pairwise Affinities to Functional Correspondences
