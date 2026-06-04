@@ -12444,3 +12444,11 @@ Prior Availability in Industrial Visual Sim-to-Real: A Review of CAD-Guided and 
 BA-T: An Iterative Transformer for Two-View Bundle Adjustment
 Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
 Pressure-Testing Deception Probes in LLMs: Scaling, Robustness, and the Geometry of Deceptive Representations
+Relativistic electron acceleration at the bow shock of Jupiter and beyond
+Jupiter observations reveal a simple scaling law for particle acceleration
+Improving Lunar Topography with Deep Learning Schrödinger Bridges
+Adaptive Auto-Harness: Sustained Self-Improvement for Agentic System Deployment on Open-Ended Task Streams
+OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification
+Conditional Hypothesis Generation for LLM-Based Text Analysis with Researcher-Specified Covariates
+Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models
+WALL-WM: Carving World Action Modeling at the Event Joints
