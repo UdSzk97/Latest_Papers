@@ -12452,3 +12452,43 @@ OmniOPD: Logit-Free On-Policy Distillation via Speculative Verification
 Conditional Hypothesis Generation for LLM-Based Text Analysis with Researcher-Specified Covariates
 Ultralytics YOLO26: Unified Real-Time End-to-End Vision Models
 WALL-WM: Carving World Action Modeling at the Event Joints
+Bulk Thermal Conductivity of Granular Aggregates: Decoupling Coordination Number and Porosity
+Cosmos 3: Omnimodal World Models for Physical AI
+Audio Interaction Model
+Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories
+Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning
+OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs
+Qwen-Image-Flash: Beyond Objective Design
+M^3Eval: Multi-Modal Memory Evaluation through Cognitively-Grounded Video Tasks
+ThoughtFold: Folding Reasoning Chains via Introspective Preference Learning
+Streaming Communication in Multi-Agent Reasoning
+Echo-Infinity: Learning Evolving Memory for Real-Time Infinite Video Generation
+Benchmarks are Not Enough: RAMP for Runtime Assessing of Agentic Models in Production Systems
+Self-Distilled Policy Gradient
+Eliciting Complex Spatial Reasoning in MLLMs through Wide-Baseline Matching
+MemTrain: Self-Supervised Context Memory Training
+MMG2Skill: Can Agents Distill In-the-Wild Guides into Self-Evolving Skills?
+AAD-1: Asymmetric Adversarial Distillation for One-Step Autoregressive Video Generation
+MapAgent: An Industrial-Grade Agentic Framework for City-scale Lane-level Map Generation
+Filter, Then Reweight: Rethinking Optimization Granularity in On-Policy Distillation
+WebRISE: Requirement-Induced State Evaluation for MLLM-Generated Web Artifacts
+AutoLab: Can Frontier Models Solve Long-Horizon Auto Research and Engineering Tasks?
+AUDITFLOW: Executable Symbolic Environments for Structured Financial Reporting Verification
+GRAIL: Generating Humanoid Loco-Manipulation from 3D Assets and Video Priors
+BraveGuard: From Open-World Threats to Safer Computer-Use Agents
+BenchEvolver: Frontier Task Synthesis via Solution-Centric Evolution
+Access Sets Matter: Budgeting Expert Reads for Scalable Weight-Space Model Merging
+Evaluating Large Language Models in Dynamic Clinical Decision-Making with Standardized Patient Cases
+OpenSTBench: Beyond Semantic Evaluation for Speech Translation
+STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations
+Unlocking Feature Learning in Gated Delta Networks at Scale
+SpatialAct: Probing Spatial Reasoning-to-Action Capabilities of VLM Agents in 3D Scenes
+PaintBench: Deterministic Evaluation of Precise Visual Editing
+Deep Embedded Multiplicative DMD for Algebra-Preserving Koopman Learning
+MeshWeaver: Sparse-Voxel-Guided Surface Weaving for Autoregressive Mesh Generation
+Agent libOS: A Library-OS-Inspired Runtime for Long-Running, Capability-Controlled LLM Agents
+Economy of Minds: Emerging Multi-Agent Intelligence with Economic Interactions
+Semi-Supervised Noise Adaptation: Transferring Knowledge from Noise Domain
+Score-Control for Hallucination Reduction in Diffusion Models
+Training-Free Multi-Concept LoRA Composition with Prompt-Aware Weighting
+Do Text Edits Generalize to Visual Generation? Benchmarking Cross-Modal Knowledge Editing in UMMs
