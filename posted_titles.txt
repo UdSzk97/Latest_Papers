@@ -12509,3 +12509,43 @@ SuperMemory-VQA: An Egocentric Visual Question-Answering Benchmark for Long-Hori
 Token Budgets: An Empirical Catalog of 63 LLM-Agent Budget-Overrun Incidents, with an Affine-Typed Rust Mitigation as a Case Study
 Scalable Inference-Time Annealing with Surrogate Likelihood Estimators
 Functional Attention: From Pairwise Affinities to Functional Correspondences
+Environmental conditions associated with carbonate-bearing rocks in lower Hawksbill Gap, Jezero western fan, Mars
+Magmatic intrusions beneath floor-fractured craters in the Martian highlands
+A meteorite impact crater in the Eastern Goldfields of Western Australia—Shock metamorphism and projectile signature at the Ora Banda structure
+ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?
+TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration
+AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints
+VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding
+Reinforcement Learning Elicits Contextual Learning of Unseen Language Translation
+RobotValues: Evaluating Household Robots When Human Values Conflict
+LoomVideo: Unifying Multimodal Inputs into Video Generation and Editing
+Complexity-Balanced Diffusion Splitting
+Personal AI Agent for Camera Roll VQA
+Rethinking Continual Experience Internalization for Self-Evolving LLM Agents
+Dream.exe: Can Video Generation Models Dream Executable Robot Manipulation?
+Unsupervised Skill Discovery for Agentic Data Analysis
+LLMs Can Leak Training Data But Do They Want To? A Propensity-Aware Evaluation of Memorization in LLMs
+The Shadow Price of Reasoning: Economic Perspective on Optimal Budget Allocation for LLMs
+World-Language-Action Model for Unified World Modeling, Language Reasoning, and Action Synthesis
+Towards One-to-Many Temporal Grounding
+Imagine Before You Predict: Interleaved Latent Visual Reasoning for Video Event Prediction
+OPRD: On-Policy Representation Distillation
+MLEvolve: A Self-Evolving Framework for Automated Machine Learning Algorithm Discovery
+SePO: Self-Evolving Prompt Agent for System Prompt Optimization
+AdaCodec: A Predictive Visual Code for Video MLLMs
+Meta-Cognitive Memory Policy Optimization for Long-Horizon LLM Agents
+Towards Truly Multilingual ASR: Generalizing Code-Switching ASR to Unseen Language Pairs
+EvoDS: Self-Evolving Autonomous Data Science Agent with Skill Learning and Context Management
+MechVQA: Benchmarking and Enhancing Multimodal LLMs on Comprehensive Mechanical Drawing Understanding
+Revising Context, Shifting Simulated Stance: Auditing LLM-Based Stance Simulation in Online Discussions
+Discrete-WAM: Unified Discrete Vision-Action Token Editing for World-Policy Learning
+Latent Reasoning with Normalizing Flows
+Flash-WAM: Modality-Aware Distillation for World Action Models
+Video2LoRA: Parametric Video Internalization for Vision-Language Models
+SEAOTTER: Sensor Embedded Autoencoding with One-Time Transcode for Efficient Reconstruction
+Absorbing Complexity: An Interaction-Native Knowledge Harness for Financial LLM Agents
+Combinatorial Synthesis: Scaling Code RLVR via Atomic Decomposition and Recombination
+Multimodal Music Recommendation System using LLMs
+Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing
+ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment
+Quality-Guided Semi-Supervised Learning for Medical Image Segmentation
