@@ -12549,3 +12549,18 @@ Multimodal Music Recommendation System using LLMs
 Is This Edit Correct? A Multi-Dimensional Benchmark for Reasoning-Aware Image Editing
 ForeSci: Evaluating LLM Agents for Forward-Looking AI Research Judgment
 Quality-Guided Semi-Supervised Learning for Medical Image Segmentation
+See a helicopter destined for Mars and a spectacular flowery frame for the Milky Way — May’s best science images
+Empirical Evaluation of S-band Radar Polarimetric Response to Surface Rock Abundance across the Lunar Highlands and Maria
+Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution
+The Road Ahead in Autonomous Driving: The KITScenes Multimodal Dataset
+MAOAM: Unified Object and Material Selection with Vision-Language Models
+Learning Geometric Representations from Videos for Spatial Intelligent Multimodal Large Language Models
+AffordanceVLA: A Vision-Language-Action Model Empowering Action Generation through Affordance-Aware Understanding
+Regret Minimization with Adaptive Opponents in Repeated Games
+AURA: Intent-Directed Probing for Implicit-Need Surfacing in Situated LLM Agents
+Benchmark Everything Everywhere All at Once
+LLM Anonymization Against Agentic Re-Identification
+The Shape of Addition: Geometric Structures of Arithmetic in Large Language Models
+Trust Region Q Adjoint Matching
+BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding
+SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces
