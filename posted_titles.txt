@@ -12566,3 +12566,5 @@ BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understa
 SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces
 Visible, near‐, and thermal infrared spectra of asteroid Bennu samples: Relationship to and implications for remote sensing of carbonaceous asteroids
 Comparing astrobiologists’ confidence in extraterrestrial life claims for K2-18 b and Cheyava Falls
+Heavy silicon isotope and mass-independent mercury isotope fractionation signals of Archean TTGs: Insights into the recycling of the silicified oceanic crust in the source region
+FTIR constraints on Martian mantle water from clinopyroxene in nakhlite and shergottite meteorites
