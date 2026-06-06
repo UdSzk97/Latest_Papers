@@ -12564,3 +12564,5 @@ The Shape of Addition: Geometric Structures of Arithmetic in Large Language Mode
 Trust Region Q Adjoint Matching
 BRepCLIP: Contrastive Multimodal Pretraining on BRep Primitives for CAD Understanding
 SABER: Benchmarking Operational Safety of LLM Coding Agents in Stateful Project Workspaces
+Visible, near‐, and thermal infrared spectra of asteroid Bennu samples: Relationship to and implications for remote sensing of carbonaceous asteroids
+Comparing astrobiologists’ confidence in extraterrestrial life claims for K2-18 b and Cheyava Falls
