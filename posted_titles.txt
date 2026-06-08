@@ -12606,3 +12606,16 @@ WorldBench: A Challenging and Visually Diverse Multimodal Reasoning Benchmark
 Parametric Social Identity Injection and Diversification in Public Opinion Simulation
 Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback
 Augmenting Attention with Exponentially Decaying Memory Improves Query-Aware KV Sparsity
+Trajectory-agnostic Asteroid Detection in TESS with Deep Learning
+UnpredictaBench: A Benchmark for Evaluating Distributional Randomness in LLMs
+SPACENUM: Revisiting Spatial Numerical Understanding in VLMs
+Almieyar-Oryx-BloomBench: A Bilingual Multimodal Benchmark for Cognitively Informed Evaluation of Vision-Language Models
+Reinforcement Learning from Rich Feedback with Distributional DAgger
+Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models
+A Cookbook of 3D Vision: Data, Learning Paradigms, and Application
+ECI_{sem}: Semantic Residual Effective Contrastive Information for Evaluating Hard Negatives
+Data-Efficient Autoregressive-to-Diffusion Language Models via On-Policy Distillation
+Measuring Model Robustness via Fisher Information: Spectral Bounds, Theoretical Guarantees, and Practical Algorithms
+The Distillation Game: Adaptive Attacks & Efficient Defenses
+CORE: Contrastive Reflection Enables Rapid Improvements in Reasoning
+Empirical Study on the Characteristics and Evolution of AI-usage in GitHub Repositories: Evidence from Code Comments
