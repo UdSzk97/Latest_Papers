@@ -12568,3 +12568,41 @@ Visible, near‐, and thermal infrared spectra of asteroid Bennu samples: Relati
 Comparing astrobiologists’ confidence in extraterrestrial life claims for K2-18 b and Cheyava Falls
 Heavy silicon isotope and mass-independent mercury isotope fractionation signals of Archean TTGs: Insights into the recycling of the silicified oceanic crust in the source region
 FTIR constraints on Martian mantle water from clinopyroxene in nakhlite and shergottite meteorites
+Reflections of Life: Distinguishing Living from Nonliving Worlds with Complexity Metrics
+The Days Drag On on WASP-121 b: Interpreting Its NIRISS Spectroscopic Phase Curve with General Circulation Models
+A Uniform Determination of the Bulk Metallicities and α Enrichments of Confirmed Exoplanet Systems with TRES
+Modeling and Analysis of Main-belt Asteroidal Dust Flux and Velocity Distribution at Inner Planets
+Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings
+MMAE: A Massive Multitask Audio Editing Benchmark
+SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations
+AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization
+Direct 3D-Aware Object Insertion via Decomposed Visual Proxies
+GENEB: Why Genomic Models Are Hard to Compare
+When Tools Fail: Benchmarking Dynamic Replanning and Anomaly Recovery in LLM Agents
+SubtleMemory: A Benchmark for Fine-Grained Relational Memory Discrimination in Long-Horizon AI Agents
+OpenSkill: Open-World Self-Evolution for LLM Agents
+UniSHARP: Universal Sharp Monocular View Synthesis
+Robots Need More than VLA and World Models
+LIMMT: Less is More for Motion Tracking
+Watch, Remember, Reason: Human-View Video Understanding with MLLMs
+dots.tts Technical Report
+Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators
+Physics in 2-Steps: Locking Motion Priors Before Visual Refinement Erases Them
+LLM Explainability with Counterfactual Chains and Causal Graphs
+PaperFlow: Profiling, Recommending, and Adapting Across Daily Paper Streams
+Socratic-SWE: Self-Evolving Coding Agents via Trace-Derived Agent Skills
+SIA: Self Improving AI with Harness & Weight Updates
+HarnessForge: Joint Harness and Policy Evolution for Adaptive Agent Systems
+Stream3D-VLM: Online 3D Spatial Understanding with Incremental Geometry Priors
+When Gradients Collide: Failure Modes of Multi-Objective Prompt Optimization for LLM Judges
+Towards Retrieving Interaction Spaces for Agentic Search
+Entropy as a Structural Prior: How a Log-Barrier on DiT Belief Space Drives Musical Diversity and Development
+Compress-Distill: Reasoning Trace Compression for Efficient Knowledge Distillation
+LayerRoute: Input-Conditioned Adaptive Layer Skipping via LoRA Fine-Tuning for Agentic Language Models
+Towards Human-Like Interactive Speech Recognition With Agentic Correction and Semantic Evaluation
+How Far Can Chord-Symbol Time-Series Adaptation Carry Genre Identity? Capabilities and Boundaries in Multi-Genre Chord-Symbol Modeling
+Streaming Video Generation with Streaming Force Control
+WorldBench: A Challenging and Visually Diverse Multimodal Reasoning Benchmark
+Parametric Social Identity Injection and Diversification in Public Opinion Simulation
+Critic-R: Improving Agentic Search using Instruction-tuned Retrievers with Natural Language Introspective Feedback
+Augmenting Attention with Exponentially Decaying Memory Improves Query-Aware KV Sparsity
