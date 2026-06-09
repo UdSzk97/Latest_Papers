@@ -12619,3 +12619,53 @@ Measuring Model Robustness via Fisher Information: Spectral Bounds, Theoretical 
 The Distillation Game: Adaptive Attacks & Efficient Defenses
 CORE: Contrastive Reflection Enables Rapid Improvements in Reasoning
 Empirical Study on the Characteristics and Evolution of AI-usage in GitHub Repositories: Evidence from Code Comments
+High-fidelity Gravitational Field Reconstruction of Asteroids via Multisensor Fusion and Physics-informed Neural Networks
+Degradation Mechanisms and Efficiency of Heavily Cratered Regions on Ceres
+Mars as an Exoplanet: Lessons from a Planet at the Edge of Habitability
+SWE-Explore: Benchmarking How Coding Agents Explore Repositories
+On the Geometry of On-Policy Distillation
+Latent Spatial Memory for Video World Models
+CoVEBench: Can Video Editing Models Handle Complex Instructions?
+LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents
+FlashMemory-DeepSeek-V4: Lightning Index Ultra-Long Context via Lookahead Sparse Attention
+SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks
+Human Psychometric Questionnaires Mischaracterize LLM Behavior
+Echo-Memory: A Controlled Study of Memory in Action World Models
+OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics
+AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing
+SwiftVR: Real-Time One-Step Generative Video Restoration
+Bayesian-Agent: Posterior-Guided Skill Evolution for LLM Agent Harnesses
+OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning
+Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill
+SlimSearcher: Training Efficiency-Aware Web Agents via Adaptive Reward Gating
+End-to-End Context Compression at Scale
+Answer Presence Drives RAG Rewriting Gains
+Reasoning Arena: Trace Tournaments When Verifiable Rewards Fall Short
+Liberating LLM Capabilities in Full-Duplex Speech Models
+Whisper Hallucination Detection and Mitigation via Hidden Representation Steering and Sparse AutoEncoders
+DuMate-DeepResearch: An Auditable Multi-Agent System with Recursive Search and Rubric-Grounded Reasoning
+A Geometric Account of Activation Steering through Angle-Norm Decomposition
+Why Muon Outperforms Adam: A Curvature Perspective
+Trajectory-Refined Distillation
+Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting
+Phase Marginalization for Patch-Grid Instability in Vision Transformers
+Optical Reasoning: Rethinking Images as an Expressive Reasoning Medium Beyond Text
+Experience Makes Skillful: Enabling Generalizable Medical Agent Reasoning via Self-Evolving Skill Memory
+Hardening Agent Benchmarks with Adversarial Hacker-Fixer Loops
+PBSD: Privileged Bayesian Self-Distillation for Long-Horizon Credit Assignment
+OASIS: From Simulation Data Collection to Real-World Humanoid Loco-Manipulation
+EmpiriGraph-Psy: A Dataset and LLM Pipeline for Extracting Empirical Relation Graphs from Psychology Abstracts
+Chiaroscuro Attention: Spending Compute in the Dark
+Skill-3D: Evolving Scene-Aware Skills for Agentic 3D Spatial Reasoning
+Where Rectified Flows Leak: Characterising Membership Signals Along the Interpolation Path
+Cosine Misleads: Auxiliary Losses Reshape Vision Language Models, Not Their Latents
+Self-Evaluation Is Already There: Eliciting Latent Judge Calibration in Base LLMs with Minimal Data
+Text-to-Image Models Need Less from Text Encoders Than You Think
+Lean4Agent: Formal Modeling and Verification for Agent Workflow and Trajectory
+WorldCraft: From Camera Navigation to Object Manipulation in Interactive Video World Models
+PIPE-Cypher: Automatic Enterprise Benchmark Generation for Text-to-Cypher Systems
+Set-Based Transformer for Atmospheric Compensation in Standoff LWIR Hyperspectral Imaging
+CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation
+Reasoning over Grammar: Can Synthetic Linguistic Reasoning Traces Enhance Low-Resource Machine Translation?
+Honest Lying: Understanding Memory Confabulation in Reflexive Agents
+EMMA: Extracting Multiple physical parameters from Multimodal Data
