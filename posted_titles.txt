@@ -12669,3 +12669,14 @@ CIPER: A Unified Framework for Cross-view Image-retrieval and Pose-estimation
 Reasoning over Grammar: Can Synthetic Linguistic Reasoning Traces Enhance Low-Resource Machine Translation?
 Honest Lying: Understanding Memory Confabulation in Reflexive Agents
 EMMA: Extracting Multiple physical parameters from Multimodal Data
+Agents' Last Exam
+DEI: Diversity in Evolutionary Inference for Quality-Diversity Search
+Light-WAM: Efficient World Action Models with State-Fusion Action Decoding
+Robotic Policy Adaptation via Weight-Space Meta-Learning
+SDR: Set-Distance Rewards for Radiology Report Generation
+AsyncWebRL: Efficient Multi-Step RL for Visual Web Agents
+Trust Functions: Near-Lossless Weak-to-Strong Generalization by Learning When to Trust the Weak Teacher
+SigmaScale: LLM Compression with SVD-based Low-Rank Decomposition and Learned Scaling Matrices
+Send a SCOUT First: Pre-hoc Reasoning for Adaptive Detector Allocation in Prompt-Injection Defense
+Precision Is Not Faithfulness: Coverage-Aware Evaluation of Grounded Generation with a Complete Oracle
+Pruning and Distilling Mixture-of-Experts into Dense Language Models
