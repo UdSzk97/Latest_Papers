@@ -12680,3 +12680,43 @@ SigmaScale: LLM Compression with SVD-based Low-Rank Decomposition and Learned Sc
 Send a SCOUT First: Pre-hoc Reasoning for Adaptive Detector Allocation in Prompt-Injection Defense
 Precision Is Not Faithfulness: Coverage-Aware Evaluation of Grounded Generation with a Complete Oracle
 Pruning and Distilling Mixture-of-Experts into Dense Language Models
+LifeMet: Report on the 2024–2025 meteorite recovery expedition in Dronning Maud Land, Antarctica for the study of microbe–meteorite interactions
+Creation of Lunar-like Rims in Ilmenite Using Synthetic Solar Wind
+Kwai Keye-VL-2.0 Technical Report
+ABot-Earth 0.5: Generative 3D Earth Model
+Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution
+Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts
+SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research
+MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism
+SCAIL-2: Unifying Controlled Character Animation with End-to-end In-Context Conditioning
+Flow-DPPO: Divergence Proximal Policy Optimization for Flow Matching Models
+Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
+WorldOlympiad: Can Your World Model Survive a Triathlon?
+Rethinking the Divergence Regularization in LLM RL
+Lip Forcing: Few-Step Autoregressive Diffusion for Real-time Lip Synchronization
+EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents
+One Token per Multimodal Evidence: Latent Memory for Resource-Constrained QA
+Workflow-GYM: Towards Long-Horizon Evaluation of Computer-use Agentic tasks in Real-World Professional Fields
+Attention Amnesia in Hybrid LLMs: When CoT Fine-Tuning Breaks Long-Range Recall, and How to Fix It
+Interpreting and Steering a Text-to-Speech Language Model with Sparse Autoencoders
+Online Skill Learning for Web Agents via State-Grounded Dynamic Retrieval
+How Does Reasoning Flow? Tracing Attention-Induced Information Flow for Targeted RL in LLMs
+BrainSurgery: Reproducible and Reliable Declarative Weight Manipulations for Model Editing and Upcycling
+PsychoSafe: Eliciting Psychologically-Informed Refusals in Large Language Models
+Bridging the Agent-World Gap: Text World Models for LLM-based Agents
+UniPET: a universal network for high-quality PET image denoising across varied dose reduction factors
+U-TTT: Towards Generalizable PET Image Denoising via Test-Time Training
+MilliVid: Hierarchical Latents for Long-Range Consistency in Video Generation
+Struct-Searcher: Agentic Structural Thinking Advances Multimodal Deep Information Seeking
+What Should Agents Say? Action-state Communication for Efficient Multi-Agent Systems
+Next Forcing: Causal World Modeling with Multi-Chunk Prediction
+Dynamic Linear Attention
+Late-Layer Fusion is Enough: Dual-Path Vision Token Routing for Multimodal Large Language Models under Visual Saturation
+Emergent Misalignment Can Be Induced by Sycophancy and Reversed via Alignment Gating
+IR3DE: A Linear Router for Large Language Models
+ARM: An AutoRegressive Large Multimodal Model with Unified Discrete Representations
+When the Chain of Thought Knows Better: Failure Modes in Multi-Turn Reasoning Models
+The Role of Feedback Alignment in Self-Distillation
+Test-Time Gradient Guidance of Flow Policies in Reinforcement Learning
+FadeMem: Distance-Aware Memory Consolidation for Autoregressive Video Diffusion
+BenSyc: Benchmarking Conversational Sycophancy and Human Alignment in LLMs for Bengali Contexts
