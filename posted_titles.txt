@@ -12729,3 +12729,42 @@ Decentralized Multi-Agent Systems with Shared Context
 PaperMentor: A Human-Centered Multi-Agent Writing Tutor for AI Research Papers on Overleaf
 When Behavioral Safety Evaluation Fails: A Representation-Level Perspective
 In-Context Multiple Instance Learning
+The Intrinsic Multiplicity Distribution of Exoplanets Revealed from the Radial Velocity Method. II. Constraints on Giant Planet Multiplicity from Different Surveys
+A Compact, Ultra-high-resolution Virtually Imaged Phased Array Spectrograph for Solar Spectroscopic Observations: Astrocomb Characterization and First Light
+A Comprehensive Sulfur Chemistry Network Including Excited S(1D) and SO(1Δ) for the XODIAC Photochemical Model: Accounting for Missing Sulfur Processes in Venus and Exo-Venus Analogs
+Chemistry and Isotope Ratios of Substellar Atmospheres in the β Pictoris Young Moving Group and Vicinity
+Ultraviolet Radiation Effects on the Optical Properties of Water-dominated Exoplanet Hazes
+Influence of Penetration Depth on Jets on Giant Planets: Equatorial Jet Direction, Jet Numbers, and Jet Energy Fraction
+Acidophilic fungi as possible candidates for living forms in the Venus clouds
+Redesign Mixture-of-Experts Routers with Manifold Power Iteration
+Toward Generalist Autonomous Research via Hypothesis-Tree Refinement
+Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks
+Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application
+Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions
+TRL-Bench: Standardizing Cross-Paradigm Representation-Level Evaluation of Tabular Encoders
+Reason, Then Re-reason: Cross-view Revisiting Improves Spatial Reasoning
+DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch
+World Pilot: Steering Vision-Language-Action Models with World-Action Priors
+On Subquadratic Architectures: From Applications to Principles
+ComBench: A Benchmark for Rigorous Proof Reasoning and Constructive Realization in Olympiad-Level Combinatorics
+Grammar-Constrained Decoding Can Jailbreak LLMs into Generating Malicious Code
+InternVideo3: Agentify Foundation Models with Multimodal Contextual Reasoning
+Breaking Entropy Bounds: Accelerating RL Training via MTP with Rejection Sampling
+ICA Lens: Interpreting Language Models Without Training Another Dictionary
+TRACE: A Unified Rollout Budget Allocation Framework for Efficient Agentic Reinforcement Learning
+EvoTrainer: Co-Evolving LLM Policies and Training Harnesses for Autonomous Agentic Reinforcement Learning
+Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models
+Verifiable Environments Are LEGO Bricks: Recursive Composition for Reasoning Generalization
+Embodied-R1.5: Evolving Physical Intelligence via Embodied Foundation Models
+World Model Self-Distillation: Training World Models to Solve General Tasks
+Breaking the Bubble: Asynchronous Pipeline Parallel Training with Bounded Weight Inconsistency
+POISE: Position-Aware Undetectable Skill Injection on LLM Agents
+Fine-tuning Multi-modal LLMs with ART: Art-based Reinforcement Training
+Time-Series Foundation Model Embeddings for Remaining Useful Life Estimation
+i1: A Simple and Fully Open Recipe for Strong Text-to-Image Models
+Large Language Models Are Overconfident in Their Own Responses
+Adaptive Multi-Resolution Procedural Knowledge Compression for Large Language Models
+Lius: Translation Model Based Instructional Lingustic Using Continual Instruction Tuning In Kupang Malay
+τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems
+FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching
+Distilling LLM Feedback for Lean Theorem Proving
