@@ -12779,3 +12779,47 @@ Building Social World Models with Large Language Models
 Towards Diverse Scientific Hypothesis Search with Large Language Models
 SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference
 Can Generalist Agents Automate Data Curation?
+Contemporaneous Optical and Near-infrared Observations of the Interstellar Comet 3I/ATLAS Pre- and Postperihelion
+TOI-2155 b: A Massive Brown Dwarf or a Very Low-mass Star?
+Toward Inferring the Surface Fluxes of Biosignature Gases on Rocky Exoplanets from Telescope Spectra
+Reinvestigating the Nightside Ionosphere of Mars With 8 Years of Mars Express and MAVEN Data
+Coupled Photochemical–Climate Modeling of Plausible Tenuous Outgassed Atmospheres on the TRAPPIST-1 Planets
+Grain Size Effects on UV-MIR Spectra of Aubrites: Clues for Interpreting E-type Near-Earth Asteroids
+EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments
+SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning
+InterleaveThinker: Reinforcing Agentic Interleaved Generation
+FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents
+Robust-U1: Can MLLMs Self-Recover Corrupted Visual Content for Robust Understanding?
+MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling
+MiniMax Sparse Attention
+WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces
+LabVLA: Grounding Vision-Language-Action Models in Scientific Laboratories
+HYDRA-X: Native Unified Multimodal Models with Holistic Visual Tokenizers
+N-GRPO: Embedding-Level Neighbor Mixing for Enhanced Policy Optimization
+EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery
+Demystifying Hidden-State Recurrence: Switchable Latent Reasoning with On-Policy Reinforcement Learning
+VideoMDM: Towards 3D Human Motion Generation From 2D Supervision
+Where, What, Why, and Importance: Structured Defect Grounding for Text-to-Image Feedback
+VIA-SD: Verification via Intra-Model Routing for Speculative Decoding
+From 2D Grids to 1D Tokens: Reforming Shared Representations for Multimodal Image Fusion
+MoVerse: Real-Time Video World Modeling with Panoramic Gaussian Scaffold
+TreeSeeker: Tree-Structured Trial, Error, and Return in Deep Search
+HarnessBridge: Learnable Bidirectional Controller for LLM Agent Harness
+High-Fidelity Two-Step Image Generation via Teacher-Aligned End-to-End Distillation
+Visual Para-Thinker++: A Single-Policy Multi-Agent Framework for Visual Reasoning
+SG-OPD: Sign-Gated On-Policy Distillation via Sign-Consistency Gating and Phased Teacher Sampling
+EvoBrowseComp: Benchmarking Search Agents on Evolving Knowledge
+ArogyaSutra: A Multi-Agent Framework for Multimodal Medical Reasoning in Indic Languages
+Surflo: Consistent 3D Surface Flow Model with Global State
+Evoflux: Inference-Time Evolution of Executable Tool Workflows for Compact Agents
+MaskAlign: Token-Subset Representation Alignment for Efficient Diffusion Training
+MuJoCo-Drones-Gym: A GPU-Accelerated Multi-Drone Simulator for Control and Reinforcement Learning
+WEAVER, Better, Faster, Longer: An Effective World Model for Robotic Manipulation
+PianoKontext: Expressive Performance Rendering from Deadpan Context
+IDEAL: In-DEpth ALignment Makes A Discrete Representation AutoEncoder
+ToolSense: A Diagnostic Framework for Auditing Parametric Tool Knowledge in LLMs
+A Stationary (and Therefore Compatible) Representation is All You Need
+Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Language Models
+Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering
+Leveraging Morphology for Historical Script Metrological Analysis
+Revisiting Articulated Parts Perception in Robot Manipulation
