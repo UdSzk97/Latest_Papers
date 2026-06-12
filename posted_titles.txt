@@ -12768,3 +12768,14 @@ Lius: Translation Model Based Instructional Lingustic Using Continual Instructio
 τ-Rec: A Verifiable Benchmark for Agentic Recommender Systems
 FlowLet: Conditional 3D Brain MRI Synthesis using Wavelet Flow Matching
 Distilling LLM Feedback for Lean Theorem Proving
+Tidal rock grinding as a source of H<sub>2</sub> on Enceladus
+Revealed: how Venus flytraps snap shut with astonishing speed
+Fast cell wall softening causes Venus flytrap closure
+ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction
+DRIFT: A Residual Flow Adapter for Decoding Continuous Outputs in Vision-Language Models
+APEX: A Network-Native Time-Series Foundation Model for Forecasting and Anomaly Detection for Wireless Edge Operations
+Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs
+Building Social World Models with Large Language Models
+Towards Diverse Scientific Hypothesis Search with Large Language Models
+SparDA: Sparse Decoupled Attention for Efficient Long-Context LLM Inference
+Can Generalist Agents Automate Data Curation?
