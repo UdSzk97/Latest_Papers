@@ -12823,3 +12823,10 @@ Risk Under Pressure: Compute-Aware Evaluation of Adversarial Robustness in Langu
 Flash-GMM: A Memory-Efficient Kernel for Scalable Soft Clustering
 Leveraging Morphology for Historical Script Metrological Analysis
 Revisiting Articulated Parts Perception in Robot Manipulation
+Illumination, thermal conditions, and distribution of volatiles at Mercury ’s south pole based on new stereo topographic models
+Rethinking Psychometric Evaluation of LLMs: When and Why Self-Reports Predict Behavior
+See What I See, Know What I Think: Dense Latent Communication Across Heterogeneous Agents
+Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents
+The Cold-Start Safety Gap in LLM Agents
+WebChallenger: A Reliable and Efficient Generalist Web Agent
+On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance
