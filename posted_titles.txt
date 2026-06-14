@@ -12831,3 +12831,5 @@ The Cold-Start Safety Gap in LLM Agents
 WebChallenger: A Reliable and Efficient Generalist Web Agent
 On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annotation Task Performance
 Duration of the lunar overturn during magma ocean crystallization
+Atomistic insights into formation mechanism of impact-induced augite glass from Chang'e-5 lunar regolith
+Investigation of A potential endorheic basin on mars in the Terra Cimmeria
