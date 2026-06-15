@@ -12833,3 +12833,47 @@ On the Limits of LLM Adaptability: Impact of Model-Internalized Priors on Annota
 Duration of the lunar overturn during magma ocean crystallization
 Atomistic insights into formation mechanism of impact-induced augite glass from Chang'e-5 lunar regolith
 Investigation of A potential endorheic basin on mars in the Terra Cimmeria
+Near-ultraviolet Stellar Activity and Brightness Fluctuations of the Alpha Centauri AB Star System from Weeks to Decades—Inputs for Reflected-light Spectroscopy with HWO
+TIC 295741342: A Triply Eclipsing Triple Star System with a Giant Tertiary
+Regolith in Motion: Dynamic Surface Evolution After Lunar Impacts
+OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data
+APPO: Agentic Procedural Policy Optimization
+Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents
+From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI
+Orchestra-o1: Omnimodal Agent Orchestration
+HarnessX: A Composable, Adaptive, and Evolvable Agent Harness Foundry
+Rethinking RAG in Long Videos: What to Retrieve and How to Use It?
+From AGI to ASI
+OmniVideo-100K: A Dataset for Audio-Visual Reasoning through Structured Scripts and Evidence Chains
+Smaller Models are Natural Explorers for Policy-Level Diversity in GRPO
+RedAct: Redacting Agent Capability Traces for Procedural Skill Protection
+Measuring Epistemic Resilience of LLMs Under Misleading Medical Context
+Skip a Layer or Loop It? Learning Program-of-Layers in LLMs
+LLM Agents Can See Code Repositories
+iMaC: Translating Actions into Motion and Contact Images for Embodied World Models
+RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space
+Hy-Embodied-0.5-VLA: From Vision-Language-Action Models to a Real-World Robot Learning Stack
+The Arbiter Agent: Continually Monitoring Multi-Agent Conversations to Detect Emergent Misalignment
+MBench: A Comprehensive Benchmark on Memory Capability for Video World Models
+VISTA: View-Consistent Self-Verified Training for GUI Grounding
+Avatar V: Scaling Video-Reference Avatar Video Generation
+The Hidden Power of Scaling Factor in LoRA Optimization
+RhymeFlow: Training-Free Acceleration for Video Generation with Asynchronous Denoising Flow Scheduling
+ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning
+μ_0: A Scalable 3D Interaction-Trace World Model
+LoSoNA: A Benchmark for Local Social Norm Adaptation in Group Conversations
+When is Your LLM Steerable?
+Dense Supervision, Sparse Updates: On the Sparsity and Geometry of On-Policy Distillation
+P3D-Bench: Benchmarking MLLMs for Parametric 3D Generation and Structural Reasoning
+World Tracing: Generative Pixel-Aligned Geometry Beyond the Visible
+APT: Action Expert Pretraining Improves Instruction Generalization of Vision-Language-Action Policies
+Benchmarking AI Agents for Addressing Scientific Challenges Across Scales
+AlloSpatial: Agentic Harness Framework for Spatial Reasoning in Foundation Models
+An Enigma of Artificial Reason: Investigating the Production-Evaluation Gap in Large Reasoning Models
+Squeeze-Release: Iterative Pruning with Exact Structural Minimization
+AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
+Quickest Detection of Hallucination Onset: Delay Bounds and Learned CUSUM Statistics
+WaveDiT: Distribution-Aware Wavelet Flow Matching for Efficient 3D Brain MRI Synthesis
+ActiveMimic: Egocentric Video Pretraining with Active Perception
+FVSpec: Real-World Property-Based Tests as Lean Challenges
+CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving
