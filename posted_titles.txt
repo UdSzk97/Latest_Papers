@@ -12882,3 +12882,46 @@ Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formali
 AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties
 Two-Fidelity Best-Action Identification for Stochastic Minimax Tree
 Statistically Reliable LLM-Based Ranking Evaluation via Prediction-Powered Inference
+Daily briefing: How Venus flytraps snap shut
+Geologic Mapping and Reconstruction of the Volcanic and Tectonic History of the Mare Vaporum Region to Assess Resource Potential
+The Effects of Realistic Impact-processed Asteroid Topology on Atmospheric Airbursts
+Early CN Outgassing and Production Rates of C/2024 E1 (Wierzchos) at 4 au
+JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence
+Geometric Action Model for Robot Policy Learning
+DreamX-World 1.0: A General-Purpose Interactive World Model
+FastContext: Training Efficient Repository Explorer for Coding Agents
+VibeThinker-3B: Exploring the Frontier of Verifiable Reasoning in Small Language Models
+Who Should Lead Decoding Now? Tracking Reliable Trajectories for Ensembling Masked Diffusion Language Models
+BRDFusion: Physics Meets Generation for Urban Scene Inverse Rendering
+VisualClaw: A Real-Time, Personalized Agent for the Physical World
+OneRank: Unified Transformer-Native Ranking Architecture for Multi-Task Recommendation
+BadWorld: Adversarial Attacks on World Models
+Qwen-RobotWorld Technical Report: Unifying Embodied World Modeling through Language-Conditioned Video Generation
+TokenPilot: Cache-Efficient Context Management for LLM Agents
+CODA-BENCH: Can Code Agents Handle Data-Intensive Tasks?
+Retrieve, Don't Retrain: Extending Vision Language Action Models to New Tasks at Test Time
+Memento: Reconstruct to Remember for Consistent Long Video Generation
+Where Did It Go Wrong? Process-Level Evaluation of Web Agents with Semantic State Tracking
+GD^2PO: Mitigating Multi-Reward Conflicts via Group-Dynamic reward-Decoupled Policy Optimization
+Ling and Ring 2.6 Technical Report: Efficient and Instant Agentic Intelligence at Trillion-Parameter Scale
+SP^3: Spherical Priors for Plug-and-Play Restoration
+Tangram: Unlocking Non-Uniform KV Cache Compression for Efficient Multi-turn LLM Serving
+UniDDT: Unifying Multimodal Understanding and Generation with Decoupled Diffusion Transformer
+PhoneHarness: Harnessing Phone-Use Agents through Mixed GUI, CLI, and Tool Actions
+Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes
+Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders
+Nemotron 3 Ultra: Open, Efficient Mixture-of-Experts Hybrid Mamba-Transformer Model for Agentic Reasoning
+MMDiff: Extending Diffusion Transformers for Multi-Modal Generation
+Prompt-Level Distillation: A Non-Parametric Alternative to Model Fine-Tuning for Efficient Reasoning
+Artificial Intelligence Index Report 2026
+PermaVid: Consistent Video Generation Across Edits via Disentangled Context Memory
+MVEB: Massive Video Embedding Benchmark
+ExpRL: Exploratory RL for LLM Mid-Training
+EgoPhys: Learning Generalizable Physics Models of Deformable Objects from Egocentric Video
+LaWAM: Latent World Action Models for Efficient Dynamics-Aware Robot Policies
+Who Flips? Self- and Cross-Model Counterarguments Reveal Answer Instability in LLMs
+Selective Control under Noisy Perception: Governance Failures Hidden by Aggregate Metrics in Modular Networks
+Human Universal Grasping
+The Ghosts of Polymarket: When Off-Chain Matches Meet On-Chain Reverts
+Implicit Reasoning for Large Language Model-based Generative Recommendation
+TuneJury: An Open Metric for Improving Music Generation Preference Alignment
