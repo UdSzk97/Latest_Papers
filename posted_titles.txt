@@ -12877,3 +12877,8 @@ WaveDiT: Distribution-Aware Wavelet Flow Matching for Efficient 3D Brain MRI Syn
 ActiveMimic: Egocentric Video Pretraining with Active Perception
 FVSpec: Real-World Property-Based Tests as Lean Challenges
 CARVE: Certified Affordable Repair of Vetoed Maneuvers via Envelopes for Interactive Driving
+No Hidden Prompts Needed! You Can Game AI Peer Review with Presentation-Only Revisions
+Pythagoras-Prover: Advancing Efficient Formal Proving via Augmented Lean Formalisation
+AFFORDANCE20Q: Evaluating Affordance Reasoning from Physical Properties
+Two-Fidelity Best-Action Identification for Stochastic Minimax Tree
+Statistically Reliable LLM-Based Ranking Evaluation via Prediction-Powered Inference
