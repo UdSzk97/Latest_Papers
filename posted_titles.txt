@@ -12928,3 +12928,32 @@ TuneJury: An Open Metric for Improving Music Generation Preference Alignment
 You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences
 Track2View: 4D-Consistent Camera-Controlled Video Generation via Paired 3D Point Tracks
 Attacks on Machine-Text Detectors Retain Stylistic Fingerprints
+Revisiting the Greenhouse Effect of Nongreenhouse Gases in the Atmospheres of Earth-like Planets
+Mineralogy, mineral chemistry, and redox equilibria in ten aggregate particles from asteroid Bennu
+LoopCoder-v2: Only Loop Once for Efficient Test-Time Computation Scaling
+ACE-Ego-0: Unifying Egocentric Human and Robotic Data for VLA Pretraining
+Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients
+GameCraft-Bench: Can Agents Build Playable Games End-to-End in a Real Game Engine?
+LectūraAgents: A Multi-Agent Framework for Adaptive Personalized AI-Assisted Learning and Embodied Teaching
+TRIAGE: Dialectical Reasoning for Explainable Risk Prediction on Irregularly Sampled Medical Time Series with LLMs
+Learning from the Self-future: On-policy Self-distillation for dLLMs
+OPD-Evolver: Cultivating Holistic Agent Evolver via On-Policy Distillation
+Show the Signal, Hide the Noise: Spectral Forcing for Pixel-Space Diffusion
+Rethinking the Role of Efficient Attention in Hybrid Architectures
+Text-Vision Co-Instructed Image Editing
+ChLogic: Evaluating Robustness of Logical Reasoning in Chinese Expressions
+A Gradient Perspective on RLVR Stability and Winner Advantage Policy Optimization
+Looped World Models
+Unified Multimodal Autoregressive Modeling with Shared Context-Visual Tokenizer is Key to Unification
+Dr-DCI: Scaling Direct Corpus Interaction via Dynamic Workspace Expansion
+Variable-Width Transformers
+ActWorld: From Explorable to Interactive World Model via Action-Aware Memory
+ProCUA-SFT Technical Report
+EgoCS-400K: An Egocentric Gameplay Dataset for World Models
+Visual-Seeker: Towards Visual-Native Multimodal Agentic Search via Active Visual Reasoning
+RepSelect: Robust LLM Unlearning via Representation Selectivity
+Aligning Quantum Operators with Large Language Models
+RefGC-SR^2: Reference-guided Generated Content Super-Resolution and Refinement
+MotionVLA: Vision-Language-Action Model for Humanoid Motion
+Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus
+The Price of Anarchy in Disaggregated Inference
