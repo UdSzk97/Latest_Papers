@@ -12925,3 +12925,6 @@ Human Universal Grasping
 The Ghosts of Polymarket: When Off-Chain Matches Meet On-Chain Reverts
 Implicit Reasoning for Large Language Model-based Generative Recommendation
 TuneJury: An Open Metric for Improving Music Generation Preference Alignment
+You Don't Need Strong Assumptions: Visual Representation Learning via Temporal Differences
+Track2View: 4D-Consistent Camera-Controlled Video Generation via Paired 3D Point Tracks
+Attacks on Machine-Text Detectors Retain Stylistic Fingerprints
