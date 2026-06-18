@@ -12957,3 +12957,8 @@ RefGC-SR^2: Reference-guided Generated Content Super-Resolution and Refinement
 MotionVLA: Vision-Language-Action Model for Humanoid Motion
 Beyond Monolingual Deep Research: Evaluating Agents and Retrievers with Cross-Lingual BrowseComp-Plus
 The Price of Anarchy in Disaggregated Inference
+A distant brown dwarf coplanar to a warm Jupiter and a hot super-Earth
+A ∼0.5 Myr perturbation of carbon and mercury cycles during the Middle Triassic biotic radiation
+Self-Evolving Visual Questioner
+Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings
+Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems
