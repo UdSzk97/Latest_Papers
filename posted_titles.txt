@@ -12962,3 +12962,35 @@ A ∼0.5 Myr perturbation of carbon and mercury cycles during the Middle Triass
 Self-Evolving Visual Questioner
 Beyond Scalar Distances: Semantic Attribute Gradients from Frozen MLLMs for Visual Embeddings
 Verified Detection and Prevention of Concurrency Anomalies in Multi-Agent Large Language Model Systems
+Statistical analysis of solar energetic particle rise times using Earth and Mars observations and constraints on particle transport parameters
+Evaluating Local Ionization Balance in the Dayside Martian Ionosphere
+High-velocity Circumstellar Gas Orbiting a White Dwarf Star
+A framework for evaluating biosignature potential against the abiotic baseline on ocean worlds
+Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games
+Guava: An Effective and Universal Harness for Embodied Manipulation
+Kairos: A Native World Model Stack for Physical AI
+SAE Interventions are Unreliable: Post-Intervention Recovery of Suppressed Behavior
+Reinforcing Dual-Path Reasoning in Spatial Vision Language Models
+Trust the Right Teacher: Quality-Aware Self-Distillation for GUI Grounding
+EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts
+Native Active Perception as Reasoning for Omni-Modal Understanding
+From Trainee to Trainer: LLM-Designed Training Environment for RL with Multi-Agent Reasoning
+Sumi: Open Uniform Diffusion Language Model from Scratch
+STARE: Surprisal-Guided Token-Level Advantage Reweighting for Policy Entropy Stability
+Beyond Alignment: Value Diversity as a Collective Property in Multicultural Agent Systems
+MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction
+PAIWorld: A 3D-Consistent World Foundation Model for Robotic Manipulation
+SciOrch: Learning to Orchestrate Expert LLMs for Solving Frontier Multimodal Scientific Reasoning Tasks
+Learning User Simulators with Turing Rewards
+Externalizing Research Synthesis and Validation in AI Scientists through a Research Harness
+CEO-Bench: Can Agents Play the Long Game?
+IndustryBench-MIPU: Benchmarking Multi-Image Attribute Value Extraction for Industrial Products
+ViT-Up: Faithful Feature Upsampling for Vision Transformers
+Bag of Dims: Training-Free Mechanistic Interpretability via Dimension-Level Sign Patterns
+RODS: Reward-Driven Online Data Synthesis for Multi-Turn Tool-Use Agents
+Physics-IQ Verified
+Morpheus: A Morphology-Aware Neural Tokenizer and Word Embedder for Turkish
+MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents
+iOSWorld: A Benchmark for Personally Intelligent Phone Agents
+A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets
+LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence
