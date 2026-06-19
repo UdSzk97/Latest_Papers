@@ -13034,3 +13034,16 @@ Duration Aware Scheduling for ASR Serving Under Workload Drift
 JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines
 LooseControlVideo: Directorial Video Control using Spatial Blocking
 No Resource, No Benchmarks, No Problem? Evaluating and Improving LLMs for Code Generation in No-Resource Languages
+You Only Stack Once: A Motion-filtered, Deep Learning Framework for Detecting Faint Moving Sources
+Dependence on the Equation of State in SPH Simulations of Proto-Uranian Disk Formation from a Giant Impact
+Investigation of a potential endorheic basin on Mars in the Terra Cimmeria
+The Moon’s ice archive that was never written
+Rational design of interfacial sp C─S─Zn hybridization in ZnS/graphdiyne for mercury vapor capture
+Context-Aware RL for Agentic and Multimodal LLMs
+LedgerAgent: Structured State for Policy-Adherent Tool-Calling Agents
+Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States
+The FID Lottery: Quantifying Hidden Randomness in Generative-Model Evaluation
+LegalHalluLens: Typed Hallucination Auditing and Calibrated Multi-Agent Debate for Trustworthy Legal AI
+Configurable Clinical Information Extraction with Agentic RAG: What Works, What Breaks, and Why
+The Data Manifold under the Microscope
+ReSyn: A Generalized Recursive Regular Expression Synthesis Framework
