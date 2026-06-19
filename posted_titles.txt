@@ -12994,3 +12994,16 @@ MyPCBench: A Benchmark for Personally Intelligent Computer-Use Agents
 iOSWorld: A Benchmark for Personally Intelligent Phone Agents
 A Benchmark and Framework for Evaluating Next Action Predictions in Spreadsheets
 LLM-Enabled NWDAF: A Step Toward AI-Native 6G Network Intelligence
+Volatile loss of martian magmas drives redox evolution and volatile transfer from interior to subsurface
+Planar periodic orbit families around asteroid (16) Psyche
+Reflectance spectroscopy in the visible to near-infrared (VNIR, 350–2500 nm) of Martian meteorite slabs and powders: Mafic silicate compositions and abundances
+Radiation-driven sodium perchlorate decomposition on Mars and Europa: formation of reactive chlorine species and effect of temperature
+The Lucy flyby of (52246) Donaldjohanson: A bilobed asteroid with tumbling rotation
+The Reward Was in Your Data All Along: Correcting Flow Matching with Discriminator-Guided RL
+MaineCoon: Pursuing A Real-Time Audio-Visual Social World Model
+When Does Trajectory-Level Supervision Permit Efficient Offline Reinforcement Learning?
+REVES: REvision and VErification--Augmented Training for Test-Time Scaling
+Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resilient Multimodal On-Policy Self-Distillation
+HiLo-Token: Input-Adaptive High-Low Frequency Token Compression for Efficient Image Editing
+Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities
+Re-Centering Humans in LLM Personalization
