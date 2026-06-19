@@ -13007,3 +13007,30 @@ Seeing Before Reasoning: Decoupling Perception and Reasoning for Shortcut-Resili
 HiLo-Token: Input-Adaptive High-Low Frequency Token Compression for Efficient Image Editing
 Reinforcement Learning-Guided Retrieval with Soft Fusion for Robust Multimodal Imitation Learning under Missing Modalities
 Re-Centering Humans in LLM Personalization
+Mapping X-ray conditions in the habitable zones of exoplanet host stars with SRG/eROSITA
+Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance
+DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects
+Playful Agentic Robot Learning
+S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence
+Beyond Static Leaderboards: Predictive Validity for the Evaluation of LLM Agents
+FreeStyle: Free Control of Style-Content Dual-Reference Generation from Community LoRA Mining
+FlowBender: Feedback-Aware Training for Self-Correcting Conditional Flows
+JanusMesh: Fast and Zero-Shot 3D Visual Illusion Generation via Cross-Space Denoising
+DF3DV-1K: A Large-Scale Dataset and Benchmark for Distractor-Free Novel View Synthesis
+ENPIRE: Agentic Robot Policy Self-Improvement in the Real World
+ImageWAM: Do World Action Models Really Need Video Generation, or Just Image Editing?
+Current World Models Lack a Persistent State Core
+Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages
+Understanding the Behaviors of Environment-aware Information Retrieval
+Thinking with Visual Grounding
+HumanScale: Egocentric Human Video Can Outperform Real-Robot Data for Embodied Pretraining
+FAPO: Fully Autonomous Prompt Optimization of Multi-Step LLM Pipelines
+Holo-World: Unified Camera, Object and Weather Control for Video World Model
+Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
+Selective Synergistic Learning for Video Object-Centric Learning
+Rethinking Shrinkage Bias in LLM FP4 Pretraining: Geometric Origin, Systemic Impact, and UFP4 Recipe
+Taylor-Calibrate: Principled Initialization for Hybrid Linear Attention Distillation
+Duration Aware Scheduling for ASR Serving Under Workload Drift
+JAMER: Project-Level Code Framework Dataset and Benchmark on Professional Game Engines
+LooseControlVideo: Directorial Video Control using Spatial Blocking
+No Resource, No Benchmarks, No Problem? Evaluating and Improving LLMs for Code Generation in No-Resource Languages
