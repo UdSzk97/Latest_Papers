@@ -13049,3 +13049,4 @@ The Data Manifold under the Microscope
 ReSyn: A Generalized Recursive Regular Expression Synthesis Framework
 The concept of Ballistic shadows and the effect of slope on impact ejecta emplacement – Implications for the exploration of the lunar south polar region
 Rapidly accreting the Moon from an extended canonical disk
+Observing the Earth's Plasmasphere and Ionosphere From the Lunar Surface
