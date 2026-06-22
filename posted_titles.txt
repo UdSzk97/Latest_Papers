@@ -13050,3 +13050,17 @@ ReSyn: A Generalized Recursive Regular Expression Synthesis Framework
 The concept of Ballistic shadows and the effect of slope on impact ejecta emplacement – Implications for the exploration of the lunar south polar region
 Rapidly accreting the Moon from an extended canonical disk
 Observing the Earth's Plasmasphere and Ionosphere From the Lunar Surface
+The habitability trade-off: Chemical decoupling and quenching in massive galaxies
+Revisiting the Exo-Mercury Candidate GJ 367 b with ESPRESSO and a Self-consistent Tidal Distortion Model
+Predictive Rankings of the Probability of Hosting a Temperate Terrestrial World for the HWO ExEP Mission Star List
+Artificial Precession and Instability in Solar System and Planetary Simulations: Analytic and Numerical Results
+PerceptionDLM: Parallel Region Perception with Multimodal Diffusion Language Models
+GateMem: Benchmarking Memory Governance in Multi-Principal Shared-Memory Agents
+MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision
+BrainG3N: A Dual-Purpose Tokenizer for Controllable 3D Brain MRI Generation
+Multi-Turn Reflective Masking Elicits Reasoning in Mask Diffusion Models
+WorldLines: Benchmarking and Modeling Long-Horizon Stateful Embodied Agents
+GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planning
+SpatialAvatar-0: High-Quality 4D Head Avatar with Multi-Stage Reconstruction
+Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations
+StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs
