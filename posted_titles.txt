@@ -13064,3 +13064,7 @@ GeneralVLA-2: Geometry-Aware Reconstruction and Governed Memory for Robot Planni
 SpatialAvatar-0: High-Quality 4D Head Avatar with Multi-Stage Reconstruction
 Distilling Examples into Task Instructions: Enhanced In-Context Learning for Real-World B2B Conversations
 StylisticBias: A Few Human Visual Cues Drive Most Social Biases in MLLMs
+MCompassRAG: Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval
+SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG
+Characterizing Narrative Content in Web-scale LLM Pretraining Data
+When, Where, and How: Adaptive Binning for Tabular Self-Supervised Learning
