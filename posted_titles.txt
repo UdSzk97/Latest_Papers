@@ -13068,3 +13068,44 @@ MCompassRAG: Topic Metadata as a Semantic Compass for Paragraph-Level Retrieval
 SproutRAG: Attention-Guided Tree Search with Progressive Embeddings for Long-Document RAG
 Characterizing Narrative Content in Web-scale LLM Pretraining Data
 When, Where, and How: Adaptive Binning for Tabular Self-Supervised Learning
+A potential intrinsic magnetic field for the Neptunian moon Triton
+PlanBench-XL: Evaluating Long-Horizon Planning of LLM Tool-Use Agents in Large-Scale Tool Ecosystems
+DataClaw0: Agentic Tailoring Multimodal Data from Raw Streams
+EnterpriseClawBench: Benchmarking Agents from Real Workplace Sessions
+KaLM-Reranker-V1: Fast but Not Late Interaction for Compressed Document Reranking
+World Action Models: A Survey
+Grouped Query Experts: Mixture-of-Experts on GQA Self-Attention
+CLI-Universe: Towards Verifiable Task Synthesis Engine for Terminal Agents
+EvoEmbedding: Evolvable Representations for Long-Context Retrieval and Agentic Memory
+BioMatrix: Towards a Comprehensive Biological Foundation Model Spanning the Modality Matrix of Sequences, Structures, and Language
+HydraHead: From Head-Level Functional Heterogeneity to Specialized Attention Hybridization
+Learning from Your Own Mistakes: Constructing Learnable Micro-Reflective Trajectories for Self-Distillation
+SkillHarness: Harnessing Safe Skills for Computer-Use Agents
+OpenRath: Session-Centered Runtime State for Agent Systems
+Deep Research in Physical Sciences: A Multi-Agent Framework and Comprehensive Benchmark
+Unlimited OCR Works
+Self-Compacting Language Model Agents
+Deeper is Not Always Better: Mitigating the Alignment Tax via Confident Layer Decoding
+Notes2Skills: From Lab Notebooks to Certainty-Aware Scientific Agent Skills
+Foresight: Failure Detection for Long-Horizon Robotic Manipulation with Action-Conditioned World Model Latents
+Training Open Models for Agentic Phone Use
+Safe Few-Step Generation via Velocity Editing
+PoLAR: Factorizing Extent and Mode in Latent Actions for Robot Policy Learning
+DailyReport: An Open-ended Benchmark for Evaluating Search Agents on Daily Search Tasks
+Exploring the Design Space of Reward Backpropagation for Flow Matching
+Connect the Dots: Training LLMs for Long-Lifecycle Agents with Cross-Domain Generalization Via Reinforcement Learning
+Causal Discovery in the Era of Agents
+Tmax: A simple recipe for terminal agents
+Tapered Language Models
+Dense Reward for Multi-View 3D Reasoning with Global Maps and Local Views
+PolicyTrim: Boosting Intrinsic Policy Efficiency of Vision-Language-Action Models
+Counsel: A Meta-Evaluation Dataset for Agentic Tasks
+FastMix: Fast Data Mixture Optimization via Gradient Descent
+UniverSat: Resolution- and Modality-Agnostic Transformers for Earth Observation
+CalVerT: Augmenting Agents with Calibrated Verifier Telemetry Improves Action and Learning in Knowledge-Intensive Tasks
+Arbor: Explicit Geometric Conditioning for Controllable 3D Asset Generation
+MeshFlow: Mesh Generation with Equivariant Flow Matching
+Toward Open Weight Models Without Risks: Separating Public and Private Capabilities in LLMs
+Manifold Bandits: Bayesian Curriculum Learning over the Latent Geometry of Large Language Models
+HAKARI-Bench: A Lightweight Benchmark for Comparing Retrieval Architectures and Efficiency Settings under Unified Conditions
+Improving Text-to-Music Generation with Human Preference Rewards
