@@ -13154,3 +13154,9 @@ EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-A
 AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning
 FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation
 An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction
+Spatially distributed complex organic matter detected in an ancient river valley in Jezero crater, Mars
+Semantic Browsing: Controllable Diversity for Image Generation
+Critique of Agent Model
+VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct
+InSight: Self-Guided Skill Acquisition via Steerable VLAs
+Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation
