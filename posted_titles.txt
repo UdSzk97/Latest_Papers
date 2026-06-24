@@ -13124,3 +13124,33 @@ AC-ODM: Actor--Critic Online Data Mixing for Sample-Efficient LLM Pretraining
 ShotcreteDepth: A Bi-modal Dataset for Robust Robotic Depth Perception in Shotcrete Construction Environments
 An Exploratory Case Study of LLM-Assisted Refactoring and Gameplay Feature Generation in an Endless Runner Game
 Toward Parking Spot Occupancy Recognition: A Self-Supervised Approach
+Mare versus highland lunar impact flash light curve dichotomy
+Revisiting the Ultraviolet Spectroscopy of the η Tel Edge-on Debris Disk
+STARFIRE-2: Can We Detect the Global Redshifted 21 cm Signal from the Cosmic Dawn in Earth Orbit?
+Upper Limits on Planet-induced Gigahertz Radio Emission from Inactive M Dwarfs
+Shape, Regolith Size and Thickness, SMFe0 Content, and Spectral Type of Tianwen-2 Target Asteroid (469219) Kamo‘oalewa
+Solar Wind Transverse Deflection Upstream of the Martian Bow Shock: Evidence from MAVEN Observations
+Environmental Effects on Space-weathered Lizardite Grains
+Qwen-AgentWorld: Language World Models for General Agents
+NatureBench: Can Coding Agents Match the Published SOTA of Nature-Family Papers?
+MobileForge: Annotation-Free Adaptation for Mobile GUI Agents with Hierarchical Feedback-Guided Policy Optimization
+MemGUI-Agent: An End-to-End Long-Horizon Mobile GUI Agent with Proactive Context Management
+AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction
+LingxiDiagBench: A Multi-Agent Framework for Benchmarking LLMs in Chinese Psychiatric Consultation and Diagnosis
+OpenThoughts-Agent: Data Recipes for Agentic Models
+FLAT: Feedforward Latent Triangle Splatting for Geometrically Accurate Scene Generation
+FedOT: Ownership Verification and Leakage Tracing via Watermarks for Federated LDMs
+Escaping the Self-Confirmation Trap: An Execute-Distill-Verify Paradigm for Agentic Experience Learning
+Are Text-to-Image Models Inductivist Turkeys? A Counterfactual Benchmark for Causal Reasoning
+DiffusionBench: On Holistic Evaluation of Diffusion Transformers
+Holistic Data Scheduler for LLM Pre-training via Multi-Objective Reinforcement Learning
+FlowR2A: Learning Reward-to-Action Distribution for Multimodal Driving Planning
+DREAM: Dense Retrieval Embeddings via Autoregressive Modeling
+ReMMD: Realistic Multilingual Multi-Image Agentic Verification for Multimodal Misinformation Detection
+World Value Models for Robotic Manipulation
+ChartWalker: Benchmarking the Cross-Chart RAG Task
+QG-MIL: A Gated Transformer Aggregator for Domain-Agnostic Multiple Instance Learning in Medical Imaging
+EventVLA: Event-Driven Visual Evidence Memory for Long-Horizon Vision-Language-Action Policies
+AGORA: An Archive-Grounded Benchmark for Agentic Workplace Document Reasoning
+FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation
+An Efficient Method for the Optimal Control of Microgrids Under Uncertainties using Local Reduction
