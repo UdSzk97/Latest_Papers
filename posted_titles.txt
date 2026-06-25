@@ -13160,3 +13160,32 @@ Critique of Agent Model
 VeriEvol: Scaling Multimodal Mathematical Reasoning via Verifiable Evol-Instruct
 InSight: Self-Guided Skill Acquisition via Steerable VLAs
 Multi4D: High-Fidelity Dynamic Gaussian Splatting via Multi-Level Competitive Allocation
+Modeling the Martian bow shock: A novel approach using magnetic field distributions in Martian and upstream space
+Shape and spin axis determination of the Tianwen-2 target asteroid (469219) Kamo’oalewa from light-curve inversion
+Detecting and Characterizing Companions with a Calibrated Gaia DR2, DR3, and Hipparcos Catalog (G23H)
+Long-term Variability of Martian Atmospheric Water Vapor Abundances from PFS/MEX Observations
+Are We Ready For An Agent-Native Memory System?
+DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation
+ShutterMuse: Capture-Time Photography Guidance with MLLMs
+Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models
+Beyond NL2Code: A Structured Survey of Multimodal Code Intelligence
+Improved Large Language Diffusion Models
+MVTrack4Gen: Multi-View Point Tracking as Geometric Supervision for 4D Video Generation
+V-Zero: Answer-Label-Free On-Policy Distillation with Contrastive Evidence Gating for Fine-Grained Visual Reasoning
+UnityShots: Memory-Driven Multi-Shot Audio-Video Generation with Boundary-Aware Gating
+IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation
+EBench: Elemental Diagnosis of Generalist Mobile Manipulation Policies
+Causal-rCM: A Unified Teacher-Forcing and Self-Forcing Open Recipe for Autoregressive Diffusion Distillation in Streaming Video Generation and Interactive World Models
+The Hitchhiker's Guide to Agentic AI: From Foundations to Systems
+Look Light, Think Heavy: What Multimodal Chain-of-Thought Reasoning Can and Cannot Do
+TryOnCrafter: Unleashing Camera Trajectories for Realistic Video Virtual Try-on via a Renderable 4D Try-on Proxy
+Autodata: An agentic data scientist to create high quality synthetic data
+Advancing WordArt-Oriented Scene Text Recognition: Datasets and Methods
+ReNIO: Reweighting Negative Trajectory Importance for LLM On-Policy Distillation
+RL-Index: Reinforcement Learning for Retrieval Index Reasoning
+CAVEWOMAN: How Large Language Models Behave Under Linguistic Input and Output Compression
+RoPE-Aware Bit Allocation for KV-Cache Quantization
+What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics
+When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents
+Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints
+Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation
