@@ -13197,3 +13197,26 @@ Do Thinking Tokens Help with Safety?
 Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents
 Speaker Identity in Non-Verbal Vocalizations: Conditional Distillation and Mixture of Experts Approach
 Forecasting Future Behavior as a Learning Task
+Do Rocky Planets around M Stars Have Atmospheres? A Statistical Approach to the Cosmic Shoreline
+AstroSkyFlow: An Astronomical Sky Image Flow Simulator for Time Domain Survey Validation and Machine Learning
+Nanoscale space weathering features in mature lunar soil revealed by TEM and APT
+DanceOPD: On-Policy Generative Field Distillation
+ViQ: Text-Aligned Visual Quantized Representations at Any Resolution
+Qwen-Image-Agent: Bridging the Context Gap in Real-World Image Generation
+OPID: On-Policy Skill Distillation for Agentic Reinforcement Learning
+The Verification Horizon: No Silver Bullet for Coding Agent Rewards
+JetSpec: Breaking the Scaling Ceiling of Speculative Decoding with Parallel Tree Drafting
+Why Multi-Step Tool-Use Reinforcement Learning Collapses and How Supervisory Signals Fix It
+Running the Gauntlet: Re-evaluating the Capabilities of Agents Beyond Familiar Environments
+Confidence-Aware Tool Orchestration for Robust Video Understanding
+GUI vs. CLI: Execution Bottlenecks in Screen-Only and Skill-Mediated Computer-Use Agents
+In-Context World Modeling for Robotic Control
+Fast LeWorldModel
+CoffeeBench: Benchmarking Long-Horizon LLM Agents in Heterogeneous Multi-Agent Economies
+PhysiFormer: Learning to Simulate Mechanics in World Space
+Discretizing Reward Models
+Hallucination in World Models is Predictable and Preventable
+When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Voting, and Mixture-of-Agents Across 67 Frontier Models
+COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami
+OpenBioRQ: Unsolved Biomedical Research Questions for Agents
+How Post-Training Shapes Biological Reasoning Models
