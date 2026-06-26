@@ -13220,3 +13220,8 @@ When Does Combining Language Models Help? A Co-Failure Ceiling on Routing, Votin
 COrigami: An AI Pipeline for Co-Designing Flat-Foldable Visually Recognisable Origami
 OpenBioRQ: Unsolved Biomedical Research Questions for Agents
 How Post-Training Shapes Biological Reasoning Models
+An Outer Giant Planet or Brown Dwarf in the 51 Pegasi System?
+LISA: Likelihood Score Alignment for Visual-condition Controllable Generation
+Information-Aware KV Cache Compression for Long Reasoning
+Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
+EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting
