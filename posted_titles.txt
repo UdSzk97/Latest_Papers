@@ -13189,3 +13189,11 @@ What Intermediate Layers Know: Detecting Jailbreaks from Entropy Dynamics
 When Lower Privileges Suffice: Investigating Over-Privileged Tool Selection in LLM Agents
 Constraint Tax in Open-Weight LLMs: An Empirical Study of Tool Calling Suppression Under Structured Output Constraints
 Distill Once, Adapt Life-Long: Exploring Dataset Distillation for Continual Test-Time Adaptation
+Can you terraform Mars? Try <i>Nature</i>’s game
+Lite Any Stereo V2: Faster and Stronger Efficient Zero-Shot Stereo Matching
+PrivacyAlign: Contextual Privacy Alignment for LLM Agents
+Physics Question Scene Graph: Fine-grained Evaluation of Physical Plausibility in Text-to-Video Generation
+Do Thinking Tokens Help with Safety?
+Plans Don't Persist: Why Context Management Is Load Bearing for LLM Agents
+Speaker Identity in Non-Verbal Vocalizations: Conditional Distillation and Mixture of Experts Approach
+Forecasting Future Behavior as a Learning Task
