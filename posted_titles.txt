@@ -13225,3 +13225,5 @@ LISA: Likelihood Score Alignment for Visual-condition Controllable Generation
 Information-Aware KV Cache Compression for Long Reasoning
 Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
 EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting
+Seismic evidence for a melt-depleted lower crust and transcrustal magmatism on Mars
+ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation
