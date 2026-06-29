@@ -13251,3 +13251,13 @@ Towards Automating Scientific Review with Google's Paper Assistant Tool
 Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement
 Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving
 Boundary-Aware Context Grounding for A Low-Channel EEG Agent
+Vesta: A Generalist Embodied Reasoning Model
+AgentOdyssey: Open-Ended Long-Horizon Text Game Generation for Test-Time Continual Learning Agents
+Qwen-RobotNav Technical Report: A Scalable Navigation Model Designed for an Agentic Navigation System
+Qwen-RobotManip Technical Report: Alignment Unlocks Scale for Robotic Manipulation Foundation Models
+Simplified Sparse Attention via Gist Tokens
+MemoBench: Benchmarking World Modeling in Dynamically Changing Environments
+To Run or Not to Run: Analyzing the Cost-Effectiveness of Code Execution in LLM-Based Program Repair
+The Galaxy's Guide to the Tokenizer: A Benchmark for Scientific Foundation Models
+CogniRoute: Learning to Route Social Evidence in Omni-Modal Models
+How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring
