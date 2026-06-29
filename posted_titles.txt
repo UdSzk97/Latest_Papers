@@ -13227,3 +13227,27 @@ Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
 EO-WM: A Physically Informed World Model for Probabilistic Earth Observation Forecasting
 Seismic evidence for a melt-depleted lower crust and transcrustal magmatism on Mars
 ABACUS: Adapting Unified Foundation Model for Bridging Image Count Understanding and Generation
+New 12C/13C and 14N/15N isotopic ratios measurements in HCN in the Jupiter stratosphere revealed by ALMA
+Polarimetry and albedo of the near-Earth asteroid 2025 FA22
+Detection of stratospheric HCN and tropospheric CO in Uranus and the implication for their sources
+Preparing for the Early eVolution Explorer: Detecting the Primordial, Transiting Exoplanet Population
+The Influence of True Polar Wander on Habitability and Planetary Climates: A New Method
+PhysisForcing: Physics Reinforced World Simulator for Robotic Manipulation
+Translation as a Bridging Action: Transferring Manipulation Skills from Humans to Robots
+Qwen-Image-2.0-RL Technical Report
+Formalizing Latent Thoughts: Four Axioms of Thought Representation in LLMs
+MultiHashFormer: Hash-based Generative Language Models
+SingGuard: A Policy-Adaptive Multimodal LLM Guardrail with Dynamic Reasoning
+The Tatoxa System for Text Detoxification in Low-Resource Languages: The Case of Tatar
+ProMSA:Progressive Multimodal Search Agents for Knowledge-Based Visual Question Answering
+SimFoundry: Modular and Automated Scene Generation for Policy Learning and Evaluation
+GBC: Gradient-Based Connections for Optimizing Multi-Agent Systems
+Learning to Fold: prizewinning solution at LeHome Challenge 2026 (1st place online, 2nd offline)
+Ko-WideSearch: A Korean Breadth-Search Benchmark for Exhaustive Set Enumeration by Web Agents
+Thinking While Speaking: Inference-Time Knowledge Transfer for Responsive and Intelligent Conversational Voice Agents
+Parallel Rollout Approximation for Pixel-Space Autoregressive Image Generation
+NormGuard: Reward-Preserving Norm Constraints in Flow-Matching Reinforcement Learning
+Towards Automating Scientific Review with Google's Paper Assistant Tool
+Object-Centric Residual RL for Zero-Shot Sim-to-Real VLA Enhancement
+Cluster, Route, Escalate: Cascaded Framework for Cost-Aware LLM Serving
+Boundary-Aware Context Grounding for A Low-Channel EEG Agent
