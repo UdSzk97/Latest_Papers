@@ -13304,3 +13304,15 @@ Geometric Stability of Neural Population Codes: Regional Variation, Behavioral R
 One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models
 Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner
 RaysUp: Ultra-light Universal Feature Upsampling via Geometry-Aware Ray Representation
+A Revised Mass and Period for the Habitable Zone super-Earth GJ 3378 b: A Planet Straddling the Cosmic Shoreline
+One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining
+One Model, Many Latencies: Universal Speech Enhancement for Diverse Real-Time Applications
+SWE-Together: Evaluating Coding Agents in Interactive User Sessions
+SAM2Matting: Generalized Image and Video Matting
+RocketSmith: Agentic Additive Manufacturing of High-Powered Rockets
+Drop-Then-Recovery: How Redundant Are Vision-Language-Action Models?
+Delayed Verification Destabilizes Multi-Agent LLM Belief: Instability Thresholds and Optimal Corrector Placement
+LLM Program Optimization via Retrieval Augmented Search
+MirrorPPR: Exemplar-Based Portrait Photo Retouching
+A Gravitational Interpretation of Fine-Tuning Reversion
+Mind the Heads: Topological Representation Alignment for Multimodal LLMs
