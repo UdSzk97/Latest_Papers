@@ -13261,3 +13261,46 @@ To Run or Not to Run: Analyzing the Cost-Effectiveness of Code Execution in LLM-
 The Galaxy's Guide to the Tokenizer: A Benchmark for Scientific Foundation Models
 CogniRoute: Learning to Route Social Evidence in Omni-Modal Models
 How Much Static Structure Do Code Agents Need? A Study of Deterministic Anchoring
+Precise Radial Velocities
+Carbon from Interstellar Clouds to Habitable Worlds
+The Space-Based Time-Domain Revolution in Astrophysics
+Understanding the Heliospheric Shield: Laying the Groundwork to Predict Habitable Astrospheres
+A Machine Learning Approach to Exoplanet Atmospheric Retrieval: Application to Optical Filter Ranking
+Pushing the Limit of Asteroseismic Detection for Cool Dwarfs Using TESS and Deep Learning
+Agentic Abstention: Do Agents Know When to Stop Instead of Act?
+LiveEdit: Towards Real-Time Diffusion-Based Streaming Video Editing
+Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
+TUA-Bench: A Benchmark for General-Purpose Terminal-Use Agents
+Beyond IID: How General Are Tabular Foundation Models, Really?
+Trimming the Long-Tail of Visual World Modeling Evaluation
+Video-MME-Logical: A Controlled Diagnostic Benchmark for Video Temporal-Logical Reasoning
+AsyncOPD: How Stale Can On-Policy Distillation Be?
+ReFreeKV: Towards Threshold-Free KV Cache Compression
+Monte Carlo Energy Aggregation for Mobile 3D Gaussian Splatting
+Bridging VideoQA and Video-Guided Agentic Tasks via Generalized Keyframe Extraction
+TACO: Tool-Augmented Credit Optimization for Agentic Tool Use
+Interleaved Speech Language Models Latently Work In Text
+OSWorld2.0: Benchmarking Computer Use Agents on Long-Horizon Real-World Tasks
+DreamForge-World 0.1 Preview: A Low-Compute Real-Time Controllable World Model
+GUICrafter: Weakly-Supervised GUI Agent Leveraging Massive Unannotated Screenshots
+How Good Can Linear Models Be for Time-Series Forecasting?
+MIMFlow: Integrating Masked Image Modeling with Normalizing Flows for End-to-End Image Generation
+Nemotron-Labs-Diffusion-Image: Advancing Masked Discrete Diffusion for High-Resolution Image Synthesis
+PolicyGuard: A Dialogue-Grounded Sub-Agent Verifier for Policy Adherence in LLM Agents
+Walking in the Implicit: Interactive World Exploration via Neural Scene Representation
+Cognitive Episodes in LLM Reasoning Traces Enable Interpretable Human Item Difficulty Prediction
+ZooClaw-FashionSigLIP2: Distilled Fine-tuning for Robust Fashion Retrieval
+Focusing on What Matters: Saliency-Harnessing Accurate Routing for Diffusion MoE
+Beyond Drug Discovery: The Nanotechnology Molecular Optimization (NMO) Benchmark
+SafePyramid: A Hierarchical Benchmark for In-context Policy Guardrailing
+The Surprising Effectiveness of Video Diffusion Models for Hand Motion Reconstruction
+TheoremGraph: Bridging Formal and Informal Mathematics
+ReasoningLens: Hierarchical Visualization and Diagnostic Auditing for Large Reasoning Models
+Illuminating Unified Multimodal Model for Free-form Interleaved Text-Image Generation
+One Forward Beats Two: InnerZoom for Accurate and Efficient GUI Grounding
+PoseShield: Neural Collision Fields for Human Self-Collision Resolution
+Learning Transferable Dynamics Priors from Action to World Modeling
+Geometric Stability of Neural Population Codes: Regional Variation, Behavioral Relevance, and Circuit Dependence
+One Scene, Two Depths: Probing Geometric Ambiguity in Monocular Foundation Models
+Large-Scale Tunnel Air-Ground Collaboration With FLISP: Fast LiDAR-IMU Synchronized Path Planner
+RaysUp: Ultra-light Universal Feature Upsampling via Geometry-Aware Ray Representation
