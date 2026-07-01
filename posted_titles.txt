@@ -13347,3 +13347,14 @@ LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents
 TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive
 Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing
 FlexiSLM: A Dynamic and Controllable Frame Rate Spoken Language Model
+KRONOS I: The 1–2.8 μm JWST Transmission Spectrum of the 23 Myr V1298 Tau c
+Aerosols and hydrocarbons in the atmosphere of a white dwarf planet
+Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models
+Are We Measuring Strategy or Phrasing? The Gap Between Surface- and Approach-Level Diversity in LLM Math Reasoning
+Play2Perfect: What Matters in Dexterous Play Pretraining for Precise Assembly?
+TRIAGE: Role-Typed Credit Assignment for Agentic Reinforcement Learning
+MOPD: Multi-Teacher On-Policy Distillation for Capability Integration in LLM Post-Training
+SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sessions
+SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE
+Hierarchical Experimentalist Agents
+Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents
