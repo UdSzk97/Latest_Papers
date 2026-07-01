@@ -13316,3 +13316,34 @@ LLM Program Optimization via Retrieval Augmented Search
 MirrorPPR: Exemplar-Based Portrait Photo Retouching
 A Gravitational Interpretation of Fine-Tuning Reversion
 Mind the Heads: Topological Representation Alignment for Multimodal LLMs
+Climate Patterns of Spin-orbit Resonant Exoplanets around Low-mass Stars
+Peas and USPs: Can Stellar Spindown and Peas in a Pod Replicate Ultra-short-period Planet Characteristics?
+The shallow subsurface heterogeneities of asteroid Ryugu revealed by its gravity field
+The Polar Resources Ice Mining Experiment-1 (PRIME-1) Payload Operations Summary from the IM-2 Mission
+Orca: The World is in Your Mind
+Dockerless: Environment-Free Program Verifier for Coding Agents
+DOPD: Dual On-policy Distillation
+BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding
+Scenes as Objects, Not Primitives: Instance-Structured 3D Tokenization from Unposed Views
+GEAR: Guided End-to-End AutoRegression for Image Synthesis
+Multi-Block Diffusion Language Models
+Evolution Fine-Tuning: Learning to Discover Across 371 Optimization Tasks
+SkillHone: A Harness for Continual Agent Skill Evolution Through Persistent Decision History
+MemLearner: Learning to Query Context memory for Video World Models
+Managing Procedural Memory in LLM Agents: Control, Adaptation, and Evaluation
+RedVox: Safety and Fairness Gaps in Speech Models Across Languages
+DataEvolver: Self-Evolving Multi-Agent Data Construction for Text-Rich Image Generation
+Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs
+Little Brains, Big Feats: Exploring Compact Language Models
+PolyFlow: Continuous Topology Embedding Flow Matching for Artist-style Mesh Generation
+Unlocking the Visual Record of Materials Science: A Large-Scale Multimodal Dataset from Scientific Literature
+Xiaomi-GUI-0 Technical Report
+QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents
+BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language
+AVTok: 1D Unified Tokenization for Holistic Audio-Video Generation
+MuSViT: A Foundation Vision Model for Sheet Music Representation
+PhotoQuilt: Training-Free Arbitrary-Resolution Photomosaics via Bootstrapped Tiled Denoising
+LUMOS: A Semantic Operating-System Layer for Accessibility-Grounded AI Agents
+TerraDiT-Ω: Unified Spatial Control for Satellite Image Synthesis with Any Geospatial Primitive
+Goku: A Million-Scale Universal Dataset and Benchmark for Instruction-Based Video Editing
+FlexiSLM: A Dynamic and Controllable Frame Rate Spoken Language Model
