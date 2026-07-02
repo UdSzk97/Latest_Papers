@@ -13358,3 +13358,31 @@ SWE-INTERACT: Reimagining SWE Benchmarks as User-Driven Long-Horizon Coding Sess
 SpheRoPE: Zero-Shot Optimization-Free 360 Panorama Generation with Spherical RoPE
 Hierarchical Experimentalist Agents
 Lexical Consensus: Grounded Word Learning and Shared Meaning in Artificial Agents
+Hydrocarbon Hazes on Temperate Sub-Neptune K2-18b Supported by Data from the James Webb Space Telescope
+Growth and Damping of Oxygen Ion Cyclotron Harmonics in the Plasma Regions of Venus
+Alteration of a Mantle‐Derived Dunite Boulder in Jezero Crater, Mars
+A Potential Signature of HD 7977’s Passage among Observed Long-period Comet Orbits
+PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception
+TurboServe: Serving Streaming Video Generation Efficiently and Economically
+MemSyco-Bench: Benchmarking Sycophancy in Agent Memory
+ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving
+Domain Arithmetic: One-Shot VLA Adaptation under Environmental Shifts
+Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning
+CausalMix: Data Mixture as Causal Inference for Language Model Training
+Perceive-to-Reason: Decoupling Perception and Reasoning for Fine-Grained Visual Reasoning
+ABot-M0.5: Unified Mobility-and-Manipulation World Action Model
+Seed2.0 Model Card: Towards Intelligence Frontier for Real-World Complexity
+ASPIRE: Agentic /Skills Discovery for Robotics
+The State-Prediction Separation Hypothesis
+BioInsight: Multi-Agent Orchestration for Interactive Biomedical Knowledge Discovery
+Valdi: Value Diffusion World Models
+AutoTrainess: Teaching Language Models to Improve Language Models Autonomously
+Cross-Domain Generalization Failure in Lightweight Intrusion Detection Models for IIoT Networks
+Autonomous Scientific Discovery via Iterative Meta-Reflection
+Graph-Native Reinforcement Learning Enables Traceable Scientific Hypothesis Generation through Conceptual Recombination
+When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors
+AtomiMed: Hierarchical Atomic Fact-Checking for Universal Clinical-Aware Medical Report Evaluation
+Personalization as Inverse Planning: Learning Latent Design Intents for Agentic Slide Generation via Structural Denoising
+PixelEyes: Decoupling Perception and Reasoning for Pinpoint Visual Evidence Seeking
+NoPA: Non-Parametric Online 3D Scene Graph Generation
+AI translation of literary texts is "fine", but readers still prefer human translations
