@@ -13386,3 +13386,11 @@ Personalization as Inverse Planning: Learning Latent Design Intents for Agentic 
 PixelEyes: Decoupling Perception and Reasoning for Pinpoint Visual Evidence Seeking
 NoPA: Non-Parametric Online 3D Scene Graph Generation
 AI translation of literary texts is "fine", but readers still prefer human translations
+Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?
+SciIR: A Large-scale Training Dataset and Benchmark for Scientific Image Reasoning Generation
+Rank-Aware Hyperbolic Alignment for Vision-Language Dataset Distillation
+Building to the Test: Coding Agents Deliver What You Check, Not What You Requested
+HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Environments for Challenging Frontier AI Agents
+GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity
+CogSENet: Blind Image Deblurring with Blur-Conditioned Semantic Routing and Explicit Frequency Fusion
+When More Sampling Hurts: The Modal Ceiling and Correlation Ceiling of Test-Time Scaling
