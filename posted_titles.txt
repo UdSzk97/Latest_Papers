@@ -13416,3 +13416,10 @@ InstanceControl: Controllable Complex Image Generation without Instance Labeling
 Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR
 PACE: A Proxy for Agentic Capability Evaluation
 Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs
+Excitation and Damping of Oscillation Modes in Gaseous Planets
+Logit-Contribution Scoring Identifies Non-Literal Retrieval Heads
+AutoMem: Automated Learning of Memory as a Cognitive Skill
+WARP: Weight-Space Analysis for Recovering Training Data Portfolios
+DuoMem: Towards Capable On-Device Memory Agents via Dual-Space Distillation
+Parameter-Efficient Quantum-Inspired Fast Weight Programmers for Traffic-Matrix Forecasting
+Scaling Laws for Grid-Based Approximate Nearest Neighbor Search in High Dimensions
