@@ -13394,3 +13394,25 @@ HealthAgentBench: A Unified Benchmark Suite of Realistic Agentic Healthcare Envi
 GRPO, Dr. GRPO, and DAPO Are Three Operations on One Number: The Group-Standard-Deviation Identity
 CogSENet: Blind Image Deblurring with Blur-Conditioned Semantic Routing and Explicit Frequency Fusion
 When More Sampling Hurts: The Modal Ceiling and Correlation Ceiling of Test-Time Scaling
+Lunar-VISE Landing Site Selection and Characterization at Mons Gruithuisen Gamma
+AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents
+Program-as-Weights: A Programming Paradigm for Fuzzy Functions
+EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments
+Morphing into Hybrid Attention Models
+AgenticDataBench: A Comprehensive Benchmark for Data Agents
+Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling
+WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory
+Optimizing Visual Generative Models via Distribution-wise Rewards
+Breaking Failure Cascades: Step-Aware Reinforcement Learning for Medical Multimodal Reasoning
+AGVBench: A Reliability-Oriented Benchmark of Data Augmentation for Vein Recognition
+From SRA to Self-Flow: Data Augmentation or Self-Supervision?
+SkillCoach: Self-Evolving Rubrics for Evaluating and Enhancing Agentic Skill-Use
+AnyGroundBench: A Specialized-Domain Benchmark for Video Grounding in Vision-Language Models
+When Search Agents Should Ask: DiscoBench for Clarification-Aware Deep Search
+Representation Distribution Matching for One-Step Visual Generation
+Denser neq Better: Limits of On-Policy Self-Distillation for Continual Post-Training
+Discrete Diffusion Language Models for Interactive Radiology Report Drafting
+InstanceControl: Controllable Complex Image Generation without Instance Labeling
+Transferability for General Reasoning: An Automated Curriculum for Multi-Domain RLVR
+PACE: A Proxy for Agentic Capability Evaluation
+Learning to Move Before Learning to Do: Task-Agnostic pretraining for VLAs
