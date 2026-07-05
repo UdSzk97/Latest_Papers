@@ -42,7 +42,7 @@ KEYWORDS = [
     "phobos", "deimos", " io ", " europa ", "ganymede", "calisto", "enceladus", 
     " dwarf planet ", "asteroid", "comet", "meteoroid", "meteorite", "habitable", "habitability", "exoplanet", 
     "mercury's", "hermean", "venusian", "martian", "jovian", "lunar", "cometary", "meteoritic", 
-    "moons", "comets", "meteorites", "exoplanets"
+    "moons", "asteroids", "comets", "meteorites", "exoplanets"
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
