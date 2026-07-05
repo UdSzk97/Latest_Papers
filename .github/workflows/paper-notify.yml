@@ -3,8 +3,8 @@ name: Notify new papers to Slack
 on:
   schedule:
     # ┌─ 分 (0) ─┬─ 時 (UTC 11 & 23) ┬─ 日 ┬─ 月 ┬─ 曜 ┐
-    - cron: '0 11 * * *'   # 11:00 UTC = 20:00 JST
-    - cron: '0 23 * * *'   # 23:00 UTC = 08:00 JST
+    - cron: '55 10 * * *'   # 10:55 UTC = 19:55 JST
+    - cron: '55 22 * * *'   # 22:55 UTC = 07:55 JST
     # - cron: '0 */12 * * *'  # 12時間ごとに実行 (0, 12 h in UTC)
   workflow_dispatch:      # 手動実行も可能にする
 
