@@ -40,9 +40,9 @@ RSS_FEEDS = [
 KEYWORDS = [
     "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune", "moon", 
     "phobos", "deimos", " io ", " europa ", "ganymede", "calisto", "enceladus", 
-    " dwarf planet ", "asteroid", "comet", "meteoroid", "meteorite", "habitable", "habitability", "exoplanet", 
+    " dwarf planet ", "asteroid", "comet", "meteoroid", "meteorite", "habitable", "habitability", "exoplanet", "crater"
     "mercury's", "hermean", "venusian", "martian", "jovian", "lunar", "cometary", "meteoritic", 
-    "moons", "asteroids", "comets", "meteorites", "exoplanets"
+    "moons", "asteroids", "comets", "meteorites", "exoplanets", "craters"
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
