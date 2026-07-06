@@ -13454,3 +13454,5 @@ Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow wit
 MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering
 AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation
 AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer
+Optimal locations and times for <em>in situ</em> methane measurements in Gale crater based on atmospheric transport
+High-velocity impact experiments onto wet sand: Effects of water content on crater size scaling relationship
