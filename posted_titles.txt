@@ -13439,3 +13439,17 @@ Daily briefing: Ovaries start a second job after menopause
 Ejected Surface Regolith as a Potential Source Material for Centaur Rings
 Electrostatic parallel velocity shear electron cyclotron instability in Jupiter's magnetosphere
 Comparison of the modelled geoelectric fields of the Carrington and Halloween storms
+A JWST Transit of a Jupiter Analog. II. A Search for Exomoons
+Tidal Triggers and the Predictability of Solar Activity
+The Y Dwarf Companion to the White Dwarf WD 0806-66: Resolving the Discrepancy between Atmospheric and Evolutionary Models
+High nitrogen and carbon isotopic ratios in the interstellar comet 3I/ATLAS
+A Comparison of Lunar AI-based Crater Databases Using Uniform Criteria
+The Mirage of Optimizing Training Policies: Monotonic Inference Policies as the Real Objective for LLM Reinforcement Learning
+Embodied.cpp: A Portable Inference Runtime of Embodied AI Models on Heterogeneous Robots
+VLA-Corrector: Lightweight Detect-and-Correct Inference for Adaptive Action Horizon
+OrbitQuant: Data-Agnostic Quantization for Image and Video Diffusion Transformers
+DataComp-VLM: Improved Open Datasets for Vision-Language Models
+Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming
+Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment
+MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering
+AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation
