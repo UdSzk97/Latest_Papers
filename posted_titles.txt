@@ -1,4 +1,3 @@
-
 Daily briefing: The birth of a solar system caught ‘on camera’ for the first time
 Refractory solid condensation detected in an embedded protoplanetary disk
 Star flares when an orbiting planet gets too close
@@ -13461,7 +13460,6 @@ A simulation-based inference of the Milky Way merger history
 ExoMol line lists  –  LXVIII. Rotation–vibration–electronic spectroscopy of potassium hydride (KH)
 The Role of Long-Period Variable Stars in Observational Astrophysics
 Exoplanet Atmospheres at High Spectral Resolution
-Feasibility of Optical Measurement of D/H Ratios of Cometary Comae Using a Small Ultraviolet Instrument
 The Formation of Cirrus‐Like Water and Carbon Dioxide Ice Clouds in the Venusian Upper Haze Region
 Surface Geology and Evolution of Asteroid Ryugu: Insights From Hayabusa2 Global Mapping
 MMS Observations of the Energetic Particles Within Kelvin‐Helmholtz Waves at the Boundary of the 10 May 2024 Coronal Mass Ejection (CME)
