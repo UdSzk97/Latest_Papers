@@ -13512,3 +13512,6 @@ Vertical profiling of shock attenuation at the Rochechouart impact structure, Fr
 Determining impact angle from the spatial distribution of shock metamorphism: A case study of the Gosses Bluff (Tnorala) impact structure, Australia
 Structure and Dynamics in the Magnetotails of Unmagnetized and Weakly Magnetized Bodies
 Observations of Exocomets
+Feasibility of Optical Measurement of D/H Ratios of Cometary Comae Using a Small Ultraviolet Instrument
+The changing compensation state of Sputnik Basin and the thermal evolution of Pluto
+First geomorphological evidence of landslides on Pluto
