@@ -41,11 +41,29 @@ RSS_FEEDS = [
 
 KEYWORDS = [
     "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune", "moon", 
+    "phobos", "deimos", " io ", " europa ", "ganymede", "calisto", "enceladus", "pluto",  
+    "dwarf planet", "asteroid", "comet", "meteoroid", "meteorite", "habitable", "habitability", "exoplanet", "crater", 
+    "hermean", "martian", "jovian", "lunar", "meteoritic"
+] # "planet", "solar system",  "kuiper belt", "eris", "ceres", "makemake", "haumea", 
+
+# 変換用マッピング（左側がヒットした単語、右側がハッシュタグにする代表語）
+TAG_MAPPING = {
+    "meteoritic": "meteorite",
+    "martian": "mars",
+    "hermean": "mercury",
+    "jovian": "jupiter",
+    "lunar": "moon"
+}
+
+"""
+KEYWORDS = [
+    "mercury", "venus", "mars", "jupiter", "saturn", "uranus", "neptune", "moon", 
     "phobos", "deimos", " io ", " europa ", "ganymede", "calisto", "enceladus", 
     " dwarf planet ", "asteroid", "comet", "meteoroid", "meteorite", "habitable", "habitability", "exoplanet", "crater", 
     "mercury's", "hermean", "venusian", "martian", "jovian", "lunar", "cometary", "meteoritic", 
     "moons", "asteroids", "comets", "meteorites", "exoplanets", "craters"
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
+"""
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
 POSTED_TITLES_FILE = "posted_titles.txt"
@@ -125,9 +143,16 @@ def main():
             # if contains_keywords(text_to_check):
             matched = matched_keywords(text_to_check)
             if matched:
-                # タグの生成（例: "#Mercury #Comet"）
-                tags = " ".join(f"#{k.capitalize()}" for k in matched)
-
+                normalized_tags = set()
+                for k in matched:
+                    # 辞書に変換ルールがあれば変換し、なければ元の単語を使う
+                    base_word = TAG_MAPPING.get(k, k)
+                    normalized_tags.add(base_word)
+                    
+                # 重複が排除された状態でタグを生成
+                tags = " ".join(f"#{word.capitalize()}" for word in normalized_tags)
+                # tags = " ".join(f"#{k.capitalize()}" for k in matched) # タグの生成（例: "#Mercury #Comet"）
+                
                 # 著者名から first author を抽出
                 # author = entry.get("author", "Unknown author")
                 if hasattr(entry, "author") and entry.author:
