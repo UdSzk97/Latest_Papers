@@ -13453,3 +13453,4 @@ Securing the AI Agent: A Unified Framework for Multi-Layer Agent Red Teaming
 Interpretation-Oriented Cloud Removal via Observation-Anchored Residual Flow with Geo-Contextual Alignment
 MultAttnAttrib: Training-Free Multimodal Attribution in Long Document Question Answering
 AGE: Adaptive-masking for Graph Embedding in Graph Retrieval-Augmented Generation
+AnyBokeh: Physics-Guided Any-to-Any Bokeh Editing with Optical Fingerprint Transfer
