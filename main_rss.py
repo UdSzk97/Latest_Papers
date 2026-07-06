@@ -102,8 +102,6 @@ def main():
 
         for entry in feed.entries:
             title = entry.get("title", "").strip()
-            
-            # summary以外のタグからもアブストラクトを抽出して結合する
             abstract_text = entry.get("summary", "")
             
             # <dc:description> の取得
@@ -116,6 +114,7 @@ def main():
                     abstract_text += " " + content_item.get("value", "")
 
             abstract_text = abstract_text.strip()
+            summary = entry.get("summary", "").strip()
             link = entry.get("link", "")
 
             if not title or title in posted_titles:
