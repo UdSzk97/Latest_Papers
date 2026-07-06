@@ -44,7 +44,7 @@ KEYWORDS = [
     "phobos", "deimos", " io ", " europa ", "ganymede", "calisto", "enceladus", 
     " dwarf planet ", "asteroid", "comet", "meteoroid", "meteorite", "habitable", "habitability", "exoplanet", "crater", 
     "mercury's", "hermean", "venusian", "martian", "jovian", "lunar", "cometary", "meteoritic", 
-    "moons", "asteroids", "comets", "meteorites", "exoplanets", "craters"
+    "moons", "asteroids", "comets", "meteorites", "ex　oplanets", "craters"
 ] # "planet", "solar system",  "kuiper belt", "pluto", "eris", "ceres", "makemake", "haumea", 
 
 SLACK_WEBHOOK_URL = os.getenv("SLACK_WEBHOOK_URL")
@@ -80,9 +80,20 @@ def post_to_slack(message):
 def main():
     posted_titles = load_posted_titles()
 
+    # ブラウザからのアクセスを装うためのヘッダー
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"
+    }
+
     for feed_url in RSS_FEEDS:
         try:
-            feed = feedparser.parse(feed_url)
+            # requestsを使ってデータを取得し、HTTPエラーを検知する
+            response = requests.get(feed_url, headers=headers, timeout=15)
+            response.raise_for_status() # 403や404などのエラーがあれば例外を発生させる
+            
+            # 取得したテキストデータをfeedparserに渡す
+            feed = feedparser.parse(response.content)
+            
         except Exception as e:
             print(f"RSS読み込みエラー: {feed_url} : {e}")
             continue
@@ -91,13 +102,27 @@ def main():
 
         for entry in feed.entries:
             title = entry.get("title", "").strip()
-            summary = entry.get("summary", "").strip()
+            
+            # summary以外のタグからもアブストラクトを抽出して結合する
+            abstract_text = entry.get("summary", "")
+            
+            # <dc:description> の取得
+            if "dc_description" in entry:
+                abstract_text += " " + entry.dc_description
+                
+            # <content:encoded> などの取得
+            if "content" in entry:
+                for content_item in entry.content:
+                    abstract_text += " " + content_item.get("value", "")
+
+            abstract_text = abstract_text.strip()
             link = entry.get("link", "")
 
             if not title or title in posted_titles:
                 continue
 
-            text_to_check = title + " " + summary
+            # タイトルと結合したアブストラクトを検査対象にする
+            text_to_check = title + " " + abstract_text + " " + summary
             # if contains_keywords(text_to_check):
             matched = matched_keywords(text_to_check)
             if matched:
