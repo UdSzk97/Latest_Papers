@@ -14,7 +14,9 @@ RSS_FEEDS = [
     "https://earth-planets-space.springeropen.com/articles/most-recent/rss.xml", # EPS
     "https://rss.sciencedirect.com/publication/science/0012821X", # EPSL
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9097", # JGR: Planets
+    "https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699100&type=etoc&feed=rss", # JGR: Planets (updated on Jul. 6, 2026)
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9402", # JGR: Space Physics
+    "https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699402&type=etoc&feed=rss", # JGR: Space Physics (updated on Jul. 6, 2026)
     "https://rss.sciencedirect.com/publication/science/00167037", # GCA
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007", # GRL
     "https://rss.sciencedirect.com/publication/science/00191035", # Icarus
