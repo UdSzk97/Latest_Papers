@@ -13556,3 +13556,13 @@ Taste-aware music retrieval from audio embeddings
 AI Wizards at EXIST 2026: Hierarchical Soft-Label Learning for Multimodal Sexism Identification in Memes
 Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization
 PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation
+Surprisingly Enriched CO and CH4 in Halley-type Comet 13P/Olbers: Clues to Its Interstellar Heritage
+Unified Audio Intelligence Without Regressing on Text Intelligence
+SeKV: Resolution-Adaptive KV Cache with Hierarchical Semantic Memory for Long-Context LLM Inference
+Look Before You Leap: Distilling Tree Search into Action Evaluation for Frozen VLA Models
+Bridging Interleaved Multi-Modal Reasoning as a Unified Decision Process
+Speaker-Aware Temporal Aggregation Strategies on Segment Representations for Depression Detection in Dyadic Interaction: A Benchmark Study
+SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion
+ACID: Action Consistency via Inverse Dynamics for Planning with World Models
+GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks
+Learning to Trigger: Reinforcement Learning at the Large Hadron Collider
