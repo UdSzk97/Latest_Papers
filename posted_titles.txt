@@ -13519,3 +13519,40 @@ Feasibility of Optical Measurement of D/H Ratios of Cometary Comae Using a Small
 Measuring the Gap Between Human and LLM Research Ideas
 Generated Contents Enrichment
 Teaching LLMs to Recommend and Defer in Underrepresented Epilepsy Care
+Orbit Refinement of WASP-18 b and Evidence Against the Existence of WASP-18 c
+Do Super-puffs Defy Core Accretion? Population-wide Interior Structure Constraints
+VENUS: Strong-lensing Model of MACS J1931.8-2635: Revealing the Farthest Multiply Imaged Supernova
+Radiatively Controlled Thermal Stability of High-altitude Clouds in Exoplanetary Atmospheres
+Cosmic Dust Flux During the Quaternary: The Record of Large Scoriaceous and Unmelted Micrometeorites From the Transantarctic Mountains Collection
+Depth‐Sensitive Microwave Stratigraphy of Mare Tranquillitatis
+UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning
+PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space
+ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog
+ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes
+OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers
+GigaWorld-1: A Roadmap to Build World Models for Robot Policy Evaluation
+Vision Pretraining for Dense Spatial Perception
+EVA-Client: A Unified Data Collection, Inference, and Deployment Framework for Embodied Policies on Real Robots
+Wan-Streamer v0.2: Higher Resolution, Same Latency
+InternVLA-A1.5: Unifying Understanding, Latent Foresight, and Action for Compositional Generalization
+KVpop -- Key-Value Cache Compression with Predictive Online Pruning
+Do All Visual Tokens Matter Equally? Object-Evidence Preserving Token Merging for Vision-Language Retrieval
+dOPSD: On-Policy Self-Distillation for Diffusion Language Models
+Multiplayer Interactive World Models with Representation Autoencoders
+Perceptual Flow Matching for Few-Step Generative Modeling
+Multi-Turn Agentic Scientific Literature Search via Workflow Induction
+EdgeBench: Unveiling Scaling Laws of Learning from Real-World Environments
+LLM-as-a-Verifier: A General-Purpose Verification Framework
+MV-Forcing: Long Multi-View Video Generation via 4D-Grounded Spatio-Temporal Self-Forcing
+Safety Testing LLM Agents at Scale: From Risk Discovery to Evidence-Grounded Verification
+Mastermind: Strategy-grounded Learning for Repository-Scale Vulnerability Reproduction
+PraMem: Practice-derived Experiential Memory for Long-horizon Behavior Prediction
+GORGO: Online Tuning for Cross-Region Network-Aware LLM Serving
+Transition-Aware best-of-N sampling for Longitudinal Chest X-ray Reports
+Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models
+MANCE: Manifold Aware Concept Erasure
+CONFLUX: A Latent Diusion Model for 3D Chest-CT Synthesis with RL Post-Training
+Taste-aware music retrieval from audio embeddings
+AI Wizards at EXIST 2026: Hierarchical Soft-Label Learning for Multimodal Sexism Identification in Memes
+Speaker-Disentangled Chunk-Wise Regression for Syllabic Tokenization
+PixCon: Clean-Positive Contrastive Learning for Foundation-Model Semi-Supervised Segmentation
