@@ -13600,3 +13600,37 @@ Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES
 Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment
 Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator
 Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing
+Iron(II) sulphides in cosmic dust: Optical constants depending on iron deficiency and temperature
+The breaking of cold traps and onset of titanium in ultra-hot Jupiter atmospheres: WASP-189b in context
+The redox state of the martian interior: insights from experimentally calibrated V/Sc oxybarometry
+Lunar water cycle and D/H fractionation driven by solar wind implantation and micrometeorite impacts
+Elevated silicon content facilitates carbon precipitation within Mercury’s core
+Implications for martian mantle reservoirs from petrogenesis of the 1.27 Ga olivine-phyric shergottite Northwest Africa 13441
+Distribution of purine and pyrimidine bases in Antarctic carbonaceous meteorites
+Metal and phosphorus accumulation in cryogenic alkaline lakes: Implications for salts in icy planetesimals and phosphate on early Mars
+Unraveling Iapetus’s mysterious past using polygonal craters
+Impact-induced melting of materials with sparse thermodynamic data: The case of native sulfur on Mars
+Mapping lunar gamma rays using the Cosmic Ray Telescope for the Effects of Radiation (CRaTER)
+The dynamical origin of millimetre-sized sporadic meteoroids
+Visible region spectral similarity of low-albedo Mars Trojan 1999 UJ<sub>7</sub> to T-type asteroids and to the martian moons
+Organic matter in samples from hypersaline La Mancha lagoon system (La Mancha, Spain): A projection for future <em>in situ</em> analyses on icy moons
+Early mars habitability revisited: Oceans, climate dynamics, and microbial survival
+Reflectance spectroscopy in the visible to near-infrared (VNIR, 350–2500 nm) of Martian meteorite slabs and powders: Mafic silicate compositions and abundances
+Geological mapping of the South Pole-Aitken (SPA) basin region of the Moon
+Quantifying spectral unmixing uncertainty of radiative transfer models using Mars-analog clay, sulfate, and basalt mixtures
+The Concept of Ballistic Shadows and the Effect of Slope on Impact Ejecta Emplacement – Implications for the Exploration of the Lunar South Polar Region
+Colour changes of Jupiter’s Oval BA through microphysical modelling
+Magnet-absorbed detrital magnetite from the western Qaidam Basin: Implications to Mars sample return missions
+A comprehensive study of comet 67P/Churyumov-Gerasimenko in the 2021/2022 apparition. II. Colorimetry, polarimetry, modeling
+Photometric characteristics of comet C/2019 U5 during the pre-perihelion period and its dynamical features
+Moonlighting role of meiotic SYCP1 in breast cancer: A chromatin-bound regulator of DNA repair, transcription, and drug resistance
+LLM-as-a-Tutor: Policy-Aware Prompt Adaptation for Non-Verifiable RL
+Rank-Then-Act: Reward-Free Control from Frame-Order Progress
+Attending to Multimodal Generation One Token at a Time
+SWE-Review: Closing the Loop on Issue Resolution with Agentic Code Review
+HunyuanOCR-1.5: Making Lightweight OCR VLMs Faster and Better
+Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training
+SceneFrom3D: Geometry-Conditioned Outdoor 3D Scene Generation via View Scheduling with Object-Level Control
+RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules
+SiamJEPA: On the Role of Siamese Student Encoders in JEPA
+VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech
