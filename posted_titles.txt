@@ -13566,3 +13566,37 @@ SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion
 ACID: Action Consistency via Inverse Dynamics for Planning with World Models
 GaP: A Graph-as-Policy Multi-Agent Self-Learning Harness For Variational Automation Tasks
 Learning to Trigger: Reinforcement Learning at the Large Hadron Collider
+Correlated Response of the Martian Dayside Magnetic Pileup Boundary and Bow Shock to Solar Wind and Planetary Drivers
+Quantifying isochrone-based age uncertainties for rapidly rotating A-type stars
+The Barnard’s Star planetary system: stability, composition, and evolution of four sub-Earth exoplanets
+Deuterated water and the formation of the satellites of Uranus
+New Constraints on the Spatial and Temporal Evolution of the Lunar Surface Regolith
+RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation
+AlayaWorld: Long-Horizon and Playable Video World Generation
+Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling
+Vision as Unified Multimodal Generation
+Light-Omni: Reflex over Reasoning in Agentic Video Understanding with Long-Term Memory
+Parallelized Autoregressive Decoding for Omni-Modal Dense Video Captioning
+Gemma 4 Technical Report
+SkillOpt-Lite: Better and Faster Agent Self-evolution via One Line of Vibe
+RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation
+DSpark: Confidence-Scheduled Speculative Decoding with Semi-Autoregressive Generation
+MentalThink: Shaping Thoughts in Mental SVG World
+From Foundation to Application: Improving VLA Models in Practice
+TurnOPD: Making On-Policy Distillation Turn-Aware for Efficient Long-Horizon Agent Training
+Nemotron-Labs-Diffusion: A Tri-Mode Language Model Unifying Autoregressive, Diffusion, and Self-Speculation Decoding
+CanvasAgent: Enabling Complex Image Creation and Editing via Visual Tool Orchestration
+TREK: Distill to Explore, Reinforce to Refine
+PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation
+Flex-Forcing: Towards a Unified Autoregressive and Bidirectional Video Diffusion Model
+3D HAMSTER: Bridging Planning and Control in Hierarchical Vision Language Action Models through 3D Trajectory Guidance
+CGGS: Consistency-Augmented Geometric Gaussian Splatting for Ego-centric 3D Scene Generation
+When Classic Cache Policies Fail: Learning-Augmented Replacement for Semantic Retrieval Buffers
+PluraMath: Extending Mathematical Reasoning Evaluation Beyond High-Resource Languages
+Quantifying and Expanding the Theoretical Capacity of Late-Interaction Retrieval Models
+MuseBench: Benchmarking Intent-Level Audiovisual Arts Understanding in MLLMs
+SIEVE: Structure-Aware Data Selection for Imitation Learning with VLA Models
+Where to cut, how deep: BPE and Unigram-LM on chemistry SMILES
+Layer-wise Cross-Lingual Depression Detection from Speech: Analysis with Contrastive Alignment
+Image2Sim: Scaling Embodied Navigation via Generative Neural Simulator
+Bibby AI: An Editor-Native Agentic Platform for Academic Research, Writing, and Publishing
