@@ -13634,3 +13634,18 @@ SceneFrom3D: Geometry-Conditioned Outdoor 3D Scene Generation via View Schedulin
 RuleChef: Grounding LLM Task Knowledge in Human-Editable Rules
 SiamJEPA: On the Role of Siamese Student Encoders in JEPA
 VIBE: Voice-Induced open-ended Bias Evaluation for Large Audio-Language Models via Real-World Speech
+Hydrous degradation of primordial organics: Implications for the early evolution of icy satellites and dwarf planets
+Single-apparition phase curves from ATLAS survey: photometric parameter determination
+Planet-wide, Concentric Density Waves in Venus’s Upper Atmosphere Revealed through Polarimetry?
+Evolution and Observable Properties of Rocky Planet Atmospheres
+Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning
+Dual Latent Memory in Vision-Language-Action Models for Robotic Manipulation
+Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence
+Infinite Worlds with Versatile Interactions
+RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies
+WildCity: A Real-World City-Scale Testbed for Rendering, Simulation, and Spatial Intelligence
+Automating the Design of Embodied Agent Architectures
+Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo
+Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning
+Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity
+Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure
