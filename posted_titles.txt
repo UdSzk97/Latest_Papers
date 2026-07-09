@@ -13649,3 +13649,11 @@ Teaching LLMs a Low-Resource Language: Enhancing Code Completion in Pharo
 Single-Rollout Asynchronous Optimization for Agentic Reinforcement Learning
 Sparse Delta Memory: Scaling the State of Linear RNNs through Sparsity
 Imagined Rollouts are Kinematic, Not Dynamic: A Diagnosis of Long-Horizon World-Model Failure
+Dynamical Implications of the Recently Detected Feature around Quaoar and Constraints on the Presence of Additional Satellites
+Uranus and Neptune may not be ‘ice giants’ after all
+AgentLens: Production-Assessed Trajectory Reviews for Coding Agent Evaluation
+OmniTacTune: Policy-Agnostic Real-World RL for Tactile Residual Adaptation of Visual Policies
+RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated Futures
+Token-Based Dual-view Fusion and Adaptation of Large Vision Models for Breast Cancer Classification
+TESSERA v2: Scaling Pixel-wise Earth Foundation Models
+Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs
