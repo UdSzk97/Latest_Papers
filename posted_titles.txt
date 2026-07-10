@@ -13657,3 +13657,28 @@ RoboTALES: Learning Reasoning-Guided Robot Policies via Task-Aligned Simulated F
 Token-Based Dual-view Fusion and Adaptation of Large Vision Models for Breast Cancer Classification
 TESSERA v2: Scaling Pixel-wise Earth Foundation Models
 Wake up for Touch! Mask-isolated Tactile Alignment Learning in MLLMs
+A Calibrated Bayesian Search for Potential Chemical Technosignatures in Polluted White Dwarfs
+Miscibility and Transport Properties in Hydrogen–Neon Mixtures
+Rotation-controlled Magnetotail Dynamics at Uranus: Asymmetric Current Sheet Morphology and Nightside Interplanetary Magnetic Field Coupling
+Implantation of icy planetesimals into the main asteroid belt due to the growth and outward migration of giant planets
+The recent crossing of the 7:3 resonance between Ganymede and Callisto
+Vidu S1: A Real-Time Interactive Video Generation Model
+Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition
+Video-Oasis: Rethinking Evaluation of Video Understanding
+UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
+Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
+LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models
+Enhancing In-context Panoramic Generation via Geometric-aware Pretraining
+CineMobile: On-Device Image-to-Video Diffusion for Cinematic Camera Motion Generation
+OpenCoF: Learning to Reason Through Video Generation
+Jet-Long: Efficient Long-Context Extension with Dynamic Bifocal RoPE
+Linear Attention Architectures: Mechanisms, Trade-offs, and Cross-Layer Routing
+Flash-BoN: Instant Drafts for Inference-Time Scaling in Diffusion Models
+A Quantized Native Runtime for On-Device Semantic Audio Generation
+DrugGen 2: A disease-aware language model for enhancing drug discovery
+UP: Unbounded Positive Asymmetric Optimization for Breaking the Exploration-Stability Dilemma
+PhyMRI-SR: Toward Physics-Aware MRI Image Super-Resolution
+CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
+ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
+A Sparse and Truncated State Vector Simulator for Peaked Circuits
+Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs
