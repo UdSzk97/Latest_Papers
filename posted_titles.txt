@@ -13682,3 +13682,12 @@ CausalDS: Benchmarking Causal Reasoning in Data-Science Agents
 ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
 A Sparse and Truncated State Vector Simulator for Peaked Circuits
 Can Dialects Be Steered Like Languages? Sparse Neurons and Distributed Directions in Arabic LLMs
+Piercing Through the Haze: Characterizing Titan-like Terrestrial Exoplanets with JWST
+The Roasting Marshmallows Program with IGRINS on Gemini South. V. Atmosphere of MASCARA-1 b Is Enriched in Refractory Elements
+Parameter Estimation from the Transit Light Curve Including Gravitational Lensing Effects
+Advancing the search for technosignatures
+Non-gravitational acceleration indicative of cometary activity of near-Earth object
+MLA and BELA Altimetry Synergies for Mercury Geodesy and Interior Studies
+Remember When It Matters: Proactive Memory Agent for Long-Horizon Agents
+SAM-MT: Real-Time Interactive Multi-Target Video Segmentation
+PAST-TIDE: Prototype-Anchored Statement Tuning with Topic-Invariant Normalization for Stance Detection
