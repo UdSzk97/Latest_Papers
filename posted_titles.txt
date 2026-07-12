@@ -13695,3 +13695,6 @@ Experimental constraints on lunar hematite formation mechanisms
 VNIR–mid-IR spectral signatures of abiotic and biogenic mixed-cation carbonates: implications for carbonate detection and biosignature assessment on Mars
 Hydrogen Reduction of Lunar Regolith Simulants: A Kinetic Comparison between Fixed and Fluidized Bed Reactors
 Protocell formation on micrometeorites
+Metamorphic and density evolution of carbonaceous matter: A potential cometary composition of Titan
+Raman and infrared spectroscopy of synthetic K-H<sub>3</sub>O-Na alunite solid solutions: Implications for Mars exploration
+Hydrogen reduction of lunar regolith simulants: A kinetic comparison between fixed and fluidized bed reactors
