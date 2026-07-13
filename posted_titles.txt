@@ -13698,3 +13698,19 @@ Protocell formation on micrometeorites
 Metamorphic and density evolution of carbonaceous matter: A potential cometary composition of Titan
 Raman and infrared spectroscopy of synthetic K-H<sub>3</sub>O-Na alunite solid solutions: Implications for Mars exploration
 Hydrogen reduction of lunar regolith simulants: A kinetic comparison between fixed and fluidized bed reactors
+Coupling Magma–Ocean and Atmospheres in Spectral Retrievals of Sub-Neptunes
+Coupling True Polar Wander to Planetary Climates Using Nonlinear 2D Energy Balance Climate Models
+Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading
+Scalable Visual Pretraining for Language Intelligence
+Video Generation Models are General-Purpose Vision Learners
+Trust Region Policy Distillation
+KronQ: LLM Quantization via Kronecker-Factored Hessian
+PanoWorld: Real-World Panoramic Generation
+From RGB Generation to Dense Field Readout: Pixel-Space Dense Prediction with Text-to-Image Models
+Self-Guided Test-Time Training for Long-Context LLMs
+Flow-ERD: Agent-type Aware Flow Matching with Entropy-Regularized Distillation for Diverse Traffic Simulation
+Phone Segmentation and Recognition through Phonological Activation Mapping
+Towards Mechanistically Understanding Why Memorized Knowledge Fails to Generalize in Large Language Model Finetuning
+A Sovereign, Open-Source Foundation Model for German and English
+MedPMC: A Systematic Framework for Scaling High-Fidelity Medical Multimodal Data for Foundation Models
+VaseMuseum: Digital Intelligent Museum for Ancient Greek Pottery
