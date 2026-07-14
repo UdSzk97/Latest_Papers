@@ -13738,3 +13738,12 @@ EgoSteer: A Full-Stack System Towards Steerable Dexterous Manipulation from Egoc
 Motion4Motion: Motion Transfer Across Subjects at Inference
 LATO.2: Factorized 3D Mesh Generation with Vertex and Topology Flow
 Latent-Identity Tuning in Text-to-Image Personalization Models
+A concentric fractured depression in Jori crater, Mars, and associated crater floor deformation reinterpreted as a meteor impact
+Numerical validation of the impact-related sources of hydrothermal alteration in Toro crater
+Spectral mixture modeling with laboratory near-infrared data II: Effects of grain size and implications for Europa
+Instability of streaming linear modes in the venusian ionosphere
+Multi-Agent LLMs Fail to Explore Each Other
+MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning
+Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model
+Evidence-Backed Video Question Answering
+A Theory of Contrastive Learning with Natural Images
