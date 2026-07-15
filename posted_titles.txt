@@ -13757,3 +13757,14 @@ Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Gen
 Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models
 Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution
 Principled Analysis of Deep Reinforcement Learning Evaluation and Design Paradigms
+Regional variability but global flux balance in the deep sulfur cycle
+An 800 Myr-old Impact Shower on the Terrestrial Planets from the Breakup of the Eulalia Parent Body
+Infrared Band Strength of Molecular Oxygen in Astrophysical Ices
+SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding
+Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation
+Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models
+MuScriptor: An Open Model for Multi-Instrument Music Transcription
+MonkeyOCRv2: A Visual-Text Foundation Model for Document AI
+Let RGB Be the Language of Vision
+Towards Autonomous and Auditable Medical Imaging Model Development
+What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness
