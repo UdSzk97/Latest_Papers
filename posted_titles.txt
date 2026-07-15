@@ -13747,3 +13747,13 @@ MET: Theory-Grounded and Culture-Aware Multilingual Moral Reasoning
 Xiaomi-Robotics-U0: Unified Embodied Synthesis with World Foundation Model
 Evidence-Backed Video Question Answering
 A Theory of Contrastive Learning with Natural Images
+Density Increases in the Cometary Plasma Environment and Their Relation to Magnetosheath Jets
+Habitable Zones around Massive Stars: From the Main Sequence to Supergiants
+Constraints on the internal mass distribution of asteroid (101955) Bennu from OSIRIS-REx mission data
+‘Dark comet’ unmasked by its mysterious motions
+Deeper solar wind penetration on the Moon’s farside from noble gas records
+Sulfur and Sulfur Dioxide Capture by Iron Clusters: Effect of Oxidation State on the Adsorption of Sulfur Compounds
+Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation
+Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models
+Know Before Fix: QA-Driven Repository Knowledge Acquisition for Software Issue Resolution
+Principled Analysis of Deep Reinforcement Learning Evaluation and Design Paradigms
