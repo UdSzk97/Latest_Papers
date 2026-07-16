@@ -13768,3 +13768,28 @@ MonkeyOCRv2: A Visual-Text Foundation Model for Document AI
 Let RGB Be the Language of Vision
 Towards Autonomous and Auditable Medical Imaging Model Development
 What LLM Forecasters Know but Don't Say: Probing Internal Representations for Calibration and Faithfulness
+Searching for GEMS: Three Warm Saturns and a Super-Jupiter Orbiting Four Early M Dwarfs*
+Juno Microwave Radiometer Observations Reveal a Warmer Polar Atmosphere on Jupiter
+NGTS-39 b: a 58 d transiting warm Jupiter in an eccentric orbit
+Ion–neutral coupled electrostatic solitary waves in the Martian dayside M1 ionosphere
+Cometary ion dynamics at a weakly outgassing comet
+Limits on forming coreless terrestrial worlds in the TRAPPIST-1 system
+Variability of the Martian Homopause: Insights from Global Climate Modelling and Empirical Estimates
+Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable
+Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation
+Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning
+OvisOCR2 Technical Report
+KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill
+PolicyShiftGuard: Benchmarking and Improving Policy-Adaptive Image Guardrails
+GigaWorld-Policy-0.5: A Faster and Stronger WAM Empowered by AutoResearch
+MetaView: Monocular Novel View Synthesis with Scale-Aware Implicit Geometry Priors
+Hallo4D: Multi-Modal Hallucination Mitigation for Consistent Spatio-Temporal Generation
+ShortOPD: Recovering Pruned LLMs with Short-to-Long On-Policy Distillation
+Registers Matter for Pixel-Space Diffusion Transformers
+Vinci2: Providing Proactive Assistance in Continuous Egocentric Videos
+Self-Improvements in Modern Agentic Systems: A Survey
+AgentCompass: A Unified Evaluation Infrastructure for Agent Capabilities
+Tracing Agentic Failure from the Flow of Success
+From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization
+PalmClaw: A Native On-Device Agent Framework for Mobile Phones
+From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World
