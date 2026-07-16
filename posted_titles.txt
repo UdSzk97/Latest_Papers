@@ -13793,3 +13793,9 @@ Tracing Agentic Failure from the Flow of Success
 From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization
 PalmClaw: A Native On-Device Agent Framework for Mobile Phones
 From Controlled to the Wild: Evaluation of Pentesting Agents for the Real-World
+Discrete Diffusion Models: A Unified Framework from Tokenization to Generation
+Self in Space: Benchmarking Self-Awareness and Spatial Cognition in UAV Embodied Intelligence
+Length Penalties Make Chain-of-Thought Less Monitorable
+SPEAR: A Simulator for Photorealistic Embodied AI Research
+Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code
+AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow
