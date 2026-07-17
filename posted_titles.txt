@@ -13849,3 +13849,12 @@ Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models
 DeepLoop: Depth Scaling for Looped Transformers
 AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling
 Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel
+Planets in the Radius Gap Lack the Peas-in-a-pod Size Correlation
+Thermal Detectability of Subsurface Water Ice on Mars: A Comparative Analysis for the Subsurface Water Ice Mapping (SWIM) Project
+Impact melt deposits in the south polar region of the Moon
+Dyke swarm history of the northeastern margin of Central Ovda Regio, Venus: Evidence for mantle plume arrival and triple junction rifting.
+SUFLECA: Scaling Up Feature Learning for CAD-to-image Alignment
+RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasoning and Imagination
+Hierarchical Denoising For Multi-Step Visual Reasoning
+Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving
+Token Time Continuous Diffusion for Language Modeling
