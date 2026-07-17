@@ -13799,3 +13799,53 @@ Length Penalties Make Chain-of-Thought Less Monitorable
 SPEAR: A Simulator for Photorealistic Embodied AI Research
 Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code
 AffectFlow-DINO: Uncertainty-Aware Multi-Task Affect Estimation via Conditional Rectified Flow
+The HD 60779 Planetary System: A Transiting Sub-Neptune on a 30 Day Orbit and a More Massive Outer World
+Chemical Abundances of the Bioessential Elements C, O, and S, and the Refractory Elements Fe and Ni, in Solar-type Exoplanet-hosting Stars from HARPS North and South
+Resonant Super-Earths Dancing with EKL Oscillations: Transit Timing Variation Phase Excitation and Resonance Disruption by EKL Interactions between a Cold Jupiter and Stellar Companion
+Disentangling the Distant Stellar Halo Using K Giants in DESI Year 3 Data
+Mechanisms of Vesicle Evolution in the Fusion Crust of the Martian Meteorite NWA 10645
+A Principal Component Index for Identifying and Surveying Martian Chloride Salts Using THEMIS Multispectral Thermal Infrared Images
+Magnetic Signature of the Corona Lava Tube (Lanzarote, Canary Islands), a Lunar and Martian Planetary Analog
+Stratigraphy Preserved on the Jezero Crater Rim Reveals Repeated Impacts on Early Mars
+Impact of X‐Rays (0.5Å–90Å) During GDS 2018 on the Production Rates of H2O+, HDO+ and Electron Density in the D Region Ionosphere of Mars: First Ionospheric Modeling Based on ACS/MIR‐NIR Observations From ExoMars/TGO
+The Transmittance of Micron‐Sized Abiological Mars Simulant Particles to Ultraviolet Radiation
+Optical Effects of Metallic Iron Particles on VNIR Spectra of Silicates
+Formation of Compact Aggregate Piles on a Surface Through Dissipation of Kinetic Energy Associated With Horizontal Motion
+Morphological and Dynamical Analysis of Atmospheric Gravity Waves on Mars Using Mars Express HRSC Observations
+The Influence of Topography and Crustal Magnetic Anomalies on the Distribution of Water Ice in the Lunar South Pole Region
+Interactions of Sublimated Frost With Volcanic Plumes: Modeling Io's SO2 Atmosphere Using the DSMC Method
+Modeling the Water‐Ice Bounding Layers in the Massive CO2 Ice Deposits, South Pole of Mars
+Evolution of a Point Plume in a Rotating Unstratified Fluid Overlain by a Stratified Layer: Scaling and Implications for Icy Satellites
+Crosstalk in O2+ and CO2+ Channel Groups of MAVEN/NGIMS Ion Measurements
+Structure and Controls of the Martian Nightside Ionosphere From One Solar Cycle of MAVEN Observations
+The 40K‐K dating system: 1. Improving data interpretation using new model calculations
+Introduction to the special issue of Meteoritics & Planetary Science in honor of Christian Koeberl on his retirement as Professor of the University of Vienna, Austria—A dedication
+Exploring the igneous chondrule bearing partially melted Antarctic and deep‐sea micrometeorites
+The Ames impact structure, Oklahoma: New radioisotopic constraints and implications for North American impact chronology
+Potassium isotopic compositions and exposure ages of evolved and silica‐rich achondrites
+Found: a rocky exoplanet with an atmosphere — could it host life?
+Geologic History of the Shackleton Crater Region Near the Lunar South Pole: Basis for Future Exploration and Science Activities
+Meteor over New York City: Brines in a primitive CM asteroid
+Heterochronic limb patterning in marsupials reveals flexibility in the processes underlying lateral plate mesoderm morphogenesis
+VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding
+SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning
+SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration
+BadWAM: When World-Action Models Dream Right but Act Wrong
+KeyFrame-Compass: Towards Comprehensive Evaluation of Keyframe-Conditioned Video Generation
+MultiRef-Compass: Towards Comprehensive Evaluation of Multi-Reference-to-Audio-Video Generation
+LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget
+UniVR: Thinking in Visual Space for Unified Visual Reasoning
+From Pixels to States: Rethinking Interactive World Models as Game Engines
+Concurrent Image Understanding and Generation: Self-Correcting Coupled Markov Jump Processes
+Spectral Rewiring for Exploration, Purification, and Model Merging
+Demystifying On-Policy Distillation: Roles, Pathologies, and Regulations
+Video = World + Event Stream
+RoboTTT: Context Scaling for Robot Policies
+WanSong v1.0 Technical Report
+MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators
+VIABench: A Comprehensive Video Benchmark Collected from Blind Individuals for Visual Impairment Assistance
+GRASP: GRanularity-Aware Search Policy for Agentic RAG
+Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models
+DeepLoop: Depth Scaling for Looped Transformers
+AsySplat: Efficient Asymmetric 3D Gaussian Splatting for Long-Sequence Scene Modeling
+Smarter and Cheaper at Once: Byte-Exact KV-Cache Grafting Turns a Frozen Small Model into a Verified-Knowledge Flywheel
