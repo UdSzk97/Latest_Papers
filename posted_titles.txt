@@ -13858,3 +13858,7 @@ RxBrain: Embodied Cognition Foundation Model with Joint Language-Visual Reasonin
 Hierarchical Denoising For Multi-Step Visual Reasoning
 Chat2Scenic: An Iterative RAG-Based Framework for Scenario Generation in Autonomous Driving
 Token Time Continuous Diffusion for Language Modeling
+A trio of Jupiters for β Pictoris
+Killing two birds with many tiny stones?
+Rethinking the Evaluation of Harness Evolution for Agents
+On Locality and Length Generalization in Visual Reasoning
