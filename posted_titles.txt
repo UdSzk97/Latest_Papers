@@ -13865,3 +13865,4 @@ On Locality and Length Generalization in Visual Reasoning
 Raman and infrared spectroscopy of synthetic K-H₃O-Na alunite solid solutions: Implications for Mars exploration
 Corrigendum to ‘Electrostatic Ion-Cyclotron Higher Harmonic Instability with Latitudinal variation of Magnetic Field & Inhomogeneous Electric Field in Jupiter's Magnetosphere’ Volume 445, February 2026, 116858
 Refractory inclusions in Bennu samples indicative of outer Solar System accretion
+Amazonian mass balance history of Martian ice reservoirs: Current knowledge and uncertainties
