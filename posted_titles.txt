@@ -13866,3 +13866,35 @@ Raman and infrared spectroscopy of synthetic K-H₃O-Na alunite solid solutions:
 Corrigendum to ‘Electrostatic Ion-Cyclotron Higher Harmonic Instability with Latitudinal variation of Magnetic Field & Inhomogeneous Electric Field in Jupiter's Magnetosphere’ Volume 445, February 2026, 116858
 Refractory inclusions in Bennu samples indicative of outer Solar System accretion
 Amazonian mass balance history of Martian ice reservoirs: Current knowledge and uncertainties
+Atmospheric sputtering on Mars: roles of hydrogen energetic neutral atoms and precipitating solar wind protons
+Ag I model atom and the 3D non-LTE solar silver abundance
+Toward Instrument-agnostic Exoplanet Candidate Prioritization
+GEMS JWST: A Subsolar Metallicity Atmosphere for Giant Planet TOI-5293 A b Orbiting a Rapidly Changing M Dwarf
+How Does Ice Shell Geometry Shape Ocean Dynamics on Icy Moons?
+LIBS Elemental Mapping of a Feldspathic Lunar Meteorite: Insights for In Situ Exploration
+SPEAH‐RIT: A Fully Implicit Electron Transport Solver for Upper Atmospheres
+SPEAH‐RIT: A Fully Implicit Electron Transport Solver for Upper Atmospheres
+Emirates Exploration Imager (EXI) Reveals Crater and Boulder Distribution on Deimos: Insights Into Its Dynamical and Geological Evolution
+Light Element Exsolution in Fe‐Si‐C‐(H) System: A Mechanism for Powering Mercury's Early Core Dynamo
+Microstructural evidence for multiple generations of sulfide precipitation and impact‐induced thermal alteration under acidic conditions on Asteroid Ryugu
+Daily briefing: CRISPR gets an AI-designed upgrade
+B-type host stars revealed by exoplanets around massive secondary-clump giant stars
+RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM
+RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources
+Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories
+xHC: Expanded Hyper-Connections
+Loop the Loopies!
+Cura 1T: Specialized Model for Agentic Healthcare
+RecGPT-V3 Technical Report
+On-Policy Delta Distillation
+From Human-Centric to Agentic Code Review: The Impact of Different Generations of Generative AI Technology on Review Quality
+Qwen-Music Technical Report
+Understanding Reasoning from Pretraining to Post-Training
+When Does Muon Help Agentic Reinforcement Learning?
+Recursive Harness Self-Improvement
+VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders
+Audio-Visual Flamingo: Open Audio-Visual Intelligence for Long and Complex Videos
+S1-Omni: A Unified Multimodal Reasoning Model for Scientific Understanding, Prediction, and Generation
+Beyond Entropy: Correctness-Aware Advantage Shaping via Contrastive Policy Optimization
+DSWorld: A Data Science World Model for Efficient Autonomous Agents
+Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning
