@@ -13936,3 +13936,11 @@ DiFA: Inference-Time Forward-Process Alignment for Diffusion Models
 ShotPlan: Cinematic Video Generation with Learnable Planning Token
 Can Multimodal Large Language Models Understand OCT?
 Diagnosing and Calibrating Tool-Call Boundary Drift in Multi-Teacher On-Policy Distillation
+Faintest planet ever spotted from Earth has been hiding in plain sight
+Cometary tail detected on a near-Earth object based on nongravitational perturbations
+Open-AoE: An Open Egocentric Manipulation Dataset and Toolchain for Embodied Learning
+Do Language Models Dream of Binding Molecules? Benchmarking LLMs under Spatial Constraints
+Masked Diffusion Language Models are Strong and Steerable Text-Based World Models for Agentic RL
+Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation
+ReViV: Reconstructing the Viewer and the View in 4D from Monocular Egocentric Video
+UI2App: Benchmarking Visual Interaction Inference in Executable Web Application Generation
