@@ -13973,3 +13973,14 @@ Where Should Optimizer State Live? Tiered State Allocation for Memory-Efficient 
 Trajectory-aware Cross-view Geo-localization with Sequential Observations
 ConsiSpace: Learning Geometric Consistency Matters for Video Spatial Reasoning
 Computational Humor with Multimodal LLMs: Methods, Datasets, Evaluation, and Challenges
+Current water trapping micro-habitats on the surface of Mars
+A theoretical evaluation of cyclostrophic balance in the Venusian atmosphere using the Venus Planetary Climate Model
+What counts as a moon? Huge ‘exosatellite’ sparks debate
+Planetary-mass exosatellite detected around the substellar companion of a star
+Artistic visions shape and respond to Mars missions
+Disentangling dissociative and nondissociative reaction dynamics in molecular mutual neutralization reactions between CO+ and O−
+Plants are a powerful proxy for global tidal marsh methane fluxes
+Orbital, Latitudinal, and Diurnal Variations in Meteoroid Influx, Atmospheric Ablation and Ionization, and Micrometeorite Accretion at Venus
+Dyke swarm history of the northeastern margin of Central Ovda Regio, Venus: Evidence for mantle plume arrival and triple junction rifting
+Subliminal Clocks: Latent Time Modelling in Diffusion Language Models
+AutoIndex: Learning Representation Programs for Retrieval
