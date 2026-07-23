@@ -14004,3 +14004,13 @@ Train the Model, Not the Reader: Decodability Supervision for Verifiable Activat
 G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection
 SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments
 ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion
+Magnesium Silicate Clouds in the Atmosphere of HD 209458b from a Rule-based Tree-structured Data Reduction
+The dynamical surface of Phobos: A morphodynamic atlas
+Limited direct fluid exchange between the deep subsurface ocean and the shallow subsurface environment of Europa
+Constraining an exoplanet’s magnetic field using star-planet interactions
+Oldest known Mars rock offers glimpse of planet’s watery youth
+The bombardment history on the lunar farside revealed by 40Ar/39Ar geochronology of Chang’e-6 impact melt rocks
+ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language Models
+Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices
+Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation
+SLAM in Low-Light Environments: Project Report
