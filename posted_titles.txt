@@ -13984,3 +13984,23 @@ Orbital, Latitudinal, and Diurnal Variations in Meteoroid Influx, Atmospheric Ab
 Dyke swarm history of the northeastern margin of Central Ovda Regio, Venus: Evidence for mantle plume arrival and triple junction rifting
 Subliminal Clocks: Latent Time Modelling in Diffusion Language Models
 AutoIndex: Learning Representation Programs for Retrieval
+Observations of Uranus and Main Uranian Satellites by Using Methane Filter from 2019 to 2025
+The DECam MAGIC Survey: Uncovering the Tidal Tails of the Crater II Dwarf Galaxy
+Simultaneous Observations of 1 Hz Waves Upstream of the Martian Bow Shock by MAVEN and Tianwen-1
+The Capability of CSST in Characterizing Planetary Atmospheres. I. Transmission Spectroscopy of Hot Jupiters
+Locate a Stellar Flare from the M Dwarf LAMOST J1332+5057
+SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD
+Self Gradient Forcing: Native Long Video Extrapolation
+Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking
+An Exam for Active Observers
+Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models
+Beyond Euclidean Clipping: Overcoming Exploration Collapse in LLM RL via Riemannian Isometric Policy Optimization
+Generalizable VLA Finetuning via Representation Anchoring and Language-Action Alignment
+FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation
+Trace: A Taxonomy-Guided Environment for Multidomain Visual Reasoning
+SLPO: Scaling Latent Reasoning via a Surrogate Policy
+DocOps: A Verifiable Benchmark for Autonomous Agents in Complex Document Operations
+Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations
+G-MAD: A Game-Based Data Generation Framework for Multi-View RGB-T Aerial Object Detection
+SeededGrasp: Language-Guided Grasping in Complex Scenes with Multiple Embodiments
+ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion
