@@ -14040,3 +14040,27 @@ TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for 
 GraphVid: Interactive Graph-Controllable Video Generation
 FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents
 Multi-Turn On-Policy Distillation with Prefix Replay
+Unlocking HST’s Stellar Treasure Trove: Stellar Activity Minima for HAT-P-11 Offer Prime Windows for Transmission Spectroscopy
+Seismic Reflection Profiling at the Kentland Impact Structure, Indiana: Geophysical Characterization of Impact Induced Damage
+Characterizing Martian Lithospheric Density Distribution Through Bayesian Gravity Analysis
+Io Sub‐Surface Temperature Profile Observed by the Juno Microwave Radiometer
+Mineral Chemistry of Highly Magnesian Olivine and Enstatite in Chang'e‐6 Lunar Soil: Implications for the Search for Lunar Mantle Material
+Reproducing Ganymede's Craters With the Melosh Model of Acoustic Fluidization
+Influence of Mineral Content on Angle of Repose on the Far Side of Moon: Insight From Laboratory and Numerical Approach Based on Chang'e 6 Samples
+A Season‐Dependent Weather Predictability Barrier Phenomenon in the Martian Atmosphere
+Turbulent Heating in Jupiter's Middle Magnetosphere From Juno Data
+Injection‐Driven Heating and Transport in Jupiter’s Middle Magnetosphere
+Turbulent Heating in Jupiter's Middle Magnetosphere From Juno Data
+Injection‐Driven Heating and Transport in Jupiter’s Middle Magnetosphere
+Double Trouble: Two Active Magma Reservoirs Identified at Masaya Volcano, Nicaragua, Using Satellite Geodesy
+Oxidation of Aqueous Sulfide by Chlorate: Implications for Native Sulfur Formation on Mars
+Temporal Variations of Jupiter's Plasma Disk Observed by Juno
+Mercury’s sodium exospheric responses to a solar wind high-speed stream event
+Evolution of copiapite group minerals over a Mars surface relevant temperature range and low vacuum: SC-SC reversible transformation, thermal expansion and magnetic properties
+A confluence-geometric feature fusion approach for Martian valley networks automated extraction and drainage characterization
+Information content on Venusian aerosols in VIRTIS-M infrared data
+The pre‐disruption hydrogen budgets of the tafassite and brachinite parent bodies
+Kilometre-scale Jovian moon characterized for a potential JUICE flyby
+Oxygen Isotope Fractionation in the Martian Atmosphere Induced by CO2 Photolysis and O3 Formation
+OpenForgeRL: Train Harness-native Agents in Any Environment
+Dataset Distillation by Influence Matching
