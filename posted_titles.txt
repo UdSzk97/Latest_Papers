@@ -14014,3 +14014,29 @@ ENTRAP-VL: A Taxonomic Probe for Dual Contextual Entrainment in Vision-Language 
 Differentiable Logic Gate Networks for Low-Latency EEG Classification on Edge Devices
 Moving Alphabet: A Controlled Study of Training Data for Text-to-Video Generation
 SLAM in Low-Light Environments: Project Report
+An unidentified absorption feature at 5.11 μm on the surfaces of Titan and Pluto from JWST spectroscopy
+Investigation of Split Comet 240P/NEAT
+On the Eccentricity Distribution and Tidal Evolution of Transiting Brown Dwarfs
+The Influences of Hydrogen–Silicate–Iron Miscibility on the Demographics of Sub-Neptunes and Super-Earths
+Puffed-up Edges of Planet-opened Gaps in Protoplanetary Disks. II. The Role of the Planet’s Orbital Eccentricity
+Recent active rifting on Venus revealed by wide rift flank uplifts
+AREX: Towards a Recursively Self-Improving Agent for Deep Research
+ReferTrack: Referring Then Tracking for Embodied Visual Tracking
+K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs
+Visual Contrastive Self-Distillation
+Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text
+Color Pass-Through via Camera-Display Coupling
+Tencent WorkBuddy Bench: A Multi-Domain Coding-Agent Benchmark with Contamination-Resistant Task Construction
+Self-Supervised Learning of Structured Dynamics from Videos
+LLMs Get Lost in Evolving User Intent
+SANA-Video 2.0: Hybrid Linear Attention with Attention Residuals for Efficient Video Generation
+Sample-Efficient Learning from Agent Experience
+Recurrent Sinusoidal INRs for Efficient High-Fidelity Representation
+Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers
+Robostral Navigate
+Predictive Divergence Masks for LLM RL
+NVIDIA-labs OO Agents: Native Python Object-Oriented Agents
+TableVerse: A Large-scale Tabletop Dataset with Real-world Grounded Layouts for Generalizable Manipulation
+GraphVid: Interactive Graph-Controllable Video Generation
+FinanceComplexQA: Benchmarking Agentic Reasoning on Industrial-grade Financial Documents
+Multi-Turn On-Policy Distillation with Prefix Replay
