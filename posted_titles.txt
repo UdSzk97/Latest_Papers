@@ -14065,3 +14065,6 @@ Oxygen Isotope Fractionation in the Martian Atmosphere Induced by CO2 Photolysis
 OpenForgeRL: Train Harness-native Agents in Any Environment
 Dataset Distillation by Influence Matching
 The underlying mechanism of crop mercury hyperaccumulation in HgS-rich soils: microbially driven enlargement of the bioavailable mercury pool
+Mercury isotopes trace (meta-)sedimentary melting in pegmatite lithium mineralization in the Eastern Songpan-Ganzi Belt, China
+Experimental evidence for metallic melt trapping in the deep Martian mantle – Implications for inefficient melt segregation and highly siderophile element retention
+Oxidation state and volatile element evolution during equilibrium planetary accretion: The case study for mars and vesta
