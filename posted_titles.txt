@@ -14068,3 +14068,4 @@ The underlying mechanism of crop mercury hyperaccumulation in HgS-rich soils: mi
 Mercury isotopes trace (meta-)sedimentary melting in pegmatite lithium mineralization in the Eastern Songpan-Ganzi Belt, China
 Experimental evidence for metallic melt trapping in the deep Martian mantle – Implications for inefficient melt segregation and highly siderophile element retention
 Oxidation state and volatile element evolution during equilibrium planetary accretion: The case study for mars and vesta
+Prediction of the distribution of segregation ice in the Mars regolith with Mg(ClO<sub>4</sub>)<sub>2</sub> salts
