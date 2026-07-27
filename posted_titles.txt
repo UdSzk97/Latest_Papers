@@ -14088,3 +14088,6 @@ SceneActBench: Can Agents Act on the 3D Scenes They See?
 Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering
 Multimodal Speaker Verification as a Threat to Speaker Anonymization
 VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression
+Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for ϵ Ind Ab
+Interactive Training 2: Auditable Control Plane for Live Model Training
+O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning
