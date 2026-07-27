@@ -14069,3 +14069,22 @@ Mercury isotopes trace (meta-)sedimentary melting in pegmatite lithium mineraliz
 Experimental evidence for metallic melt trapping in the deep Martian mantle – Implications for inefficient melt segregation and highly siderophile element retention
 Oxidation state and volatile element evolution during equilibrium planetary accretion: The case study for mars and vesta
 Prediction of the distribution of segregation ice in the Mars regolith with Mg(ClO<sub>4</sub>)<sub>2</sub> salts
+TOI-7169 b: A Hot Jupiter Transiting a Metal-poor Star
+Searching for GEMS: TOI-5916 b & TOI-6158 b are Two Saturn-density Planets Orbiting M2 Dwarfs
+Resonance Capture of a Test Particle by an Eccentric Planet in the Presence of Externally Driven Apsidal Precession
+Integrated spectral-compositional analysis of listvenites, and implications for Mars
+Dynamic electron radiation belt at Mercury controlled by solar wind driving
+Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills
+Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems
+Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning
+DataPrep-Bench: Benchmarking LLMs as Training Data Preparators
+Scaling Native Multimodal Pre-Training From Scratch
+Three-Body Scattering for Generative Modeling
+LAMAR: An Open Language-Aware Multilingual Alignment Reranker
+Multi-Head Latent Control: A Unified Interface for LLM Agent Decision Making
+Spectral Prior for Reducing Exposure Bias in Diffusion Models
+IDEAgent: Agentic Quality-Diversity Search for Research Idea Generation
+SceneActBench: Can Agents Act on the 3D Scenes They See?
+Closing the Loop: Training-Free Revisit Consistency for Autoregressive Generative Rendering
+Multimodal Speaker Verification as a Threat to Speaker Anonymization
+VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token Compression
