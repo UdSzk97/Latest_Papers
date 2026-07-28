@@ -14091,3 +14091,33 @@ VisCo: Leveraging Large Language Models as Intrinsic Encoders for Visual Token C
 Worlds Next Door. IV. Mapping the Late Stages of Giant Planet Evolution with a Precise Dynamical Mass and Luminosity for ϵ Ind Ab
 Interactive Training 2: Auditable Control Plane for Live Model Training
 O-VAD: Industrial Video Anomaly Detection through Object-Centric Tracking and Reasoning
+Joint Estimation of Properties of the Lunar Subsurface and Galactic Foregrounds with LuSEE-night
+Uniform Metallicity Measurements of M Dwarf Planet Hosts Support Metallicity-dependent Sub-Neptune Formation
+A search for circumstellar gas in pre-main-sequence debris discs using absorption spectroscopy
+The influence of solar irradiation and solar wind conditions on heavy ion escape from Venus
+Detection of quasiperiodic oscillations in the blazar PKS 0735+178 with TESS
+Kimi K3: Open Frontier Intelligence
+JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents
+From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
+Progress Reward Modeling for Robotic Learning: A Comprehensive Survey
+StateAct: Program State, before Pixels, for Long-Horizon Computer-Use Agents
+Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation
+Data Pyramid for Embodied Manipulation
+Sol-Attn: Accelerating Video Generation Inference via On-the-Fly Attention Sparsification
+OmniVAE: An Audio-Video VAE with Cross-Modal Alignment for Joint Generation
+The Physics of Multi-Turn Long-Horizon Planning: From Pre-training to Post-training via Single- and Multi-Teacher On-Policy Agentic Distillation
+Oxygen-TryOn: Fashion-Native Foundation Model for Any-item Virtual Try-On
+Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
+dRAE: Representation Autoencoder with Hyper-Spherical Codes
+DecoupleMix: Decoupled Ratio Search and Convex Allocation for Scalable VLM Data Recipes
+ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding
+Codifying the Judge: Scalable Evaluation via Program Distillation
+A Frozen 12B Beats Frontier Models on Verified Work: 100% Accuracy, 0 Tokens, Bit-Exact, Forever
+GNM Head: A Generative aNthropometric Model of the human head
+Leveraging External Knowledge for Historical Document Restoration via Retrieval-Augmented Large Language Models
+Reasoning Denoiser: Denoising Reasoning Traces for Hallucination Detection in Large Reasoning Models
+FilmBench: A Film-Grade Benchmark for Cinematic Video Generation
+Evidence Attribution in Visual Document Understanding without Coordinates or Region Labels
+IndicTalk: A Large-Scale Persona-Based Multilingual Conversational Corpus for Indic Languages
+Characterizing Warp Divergence from Pascal to Blackwell
+DriveDNA: A Large-Scale Multimodal Naturalistic Driving Dataset and Benchmark for Driving Style Identification
