@@ -14121,3 +14121,14 @@ Evidence Attribution in Visual Document Understanding without Coordinates or Reg
 IndicTalk: A Large-Scale Persona-Based Multilingual Conversational Corpus for Indic Languages
 Characterizing Warp Divergence from Pascal to Blackwell
 DriveDNA: A Large-Scale Multimodal Naturalistic Driving Dataset and Benchmark for Driving Style Identification
+An Irregular Shape of the Jupiter Trojan (3317) Paris Revealed by Stellar Occultations and Rotational Light Curves
+Atmospheric Characterization of Six Ultrahot Jupiters from K-band High-resolution Spectroscopy
+Tale of two sugars: Trehalose and hyaluronic acid in a frozen Enceladus-analog brine
+Sarcopside and low crystallization temperatures of clasts in Martian regolith breccia meteorite: implications for evolved melts on early Mars
+ExoMol line lists – LXVII: empirical magnetic dipole and electric quadrupole spectra of the infrared bands of oxygen (O2)
+UltraViT: Latency-Optimized On-device Vision Encoder for Large Vision-Language Models
+A Vocabulary for Multi-Agent Automated Research Systems
+TRACE: Business Rule-Grounded Reasoning Curriculum for Knowledge-Preserving Parametric Tool Retrieval in Enterprise LLMs
+WorldDiT: A Unified Diffusion Architecture for World and Action Modeling
+Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features
+TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward
