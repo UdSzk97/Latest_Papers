@@ -14132,3 +14132,31 @@ TRACE: Business Rule-Grounded Reasoning Curriculum for Knowledge-Preserving Para
 WorldDiT: A Unified Diffusion Architecture for World and Action Modeling
 Bitcoin Price Direction Prediction via Regime-Aware Multi-Modal Fusion of Social Sentiment and Technical Features
 TILT: Improving Compositional Generation in Diffusion Models with a Model-Intrinsic Reward
+Quadratic Shift-and-stack for Ground-based Optical Detection of Faint Cislunar Objects
+Gaia Exoplanet Orbits, Demographics, and Evolution Survey (GEODES). I. Characteristics of Three Long-period Companions Accelerating their Host Stars
+Analysis of lava flow features on Venus and identification of main radar sounder target regions
+Primary evaporite in southern Utopia Planitia on Mars from Zhurong rover observations
+Staple crops as a key hub of biogeochemical mercury cycle across China
+HiFi-UMI: Learning Deployable Manipulation Policies from High-Fidelity UMI Data Alone
+A New Role for Relevance: Guiding Corpus Interaction in Agentic Search
+ReDesign: Recovering Editable Design Structures from Images via Agentic Decomposition
+Keep It InMind: Benchmarking the Implicit-Association Blind Spot in Agent Memory
+Mage-VL: An Efficient Codec-Native Streaming Multimodal Foundation Model
+Pass the Baton: Trajectory-Relayed On-Policy Distillation
+CodeNib: A Multi-View Data System for Serving Repository Context to Coding Agents
+Wonder: Video World Model Done Better
+PerceptionBench: Evaluating Atomic Visual Perception in Multimodal Large Language Models
+Novel Claim or Déjà Vu? Rethinking "Contamination-Free'' Dynamic Evaluation for Multimodal Automated Fact-Checking
+Shieldstral
+Parallel Decoding Distillation for Fast Image and Video Generation
+MODUS: Decoder-Only Any-to-Any Modeling of Diverse Modalities
+Visual prompt engineering for video models
+OmniDelta: Skill-Driven Budget Allocation for Token Compression in OmniLLMs
+Towards Robust Reinforcement Learning for Small-Scale Language Model Agents
+Mapping CVEs to MITRE ATT&CK Techniques: A Curated Gold-Set Classifier and the Limits of LLM-Assisted Label Expansion
+Where Quality Breaks in Compressed Short-Text Generation: Staged Bottleneck Localization
+VisualPatchWorld: Code World Models as Latent Structured Representations for Planning
+Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control
+GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels
+Projection Pursuit CPCANet for Domain Generalization
+Edge-Aware Thermal Infrared UAV Swarm Tracking
