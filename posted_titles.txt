@@ -14160,3 +14160,10 @@ Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Mode
 GLI-AL: A Multi-Modal Glioma MRI Label Resource with Unified Anatomy-Lesion Labels
 Projection Pursuit CPCANet for Domain Generalization
 Edge-Aware Thermal Infrared UAV Swarm Tracking
+A Look at Eight Outbursts of Comet 7P/Pons–Winnecke
+Reinforcement Learning for Code Optimization
+Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents
+How Fast Can Reward Models Score? A Systems Study of C++ and PyTorch Inference Runtimes for RLHF
+Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM-1 Mine Detection
+Uncovering Latent Reasoning Strategies in Language Models
+OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis
