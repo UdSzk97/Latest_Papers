@@ -14189,3 +14189,9 @@ StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Age
 Grading the Narrators: An Isnad-Rijal Framework for Claim-Level Provenance in Multi-Agent Knowledge Systems
 CADENCE: Closing the Reasoning Gap via Coverage-Adaptive On-Policy Distillation
 SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response
+Erratum: The Climates and Thermal Emission Spectra of Prime Nearby Temperate Rocky Exoplanet Targets (2025, ApJ, 984, 181)
+MindForge: Teaching Small Language Models Whole-Life-Cycle Software Engineering via Source-Free Program Synthesis
+SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-Based Program Synthesis from Scratch
+Voice Memory for Agentic Speech Recognition
+πR^2: Reactive Real-time Flow Policies
+DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation
