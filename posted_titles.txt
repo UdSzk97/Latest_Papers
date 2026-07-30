@@ -14167,3 +14167,25 @@ How Fast Can Reward Models Score? A Systems Study of C++ and PyTorch Inference R
 Human-in-the-Loop Signature Bootstrapping for UAV Hyperspectral PFM-1 Mine Detection
 Uncovering Latent Reasoning Strategies in Language Models
 OPERA: Offline Policy-guided Expert Routing and Adaptation for Universal Biomedical Image Analysis
+Simultaneous Tricolor Video Observations of Three Tiny Near-Earth Asteroids with Subminute Rotation Periods
+Photometry of Kuiper Belt Objects in Inner and Outer Mean Motion Resonances with Neptune
+Atmospheric Signatures of Common-envelope Evolution in White Dwarf Planets
+The lost oceans of Venus
+Size Constraints for the Pre-atmospheric Parent Bodies of Ordinary Chondrites
+TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM
+CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization
+HumanCLAW: Can Vision-Language Models Act Through a Body?
+DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space
+CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition
+CAST: Game Solvers as Turn-Level Teachers for LLM Agents
+SkillRise: Agentic Reinforcement Learning for Cross-Task Skill Evolution
+StatePlay: State-Aware Game World Models for Mechanics-Consistent Generation
+OmegaUse-OfficeVal: Benchmarking LLM Agents on Long-Horizon Office-Suite Tasks with Economic Grounding
+Can AI agents conduct open-ended AI research? Early evidence from two case studies
+GPT-Red: Automated Red Teaming via Self-Play at Scale
+Explicit Layer Modeling for Video Object Insertion and Layer Decomposition
+Memory for Large Language Models
+StealthBench: Measuring Operational Stealth in Autonomous Offensive-Security Agents
+Grading the Narrators: An Isnad-Rijal Framework for Claim-Level Provenance in Multi-Agent Knowledge Systems
+CADENCE: Closing the Reasoning Gap via Coverage-Adaptive On-Policy Distillation
+SecRespond: Benchmarking AI Agents for Real-World Post-Compromise Incident Response
