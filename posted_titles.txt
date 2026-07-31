@@ -14241,3 +14241,9 @@ Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions
 AI Tour Meeting: Group Travel Planning by LLM Agents
 AMRD: Adaptive Multi-Teacher Relational Distillation for Lightweight Speech Emotion Recognition
 Pedestrian Archetypes Extension -- More Pedestrian Models for Autonomous Vehicle Safety Testing
+Subsurface Water Ice Mapping on Mars: A Probabilistic Approach
+Gelato: A Mission Concept for Comet Surface Sample Return
+Fe-Si alloys extraction via carbothermal reduction of lunar regolith
+β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation
+OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models
+Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing
