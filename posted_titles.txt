@@ -14195,3 +14195,49 @@ SpecFirst: Behavioral Specification Elicitation as a First-Class Step in Agent-B
 Voice Memory for Agentic Speech Recognition
 πR^2: Reactive Real-time Flow Policies
 DistillAlign: Coordinating Mode Covering and Mode Seeking in Autoregressive Video Distillation
+Spatial profiles and scale lengths of nickel, iron, and CN on the interstellar comet 3I/ATLAS
+Energetic Proton Dynamics in Ganymede’s Magnetosphere under Different Upstream Conditions: The Role of Field-line Curvature Scattering
+Magnetic Reconnection inside a Martian Ion Plume: MAVEN Observations
+Statistical constraints on albedo structure in asteroid families from NEOWISE measurements
+The EBLM project – XVIII. 3D obliquities of five low-mass eclipsing binaries
+The GALAH Survey: Neutron-Capture Elemental Abundances for 350 000 Gaia-RVS spectra and the Chemodynamics of Accreted Structures
+Plasma wave observations from Juno spacecraft at the Jovian bow shock
+Author Correction: Recent active rifting on Venus revealed by wide rift flank uplifts
+Wide flanks of rift uplifts on Venus indicate recent rifting activity
+Changes in Pluto’s Atmosphere Based on Stellar Occultation Data from 2017 to 2023
+Evidence for Possible N2 Basal Flow beneath Pluto’s Northern Sputnik Planitia
+Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents
+PhiZero: A World Model Built Around Physical Language
+Metis: Memory Foundation Model
+Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering
+AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis
+VideoCoCo: Code-as-CoT for Physically-Consistent Video Generation via an Agentic Dual-Engine System
+Beacon: Knowing When and How to Perform Agentic Visual Reasoning
+Memory Decoder at Scale: A Pretrained, Parametric Long-Term Memory
+BM25 Wins at Scale: A Scaling Study of Retrieval-Augmented Generation Paradigms
+MPIE-Bench: Benchmarking Anatomically Plausible Multi-Person Interaction Editing
+ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine
+Flux-OPD: On-Policy Distillation with Evolving Contexts
+Beyond Borrowed Histories: Person-Aligned User Simulation for Interactive Role-Playing Evaluation
+RefCaptioner: Multi-Reference Image-Grounded Video Captioning
+SpatialCLI: Learning to Reason With Spatial Tools, Then Without Them
+ShadowDancer: Teaching Video World Models Any Action by Learning Unified Dynamics Representations from a Video and Its Shadow
+See2Think: Do Multimodal Models Really Use Intermediate Visual States?
+MemHarness: Memory Is Reconstructed, Not Replayed
+Can Large Language Models Execute Parent Orders?
+Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers
+INTACT: Isomorphic Intent-to-Action Learning for Search-Free World Models
+LEDGERMIND: Provenance-Constrained Multimodal Agentic Reasoning with a Structured Evidence Ledger
+Echoverse: Deep, Evolving Environments for Training Computer-Use Agents at Scale
+Revisiting Lossy Verification in Speculative Decoding: Mechanisms, Trade-offs, and Failure Modes
+Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability
+Multi-Head Attention Residuals
+Harness-G: A Graph-Structured Harness for Search Agents
+Σ-Mem: An Online Reliability Memory for LLM-based Multi-Agent Systems
+Explorative Modeling: Unlocking a Third Pretraining Axis and End-to-End Generation
+ReToken: One Token to Improve Vision-Language Models for Visual Retrieval
+Fairness Pruning: Locating Demographic Bias in GLU-MLP Layers via Differential Activations
+Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions
+AI Tour Meeting: Group Travel Planning by LLM Agents
+AMRD: Adaptive Multi-Teacher Relational Distillation for Lightweight Speech Emotion Recognition
+Pedestrian Archetypes Extension -- More Pedestrian Models for Autonomous Vehicle Safety Testing
