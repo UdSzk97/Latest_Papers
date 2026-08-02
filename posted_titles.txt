@@ -14247,3 +14247,5 @@ Fe-Si alloys extraction via carbothermal reduction of lunar regolith
 β-OPSD: Deriving with Policy Optimization, Training with Self-Distillation
 OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Models
 Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing
+Lunar Sosigenes IMP as analyzed with orbital spectrophotometry and polarimetry
+Lateral spreading of meteoroids fragments
