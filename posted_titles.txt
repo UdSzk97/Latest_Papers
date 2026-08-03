@@ -14278,3 +14278,7 @@ Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs
 In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing
 Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning
 SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Vehicle Autonomous Racing
+Venus’s rift valleys could be its secret to staying active
+Multiyear Ground-based Survey Photometry of Active Comet 103P/Hartley 2 and Centaur (2060) Chiron: A Tale of Two Comets in the Pre-LSST Era
+EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents
+Constitutional Midtraining: Content Presence Drives Alignment Gains
