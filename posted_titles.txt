@@ -14249,3 +14249,32 @@ OmniScope: Modality-Decoupled Token Compression for Omnimodal Large Language Mod
 Beyond Geometric Complementarity: Coherent Overlap in Sparse Mixture-of-Experts Routing
 Lunar Sosigenes IMP as analyzed with orbital spectrophotometry and polarimetry
 Lateral spreading of meteoroids fragments
+Clustering Smoothed Particle Hydrodynamics Debris into N-body Fragments: A Collisional Code for Planet Formation
+Comprehensive Ab Initio Quantum Computations of CO2–H2 and CO2–He Collisional Properties
+How Late Solid Enrichment Shapes Atmospheric Abundances in Giant Planets
+Probing the Magnetic Activity of GJ 398 through TESS Flare Detection and uGMRT Radio Observations
+Planetary systems in the light of asteroseismology: metallicity threshold for the planetary systems and age–metallicity relation
+From RLVR to RLSVR: Task Transformation Induces Self-Verifiable Rewards for Open-Ended LLM Self-Improvement
+N_0-VTLA: Scaling Vision-Tactile-Language-Action Model with Latent Tactile Tokens
+Meshy T2: Fast Native Mesh Generation with Flow Matching
+AISPA: User-Centric System Prompt Auditing for Large Language Model Applications
+Mental World Modeling
+N_0-TWAM: Scaling Tactile-Native World-Action Model for Contact-Rich Manipulation
+Scaling Properties of Text Conditioning in Visual Generation
+QQWorld: Quantile-Quantile Matching for World Model Regularization
+SAF-OPD: Stable Advantage Fusion for On-Policy Distillation
+Fewer Clarifications, Better Code: Benchmarking Cross-Session Personalized Ambiguity Adaptation in Coding Assistants
+Enhancing Rubric-based RL via Self-Distillation
+ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction
+Evaluation-Verification Reward for Consistent Multi-Reference Image Editing
+ODEWorld: A Continuous Predictive Architecture via Physical-Time Flow
+One Future, Every Robot: Label-Efficient Collective-State Prediction with Decentralized JEPA
+RL^2-VLA: Adaptive RL Latent Compositional Steering with Test-Time Scaling for Vision-Language-Action Models
+Toward Robust and 3D-Aware RGB-NIR Imaging in the Dark
+Not All Tokens Deserve Equal Credit: Counterfactual Sensitivity Credit Reallocation for Long-CoT Reasoning
+SULAND v2: A Refined RGB Dataset and Deep Learning Object Detection Benchmark for UAV/UGV-Based SUrface LANDmine Detection Under Domain Shift
+Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm
+Safeguards Based on Copyable Context Cannot Provide Reliable Safety for LLMs
+In the Driver's Seat: A Multi-Company Study on the Reality of Autonomous Driving System Testing
+Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning
+SGTP: Sampling-based Game-Theoretic Planning for Real-Time Multi-Vehicle Autonomous Racing
