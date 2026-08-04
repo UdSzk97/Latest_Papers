@@ -14310,3 +14310,17 @@ Relax Within, Balance Across: Geometry-Guided Load Balancing for Vision-Language
 RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems
 Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures
 A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples
+Carbonate precipitation and CO₂ sources in a Hypersaline Crater Lake of the Pali Aike Volcanic Field, Southern Patagonia
+Extreme exhumation along a volcanic arc exposed the world’s youngest pluton in the Japanese Alps
+Reflectance spectroscopy (250–2500 nm) of an aggregate sample from asteroid (101955) Bennu
+Improving exoplanet mass characterization with Bayesian model selection using the learned harmonic mean estimator
+Climate warming and atmospheric deposition jointly accelerate the Antarctic Peninsula atmosphere–glacier–land–ocean mercury loop
+To Add Is Machine, To Delete Is Human: Measuring and Mitigating Deletion Avoidance in LLM Code Editing
+Zero-Mem: Zero-Token Memory Operations for LLM Agents
+ICDAR 2026 Competition on Information Extraction from Atomic Layer Deposition/Etching (ALD/E) Scientific Figures
+Wnuan: Staged Post-Training for Question Answering over Proprietary Enterprise Knowledge
+Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI
+Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV
+Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models
+GEOID-Flood: A Large-Scale Multi-Modal Benchmark Dataset for Flood Segmentation
+SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space
