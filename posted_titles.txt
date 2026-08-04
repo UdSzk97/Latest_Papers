@@ -14282,3 +14282,31 @@ Venus’s rift valleys could be its secret to staying active
 Multiyear Ground-based Survey Photometry of Active Comet 103P/Hartley 2 and Centaur (2060) Chiron: A Tale of Two Comets in the Pre-LSST Era
 EMBL AI Librarian: Life-Sciences Knowledge Layer for AI Agents
 Constitutional Midtraining: Content Presence Drives Alignment Gains
+SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks
+LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks
+Progressive Agent Skill Generation via Reinforcement Learning
+VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation
+DAPD: Dual-Anchored Policy Distillation
+UEmbed: Unified Sparse and Dense Multimodal Embeddings
+WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity
+CADENA: Stepwise CAD Reverse Engineering
+SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation
+WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning
+SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
+Motion Beyond Morphology: Bootstrapping Cross-Category Motion Transfer from Abstract Motion Representations
+Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs
+GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning
+Roomer: Reflective Object-Grounded Model Editing and Repair for 3D Indoor Layout Synthesis
+GPTQ-2D: Cubic-Time Two-Sided Adaptive Rounding
+DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents
+3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering
+DiffusionGemma Technical Report
+LeapTalk: Breaking the Latency-Quality Trade-off in Talking Head Generation
+StyleForge: Indoor Furniture Styling by Counterfactual Reasoning in a Hypergraph Field
+DreamTraj: Generating 6-DoF Object Trajectories by Reading Unrendered Video Diffusion Latents
+Poplar: A Scalable Pipeline for Human-Centric Image Dataset Synthesis
+ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step
+Relax Within, Balance Across: Geometry-Guided Load Balancing for Vision-Language Mixture-of-Experts
+RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems
+Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures
+A Frozen Pixel-Space Diffusion Model Can Guide Itself with Its Own Samples
