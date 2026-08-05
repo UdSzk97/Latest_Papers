@@ -14324,3 +14324,40 @@ Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV
 Seeing or Knowing? Visual Context Sensitivity in Multimodal Large Language Models
 GEOID-Flood: A Large-Scale Multi-Modal Benchmark Dataset for Flood Segmentation
 SG-WAM: Self-Guided World Modeling in Geometry-Aware Policy Space
+The majority of hot Jupiters formed beyond the water ice line
+The Effect of Spectral Resolution on Biosignature Detection via Reflected-light Observations of the Earth through Time
+Search for Near-Earth Asteroid Pair Candidates Based on Orbital Evolution Analysis
+The Composition of Very Energetic Heavy Ions in Jupiter’s Magnetosphere
+Effect of asteroid gardening on the exogenous delivery of extraterrestrial organic matter
+A self-consistent 3D hydrodynamic model for helium transit signatures in evaporating hot Jupiters
+Towards understanding stellar variability at the sub m/s level: granulation-induced variability across the optical spectrum
+Exoplanets in ancient stellar populations: occurrence constraints and hot-Jupiter candidates in the Galactic halo
+MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations
+JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion
+Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing
+AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling
+Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent
+Knowledge-Geometry Decoupling: Refreshable Pretrained Transfer for Streaming Recommendation
+PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning
+Quo Vadis, World Modeling?
+PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents
+Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging
+OmniPack: Unified Token Compression for Efficient Omni-modal Large Language Models
+LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models
+CAPEval: A Decoupled Caption Evaluation across Understanding and Generation
+UniWorld-Design: From Pixel Generation to Layer-Native Design
+SkillJack: Persistent Skill Backdoors in Self-Evolving Agents
+TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning
+GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience
+ExplainBench: Evaluating Code Explanations from Agents
+MiniWorld: Democratizing the Training of Video World Models from Scratch
+ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?
+When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
+Decoding Children's Gait Behavior
+Push-Wiper: Toward General-Purpose Robotic Cleaning across Varied Stains and Surfaces with Segmented Pushing Trajectories
+ST-WAM: Semantic-Temporal World Action Model for Robust Manipulation under Visual Distribution Shifts
+PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs
+Are the Financial Reasoning from LLMs Credible? A Real World Test over Long-Horizon Statements
+When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings
+Multi-Task Multi-Frame Visual Piano Transcription
+Better, Stronger, Faster, and Broader: Structured All-Mask Prediction for MLLM-Based Segmentation
