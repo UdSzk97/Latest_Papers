@@ -14362,3 +14362,32 @@ When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings
 Multi-Task Multi-Frame Visual Piano Transcription
 Better, Stronger, Faster, and Broader: Structured All-Mask Prediction for MLLM-Based Segmentation
 Low-temperature reflectance spectra of meteorites: Implications for space missions
+Transit Timing of the White Dwarf-cold Jupiter System WD 1856+534
+A Heliosphere-like Current Sheet in Jupiter’s Magnetosphere with Hinging Geometry
+ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment
+ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation
+The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads
+Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes
+OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents
+GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks
+When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation
+Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning
+NOLLI: A Difficulty-Calibrated Puzzle Benchmark for Diagnosing the English-Korean Performance Gap
+Ego2Robot: Scalable Robot Data Synthesis from Egocentric Human Data
+AVE-Compass: Towards Holistic Evaluation for Audio-Video Editing Abilities
+When Memory Lies: An Empirical Study of Spatial Memory Staleness in VLM Agents
+Distill Where You Fail: Recovering Learning Signals of Negative RL-Groups from Adaptive Teacher Guidance
+FocusMem: Factorizing Content, Readout, and Trust in Latent GUI Memory
+K-EXAONE 2.0 Technical Report
+HelloWorld: Enabling Socially Interactive Characters in Video World Models
+WorldCycle: Self-Verifiable Reinforcement Learning for Long-Horizon Video World Models
+Poly-OPD: Heterogeneous Multi-Teacher On-Policy Distillation for Capability-Selectable Flow Models
+OPD-V: Visual On-Policy Self-Distillation with Modality Balance
+BridgeVLA++: A Data-Efficient, Generalizable, and Memory-Augmented Vision-Language-Action Framework for 3D Manipulation
+SKILL-KD: Contrastive Skill Distillation for LLM Agents
+Agent Against Agent: An Agentic System for Automatic Prompt Injection Red Teaming
+UniWorld-View: Large-Baseline View Synthesis via Video Diffusion Models
+TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induced Ternary Complex
+Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning
+DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack
+Self-Evolving Coding Agents
