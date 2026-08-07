@@ -14391,3 +14391,11 @@ TriGlue: a Biology-Inspired Generative Model for Generating Molecular Glue-Induc
 Consistency-Driven Co-Evolution for Self-Supervised Cross-Representation Learning
 DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack
 Self-Evolving Coding Agents
+Hydromagnesite on Earth and Mars
+Lossless Tensor Compression as Program Synthesis
+Recursive Synthesis for Long-Horizon Terminal Tasks
+FinanceHarness: Autonomous Financial Deep Research Framework
+SIGNPOST-Bench: Benchmarking Text-Vision Conflict Resolution in Multimodal Large Language Models
+Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation
+Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers
+What AI Red-Team Evaluations Can and Cannot Prove
