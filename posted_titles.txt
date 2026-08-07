@@ -14422,3 +14422,16 @@ MASS: Multiplayer World Models with Authoritative Shared State
 Invisible Shortcuts: Why Vision Encoders Know Your Camera
 Continual Learning in Transition
 Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation
+Reinterpreting the JWST Observations of 55 Cancri e with a Nongray General Circulation Model
+Bundled cross-strata from Martian rocks suggest an Earth-like cyclic self-organisation of bedforms
+The thermal constraint behind methane emissions into the Martian atmosphere from Earth-based studies
+Simulation-based Assessment of Polarimetric L-band Synthetic Aperture Radar for Shallow Ice Detection on Mars
+Balancing Variety and Sample Size: Optimal Parameter Sampling for Ariel Target Selection
+Oxygen Fugacity as a Control on Venusian Basalt Mineralogy: Constraints from Experiments and Thermodynamic Modeling
+Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval
+DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces
+KVAE: Family of Tokenizers for Multimodal Generative Models
+Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay
+Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills
+GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization
+FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds
