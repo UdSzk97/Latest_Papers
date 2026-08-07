@@ -14399,3 +14399,26 @@ SIGNPOST-Bench: Benchmarking Text-Vision Conflict Resolution in Multimodal Large
 Helping Music Co-Creation Agents 'Listen' Well: Hierarchical Self-Supervised World Models for Understanding and Generation
 Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers
 What AI Red-Team Evaluations Can and Cannot Prove
+AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning
+WorldClaw: Agentic 3D Open-World Generation at Scale
+OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models
+EnvACE: Internalizing Environment Dynamics via World Rehearsal for Agentic Reinforcement Learning
+GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?
+Learning from Failures: Retrieval-Centric CoT via Hard Negatives for Unified Multimodal Retrieval
+ChronoVision: Temporal Reasoning via Latent State Reconstruction
+From Economic Agents to Agentic Economies: A Systems Blueprint for Economic World Models
+On-Policy Delta Distillation for Multilingual Math Reasoning
+HarnessOpt-Bench: Evaluating LLMs at Harness Optimization
+DyPES-VLA: Learning Shared Dynamics Priors and Embodiment-Specific Control for Cross-Embodiment Manipulation
+Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains
+World-to-Wrist: Task-Conditioned Future Wrist Modeling for Fine-Grained Robot Manipulation
+EffectLearner: World-Aware Object-Effect Reasoning for Real-World Video Object Removal
+CalibForge: Adversarial Solver Calibration for Scaling Learnable Terminal Tasks
+PaDoc: Layout-Grounded Parallel Decoding for Document Parsing
+SmartMage: Dynamic Modality Orchestration for 3D Scene Understanding
+MameLoshnLM: Yiddish Language Model and Evaluation Benchmark
+ContextMaster: Interactive Multi-Shot Video Creation via Fixed-Budget Sparse Context Routing
+MASS: Multiplayer World Models with Authoritative Shared State
+Invisible Shortcuts: Why Vision Encoders Know Your Camera
+Continual Learning in Transition
+Task-Conditional Flow Matching for Balanced Multilingual Text Embedding Adaptation
