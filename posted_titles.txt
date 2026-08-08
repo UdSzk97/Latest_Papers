@@ -14435,3 +14435,4 @@ Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and 
 Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills
 GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization
 FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds
+Oxygen fugacity as a control on Venusian basalt mineralogy: Constraints from experiments and thermodynamic modeling
