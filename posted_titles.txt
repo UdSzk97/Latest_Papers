@@ -14436,3 +14436,27 @@ Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting
 GaussianSelector: Lightweight Human-Guided Object Selection in 3D Gaussian Splatting with Graph Optimization
 FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds
 Oxygen fugacity as a control on Venusian basalt mineralogy: Constraints from experiments and thermodynamic modeling
+Currents in the Martian Ionosphere: Cases Without Strong Crustal Magnetic Fields
+The Role of Magmatic Styles in Planetary Thermal Evolution Models
+Vertical Retention of Water Ice in Lunar Regolith Under Vacuum Conditions
+Reconstructing Europa's Atmosphere From H2+ ${\mathbf{H}}_{\mathbf{2}}^{+}$ Pickup Ions Detected During the Juno PJ45 Flyby
+Minerals in Iron and Titanium Skeletal Textures in Nakhlites MIL 090030, MIL 090136, MIL 090032, and MIL 03346: Comparative Analysis With Terrestrial Analogues From Canary Islands, Spain
+Topographic Relaxation of Tegid Crater: Implications for Processes on Europa's Ice Shell
+A Fluid‐Mediated Alteration Process on the Howardite Parent Asteroid Recorded by Pyroxene Decomposition to Fe–Ti–Cr Oxides and Amorphous Silica
+IR‐Raman Study on Hexahydrite Amorphization Under Vacuum and Low Temperatures
+Hydrocode Simulation of Lonar Impact Event: Insights Into Brittle Deformation and Formation of Simple Craters in Basalt
+Features in the Visible Spectra of the Enceladus Particle Plume and E Ring: Potential Evidence of Organic Materials and/or Missing Sub‐Micron Particles
+Formation Mechanism of Brightness Temperature Anomaly in CE‐3 Landing Region and Its Significance to Re‐Understand Magmatic Evolution of Mare Imbrium
+Coincident ENA and Narrowband Radio Emissions as Diagnostics of Inward Plasma Transport at Saturn
+Low Frequency Extensions of Cyclotron Maser Instability‐Generated Radio Emission: A Statistical View From Cassini at Saturn
+Near‐Earth Cosmic Ray Modulation Index ϕ and Neutron Monitor Cutoff Rigidities at Hourly Cadence: Toward an Improved Monitoring of Solar‐Terrestrial Radiation Environment, Space Weather, and Space Climate
+Jovian Auroral Proton Precipitation
+Magnetization records of terrestrial weathering in the Sericho pallasite
+John William Larimer (1939–2026)
+Nature, origin, and phosphorylation potential of the phosphorus/sulfur‐bearing nanoscale multiphasic assemblages in the CM chondrites Murchison and Murray
+Geophysical update of the diameter of the Zhamanshin impact structure, Kazakhstan
+Marc Chaussidon—Leonard Medal 2026
+Oxygen isotope variability in the IIIAB iron meteorites and their relationship to main group pallasites
+The first discovery of a shocked, metasomatised CV3 chondrule‐fragment in a (Al,Cu)‐bearing micrometeorite
+Crystallization of dmisteinbergite (hexagonal CaAl2Si2O8) from type B CAI analog melt
+Characterization of coesite‐bearing impact melt glass from the Hapcheon crater, Korea: Trimodal phase architecture, shock metamorphism, and implications for 40Ar/39Ar geochronology
