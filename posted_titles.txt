@@ -14460,3 +14460,27 @@ Oxygen isotope variability in the IIIAB iron meteorites and their relationship t
 The first discovery of a shocked, metasomatised CV3 chondrule‐fragment in a (Al,Cu)‐bearing micrometeorite
 Crystallization of dmisteinbergite (hexagonal CaAl2Si2O8) from type B CAI analog melt
 Characterization of coesite‐bearing impact melt glass from the Hapcheon crater, Korea: Trimodal phase architecture, shock metamorphism, and implications for 40Ar/39Ar geochronology
+Beyond Simply Environment Scaling: Designing Effective Environment Distributions for Multimodal Agent Learning
+SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs
+SimWAM: A Simple World Action Model for End-to-End Autonomous Driving
+StreamArena: Toward Continuous, Interactive, and Long-Horizon Agentic Streaming Video Understanding
+YOLO-PEFT: Parameter-Efficient Fine-Tuning on YOLO Family
+Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning
+Douyin Multimodal Embedding Model Technical Report
+Uncertainty-Aware World Model for Aerial Image-Goal Navigation
+Skaling: Chinchilla's Exponents Meet Kaplan's Coupling
+Addressable Memory for Video World Models
+Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss
+The Optimizer Is the Agent: Reasoning-Driven Search across Prompts, Programs, and ML Workflows
+Modular TTT: Rethinking Test-Time Training as Composable Modules
+Characterizing the Quality Profile of AI-Generated C++ in Production
+When Privileged Guidance Misaligns: State-Matched Routing and Contextualized Self-Distillation for Multi-Turn Agents
+Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors
+Zero Gap Is Not Restoration: Stratified Per-Question Probability Evaluation and Step-wise Mitigation of Benchmark Contamination
+Do AI Personas Grow? Analyzing and Benchmarking Personality Evolution in LLM Agents After Life Events
+PrivacyPeek: Auditing What LLM-Based Agents Acquire, Not Just What They Say
+Can MLLMs Decode the Creative Leap? Introducing C4 for Cross-Concept Understanding
+Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence
+OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understanding, and Interaction
+Towards Interpretable Foundation Models for Retinal Fundus Images
+FATE: Frame-Level Audio-Visual Temporal Embedding
