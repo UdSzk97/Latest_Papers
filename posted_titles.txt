@@ -14484,3 +14484,14 @@ Capek 0.5: An Execution-Centric Vision-Language Model for Embodied Intelligence
 OneEmo: A Unified Multimodal Reasoning Model for Emotion Perception, Understanding, and Interaction
 Towards Interpretable Foundation Models for Retinal Fundus Images
 FATE: Frame-Level Audio-Visual Temporal Embedding
+Unraveling the Mystery of the Peculiar and Young Hot Jupiter CoRoT-2 b. II. Phase-resolved Emission Spectroscopy with Very Large Telescope/CRIRES+ and Gemini South/IGRINS
+DCAS: Decoupling CLI Agent Scaffolding to Internalize Planning across Scaffolds
+MatrAIx: Simulating the World with 8.3 Billion Persona Agents
+When Activation Oracles Learn Not to Read: Concept-Specific Blind Spots in Fine-Tuned Oracles
+Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode in Hard Prompt Compression
+Small Foundation Models of Human Cognition and Behaviour
+Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection
+Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual Content Lifecycle
+Complementary Matrix-Gated QKAN Fast-Weight Programmers for Quantum Dynamics Forecasting
+CLIP-CC-Bench: Evaluating Paragraph-Level Video Descriptions in Video-Language Models
+DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues
