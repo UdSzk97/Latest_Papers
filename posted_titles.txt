@@ -14495,3 +14495,32 @@ Adversarial Attacks for Good: A Survey of Proactive Protection across the Visual
 Complementary Matrix-Gated QKAN Fast-Weight Programmers for Quantum Dynamics Forecasting
 CLIP-CC-Bench: Evaluating Paragraph-Level Video Descriptions in Video-Language Models
 DuplexGen: Adaptive Synthesis of Human-AI Turn-Taking Dialogues
+The Exozodi Spectral Effect: Residual Habitable Zone Dust May Bias exoEarth Characterization
+Rigorous Use of Light-curve Inversion and Stellar Occultation Techniques for Deriving a Scaled Three-dimensional Shape for the Jupiter Trojan (911) Agamemnon
+An agnostic machine learning model of photosynthetic habitability
+First planetesimals from DESI DR1: 12 highly metal-rich white dwarfs
+Titania’s Deuterium Abundance and the Origin of Its Water
+Double Ellipsoidal Harmonic Gravity Field Models for Bilobed Bodies: Example of Comet 67P/Churyumov–Gerasimenko
+Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA
+SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring
+Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution
+Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory
+Motif 3: Technical Report
+BDH-CQ: In-Context Learning with Recurrent Latent Reasoning
+Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains
+What to Edit Next: Visually Aligned Image-Editing Follow-Up Suggestions in Conversational Systems
+SPOT: Sparse Probing and Outcome Calibration for On-Policy Distillation
+OasisKV: Scaling In-Decode KV Cache Beyond HBM with Lookahead Sparse Prefetching
+RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States
+Evidence-RL: Towards Evidence-intensive Visual Reasoning
+Scaling Inherently Interpretable Language Models
+Evo-Bench: Can Language Models Improve Agent Harness?
+Stealing Reasoning Traces from Proprietary LLM APIs
+RynnValue: Scaling Robotic Value Foundation Models with Temporal Distance
+A^2E : An End-to-End Agent Auditing Engine
+Intent Speaks Louder: Controllable User Simulation Beyond Response Imitation
+Factorized Hypothesis Search for Evidence-to-Taxonomy Retrieval
+Ego-OSCAR: Egocentric Open source Stereo CAptuRe System
+Vision-Language Grounding as Bidirectional Concept Correspondence
+WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks
+CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems
