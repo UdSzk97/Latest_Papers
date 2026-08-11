@@ -14524,3 +14524,15 @@ Ego-OSCAR: Egocentric Open source Stereo CAptuRe System
 Vision-Language Grounding as Bidirectional Concept Correspondence
 WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks
 CEAA: A Cognitive Embodied Agents Architecture for Interactive Computing Systems
+Digital Outcrop Model reconstructions of diverse geomorphologies based on <em>Zhurong</em> rover data (Utopia Planitia; Mars)
+On-Policy Self-Distillation without Any Supervision
+Business Arena: Benchmarking LLM Agents in a Realistic Marketplace
+The Loss Does Not See the Basis, but Adam Does
+Cultivar: A Contrastive and Locale-Oriented Translation Benchmark for Investigating Contamination and Localisation Robustness
+Don't Scroll Back: Missing-Evidence Memory for Streaming Dialogue Summarization
+Gaming Without an Attacker: Benchmark Fingerprinting in LLM-Driven Search Under Selection Pressure
+SymDiag: Explainable Diagnosis for LLM Reasoning via Neuro-Symbolic Verification
+A Hybrid Nested Harness for Decoupling Structure and Parameters in LLM-Driven Optimization
+MMOOC: A Comprehensive Benchmark for Out-of-Context Evaluation in Multimodal Large Language Models
+MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation
+Omega-S: A Functional Resilience Index for LLM Fine-Tuning
