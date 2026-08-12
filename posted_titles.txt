@@ -14536,3 +14536,28 @@ A Hybrid Nested Harness for Decoupling Structure and Parameters in LLM-Driven Op
 MMOOC: A Comprehensive Benchmark for Out-of-Context Evaluation in Multimodal Large Language Models
 MirrorWorld: Taming Video Diffusion Models for Mirror Reflection Generation
 Omega-S: A Functional Resilience Index for LLM Fine-Tuning
+Sometimes You Just Can’t Put a Ring on It: Setting Constraints on Rings around Moons from Magnetic Fields
+Dynamical Formation of Long-period Exoplanet Systems in Evolving Binary Stars
+Multiwavelength Signatures of a Giant Cometary Radio Halo in MACS J0417–1154
+ComBodied Agents: a New Paradigm of Human-Centric Agentic AI
+Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design
+Beyond Pixels: From Video Priors to 4D Worlds
+Articulated Object Reconstruction from Rest-State Observation
+AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss
+Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution
+Ex-Omni-2D: Expressive Omni-Modal Dialogue Models with Native Visual Presence
+VibeLifeBench: Can Your Life Agent Be Proactive and Persistent in a Living World?
+Decoding-Level Taboo: A Diagnostic Stress Test for LLM Robustness
+SkillZip: Evaluation-Free Skill Compression for Self-Evolving Agents by Discovering Reusable Structure
+SPIEval: Evaluating Large Language Models as Mobile Assistants over Scattered Personal Information
+Not Worth Another Token: Marginal Value Estimation for Efficient Deep Research Agents
+Reference-Free Post-Training of Open Large Language Models for Multilingual Machine Translation
+InSight-doc: Agentic Visual Perception for Long-Document Understanding
+UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models
+iFAN: Inference-Aware Learning for Plain Mask Transformers
+DistilVDR: A Compact End-to-End Visual Document Retriever via Dual-Student Distillation
+360CityArena: A Realistic Virtual Urban Navigation Benchmark for Embodied Agents
+TSDS-Toolbox: A Toolbox for Measuring Time-Series Dataset Similarity
+JigShape: Evaluating Visual-Geometric Reasoning in VLMs through Jigsaw Puzzles
+DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Computer Environments?
+Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference
