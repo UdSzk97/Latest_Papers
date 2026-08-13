@@ -14563,3 +14563,28 @@ DSAgentBench: Can Agents Automate End-to-End Data-Science Workflows in Real Comp
 Power law graph attention: exact generalization of scaled dot-product attention, empirical collapse at inference
 Impact origin of pink spinel in the Chang’e-6 lunar soils
 Shock-induced hydrogen-isotope modification in apatite from the Martian meteorite Los Angeles
+Photometric Variability and Rotation of β Pictoris b from JWST NIRCam Coronagraphic Imaging
+The Range of Electron Plasma Temperature and Density at Lunar Orbit
+OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution
+Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill
+AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses
+Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence
+Can LLM Agents Stick to the Script? A Benchmark for Long-Horizon Consistency in Interactive Narratives
+StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization
+Self-Geometry: GT-Free and Plug-and-Play Test-Time Adaptation for Geometrically Consistent 3D Vision Foundation Models
+From Synthesis to Removal: Physics-Grounded Reflection Simulation and Diffusion-Based Video Dereflection
+ToolHazard: Scaling Adversarial Environments for Security Evaluation and Alignment of LLM-based Agents
+The Illusion of Visual Tool-Use: A Causal Audit of Thinking with Images
+Self-Evolving Embodied Agents via Skill-Harness Evolution
+Agent Safety Should Be a Runtime Contract
+Persistent Recursive Worlds Enable Autonomous Software Evolution
+MBA: Multimodal Benchmark and Agents for Real-World Business Ideation
+AVA-Encoder: Towards Agent-Native Video Representation Learning
+Simplex Relaxation for Discrete Diffusion
+AutoWorldModel-Bench: A State-Centric Benchmark for Automated World-Model Research
+Hand Visibility Detector: Per-Keypoint Visibility Estimation for Hands
+Ready Cohorts: Bounding GPU Opportunity and Avoiding Host Round Trips in LLM-Agent Control
+Parameter Exploration for RLVR via Variational Learning
+NeuPAT: Neuron-aware Plasticity Allocation Tuning for Language-Preserving MLLMs
+AtlasVLA: Persistent World-Ego State Modeling for Vision-Language-Action Models
+Poor Man's Agentic Modeling: Simulating Large LLM-Agent Societies on a Laptop
