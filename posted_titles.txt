@@ -14594,3 +14594,53 @@ SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Librari
 Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning
 Gaze Target Estimation Anywhere with Concepts
 ReRound: Reconstructive Rounding to Resolve Midpoint Ambiguity in Calibration-Free LLM Quantization
+A heterogeneous lithosphere on Venus
+Raman spectroscopic investigation of heavy ion damage induced by focused ion beam in lunar breccias 15405, 15445 and reference minerals
+Morphometric and compositional analysis of high-slope features in Paracelsus C, lunar far side
+Ionospheric escape of <InlineEquation ID="IEq1">
+            <EquationSource Format="TEX">$${\bf{H}}_{\mathbf{3}}^{\mathbf{+}}$$</EquationSource>
+            <EquationSource Format="MATHML"><math display="inline">
+              <msubsup>
+                <mrow>
+                  <mrow>
+                    <mrow>
+                      <mi mathvariant="bold">H</mi>
+                    </mrow>
+                  </mrow>
+                </mrow>
+                <mrow>
+                  <mn mathvariant="bold">3</mn>
+                </mrow>
+                <mrow>
+                  <mo mathvariant="bold">+</mo>
+                </mrow>
+              </msubsup>
+            </math></EquationSource>
+          </InlineEquation> from Jupiter’s polar regions
+Unveiling the Lost Australe Basin on the Moon: Spectroscopic Evidence from Chandrayaan-1 M3
+The Polana–Eulalia Complex with JWST NIRSpec: Connections to Bennu, Ryugu, and Outer Solar System Bodies
+Solar Wind Proton Implantation and Hydrogen Diffusion: Model Comparisons to M3 Observations
+Low temperature ultraviolet absorption spectra of benzoic acid, phthalic acid, and mellitic acid, in water ice solutions at temperatures between 78 K and 273 K. Relevance to future Mars, Enceladus, and Europa missions.
+DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation
+Alaya-EVOKE: From Linear-Scaling Supervision to Endless World
+LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers
+DarwinX: Evolving Agent Harnesses Through Natural Selection
+Intern-S2-Preview: Scientific Agentic Foundation Model
+PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives
+AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design
+Spatial Memory Agent: Experience-Grounded Procedure Memory for Spatial Intelligence
+Massive Activations in Hybrid Linear Attention Large Language Models: Pre-Attention Spikes and Inter-Spike Plateaus
+UniSwap: Streaming Audio-Visual Identity Swapping for Talking Videos
+LiveAnimate: Stable Long-Form Streaming Human Animation in Real-Time
+How Can Rhetoric Reward-Hack AI Reviewers? Dissecting Rhetorical Sensitivity in AI-Based Peer Review
+An AI4AI Framework for Visual Token Pruning
+H2R-Bench: Benchmarking Human-to-Robot Manipulation Video Generation in World Models
+Full-bandwidth transformer
+LycheeMemory V2: Efficient Long-Term Memory for LLM Agents via Semantic Segment-Level Consolidation
+OmniScientist: An Omni-Modal Omni-Discipline AI Scientist
+SKILLER: Language-Level Reinforcement Learning for Reusable Skill Extraction in Small Language Models
+PixSDS: Why Latent SDS Makes Noisy Pixels
+Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and Lexical Diversity
+CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers
+TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement
+Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning
