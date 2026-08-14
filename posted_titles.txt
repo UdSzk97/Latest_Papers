@@ -14644,3 +14644,18 @@ Are You Sure You're Sure? On the Impact of Instruction Tuning on Confidence and 
 CW-BASS v2: Saturation-Aware Pseudo-Label Selection for Semi-Supervised Segmentation under Foundation-Model Teachers
 TailBooster: A Dual-Layer Generative Framework for Extreme Value Augmentation with Operational Validity Enforcement
 Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning
+Stellar Interpretation of Meteoritic Data and PLotting for Everyone (SIMPLE): Isotope Mixing Lines for Six Sets of Core-collapse Supernova Models
+Metal Oxide Clusters in Gas-giant Exoplanet Atmospheres
+EMU Discovery of Thunder: A Bow-shock PWN Powered by PSR J1631–4722 Escaping the Nimbus SNR (G336.7+0.5)
+Case Study of a Super-eccentric Warm Jupiter Migrating via Equilibrium and Dynamical Tides
+Characterization of Rocky Exoplanet Atmospheres from Lyα Transit Observations
+A lunar radio astronomy array built in Africa
+The CosmoCube lunar mission for probing the dark ages and cosmic dawn via 21-cm cosmology
+Novel Insights into Terrestrial and Extraterrestrial Phenomena Using New Phase Diagrams with Three Pseudosupercritical States, Liquid Boundary, and Dwij Point*
+Nuclear Mitigation of Hypothetical Asteroid Threats in Smoothed Particle Hydrodynamics
+Context-Matched Distillation: Teacher Causality for Autoregressive Video Distillation
+Hybrid-Policy Self-Editing for Composable Unstructured Knowledge Editing
+Specification-first convergence with an AI coding agent: a case study of dismantling a core architectural invariant across 189 files in a 717k-line codebase with no test oracle and no human code review
+From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs
+RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections
+Mitigating Gender Bias in English to Romanian Machine Translation
