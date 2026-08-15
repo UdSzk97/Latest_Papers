@@ -14659,3 +14659,5 @@ Specification-first convergence with an AI coding agent: a case study of dismant
 From Inaudible Inputs to Model Failures: Low-Frequency Safety Risks in LALMs
 RibAssist 3D: Biplanar Rib-Fracture Detection, Addressing, and Selective 3D Localization from CT-Derived Projections
 Mitigating Gender Bias in English to Romanian Machine Translation
+Thought-Level Beam Search for Reasoning
+Maglev: Sliding Recurrent Memory
