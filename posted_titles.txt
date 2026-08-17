@@ -14695,3 +14695,13 @@ Dion3: Full-Stack Orthogonal Updates
 UNMASK: Discovering and Causally Verifying Spurious Shortcuts in Text Classifiers
 SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation
 Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction
+Evidence of a massive accretion event 1.8 billion years before the Gaia-Sausage-Enceladus merger
+Tracing the Source of Carbon Oxides on the Large Moons of Uranus
+Low temperature ultraviolet absorption spectra of benzoic acid, phthalic acid, and mellitic acid, in water ice solutions at temperatures between 78 K and 273 K. Relevance to future Mars, Enceladus, and Europa missions
+Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence
+DFM Mimir v1: An Open HRM Delivering Frontier Performance at 1B Parameters Using Only Permissible Post-Training Data
+Modular Cognitive Architecture Emerges in Large Language Models
+Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems
+Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead
+Amplified Does Not Mean Predictive: Reasoning Behaviors in Thinking Models
+Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings
