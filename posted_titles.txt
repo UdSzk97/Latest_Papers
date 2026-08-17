@@ -14666,3 +14666,32 @@ Interior models suggest the presence of carbon inside Io and Europa
 An analogue-driven framework for evaluating lunar rover navigation under dust-terrain interaction: Controlled experiments and real mission validation
 Ryugu and Bennu preserve primordial isotopic heterogeneity absent from the meteorite record
 REGOLITH THICKNESS ACROSS THE BOREALIS PLANITIA REGION OF MERCURY
+Confirmation of the Low-eccentricity Warm Jupiter HD 278555 b with NEID
+Assessing the Impact of Varying HSO Cross Sections on Photochemical Models: Implications for the Spectral Characterization of Terrestrial Exoplanets
+A chemo-dynamical search for planet-candidate hosts of possible extragalactic origin
+The Fe i 4377 Å line as a solar faculae indicator: insights from spectral ratio analysis
+Possible Magnetic Perturbations Associated with Starship Lunar Landings
+Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination
+Self-Supervised Visual On-Policy Distillation
+Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development
+Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning
+Marionette: Predicting World States, Rendering Geometry, Painting Appearance
+MobileMem: Learning from a Year of Mobile Experiences
+SimpleOPD: Simple Tokenizer-Agnostic On-Policy Distillation for Long-Context Reasoning
+HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark
+CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing
+Claim-Level Reliability Assessment for Efficient Test-Time Reasoning
+Forecast Collapse in Time-Series Foundation Models
+Second Thought: Reasoning in Parallel as LLM Agents Act and Observe
+Latent On-Policy Self-Distillation
+PRM-as-a-Judge 1.5: A Toolkit for Robot Process Assessment
+Multimodal Model Diffing for Feature Discovery and Control
+Verifier-Induced Support Reshaping in On-Policy Optimization
+Scaling Domain Data Repetition in LLM Pretraining
+LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure
+UniProbe: A Learnable Token-Level Hallucination Detector for Large VLMs using Multi-Structural Internal Representations
+A Pathway to General-Purpose Scientific AI: Multimodal Comprehension of Scientific Images
+Dion3: Full-Stack Orthogonal Updates
+UNMASK: Discovering and Causally Verifying Spurious Shortcuts in Text Classifiers
+SPARGen: Unifying Spatial Perception and Reasoning through Native Multimodal Generation
+Generation as Auxiliary Supervision: Enhancing Visual Understanding at Zero Inference Overhead via Decoupled Embedding Prediction
