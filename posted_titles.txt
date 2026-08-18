@@ -14705,3 +14705,44 @@ Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi
 Nanbeige4.2-3B on Apple Silicon: Fixing Deployment Bugs and Decreasing Looped Transformer Memory Overhead
 Amplified Does Not Mean Predictive: Reasoning Behaviors in Thinking Models
 Who Speaks Matters: Authority-Aware Multi-View RAG over Italian Parliamentary Proceedings
+A New Strategy for Using Spectroscopic Phase Curves to Characterize Nontransiting Planets
+The Inbound Gas and Dust Evolution of Interstellar Comet 3I/ATLAS from Optical Spectroscopy and Multiband Photometry*
+Formation and Evolution Pathways of Planets. I. Comparison between Theory and Observations
+Evidence for Ring Current Decay Ions Reaching the Moon When the Moon is outside the Earth’s Bow Shock
+Dust and gas transport in substructured non-ideal MHD wind-launching discs with embedded planets
+Deimos’s shape and geology explained by a subcatastrophic impact
+HarnessEval-W: Agentifying the Evaluation of Visual Worlds
+VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?
+ClawGym II: Exploring Black-Box RL on Agent Harness
+MOSS-VL Technical Report
+Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization
+UI-Mate: Advancing Open-Weight Foundation GUI Agents with In-Context Demonstrations
+Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search
+Agentic Transaction: Towards ACID-Compliant Agent Systems
+An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models
+GenRouter: Unified Workflow Routing for Agentic Image Generation
+How Do Agents Fail on AutoResearch: End-to-End Diagnostic Evaluation on 100 Real-World Frontier Research Tasks
+MegaParts: Scaling Part-Aware 3D Object Generation to 300 Parts via Token-Efficient Autoregressive Modeling
+Understanding Cognition-Induced Risks in Agentic AI Systems
+Ventor-QTest: Threat-Model-Driven Verification of Vendor-Hosted LLM APIs
+Advancing Open and Reproducible Relational Learning: RelArena-α, TabPFN-Rel and RPI
+R^3-Bench: LLMs Struggle with Resource-Rational Reasoning under Shared Budgets
+VideoGAIA: A Benchmark for General AI Assistants on Agentic Video Understanding
+TRACE-Bench: Decomposing and Diagnosing Multi-Reference Image Generation
+GRNEdit: Efficient General Video Editing from a New Binary-Evidence Perspective in Generative Refinement Networks
+Improving the matrix multiplication exponent with modern optimization and AlphaEvolve
+NaviDC-OCR: Navigating Document Parsing Across Digital and Camera-Captured Documents
+ENTLORE: A Graph-Grounded Benchmark for Latent Organizational Reasoning in Enterprise Question Answering
+AnyTalk: Speech Animation for Arbitrary Characters Leveraging a Video Generation Model
+ConceptFormer: Learning Adaptive Latent Concepts for Query-Document Alignment in Visual Document Retrieval
+PACE-Bench: Benchmarking Physics Adaptation via Code Evolution in Dynamic Environments
+Prior Audit-Repair Context Shifts LLM Verifier Thresholds Toward Leniency
+Gathered, Not Admitted: How Attention Brings a Latent Variable into Verbalizable Form
+DumpsterCluster: From Dumpster Diving to Serving LLaMA-70B on $60 GPUs
+Drive, Pack, Fly: The Travelling Thief Problem with Drone
+A Plug-and-Play 2D Motion Interface for Real-World Motion Language Models
+WorldRover: A Scalable Synthetic Video Data Engine for World Exploration with Rich Annotations
+When Context Bites: Detecting RAG Poisoning via Document-Level Attention Collapse
+Position: AI Agents in Scientific Teams Should Be Studied as Human-Agent Systems
+HiFi-BRep: High-Fidelity Latent Representation for Robust B-Rep Generation
+Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift
