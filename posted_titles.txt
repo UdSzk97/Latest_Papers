@@ -14746,3 +14746,10 @@ When Context Bites: Detecting RAG Poisoning via Document-Level Attention Collaps
 Position: AI Agents in Scientific Teams Should Be Studied as Human-Agent Systems
 HiFi-BRep: High-Fidelity Latent Representation for Robust B-Rep Generation
 Prototype-Rectified Iterative Self-supervised Manifold Denoising under Severe Acoustic Shift
+TESS Photometry and Radial-velocity Analysis of the Sub-Neptune Exoplanet π Mensae c and the Wider π Mensae Planetary System
+StateM: Reaching 95.3% Raw Accuracy, or a \$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling
+Beyond Visual CoT: Internalized Visual Thinking for Proactive Video Reasoning
+Plausible but Not Valid: A Psychometric Audit of LLMs as Synthetic Survey Respondents
+Accuracy and Order Sensitivity Diverge Under Label-Free Strategies
+Valid Per-Field Selective Risk Control for Document Extraction: Three Failure Modes, a Validity Ladder, and When Conditioning Pays
+StreamOPD: A Post-Training Recipe with Spatio-Temporal Cue Gating for Streaming Video Understanding
