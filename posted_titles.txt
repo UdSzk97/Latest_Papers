@@ -14782,3 +14782,8 @@ Dynamic Multi-Byte Prediction With Hierarchical Language Models
 Unifying Graph Neural Networks Through a Common Layer Equation
 MoE-ViE: Mixture of Experts Vision Encoder for Efficient Image and Video Understanding
 PixRestore: Unified Image Restoration via Pixel Diffusion Transformer
+Constraints on Magma Self-oxidation in Angrites and the Role of Parent-body Size
+LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents
+The Problem Is the Problem: Towards Scalable Mathematical Discovery
+PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX
+CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation
