@@ -14805,3 +14805,11 @@ Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre E
 The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning
 Temporal Multi-Signal Fusion for Token-Level Hallucination Detection
 SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents
+The Enceladian crater production function
+Hidden volcanoes hint at Moon’s turbulent past
+Fluorine Plasma Processing of Lunar Regolith Simulant for Lunar in-situ Resource Production
+LLMs Get Smarter from Targeted Synthetic Multilingual Data
+Evaluating Music Context Preservation: A Multi-facet Framework for Music Editing Systems
+Towards Real-Time and Adaptable LiDAR Scene Completion
+Bounded Agents: Delegation Security for Multi-Agent AI Systems
+SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection
