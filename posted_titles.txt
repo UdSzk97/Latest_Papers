@@ -14787,3 +14787,21 @@ LEGO-RL: Harness-Native Reinforcement Learning for Coding Agents
 The Problem Is the Problem: Towards Scalable Mathematical Discovery
 PTXBench: Benchmark and Adapt LLMs for GPU Kernel Optimization with Architecture-specific PTX
 CardioState-JEPA: Delay-Aware Cross-Modal Learning of a Shared Cardiac Representation
+On the Detectability of Volcanic Exo-Ios That May Fuel Auroras on Super-Jupiters
+Exploring Long-period Architectures: Four New Planet Candidates from Kepler with Periods >342 days
+The role of disruptive impacts on ocean generation and longevity in icy moons
+Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence
+SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation
+SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation
+Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL
+SPADE: Self-Play in Adaptive Synthetic Executable Environments
+Training Chemical Plausibility-Aware Large Language Models for Single-Step Retrosynthesis
+Decision-Metric Alignment in Latent World Models: Diagnostics and Action-Conditioned Objectives for MPC Planning
+Training Leaves Traces: Centered Residual Signatures for Language Model Lineage Verification
+Looped Language Models Improve Compositional Tool Calling
+SoftVTBench: A Deformation-Aware Visuo-Tactile Dataset and Benchmark for Deformable-Object Manipulation
+FM-Bench: A Benchmark for Long-Horizon Management with Competing Agents
+Scaling Creative Writing Beyond Story-Centric Data with Attribute-Guided Genre Expansion
+The More Popular, The Harder to Forget: Adaptive Popularity for LLM Unlearning
+Temporal Multi-Signal Fusion for Token-Level Hallucination Detection
+SkillGate: Training In-Policy Skill Selection in Long-Horizon Agents
