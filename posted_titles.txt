@@ -14838,3 +14838,11 @@ PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-C
 Chain-of-Experience for Continual LLM Improvement
 NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video
 Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners
+Thinking in a Low-Resource Language: What SFT Builds, What RL Fixes, What Accuracy Cannot See
+τ_0-VLA: a Hierarchical Robot Foundation Model with World-Model-Guided Test-Time Computation
+TinyCast: Probabilistic Zero-Shot Forecasting with Computed Periodicity
+Hierarchical Self-Improvement: A Framework for Task-Specific Evolvable Agent Harnesses
+GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipulation
+CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning
+The Embedder's Dilemma: LLMs Are Better, but at What Cost?
+QuoteBench: How Matched Scores Can Hide Command-Path Failures
