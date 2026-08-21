@@ -14813,3 +14813,28 @@ Evaluating Music Context Preservation: A Multi-facet Framework for Music Editing
 Towards Real-Time and Adaptable LiDAR Scene Completion
 Bounded Agents: Delegation Security for Multi-Agent AI Systems
 SPK: Eliciting Structured Prior Knowledge for Interpretable Out-of-Distribution Detection in Real-Time Object Detection
+The Curious Case of Dark Faculae on M Dwarf Stars
+Distribution of Chemically Processed Dust in a Viscously Evolving Protoplanetary Disk: Application to Crystalline Silicates in Comets
+Atmospheric Escape Rates of Planets in Stellar Tidal Fields from 3D Hydrodynamic Simulations
+Reflectance spectroscopy (250–2500 nm) of an aggregate sample from asteroid (101955) Bennu
+Investigation of ejecta emplacement by modeling oblique impacts into layered icy targets on Mars
+Beyond the mass–radius plane: integrated radiative–convective and interior structure simulations of the exoplanet continuum
+The CRIMSON survey I: super-stellar SiO in the directly imaged companion TWA 5 B from high-resolution M-band spectroscopy
+The Neptunian ridge planet WASP-156 b does not have a polar orbit
+EnvHarness: Awakening Static Worlds for Agent Learning
+FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis
+SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?
+4DAnyone: Create Anyone in 4D from a Casual Monocular Video
+WithEveryone: Unified Planning and Identity Grounding for Group Image Generation
+MemTrapBench: Benchmarking Cognitive Traps in LLM Memory Use
+SkillEvo: Self-Renewing Evolution Gradients from Multi-Turn Interaction Feedback
+ForgeWM: Progressive Causal Training for Few-Step Action-Conditioned Video World Models
+Repo0: Design-Driven Zero-to-All Code Generation
+FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving
+Inject, Align, Recover: Staged Post-Training for Retrieval-Free Document Knowledge Internalization
+EXIMO: VLM Guided Exploration of VLA Policies
+Towards Quantifying Benchmark Optimization in ASR Models
+PolicyGuide: From Guarding One Action to Guiding the Whole Workflow for Policy-Compliant LLM Agents
+Chain-of-Experience for Continual LLM Improvement
+NARU: A Benchmark for NARrative Evolution and Cultural Nuance Understanding in Japanese Extreme Long Video
+Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners
