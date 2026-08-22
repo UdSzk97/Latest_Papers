@@ -14846,3 +14846,7 @@ GOAG: Generative and Object-Agnostic Grasp Planner for Dexterous Robotic Manipul
 CoToGrasp: Contact-Topology-Conditioned Dexterous Grasp Synthesis via Canonical Workspace Learning
 The Embedder's Dilemma: LLMs Are Better, but at What Cost?
 QuoteBench: How Matched Scores Can Hide Command-Path Failures
+On the Arrival of the Space Weather Event of May 2024 at Mars and its Impact on the Martian Ionosphere
+The symphony of pulsations and binarity among massive stars using HERMES spectroscopy and TESS photometry
+Exploring the impact of tilted magnetic dipoles on the atmospheric dynamics of hot Jupiters: towards an improved magnetohydrodynamic framework
+FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills
