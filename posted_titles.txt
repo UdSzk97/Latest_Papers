@@ -14869,3 +14869,9 @@ Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs
 FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth
 Human-Centric Intelligence in the Era of Foundation Models: A Survey
 Hadith computational science in the age of large language models: a critical narrative review
+Dataset construction and quality assessment of on-board compression for lunar orbiter optical images
+ParaTempo: Efficient Parallel Reasoning via Temporal Confidence
+Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention for Video Generation and World Models
+Hydra-0: Action Flow for Generalist World Modeling and Control
+PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration
+Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources
