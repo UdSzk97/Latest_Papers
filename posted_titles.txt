@@ -14851,3 +14851,21 @@ The symphony of pulsations and binarity among massive stars using HERMES spectro
 Exploring the impact of tilted magnetic dipoles on the atmospheric dynamics of hot Jupiters: towards an improved magnetohydrodynamic framework
 FlowEvo: Self-Evolving Agents through the Co-Evolution of Workflows and Executable Skills
 Response of mercury in sediments to environmental change in the Western Arctic Ocean since the late last deglaciation
+Mineralogical Characteristics of the Lorentz and Coulomb-Sarton Basins Reveal Early Magmatic Activity on the Lunar Farside
+Substellar Strange Quark Matter Objects: Predicting a New Class of Highly Compact Candidates
+Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts
+Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence
+OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs
+InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter
+Every Coin Has Two Sides: On the Dual Nature of Generalization in On-Policy Distillation of Large Language Models
+EviRank: Structured Relevance Evidence for Multimodal Image Re-ranking
+Beyond Correctness: Benchmarking and Aligning Response Behaviors in Hybrid-Thinking MLLMs
+Towards Faithful Simulation of Human Shopping Behavior
+UniSpace: Unified Visual Representation and Scalable Multimodal Modeling
+AgentMercury: Your Agent Can Synthesize Verifiable Environments for Business Scenarios at scale
+Daedalus-150M: A Convolution-Attention Hybrid Designed for CPU Inference
+CLEAR: Continuous Latent Adapter Routing for Utility-Preserving LLM Safety Alignment
+Llama-Mobile: Efficient 2.7-Bit Quantization of VLMs
+FlavourBench: Ranking Frontier Language Models with Executable Culinary Ground Truth
+Human-Centric Intelligence in the Era of Foundation Models: A Survey
+Hadith computational science in the age of large language models: a critical narrative review
