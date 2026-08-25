@@ -14903,3 +14903,14 @@ WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning
 EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment
 Tomatoes, Potatoes, and Onions: Questioning the Need for Faces in Face Presentation Attack Detection
 Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning
+Lunar transient atmosphere recorded in Chang'e 6 impact glass beads
+Direct dating of 3.5 Ga biogenic carbon in a microbial mat remnant, Singhbhum Craton, India
+Coreless exoplanets induced by metal–silicate miscibility
+Correction for Brown et al., Deuterated water and the formation of the satellites of Uranus
+Experiments on Settling of Granular and Cohesive Material in Low Gravity
+Quantization-Aware Healing: A Practical Recipe for Recovering Compressed, 4-Bit LLMs
+AutoResearch: Insight In, Hallucination Out
+LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks
+The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search
+What AstroPT knows about galaxies, and what that can teach us about LLMs
+ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts
