@@ -14875,3 +14875,31 @@ Partition the Support, Reconstruct the Residual: Training-Free Sparse Attention 
 Hydra-0: Action Flow for Generalist World Modeling and Control
 PhysCaP: Grounding Code-as-Policy Agent with Physics-Informed Exploration
 Peer-Voted LLM-Agent Stress Tests Find Feed-Induced Lexical Convergence but No Reliable Matched-Exposure Advantage for Distributed Sources
+Hunting for “Oddballs” with Machine Learning: Detecting Anomalous Exoplanets Using a Deep-learned Low-dimensional Representation of Transit Spectra with Autoencoders
+Apodex 1.1: Scaling Agentic Intelligence for Complex Work
+EchoWM: Open and Enterable Omnimodal World Models
+TLive-Omni: An Omni-Modal Understanding Model for E-Commerce Live Streaming
+Unlocking the Potential of Image Editing via Concept Scaling and Dense Supervision
+MobilePA-Bench: Benchmarking Mobile Planner Agents on Complex Real-World Tasks
+RISE: Adaptive Imagination for World Action Models
+Block3D: Efficient Text-to-3D Generation via Block-Wise Diffusion
+Prime Agent: A Self-Improving RLM Harness
+ARC: Fair Relative Advantage Comparison in Open-Ended Real-World Interaction
+Beyond the Stability-Exploration Dilemma: Environmental Regularization for LLM Policy Optimization
+ReWorld: An Interactive World Model with Long-Horizon Memory
+GameXpert-Bench: How Far Are Coding Agents from Expert Game Development?
+Towards a Densing Law for User Representation Learning at Billion-Scale Capacity
+One Success Isn't Reliability: Thinkingbox, a Sandbox and Benchmark for Agents in Stateful Business Workflows
+Beyond Imitation: Filtering On-Policy Distillation by Reasoning Progress
+Task-CoEvolve: Efficient Harness Optimization via Adaptive Validation Task Selection
+One Polluted Page Is Enough: Evaluating Web Content Pollution in LLM Recommenders
+Better Retrieval, Worse Robustness:How Multi-hop RAG Amplifies Upstream ASR Errors
+Same Agent, Different Answers: A Repeat-Aware Audit of Corpus-Induced Answer Churn in Retrieval-Augmented QA
+RIBOSPAN: A Long-Context RNA Foundation Model for Versatile RNA Modeling
+TileMix: Tile-Centric Mixed-Precision Attention for LLM Inference Acceleration
+Industrial-Instruction: An End-to-End Framework for Building Instruction-Tuning and Benchmark Datasets from Industrial Technical Reports
+From Generation to Simulation: How Far Are World Models from Being True Simulators?
+WorldToken: Time-First Sequence Modeling for Robotic Imitation Learning
+EXPL-FR: Explaining Face Recognition Models via Vision-Language Alignment
+Tomatoes, Potatoes, and Onions: Questioning the Need for Faces in Face Presentation Attack Detection
+Hybrid Quantum-inspired Kolmogorov-Arnold Networks for Privacy-Aware Federated Biosignal Learning
