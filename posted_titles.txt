@@ -14914,3 +14914,23 @@ LongWoF-Bench: Evaluating EvoMap Genes for Verifiable Long-Workflow Tasks
 The Laws of Context Allocation: Causal Measurement and Closed-Loop Orchestration in Generative Search
 What AstroPT knows about galaxies, and what that can teach us about LLMs
 ClawProBench: Trace-Aware Evaluation of AI Agents with Runtime Coverage and Frozen Workplace-Style Holdouts
+The JWST Search for Earth–Luna Analogs: Upper Limits on Exomoons and Refined Ephemerides for TOI 700 d and e
+The False Spin of an Exo-Venus
+Ammonium Salt Formation and Abundance in Protoplanetary Disks
+Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs
+WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report
+AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces
+On-Policy Self-Distillation in Diffusion Models
+CyberFactory: Scaling Cyber Security Capabilities with Instances from the Wild
+Recursive Experiential-Working Memory Evolution for Long-Horizon Agent Harnesses
+Best Practice Critic Optimization
+On-policy Distillation with Verifiable Reward
+From Seeing to Acting: Smart Glasses as First-Person Intelligence Platforms
+Game2World Engine: Unlocking In-the-Wild Gameplay Videos for World Model Training
+Length-Adaptive Decoding for Masked Diffusion Machine Translation
+LAION-BVD: A 10-Million-Hour Open Video Dataset for Multimodal Pre-training
+Meta^n: Recursive Self-Improvement through Emergent Depth
+CAFE: Self-Improving Search Agents Need Co-Evolving Feedback
+DREAM Technical Report
+Latent Action as Intention Enables Efficient Future Imagination for World Action Models
+TorchMorph: CUDA-accelerated Morphological Transforms
