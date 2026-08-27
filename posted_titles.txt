@@ -14934,3 +14934,23 @@ CAFE: Self-Improving Search Agents Need Co-Evolving Feedback
 DREAM Technical Report
 Latent Action as Intention Enables Efficient Future Imagination for World Action Models
 TorchMorph: CUDA-accelerated Morphological Transforms
+Measuring masses of transiting Earth-like planets: first insights from the PLATO RV data challenge
+Detailed abundance determination of metal-poor stars with X-Shooter – II. Chemically disentangling the halo, disc, and GSE
+Using nuclear waste to power space missions
+Tidal tomography reveals a thermal anomaly beneath Mars’s crustal dichotomy
+Faraday Rotation as a Probe of Jupiter’s Magnetic Field: Error Modeling and Sensitivity Analysis
+Fluorine plasma processing of lunar regolith simulant for lunar in-situ resource production
+JIT-Agent: Scaling Harness Intelligence via Just-in-Time Harness Evolution
+FrontierChallenge: Evaluating Scientific Workflow Completion
+D^3-MOPD: Adaptive Dynamic Domain ScheDuling for Efficient Multi-Teacher Distillation
+VBVR-Pro: A Scalable and Verifiable Suite for Native Visual Reasoning
+Agent-G^2: Gaussian Guidance for Agentic Reinforcement Learning
+VGI-BENCH: Probing Visual Intelligence in Video Generation Models
+Are Android GUI Agents Robust Against Runtime Anomalies? AnTrap: Evaluating Agents in Dynamic Adversarial Environments
+Code World Model: Coding Agent as World Brain
+V-Rubrics: Visual Faithfulness via Rubric-Based Reinforcement Learning
+StreamPI: Streaming Multimodal Temporal Modeling for Vision-Language-Action Models
+A Programming Paradigm for Spatiotemporal Composability
+Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation
+MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization
+Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans
