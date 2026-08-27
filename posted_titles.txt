@@ -14954,3 +14954,29 @@ A Programming Paradigm for Spatiotemporal Composability
 Open-MOPD: Diagnosing and Fixing Capability Imbalance in Multi-Teacher On-Policy Distillation
 MA-VLA: Multi-Arm Vision-Language-Action Model for Collaboration and Compositional Generalization
 Super Star: Towards Streaming Real-time Interactive Agents for Digital Humans
+A Deep SETI Search for Technosignatures in the TRAPPIST-1 System with FAST
+A Wavelet-integrated Search Pipeline for Narrowband Technosignatures in FAST Observations of 33 Exoplanet Systems
+JWST/NIRCam Imaging of Young Stellar Objects. IV. Detailed Imaging of the Protoplanetary Disk around TW Hya
+The 2023 May 20 Queensland Superbolide: Multimodal Observations from Atmospheric Entry to Postdisruption Dust Cloud
+Radial Evolution of Effective Polytropic Index in Stream Interaction Regions from PSP to MAVEN
+Ammonium-bearing clays and multiple nitrogen species linked to the late-stage brines of Ryugu’s parent body
+VoiceMem: Streaming Dual-Brain Memory for Real-Time Interaction
+VGI-Bench: Probing Visual Intelligence in Video Generation Models
+WarpSAC: Towards the Pinnacle of Scalable Off-policy RL by Rethinking Exploration and Exploitation
+Is Next-Chunk Reasoning RL Really Better than SFT? Revisiting Training Strategies under no-CoT Data
+Long-Horizon Audio-Visual Generation for Persistent Stories and Interactive Worlds
+Video-IFBench: Evaluating Instruction Following of Multimodal LLMs in Video Understanding Scenarios
+SWE Refactor Bench: Can Coding Agents Complete a Long-Horizon, Whole-Repository Stack Migration?
+Rubrics as Visual-Repair Context for Self-Evolving UI-to-Code Generation
+The Handoff Tax: Continuing Non-Native Trajectories in LLM Agents
+Gated Recurrent Transformers: Expressive Depth through Recurrent Modulation
+Stream4D: 4D-Consistency for Streaming Autoregressive Diffusion Video Models
+Pushing the Limits of High-Resolution Weather Forecasting through Data Scaling
+Skill Issue: Are Skills Language-Invariant in LLMs?
+Prefix Sliding for efficient test-time scaling
+RetrievalRouter: Joint Modality and Architecture Selection for Document Retrieval
+FIRM-Video: Check Before You Score for Reliable Text-to-Video Reward Modeling
+LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech Decoding at Scale
+A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans
+GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding
+Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction
