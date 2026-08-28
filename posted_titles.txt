@@ -14980,3 +14980,21 @@ LibriBrain100: One Hundred Hours of Broad and Deep MEG Data for Neural Speech De
 A Modular Agent for Reliable and Auditable Spatial Relation Verification in CT Scans
 GUI-Primitives: Diagnosing Spatial Reasoning Failures in Vision-Language GUI Grounding
 Real-TurnTurk: A Multimodal Turkish Corpus for Turn-Taking Prediction
+PAWBench: How Far Are We from Probabilistically Aligned World Modeling?
+TTPO: Test-Time Policy Optimization
+Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report
+What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents
+UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City
+PILOT in the Loop: Live Self-Improvement for Long-Horizon Agents
+Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization
+Understanding Evolution Strategies for LLM Reasoning: Broader Reasoning Coverage than GRPO
+Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher
+Thinking on Shots: Consistent Multi-Shot Video Editing with Agentic Reasoning
+Magpie: Real-Time World Renderer for Interactive Games
+Procedura: Agentic 3D Modeling with Procedural Control
+GameWAM: A World Action Model for Video Games
+CaRGo-T: Causal Reasoning Graph-of-Thought improves Multimodal Humor Comprehension
+Aphanta: Diagnosing Task-Aligned Image-Edited Intermediates for Multimodal Reasoning
+WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution
+Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models
+CaSKG: Counterfactual-Causal Skill Graphs for Scalable Agent Skill Retrieval
