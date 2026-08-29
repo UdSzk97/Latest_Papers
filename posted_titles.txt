@@ -15011,3 +15011,7 @@ EditaLive! Unified Character Video Editing for Live Streaming
 What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals
 Luce: Relightable Gaussians for 3D Asset Generation
 CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes
+pyrat bay 2.0: an upgraded framework for exoplanet atmosphere modelling in the JWST era
+Beyond Sgr A* and M87*: sub-microarcsecond black hole shadow detection via lunar-based extremely long baseline interferometry
+The impact of internal versus external perturbations on close-in exoplanet architectures
+Dynamical orbital evolution of collision induced asteroid debris: The formation and dispersal of asteroid families
