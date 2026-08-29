@@ -15009,3 +15009,5 @@ Integrated Multi-Constraint Inversion for Molecular Ion Composition Analysis wit
 TacForcing: Streaming Action Generation with Execution-Time Tactile Feedback
 EditaLive! Unified Character Video Editing for Live Streaming
 What Does an Evaluation License? A Commit-Bound Census of Claim-Relative Inference in Inspect Evals
+Luce: Relightable Gaussians for 3D Asset Generation
+CritICL: Inference-Time Weak-to-Strong Generalization from Small Language Model Failure Modes
