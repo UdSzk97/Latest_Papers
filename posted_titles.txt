@@ -15015,3 +15015,5 @@ pyrat bay 2.0: an upgraded framework for exoplanet atmosphere modelling in the J
 Beyond Sgr A* and M87*: sub-microarcsecond black hole shadow detection via lunar-based extremely long baseline interferometry
 The impact of internal versus external perturbations on close-in exoplanet architectures
 Dynamical orbital evolution of collision induced asteroid debris: The formation and dispersal of asteroid families
+From orbit to ground: Pre-impact meteorite strewn field predictions for imminent impactors and meteorite recovery
+Numerical modeling of coarse-grained ash dispersal in current and ancient atmospheres on Mars: Implications for the origin of the Nili Fossae olivine‑carbonate unit
