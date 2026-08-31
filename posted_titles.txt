@@ -15019,3 +15019,37 @@ From orbit to ground: Pre-impact meteorite strewn field predictions for imminent
 Numerical modeling of coarse-grained ash dispersal in current and ancient atmospheres on Mars: Implications for the origin of the Nili Fossae olivine‑carbonate unit
 Sulfur diffusion in lunar melts and its implications for lunar mantle sulfur abundance
 Dynamical effects of Enceladus plume forcing in the Saturn–Enceladus three-body environment
+The Occurrence Rate of Nearby Planetary Companions to Hot Jupiters
+Time-resolved JWST Retrieval Analysis of the Coldest Brown Dwarf: Temperature and Chemical Variations in WISE 0855−07
+Asymmetric Distribution of Electron Density near Enceladus: A Comparative Survey of Upstream and Downstream Cassini Flybys
+Intermittency of Ultrarelativistic Charged-particle Trajectories in Jupiter’s Radiation Belts
+Host–Non-host Differences in Stellar Chemistry, Activity, and Birth Radius: Hints of Distinct Formation Environments for Earth-like Planets and Sub-Neptunes
+Hadley circulation drives material isolation and pole-to-pole teleconnection on Mars
+LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering
+DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents
+Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models
+Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities
+Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning
+J-Zero: Unified Challenger--Solver--Judge Co-Evolution from Zero Data
+Revisiting Local Context for Long-Horizon Streaming 3D Reconstruction
+Puro-2B: Poor Lab's Qwen2-1.5B Trained on RTX 5090 within $5090
+LayerRecall: A State-Conditioned Memory Router for Long-Horizon Consistency in Video Generation
+ContextPilot: Teaching Agents for Proactive Context Management via Fine-grained RL
+Act with Intent: Distilling Behavior Intent for Vision-Language-Action Models
+Locate Anything in Videos: Rethinking Efficient Generative Spatio-Temporal Video Grounding
+Blind Men and the Elephant: Probing the Epistemic Myopia of LLMs under Long-Tail Divergent Knowledge
+Fast Weight Attention for Continual Learning
+Paint What You See: Benchmarking Dexterous Visual Tool Use in Multimodal Agents
+StepGuard: Learning Step-Level Guardrails with Scalable Supervision and Safety-Utility Balancing
+Sliding-window beats linear attention
+Ring Forcing: Towards Precise Long-Term Memory for Autoregressive Video Diffusion
+PonderPounce: A Pretrained MLLM as an Episode Context Engine for Robot Control
+Video Generative Models as Geometry Learner
+StarHarness: Evolving Harnesses with Stratified Search for Enterprise Environments
+Rubric-to-Code Credit Assignment for Reinforcement Learning
+LMSM: LLM Security Framework Inspired by Linux Security Modules
+Language Chain in Alignment: Cross-lingual Ranking Preference Optimization
+Training, learning and inference: unified dynamics of neural systems
+Generative Semantic Scene Completion
+GGSS: Geodesic-Gated Spherical Steering for Inference-Time Debiasing of Generative Vision-Language Models
+Lost in Compression: A Controlled Cross-Lingual Audit of Extractive Prompt Compressors
