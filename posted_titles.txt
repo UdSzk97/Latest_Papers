@@ -15059,3 +15059,49 @@ Three new exoplanet systems from the Dispersed Matter Planet Project
 EvoUndo: Recoverability-Constrained Self-Evolution for LLM Agent Harnesses
 Ask or Answer: A Decision Framework for Multi-Turn Health Misinformation Intervention
 Acquire, Repair, Preserve: A Diagnosis-Guided Post-Training Recipe for Small-Model Dialogue Game Agents
+Biosignature Detectability on Transiting Habitable Worlds with the ELT/ANDES
+Viscously Stirring Particle Disks into Lorentzians and Gaussians to Infer Dynamical and Collisional Masses (ARKS XIII)
+Size, Shape, Density, and Atmospheric Limit of (50000) Quaoar Revealed from 14 years of Stellar Occultation
+Latitudinal Trend Reversal in Space Weathering Asymmetry Reveals Significant Role of Micrometeoroids on the Moon
+oMEGACat. X. Shedding Light on the Disrupted Dwarf Galaxy of Omega Centauri
+Redox overprinting and anthropogenic source shifts recorded by mercury isotope systematics in Eastern Mediterranean deep-sea sediments
+Charmed by comets
+Climates of Gl 514 b
+Hydrogen Implantation on the Moon: Effect of Plasma Sheath
+Integrated multi-constraint inversion for molecular ion composition analysis with a time-of-flight ion analyzer: Application to the Comet Interceptor mission
+Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement
+DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution
+Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling
+GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling
+Normalized Low-Rank Adaptation
+PaperGym: Rubric-Centered Evolution for Research-Plan Generation
+On the Design of Qwen3.8-Next Architecture: Evaluation, Efficiency, and Training Stability
+CogEvol: Towards Efficient and Reliable Learning Environment Generation
+LightNav-0: Eliciting VLM Spatial Intelligence for Generalist Embodied Navigation
+SHAPE of Chain-of-Thought in Math Reasoning
+Scaling Large Reasoning Models beyond Human Supervision: A Path toward Superintelligence
+Super Library Agent: Joint Generation and Maintenance of Multiple Applications Beyond the Single Codebase
+Evaluating the Hidden Costs of Personalization in Large Language Models
+Lies We Can See: Joint Verbal and Non-Verbal Deception by VLM Agents in Embodied Social Interactions
+Learning to Evaluate Before Improving: Automatic Rubric Induction for Automatic Research Agents
+Keep-or-Drop? Adaptive Tokenizer for Compact Video Representation
+MNIST-PRO: MNIST is Back as a Partially Observable World for AI Agents
+Chain-of-Thought Faithfulness of Reasoning Models Varies with Where and How Preference Cues Are Delivered
+PaperBanana-Interact: Scientific Diagram Refinement with Multi-Turn Human Feedback
+CAST: Critique-Aware Supervision for Training Reliable Long-Horizon Tool-Calling Agents
+Weaving Visual Narratives: Agentic Image Bundle Composition Beyond Atomic Visual Matching
+Scaffolding Foundation Models into Physical-World Agents Pushes the Frontier of Long-Horizon Navigation
+Verification-Aware Training for Speculative Decoding
+WebWorld: The Browser as a World Model for Self-Improving Web Code
+ContextBias: Controlled Evaluation of Bias Persistence Under Context Shift in Text-to-Image Models
+Matrix-Game 3.5: Enhancing Real-Time Streaming Interactive World Models with Patch Memory
+SafeAtlas-VL: Beyond Binary Multimodal Safety with Large-Scale Data and Guard Models
+DICS: Exploring Data Intrinsic Consistency for Visual Instruction Selection
+Cross-lingual Functional Vectors for Emotion Detection in Large Language Models
+Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions
+BLARM: Animating 3D Objects from Video via Blending Latent Rigid Motion Primitives
+MMMMM: A Unified Taxonomy for Investigating the Mechanisms of Multilingual MultiModal Misinformation
+SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models
+EvoGenUI-Bench: Evaluating LLMs as Multi-Turn Generative UI Assistants
+Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models
+Dynamic Important Example Mining for Reinforcement Finetuning
