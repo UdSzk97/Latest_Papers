@@ -15109,3 +15109,30 @@ The distribution and origin of Mercury’s crustal magnetization
 Mercury’s crustal magnetization indicates a stronger ancient dynamo
 CoVA-SFT: A Large-Scale Dataset for Chain of Visual Abstractions
 RECAP-Forcing: Retaining Content Appearances for Long Video Generation
+Earth’s Rapid Rotation and Magma Ocean Solidification Drastically Limit Angular Momentum Removal by the Evection Resonance After a High-angular-momentum Moon-forming Giant Impact
+Helium-poor Winds Do Not Require Helium-poor Planets
+Characterizing the Bolometric-photoevaporative Transition in Young Sub-Neptunes with Radiation-hydrodynamic Simulations
+Textures of Chassignite meteorites: Clues to cumulate formation and early deformation processes on Mars
+Experimental Ejecta Emplacement in Variable Gravity and Its Effects on Landscape Evolution
+StudentSim: Training LLM-based Student Simulators
+Qwen-Drive-1.0: An Initial Step towards a Vision-Language Foundation Model for Autonomous Driving
+SMELT: Scaling Laws for Compute-Matched MoE Looped Transformers
+UI-Venus-2 Technical Report
+ZimaBlue: Evolving Generalizable World Action Models through Scalable Video Pre-training
+H3-World: Turning Language Understanding into World Control
+From Production Traffic to Post-Training: Building a Self-Hosted LLM That Covers the Corporate Request Mix
+Hi-Q: Hierarchical Evidence-guided Query Refinement for Multi-Hop Question Answering
+Evaluating Multimodal LLMs as Generalist Vision-Language-Action Agents for Drone Control: Commanding, Approaching, Tracking and Searching
+Uncovering Understanding-Generation Synergy in Native Unified Multimodal Models: From Representation, Task to System
+Safin-1: Safety from Within through Memory-Native State Evolution
+DiagEvo: Diagnosis-Guided Self-Evolution via Hierarchical Error Memory
+Harness-of-Harness: Multi-Day Autonomous Software Development with Continual Improvement
+EM^2Mem: Event-Centric Multimodal Memory for Large Language Models
+Agents in the Large: Perception-Centered Architecture for Persistent Agents
+Control-Data Flow Separation: Stable Prompt Optimization in Multi-Agent LLMs
+E-Commerce Bench: Evaluating LLM Agents on Long-Horizon Autonomous Business Operation
+InternReviewer & InternAdvocate: Objective Reward and Evaluation for Agentic Reinforcement Learning in Peer Review and Rebuttal
+The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Consent Engineering
+ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation
+Recursive Criticality of AI Self-Improvement
+Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry
