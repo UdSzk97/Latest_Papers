@@ -15105,3 +15105,7 @@ SpanCalib-VLM: Calibrated Hallucination Span Detection in Vision-Language Models
 EvoGenUI-Bench: Evaluating LLMs as Multi-Turn Generative UI Assistants
 Chat-Edit-3D++: Interactive 3D and 4D Scene Editing via Large Language Models
 Dynamic Important Example Mining for Reinforcement Finetuning
+The distribution and origin of Mercury’s crustal magnetization
+Mercury’s crustal magnetization indicates a stronger ancient dynamo
+CoVA-SFT: A Large-Scale Dataset for Chain of Visual Abstractions
+RECAP-Forcing: Retaining Content Appearances for Long Video Generation
