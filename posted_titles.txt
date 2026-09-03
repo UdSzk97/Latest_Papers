@@ -15136,3 +15136,10 @@ The Mechanics of Democratic Dominance: A System Dynamics Paradigm for Dynamic Co
 ReFlowSET: Representation-Aligned Latent Flow Matching for SAR-to-EO Image Translation
 Recursive Criticality of AI Self-Improvement
 Learning Where Outcomes Change:Credit-Addressable Reasoning for Multimodal Geometry
+AgentJudgeBench: A Multi-Difficulty Benchmark for Evaluating LLM Judges on Agentic Tool-Calling
+Adapting Without Gradients: Affine Statistics Transport and What Its Certificate Can Tell You
+Token-Efficient Data Reasoning Agents via Adaptive Structuring of Unstructured Data
+DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation
+Agent Memory Is a Surface for Endogenous Authorization Laundering
+Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
+Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds
