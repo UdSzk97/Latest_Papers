@@ -15143,3 +15143,37 @@ DramaChain Bench: An End-to-End Benchmark for Short-Drama Generation
 Agent Memory Is a Surface for Endogenous Authorization Laundering
 Knowledge Distillation During Mid-Training Favors Reasoning over Factual Recall
 Does Imitation Learning Preserve Temporal Robustness in Dexterous Manipulation? An Expert-Learner Comparison Across Task Execution Speeds
+A planet as the possible cause of the HD 181327 debris disc asymmetry
+Distant activity of Chiron-type comet C/2023 RS61 (PanSTARRS)
+Planetesimal formation across the stellar mass spectrum and its influence on exoplanet-inherited volatile budgets
+Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills
+SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models
+EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction
+HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?
+Aspire: Can Models Self-Evolve from Vague Goals?
+It Takes Two to Match: Co-Evolving Generative Retriever with Reinforcement Learning
+Language Models Can Control Their Own Attention
+On the Design Fundamentals of Pixel Text Representation Learning
+Beyond Visual Similarity: Entity-Aligned Retrieval for Knowledge-Based Visual Question Answering
+S3Gym: Can LLMs Turn Self-Testing and Self-Judging into Self-Improvement?
+ZipTok3D: High-Fidelity 3D Tokenization with Compact Token Prefixes
+NeoMME: A Single-Tower Multimodal-Native Multilingual Foundation Encoder for Efficient Fine-Tuning and Inference
+Cliff: Learning Process Rewards from the First Mistake
+Influence-Directed Distillation: Solving the Diversity Bottleneck in Sampled-Token On-Policy Distillation
+A Glance Is All You Need: Single-Pass Fine-Grained Image Captioning with SimLoss
+VibeVoice-ASR-Streaming Technical Report
+MULTI3IR: A Benchmark for Multi-perspective Multi-domain Multi-modal Information Retrieval
+Institutional Newspapers Pipeline: Deriving billions of high quality tokens from historical newspapers
+Post-Training Language Models for Gold-Medal Performance in Coding Competitions
+CRISP: Cliff-awaRe Input-adaptive Sparse Prefilling with Structural-Mass-Motivated Routing
+PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation
+ExecRetrieval: Measuring the Functional-Correctness Gap in Code-Embedding Retrieval
+Exploring Collaboration between a language and a non-language agent
+SnapBench: Benchmarking Snap-and-Ask Multimodal Retrieval for Mobile Interactions
+Kirin: Animal Motion Generation from In-the-Wild Video
+FoldingAgent: Inferring Parametric Origami Procedures from Demonstration Videos
+Ignorance or Incompetence? Constructing Knowledge-Gated, Verifiable Tasks for LLM Agents
+Debias-SparseGPT: Bias-Aware Pruning for Large Language Models
+Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models
+Portfolio Risk Bounds without Cross-Asset Return Covariances: Distributional Fields from Language-Model Representations
+Wasserstein-Barycentric Interaction Fields for Spatial Factor Models: Evidence from Language-Model Representations
