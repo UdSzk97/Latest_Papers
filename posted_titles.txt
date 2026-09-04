@@ -15177,3 +15177,8 @@ Debias-SparseGPT: Bias-Aware Pruning for Large Language Models
 Autoregressive Mosaics: Probing 2D Spatial Reasoning in Text-Only Language Models
 Portfolio Risk Bounds without Cross-Asset Return Covariances: Distributional Fields from Language-Model Representations
 Wasserstein-Barycentric Interaction Fields for Spatial Factor Models: Evidence from Language-Model Representations
+Study on the Venusian atmospheric thermal structure: A comparative analysis between VEX/Akatsuki and Venus-GRAM/VCD
+WHALE: A Simple Recipe for Joint Harness-Weight Optimization
+Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
+Small Language Models as Judges for Rubric-Based Reinforcement Learning
+An Empirical Study on Zero-Data Bootstrapping for Conversational Recommender Systems
