@@ -15182,3 +15182,31 @@ WHALE: A Simple Recipe for Joint Harness-Weight Optimization
 Sparse Readout Prism: Explaining Logit-Lens Scores in Features Instead of Tokens
 Small Language Models as Judges for Rubric-Based Reinforcement Learning
 An Empirical Study on Zero-Data Bootstrapping for Conversational Recommender Systems
+Ranking the Drivers of the Venusian Bow Shock and Ion Composition Boundary Locations
+A Physically Driven Parameterization of Multidimensional Atmospheres: Application to the JWST Phase Curve of WASP-121b
+Effects of Superrotating Jets on Phase-resolved Transmission Spectra at High Spectral Resolution
+Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments
+Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training
+LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes
+LatentPress: Context Compression Beyond Text and Vision
+Compile by Training: Turning Natural-Language Specifications into Local Neural Functions
+Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning
+Why Gated DeltaNet Survives 4-Bit Quantization: NVFP4 W4A4 for the Recurrent Half of a Hybrid 27B LLM
+Rethinking On-Policy Distillation of Large Language Models II: One Training Example
+Puffin-World: Scaling a Unified Multimodal Model with Native 3D World States
+Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction
+Editable Visual Design
+The Missing Temporal Link: Temporal Context Routing for Script-Driven Audio-Video Generation
+Beyond Retrieval: Progressive Latent Memory Evolution for Streaming Video Understanding
+CORE: Improving Compositional Reasoning in MLLM Embedding via Reranker Distillation
+RealSWE: A Compositional Evaluation of Coding Agents under Realistic User Requests
+PACE: Towards Surfacing Hidden Conflicts in User Requests
+WorldReward: Reward Modeling for Camera-Conditioned World Models
+FlashRender: Few-Step Generative Rendering via Camera-Controlled Video MeanFlow
+Environment Evolution for Terminal Agents
+Using Grounded Theory for Agent Behavior Analysis at Scale
+Principia: Relational Physics Tests for Video Models
+Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Long-Video MLLMs
+Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration
+QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation
+Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance
