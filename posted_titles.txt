@@ -15210,3 +15210,9 @@ Select, Compress, Reinvest: A Controlled Study of Visual-Token Allocation in Lon
 Let Confidence Change, Not the Prediction: Prediction-Preserving Repair for Post-hoc Calibration
 QCell: Recombining and Aligning Cell Queries for Overlapping Instance Segmentation
 Percolation Dynamics in Optimization : Variance Cascades and Discrete Scale Invariance
+Breaching of Valles Marineris led to ~34 m Martian sea level rise
+DRACO: Fine-Grained Credit Assignment with Dynamic Rubrics for Long-Horizon Agent Training
+Last Translation Benchmark
+VeriPhy: Agentic Physical Reasoning for World Model Evaluation and Refinement
+Locked at the Entrance, Open Inside: Where RLVR Narrows the Solution Space
+A Common Measure of Communication for Speech Brain-Computer Interfaces
