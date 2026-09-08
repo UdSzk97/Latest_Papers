@@ -15245,3 +15245,8 @@ AdaptVPR: Route-Aware Hard Positive Generation for Robust Visual Place Recogniti
 When Quantization Breaks Memory: Recurrent-State Write-Back in Low-Precision Temporal Inference
 ShallowStream: Index Shallow then Answer Deep for Streaming Video Understanding
 To See a World in a Living Context: Unified Indoor-Outdoor Urban World Generation
+Dr. Claw: An AI Scientist Workspace for Vibe Research
+HarvestBench: Measuring Whether LLM Agents Will Pay to Avoid Killing Animals
+Knowing What Not to Answer: Selective Non-Compliance in Vision-Language Models
+Refuse without Refusal: A Structural Analysis of Safety-Tuning Responses for Reducing False Refusals in Language Models
+The 2026 PNPL Competition: Word Classification and Efficient Cross-Subject Generalisation in LibriBrain100
