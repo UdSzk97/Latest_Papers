@@ -15269,3 +15269,53 @@ Cell body position of Drosophila Moonwalker Descending Neurons regulates locomot
 Causal Foundation Models
 Unifying Conformal Language Tasks with In-Context Ensembles
 Privacy Failure in Split-LLM Training, The Returned Gradient Nullifies the Decoys
+Surface waves on the dawn and dusk flanks of Jupiter’s magnetopause
+Simulated Effects of Radioactive Elements on Magnetic Evolution and Atmospheric Mass Loss of Earth-like Planets
+The Sonora Substellar Atmosphere Models. VII. Flame Skimmer: Cloud-free Atmospheric and Evolutionary Models for the Coldest Substellar Objects
+Physical characterization of two kilometer-sized binary main-belt asteroids: (1967) Menzel and (20325) Julianoey
+Spectral ornaments: the chemical fabric of NGC 2264’s Christmas Tree
+A physics-informed framework for synthetic flyby imaging of activity in dynamically new comets
+Probing Ancient Biosignatures: Laser Mass Spectrometric Analysis of the 3.33 Ga Josefsdal Chert Using Laboratory and Space-prototype Instrumentation
+Callisto from JWST: CO2-rich Terrain on the Leading Hemisphere and Global Patterns of H2O Ice
+NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness
+AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing
+Omni Interaction Agent Technical Report
+Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation
+DriveZero: End-to-End Driving Beyond Human Demonstrations
+OpenWAM: An Open, Modular Exploration Towards Systematic World-Action Model Pretraining
+GE-Act 2.0: Pretraining and Scaling a World-Action Model for Robotic Manipulation
+Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout
+Miles v0.1: Production-Level Post-Training
+SceneMosaic: Efficient and Diverse Simulation-Ready Scene Generation via Hybrid Agentic Layout Evolution
+Marigold V2: Revisiting Diffusion Transformers for Monocular Depth Estimation
+Reason Through the Latent! Making Latent Visual Reasoning Necessary
+BeaconKV: Key-Value Cache Compression Guided by Beacon Queries for Efficient Large Reasoning Model Inference
+CosmoH2G: A Hand-to-Gripper Transfer Dataset and Baseline Method for Object Manipulation with Complex Spatial Movements
+Steering Geometry: Validating Human Value Geometry in LLM Steering Space
+Online Draft Co-Training for Speculative Decoding in Large-Scale, Long-Context RL Post-Training
+Agentic Visual Generation: From Generative Models to Agentic Control
+Environments as Scaffold: Enriching Feedback to Bootstrap Self-Evolving Agents in Long-Horizon Tasks
+Kalman Delta Networks: Uncertainty-aware Associative Memory
+CoVeR: Coverage-Based Token Pruning for Multi-View 3D Reasoning in VLMs
+RoboSPA: Can VLA Models Go Beyond Simple Scenes and Short-Horizon Tasks?
+TANGO: Humanoid Navigation in Cluttered Environments with a Whole-Body Vision-Language-Action Model
+Procedural Graphs: Self-Evolving Execution Structures for LLM Agents
+Measuring Language Transfer in Robot Policies: Adding Greek to a Cosmos3 Vision-Language-Action Policy
+TransNormal-2: Geometry-Grounded Rectified Flow with Edge-Aware Decoding for Precise Normal Estimation
+VidaForge: Open Research Infrastructure for Video Pretraining Data Recipes
+What LLM Trading Agents Actually Do in Production: A Six-Month, Population-Scale Record from Two Fleets
+ReactVAU: A Slow-Fast Decoupled Framework for Streaming Video Anomaly Understanding
+MOLE: Detecting Insider Threats in AI Agents
+Encoded Early, Used Late: Where Transformers Begin to Act on an Inferred Partner's Expertise
+Multi-Grid Post-Training for Long-Form Multi-Shot Video Generation
+Cadence: Error-Bounded Lossy Compression of Demand Time Series with a Time-Series Foundation Model
+What Did I Just Say? Self-Listening for Full-Duplex Speech Models
+Recognition-Refusal Misalignment in LLMs: Why Models Answer Structurally Unanswerable Questions
+Harnessing CLIP and DINO: An Uncertainty-Aware Cascaded Fusion Network for Generalizable Deepfake Image Detection
+SQS: Bayesian DNN Compression through Sparse Quantized Sub-distributions
+SynthGait-19K: A Physically Grounded Synthetic Video Dataset for Gait Parameter Estimation
+A*-Thought-V2: Efficient Latent Reasoning via Geometric Dynamics of LLM
+RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighting
+MasterControl Seventeen Every Time
+Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions
+Learning 3D Editing without Paired Supervision via Generative Prior Distillation
