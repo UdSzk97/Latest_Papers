@@ -15319,3 +15319,9 @@ RelightFormer: Feed-forward Generative Transformer for Multiview Object Relighti
 MasterControl Seventeen Every Time
 Counter-Swarm Doctrine: Containing Coordinated Agent Intrusions
 Learning 3D Editing without Paired Supervision via Generative Prior Distillation
+An upper limit on turbulent viscosity in the circumjovian nebula
+VDiff-Bench: A Challenging Benchmark for Fine-Grained Image Difference Identification
+NOAH: Learning the Full Patient Journey. A Longitudinal Multimodal Time-Aware Model for Representation and Forecasting
+EVOHARNESSBENCH: Can Your Agents Keep Pace with an Evolving Harness?
+RenderFormer-V2: Neural Rendering with Heterogeneous Scene Primitives
+Graph Machine: Towards Better Pretraining via Edges
