@@ -15361,3 +15361,32 @@ SchemeArena: Factorized Stress Testing of Scheming in LLM Agents
 A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity CPU Hardware
 PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents
 The Price of Sparsity: Sufficient Conditions for Sparse Recovery using Sparse and Sparsified Measurements
+The SPACE Program. II. No Discernible Spectral Features in the Transmission Spectrum of the Sub-Neptune HD 191939 b Observed with HST/WFC3
+Spin–Orbit Alignment of Two Neptune-size Planets Younger Than 500 Myr: TOI-560 b and TOI-5082 b
+Properties of Linear Magnetic Holes at Jupiter Based on Juno Observations
+Breaching of Valles Marineris led to ∼34 m Martian sea level rise
+Photometric characterization of near-Earth asteroids: Rotation, taxonomy, and candidate evidence for internal cohesion
+Hierarchical three-body problem at high eccentricities = simple pendulum - IV. Octupole for librating Kozai–Lidov cycles
+Homogeneous stellar parameters for 717 807 TESS FGK stars using Gaia DR3
+Impact fragmentation of carbonaceous meteorites with pre-existing large cracks
+Enhancing temporary capture of small bodies via planetary moon flybys in Sun–planet systems
+Coma Volatile Composition and Thermal Physics in Comet C/2022 E3 (ZTF) Measured near Closest Approach to Earth with NASA-IRTF
+NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction
+SenseNova-U1.5: Towards Native Unified Visual Intelligence
+SpatialBlock: Enhancing Spatial Intelligence in LVLMs via Synthetic Block-Stacking Problem
+EvoSafeHarness: Evolving Model- and Domain-Specific Harnesses for Securing Agents
+Mi-Ripple: Restoring Images Degraded by Iterative AI Editing
+X-AuT: Progressive Audio-Encoder Compression for Speech LLMs with Cross-Scale Distillation
+Memory as Plans: World-Action Modeling with Memory-Grounded Planning
+TempCloze: Can Video-LLMs Identify the Missing Middle?
+FreeFlow: A Bias-free Hierarchical Transformer for Optical Flow Estimation
+Recursive Code World Models: Building Complex Worlds through Recursive Scene Programs
+CARDEA: Auditable Reasoning Grounded in Spatial Evidence for End-to-End Coronary Angiography Interpretation
+Negative Self-Distillation: Learning to Reason by Avoiding Flaws
+MetroLLM-Bench: Evaluating Language Models as Transit Kiosk Runtimes
+HyQuant: Hybrid-Precision Quantization for LLM Attention
+DRG-MAPPO: Hierarchical Dynamic Role-Graph Multi-Agent Reinforcement Learning for Cooperative Air Combat
+UniH^3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medical Image Restoration
+Generative Late-Interaction Embeddings For Visual Document Retrieval
+World in World: Explore the World with World Models
+An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics
