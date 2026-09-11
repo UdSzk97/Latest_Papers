@@ -15355,3 +15355,9 @@ Reference-Based Bias Detection in LLMs via Relative Representations of Hidden St
 PlannerForge: LLM Agents for Scenario-Based Testing of Motion Planners in Autonomous Driving
 Difficulty-Adaptive Tree-Structured Policy Optimization for Expanding Reasoning Coverage in RLVR
 DF26: We Cannot Tell Fake From Real Anymore
+Complexity of baddeleyite microstructure and Pb-Pb age in lunar gabbroic breccias: implications for the NWA 773 Clan chronology
+Slope Stability Analysis of a West-facing Landslide in the Iani Chaos Region (Mars)
+SchemeArena: Factorized Stress Testing of Scheming in LLM Agents
+A Three-Layer Caching Architecture for Low-Latency LLM Web Search on Commodity CPU Hardware
+PARSER: Read in Parallel, Reason in Depth for Long-Context LLM Agents
+The Price of Sparsity: Sufficient Conditions for Sparse Recovery using Sparse and Sparsified Measurements
