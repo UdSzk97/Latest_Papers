@@ -15397,3 +15397,7 @@ Beyond Solver Verdicts: Generative Reward Models for Autoformalization
 Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2
 IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications
 ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation
+Negligible Ca isotope fractionation in deep magma ocean suggests an unsolidified proto-Earth during Moon formation
+Distribution and morphological characteristics of pedestal craters in Martian low-latitude regions: Implications for recent orbital obliquity history
+Corrigendum to “Oxidation state and volatile element evolution during equilibrium planetary accretion: The case study for mars and vesta” [EPSL 692 (2026) 120245]
+Characterization of Microtopography of Lunar Crater Slopes Related to Rock Abundance: A Case Study at Flamsteed Crater
