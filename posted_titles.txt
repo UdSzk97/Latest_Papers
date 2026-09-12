@@ -15390,3 +15390,10 @@ UniH^3: Unifying Hierarchical Homogeneity and Heterogeneity for All-in-One Medic
 Generative Late-Interaction Embeddings For Visual Document Retrieval
 World in World: Explore the World with World Models
 An Open Recipe for IMO Gold: Training Nemotron for Olympiad Mathematics
+Studying Image Tokenizers as Visual Languages in Unified Multimodal Models
+Think Before You Link: Rarity, Reasoning, and Retrieval in Multilingual Entity Linking
+Building Multilingual Bridges: Data Mixing as the Pillar of Generalization for In-Language Reasoning
+Beyond Solver Verdicts: Generative Reward Models for Autoformalization
+Adaptive Bridge: A Proxy-Based Decoupling Layer for Mitigating DDS Backpressure in ROS 2
+IdeaAMBIG: Benchmarking Implementation-Critical Gaps in Research-Idea Specifications
+ActReview: Rebuttal-Guided Training Data and Rubric Rewards for Actionable Peer Review Generation
