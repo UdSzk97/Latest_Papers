@@ -15429,3 +15429,12 @@ How Far Can Synthetic Data Take Thai OCR?
 Ambient @ EgoProactive 2026 : Proactive Egocentric Assistance with Visually Grounded Supervision
 Ambient @ EgoLongQA 2026: Distilling Long-Video perception into a Sub-2B Model
 TRACE: Trajectory-robust Admission with Evidence Ordering for Efficient GUI Agents
+Updated Mars Orientation and Gravity Field and Indication of Decadal Changes in Rotation Rate
+Occamy-1.0: Open Pareto-frontier 35B Intelligence for Co-work
+ReactHuman: A Physics-Grounded Benchmark for Human-Like Reactive Decision-Making in Embodied Multimodal LLMs
+Competence-Gated Pooling of Language Models and Priors for Event Forecasting
+Feature Recovery for Object Understanding After Irreversible Fire Damage
+Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence
+Towards a Deterministic Math Solver for Clinical Language Models
+ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation
+MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control
