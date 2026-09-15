@@ -15438,3 +15438,39 @@ Pelican-Sim 1.0: A General World Model Simulator for Embodied Intelligence
 Towards a Deterministic Math Solver for Clinical Language Models
 ReMoMask-2: Latent Retrieval-Augmented Masked Motion Generation
 MobileVLA-R1 2.0: RL-Enhanced Reasoning for Mobile Robot Control
+Automated Shape-model-based Astrometry of Phobos from Mars Express Super Resolution Channel Images
+Are Hot Jupiters Tidally Disrupted During Stellar Main Sequence?
+Photometric Solutions for 83 Neglected Eclipsing Binaries Using TESS Data
+Causes of Hot Jupiter Inflation from Causal Discovery
+Nonlinear Wave–Wave Interactions of Ion Cyclotron Waves in Saturn’s Magnetosphere: Cassini Observations and Theoretical Predictions
+Slope stability analysis of a west-facing landslide in the Iani Chaos Region (Mars)
+Atria Dawn: The Dawn of Agentic Superintelligence
+Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation
+ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search
+Dream-RSI: Recursive Self-Improvement through Evolving Worlds
+PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models
+Grouped Value Attention: Efficient KV Caching via On-Demand Key Reconstruction
+LynnReal-Omni: Native multi-modal Video Generation for Agentic Visual Workflows
+RSIAgent: Autonomous Exploration for Recursive Self-improvement in New Environments
+Discovery Foundation Models: Toward Open-Ended Discovery Intelligence
+BVB: Benchmarking Agentic Video Understanding via Programmatic Reconstruction in Blender
+How Lossless Is Lossless Speculative Decoding? The Role of Numerical Precision in Orthrus
+AlayaVista: Streaming World Modeling from Panoramic States to Perspective Video
+Kaininja: Extending Native 3D Generators to the Part Level
+Omni-Streaming Thinking
+HazardAuditor: From Executable Threats to Safer Computer-Use Agents
+LLaDA-UI: Bringing Block-wise Diffusion to Vision-Language GUI Agents
+When Agents Slow Down: Understanding LLM Agents' Test-Time Strategies via Elo-per-token Analysis
+Not All Prompts Are Equal: Exploration-Guided Prompt Scaffolding for Multimodal Reinforcement Post-Training
+Agent as Policy for Robotic Manipulation
+Pick Your Poison: Learning to Select Poison Sets for Stronger LLM Backdoor Attacks
+MInTRL: Off-policy Intervention can boost On-policy RL
+Attention-DP3: Spatially Object-aware 3D Diffusion Policy via Geometry-aligned Attentional Conditioning
+Expert-Space Exploration in MoE Reinforcement Learning
+Enabling Creative Exploration for Vibe Design Agents
+Dynin-Robotics: Omnimodal Unified Diffusion Vision-Language-Action Model
+Building a Production Greek-English Speech Recognizer
+Thought without systematicity? Evaluating reasoning models on rule induction tasks
+ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs
+E2A-Bench: Benchmarking Evidence-to-Action Reliability in Financial Chart Reasoning
+Learning Sparse Decision Trees via Transformer Variational Auto-Encoders
