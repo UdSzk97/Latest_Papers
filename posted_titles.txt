@@ -15474,3 +15474,6 @@ Thought without systematicity? Evaluating reasoning models on rule induction tas
 ModaLens: Measuring Image Sensitivity in Report-Conditioned Medical VLMs
 E2A-Bench: Benchmarking Evidence-to-Action Reliability in Financial Chart Reasoning
 Learning Sparse Decision Trees via Transformer Variational Auto-Encoders
+Learning to Solve Hard Problems in RL for LLMs by Never Giving Up
+Root-Cause Attribution Is a Search Problem: Continual Search for Long-Horizon Agent Failures
+Lightning Weave: Improving the Accuracy-Efficiency Frontier of Reasoning Models through Capability Composition
