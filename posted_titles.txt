@@ -15510,3 +15510,28 @@ RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs
 Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement
 OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning
 LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence
+WASP-43b TESS Phase Curve Mapping: Evidence for a Hot Interior
+The Venus Benchmark: Resolving Degeneracies in Terrestrial Exoplanet Spectra with DAVINCI
+A Search for Substellar Companions around A-type Stars: Pulsation Timing Detection of Eight Brown Dwarf Candidates and a Possible Habitable-zone Planet
+Probing the Taxonomic Diversity of the Small Near-Earth Object Population
+ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments
+Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening
+Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents
+ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks
+ActionPiece: Rethinking Action Tokenization for Autoregressive Vision-Language-Action Models
+Agora: Git as Shared Memory for Collective AutoResearch
+VC-Attention: Value Smoothing and Softmax Casting for Low-bit Attention
+EvolveTrade: Experience-Driven Policy Refinement for Self-Evolving LLM Trading Agents
+Zing-0.5: Toward Playable Worlds with Real-Time Joint Action and Text Control
+HypoEvolve: Genetic Algorithms Enable Multi-Agent LLMs to Discover Scientific Hypotheses
+A Zeroth-Order Paradigm for LLM Preference Alignment
+Gaze as Evidence for Common Grounding: A Cross-Corpus Analysis of MapTask and MUNDEX
+SpectralShift: Effective Context Window Extension of Gated DeltaNet via Spectral Reparameterization
+EventEgoHands++: Event-based Egocentric 3D Hand Mesh Reconstruction with Real Dataset
+In-Context Robot Learning with VLM Agents
+PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection
+Flattening Every Memory Peak in Long-Context Mixture-of-Experts Training
+The Other Half of the Memory Wall: Serving 35B MoEs from SSD with Trained Routing Prediction
+CERA-MoA: Co-Evolving Routing Mechanisms with Continually Learning LLM Agents
+Fathom: Per-Query Read Depth for Sparse Decoding over Offloaded KV Caches
+Assessing nnU-Net Generalization across Brain Tumor Populations in BraTS-GoAT 2026
