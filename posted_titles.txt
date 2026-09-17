@@ -15501,3 +15501,12 @@ Emergence World: Adversarial Stress-Testing of Long-Horizon Multi-Agent Systems
 Drift-Constrained Optimization: Only Direction Matters in Fine-Tuning Instruct Models
 Training Specialist Models without Reasoning Trajectories for Domain Expert Distillation
 The Router Within: Eliciting Native Skill Routing from a Frozen LLM
+Optical–Near-infrared Multiband Photometric Analysis and Characterization of Giant Exoplanets with CPI-C
+Giant Planets and Eccentric Orbits are Common around Galactic Thick Disk Stars*
+Microwave Remote Sensing of Giant Planet Atmospheres: Considerations for Saturn and Uranus Orbiter Missions
+FLAT: Resampling Image and Text into 1D Flexible-Length Aligned Transmodal Tokens for Retrieval and Generation
+Register Tokens for Bounded-State Reasoning in Diffusion Language Models
+RelateAnything: Real-Time Open-Vocabulary Relation Prediction From Any Inputs
+Generalized Agent Iteration: One Formal Framework for Iterative Policy Improvement and Recursive Self-Improvement
+OmniHarness: Harnessing Generalizable Visual Generation via Symbolic Policy Learning
+LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence
