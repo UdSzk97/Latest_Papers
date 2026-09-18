@@ -15538,3 +15538,29 @@ Assessing nnU-Net Generalization across Brain Tumor Populations in BraTS-GoAT 20
 Surface layer turbulence scaling parameters at Jezero crater, Mars
 Mercury is shrinking with age — faster than thought
 Fingers as Legs: Learning Self-Supported Locomotion and Manipulation with an Anthropomorphic Hand
+DPNNet-3.0: Identifying Multiple Hidden Planets and Estimating their Masses from Protoplanetary Disk Images using Convolutional Neural Networks
+The Tidal Venus Phenomenon: Demographics and Case Studies
+Experimental constraints on a long-lived magma layer at the Martian core–mantle boundary
+Earth–Moon and Solar System history recorded in Mesoproterozoic Grand Canyon strata
+A Whole-planet Model of the Earth without Life for Terrestrial Exoplanet Studies
+DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression
+SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness
+An Empirical Study of Harness Design for Coding Agents
+JEPA-Anything: Learning Predictive Models across Different Worlds
+RiskChainBench: A Benchmark for Obfuscated Platform Message Restoration and Evidence-Grounded Web Investigation
+RetireOPD: Self-Retiring On-Policy Distillation for Agentic Reinforcement Learning
+When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation
+Reflect, Revise, Reuse: Training-Free Skill Evolution for GUI Agents
+WeVisDoc: From Coverage to Capability for Robust End-to-End Document Parsing
+VABench: Measuring Embodied Spatial Intelligence through Visual Demonstrations, Active Perception, and Metric Control
+Video DeltaNet: A Video-Native Hybrid Attention for Livestream Video Generation
+Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model
+FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations
+UFO: Chain-of-Evaluation for Omni-Condition Alignment in Multi-Modal Image Generation
+When2Think: Learning Difficulty-Aware Length Control for Efficient Hybrid Reasoning Models
+What Does Privileged Information Add to On-Policy Self-Distillation?
+Region-Level Policy Optimization for Fine-grained MLLM Perception
+Don't Mask the Environment: Observation Supervision Changes How Agents Explore Under RL
+PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?
+VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering
+Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts
