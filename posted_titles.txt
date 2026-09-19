@@ -15564,3 +15564,8 @@ Don't Mask the Environment: Observation Supervision Changes How Agents Explore U
 PACT: Can Enterprise AI Assistants Be Trusted Under Pressure?
 VākQA: A Benchmark and Evaluation Study for Telugu Spoken Factoid Question Answering
 Srijika: OpenType-Layout-Reusing Font Restyling for Nine Indic Scripts
+Fayalite-pyroxene-silica (Fa-Px-Si) symplectite formation in extraterrestrial materials: New insights from lunar meteorites
+Visible and near-infrared spectrogoniometry of natrojarosite, a Martian analogue from Matanomadh, India
+Verifiable Social Reasoning for LLM Assistants
+Self-Evolving Search Index
+Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and Performance of LLM Test-Time Scaling
