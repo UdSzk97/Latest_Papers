@@ -15573,3 +15573,34 @@ Geological characterization of Shackleton-Slater crater region at lunar south po
 Planetesimal compositions governed by aerodynamic sorting from the onset of Solar System formation
 Lunar Steelmaking via Direct Oxygen Refining of Fe-Si Alloys
 Determining elemental composition in laboratory meteorite ablation spectra through radiative transfer modeling
+Upside down: GJ 3090 b the first retrograde exoplanet around an M dwarf detected with NIRPS
+An Expanded Calibration for Lunar FeO Retrieval Incorporating Constraints from Chang’E Ground Truths
+Intense but Harmless: Exo-Space Weather around an M Dwarf with a Single-hemisphere Dynamo
+The Preimpact Search for Further Didymos Natural Satellites Using DART and LICIACube Images
+Grounded Skill Synthesis from Code at Scale for Agentic Intelligence
+CodeMidas: Scaling Agentic Coding RL Environments from Code Itself
+EvoOntology: A Self-Evolving Ontology Layer for Data Agents
+RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents
+IntBMoE: Integrating Block-Level Conditioning into Expert Composition for Full-Participation Mixture-of-Experts
+OmniVChat: Synthesizing, Benchmarking, and Training for Native Audio-Visual Dialogue
+Paint-Anything: Unified Any-Color Control for Image Generation and Editing
+OmniVBench: A Benchmark and Large-Scale Dataset for Omni Reference-to-Video Generation
+MintAct: A Unified Visual Agent for Digital Environments
+GraphSkillEvo: Evolutionary Optimization of Graph-Structured Agent Skills
+Designer-RSI: Evolving Procedural Memory from User Traffic for Agentic Graphic Design
+Calibrating Teacher--Student Discrepancy for On-Policy Distillation
+When AI Reviews Train AI Reviewers: Scientific-Judgment Collapse and Mitigation
+FRAUDSkill: Structured Frozen-Weight Skill Optimization for Audio Anti-Fraud Detection
+TeleAntiFraud 2.0: A Refreshable, Profile-Grounded, and Audio-Based Benchmark for Telecom Fraud Detection
+MoME: Mixture-of-Memory Embeddings for Context-Aware Sparse Lookup
+MLLMs Hallucinate when Information Distribution Drifts in Synergy Heads
+DeformSmith: Physics Harness-Guided Hierarchical Generation of Deformable Assets for Robot Manipulation
+Learning Foresight without Explicit Trajectories for 3D Diffusion Policies
+CADWorld: Computer-Use Benchmark for Long-Horizon Computer-Aided Design
+GAVEL: Graph World Models for Verified and Efficient Long-Horizon LLM Task Planning
+APort Vault: Benchmarking AI Agent Payment Authorization with the Open Agent Passport
+Refinement Is Inherently Editable: Training-Free Prompt-to-Prompt Image Editing with Generative Refinement Network
+Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell Microscopy
+Geometry of Values: Task Vector Composition for Ethical Preference Alignment in Language Models
+Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation
+Gricea: An Open Science Platform for Conversational AI Research
