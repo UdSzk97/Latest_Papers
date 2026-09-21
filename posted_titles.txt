@@ -15572,3 +15572,4 @@ Sample Count Is Not Enough: Candidate-Generation Strategy Shapes the Energy and 
 Geological characterization of Shackleton-Slater crater region at lunar south pole, Chang’e-7 candidate landing site
 Planetesimal compositions governed by aerodynamic sorting from the onset of Solar System formation
 Lunar Steelmaking via Direct Oxygen Refining of Fe-Si Alloys
+Determining elemental composition in laboratory meteorite ablation spectra through radiative transfer modeling
