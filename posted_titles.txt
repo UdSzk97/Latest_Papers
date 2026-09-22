@@ -15609,3 +15609,41 @@ BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence
 From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention
 SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops
 SteerDuplex: Steerable Duplex Speech Dialogue Models
+Constraining the Planetary Obliquity Distribution of Warm Jupiters
+Centimeter-wave OH Observations of Comets 12P/Pons-Brooks and C/2023 A3 (Tsuchinshan-ATLAS) with FAST
+Magnetogravity Waves Bridge the Martian Atmosphere and Ionosphere
+A Systematic Trend in the Observed versus Predicted Radii of Transiting Brown Dwarfs
+Panchromatic Spectra of Nearby Low-mass and Sun-like Stars with Directly Imageable Habitable Zones
+Characterizing the oxidation state of rocky exoplanets with the Large Interferometer for Exoplanets (LIFE)
+The effect of the atmospheric C/O ratio on interiors of hot Jupiters
+Slow stellar halo rotation as a signature of disc flips and GES-like mergers
+Inventories of rich carbon-chain chemistry in prestellar and starless cores in the Perseus Molecular Cloud
+Lunar steelmaking via direct oxygen refining of Fe-Si alloys
+RRSI: Regularized Recursive Self-Improvement of Agent Harnesses
+WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory
+Transferring the Intelligence of VLMs to Robotic Control
+GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay
+OmniEdu: Open Foundation Models for Learning and Teaching
+Document Retrieval-Aware Chunking (D-RAC): Universal Retrieval-Aware Ingestion of Enterprise Documents via PDF Normalization and Multimodal Markdown Conversion
+VideoGen-Agent: Reinforcing Video Generation Agents
+onPanda: Efficient Annotation of On-Policy Alignment Data for LLMs and Agents via Token-Level Correction
+Grounded Action Model: 3D Grounding as a Foundation for Robotics
+One to More, More to One: Category-Aware Iterative Expert Training for Software Engineering Agents
+Harness-Zero: Harness Distillation via Agent-as-Harness
+Deep Persona: A Psychologically Grounded Architecture and Evaluation Framework for Role-Playing Agents and Simulations
+CARE: Experience-Guided Atomic Corrective Execution for Vision-Language-Action Policies
+Jev-Mem: System-One-Controlled Agentic Memory for Efficient AI Agents
+Why Do Video Diffusion Models Violate Physics? Unveiling the Flaws in Attention Mechanisms
+HuRo: Robotizing Human Videos for Scalable VLA Pretraining
+1% of Tokens Can Be Enough: On Gradient Estimation in On-Policy Distillation
+Think Like a World Model, Act Like a VLA: Distilling World-Model Representations into Compact Robot Policies
+Complex KDA: Understanding and Enhancing the Expressivity of Kimi Delta Attention
+Mira-Scene: Pixel-Aligned Layouts for Generative 3D Scene
+Measuring the Checker: Mutation Analysis for GPU-Kernel Benchmark Oracles
+EDGEGEN: Improving Tool-Calling Agents Beyond Happy Paths with Synthetic Edge Case Generation
+Prediction-Powered Smoothing and Validation for Disaggregated AI Evaluation
+Streaming Video Editing with Easy Adaptation
+UltraTex: Unleashing 2K Multi-View Diffusion for 3D Texturing
+A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal
+TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision
+ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models
