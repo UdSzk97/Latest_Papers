@@ -15604,3 +15604,8 @@ Retention-Constrained Post-Training Quantization of Cellpose-SAM for Stem Cell M
 Geometry of Values: Task Vector Composition for Ethical Preference Alignment in Language Models
 Training-Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Representation
 Gricea: An Open Science Platform for Conversational AI Research
+Protective effects of flunarizine and ATP against pembrolizumab-associated gastric injury in rats
+BI-Agent and BI-Bench: Towards Automating End-to-End Business Intelligence
+From Pretraining to Proficiency: Real-World Subtask RL for Long-Horizon Manipulation with Minimal Human Intervention
+SiliconBench: Speed, Memory, and Fidelity for LLM Serving on Unified-Memory Desktops
+SteerDuplex: Steerable Duplex Speech Dialogue Models
