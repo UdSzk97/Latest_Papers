@@ -15647,3 +15647,10 @@ UltraTex: Unleashing 2K Multi-View Diffusion for 3D Texturing
 A Lie Detector Test for Language Models: Reading Knowledge a Model Won't Reveal
 TAPe+ML: A Compact Structured Representation for Multi-Task Computer Vision
 ShieldVLA: Feasibility-Aware Safety Alignment for Vision-Language-Action Models
+Eclipse Timing of the Eccentric Planet HD 80606 b with JWST: Constraints on a Second Planet and Other Dynamical Effects
+Lunar Polar Dichotomy: Insights from Crater Morphometry
+ACLArena: Agent Continue Learning in Multi-stage Post-training
+Towards Full Pipeline FP8 Reinforcement Learning for LLMs
+SkillSpec: Intent-Masked Specification Reasoning for Agent Skill Correctness
+The Functionalizer: Lossless Functional Decomposition for Subword Tokenization
+Realtime-Venus: A full-duplex interaction system with asynchronous delegation
