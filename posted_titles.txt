@@ -15684,3 +15684,36 @@ Tri-PvP: Exposing Modality Bias in Omni-Modal Large Language Models through Perc
 ImIR: Image-Instruction Tuning for All-in-One Image Restoration
 Embedding Physics Priors in Robot Learning: A Survey
 ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning
+Modeling the Dynamics and Thermochemistry for the Outer Atmospheres of the Ultrahot Jupiter WASP-121b
+Discovery of Three Period-bouncer Candidates from TESS Data
+Accelerating Chemical Kinetics for Exoplanet Atmospheres Using Neural Networks
+A new half-life for <sup>146</sup>Sm: Implications for lunar chronology
+Control of back-arc mantle rheology on far-field postseismic deformation of the Korean Peninsula after the 2011 M<sub>w</sub> 9.0 Tohoku-Oki earthquake
+SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue
+Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World
+HappyWorld-Bench
+The Past Frames the Future: Memory for Autoregressive Video Generation
+Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents
+RewardVerse: Rubric-Guided Policy Optimization for Video Reward Modeling
+Schrödinger's Code Repository: Have LLMs Learned SWE-bench or Memorized It?
+PACT: From Credit Assignment to Critic Alignment
+PackLab: A Comprehensive Framework for Developing, Training, and Evaluating MLLMs in Robotic Bin Packing
+GeoPair: Geometry-Preserving Cross-Layer Factorization for Training-Free Transformer Compression
+MemBodied: Recurrent Associative Memory for Vision-Language-Action Models
+WhatWorkedBench: Benchmarking Experimental Understanding in AI Agents
+Hunyuan-A13B Technical Report
+All modalities are equal, but video is more equal: Closing the Cross-Attention Gap in Joint Video Generation
+Verifiable Hidden Dynamics Play: Generating Agentic RL Environments from Solved Mechanisms
+InternW0: A Foundational Physical World Model for Efficient Real-World Interactions
+On the Diffusibility of High-Dimensional Latents
+Calibration as a First-Class Criterion in LLM Evaluation
+EmbodiedSWE: Coding Agents for Long Horizon Dexterous Robotics
+The Linear Representation Hypothesis Needs a Group Action
+Knowledge Pull Requests for Continual Document Authoring
+X-Planner: Event-Structured Task Planning for Embodied Intelligence
+Six Layers Less: Encoder Pruning for Whisper with Label-Free Recovery
+StudentBench: AI and human tutoring yield equivalent GRE learning gains
+Capable yet Parsimonious: Extracting and Characterizing Hidden Chain-of-Thought in Frontier Models
+FLEET: From Logits Entropy to Enhanced Trajectories in Text Generation
+Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI
+MemoryAthena: Adaptive Routing over Latent and Generated Memories
