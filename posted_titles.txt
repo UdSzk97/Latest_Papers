@@ -15654,3 +15654,33 @@ Towards Full Pipeline FP8 Reinforcement Learning for LLMs
 SkillSpec: Intent-Masked Specification Reasoning for Agent Skill Correctness
 The Functionalizer: Lossless Functional Decomposition for Subword Tokenization
 Realtime-Venus: A full-duplex interaction system with asynchronous delegation
+Evolution of a synchronous planet–moon pair due to solar tides
+Very Large Telescope observations of interstellar comet 3I/ATLAS
+Bifurcations in the Heliosphere: Global-scale Coronal Pseudostreamer Evolution and the Creation of Secondary Heliospheric Current Sheets
+Incomplete lunar mantle overturn drove high-titanium volcanism 3.9–3.5 billion years ago
+Resolving age discrepancies in lunar crater-counting chronology: Insights from Chang'e-5 benchmark and digital twins
+Paleo-heat flux estimates across Enceladus derived from flexural response of the ice shell
+Long-term Mid-infrared Photometry and Spectroscopy of (1) Ceres with SOFIA FORCAST
+The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks
+RULER: Instance-aware Rubric Rewards for SVG Generation
+GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation
+All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts
+Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models
+Bellman Policy Optimization
+StableVQ: Practical Guidelines for Stable Vector-Quantized Tokenizer Training
+Ovis-Embedding: Pushing the Frontiers of Universal Omni-Modal Embeddings
+JEV-as-a-Judge: Accept When Confident, Escalate When Unsure
+From Pattern Recognizers to Personalized Companions: A Survey of Large Language Models in Mental Health
+Flash-dLLM: IO-Aware KV Caching and Parallel Decoding for Fast, Memory-Efficient Diffusion LLMs
+Lean Pool: An AI-Maintained Archive of Formalized Mathematics
+Agensh: Scaling Organizational Intelligence to 1,024 Agents
+Recursive self-improvement of AI research agents
+Emergent Collusion in Long-Horizon LLM Agent Interaction
+LatentPort: Beyond KV Cache - Cross-Model Transfer of Recurrent Memory in Hybrid Language Models: A 4B-to-9B Hybrid-State Handoff Without Target Prefix Replay
+RoboFollow: Unveiling the Instruction Following Mirage in Embodied Agents
+Blaming Across the Aisle: Political Contrasting and Blame Attribution in the Danish Parliament
+Geometric and Semantic Coupling for Interaction Understanding in 3D Scenes
+Tri-PvP: Exposing Modality Bias in Omni-Modal Large Language Models through Perceptual-Propositional Evidence Conflicts
+ImIR: Image-Instruction Tuning for All-in-One Image Restoration
+Embedding Physics Priors in Robot Learning: A Survey
+ALPINE: Adaptive Localization for Parameter- and Sample-Efficient Few-Shot Learning
