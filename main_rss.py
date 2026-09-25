@@ -18,6 +18,9 @@ RSS_FEEDS = {
     "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)2169-9402": "JGR: Space Physics", 
     "https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=21699402&type=etoc&feed=rss": "JGR: Space Physics", # updated on Jul. 6, 2026
     "https://rss.sciencedirect.com/publication/science/00167037": "GCA", 
+    "https://agupubs.onlinelibrary.wiley.com/rss/journal/10.1002/(ISSN)1944-8007": "GRL", 
+    "https://agupubs.onlinelibrary.wiley.com/action/showFeed?jc=19448007&type=etoc&feed=rss": "GRL", # updated on Sep. 24, 2026
+    "https://rss.sciencedirect.com/publication/science/00191035": "Icarus", 
     "https://onlinelibrary.wiley.com/feed/19455100/most-recent": "MaPS", 
     "https://academic.oup.com/rss/site_5326/3192.xml": "MNRAS", 
     "https://www.nature.com/nature.rss": "Nature", 
