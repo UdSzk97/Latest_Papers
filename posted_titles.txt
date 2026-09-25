@@ -2802,3 +2802,17 @@ Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI
 MemoryAthena: Adaptive Routing over Latent and Generated Memories
 Nanoscale chemistry of magnetite framboids in the tarda meteorite: a proxy for fluid chemistry
 Mercury isotopes in coral skeletons as proxies for marine Hg cycling: assessing fidelity and fractionation during biomineralization
+Survival of boulders during catastrophic disruption of rubble-pile asteroids: Experimental constraints
+A new deep-learning approach to infer solar and geomagnetic parameters for the 1859 Carrington event
+Training Object Permanence in World Models
+OmniEcho: Spatial Audio Understanding for Embodied Agents
+Agent-Editing World Model: Rethinking World Modeling for LLM Agents
+Qwen-Planner-Agent: A Closed-Loop AI-for-AI Framework for Real-World Mobile Planner Agents
+IterSynth: Rethinking Deep Search Agents via Role-Decoupled Iterative Synthesis
+AgentKernel: The Trust-Native Agentic Operating System
+PUBG Ally: A Conversational Embodied Agent as an AI Teammate
+WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation
+ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds
+ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation
+World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal
+Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates
