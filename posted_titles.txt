@@ -2816,3 +2816,22 @@ ExplorationBench: Measuring AI Systems' Exploration in Verifiable Alien Worlds
 ViRDM: Taming Representation Distribution Matching for Few-Step Causal Video Generation
 World Action Agent: Harnessing VLMs for Robot Manipulation via World Action Rehearsal
 Rate-distortion optimization for full-reference image quality metrics via stochastic Hessian estimates
+Exogenous carbonaceous material on Phobos
+H+ irradiation of ordinary chondrites supporting observations of Torifune by Hayabusa2#
+Orbit Determination and Nongravitational Effect Characterization for Emirates Mission Targets (10253) Westerwald and (13294) Rockox
+High-CO2 Climates and Observables in the Outer Habitable Zone
+Asymmetric Nightside CO2 Features, Inefficient Heat Transport, and Precise Evolutionary Constraints: Spectroscopic Phase Curves Reveal the Past and Present of a White Dwarf–Brown Dwarf Binary
+Frequency-dependent Responses of Whistler-mode Waves to Electron Injection in Jupiter’s Middle Magnetosphere
+A light chlorine isotopes reservoir on Mars
+Abiotic degradation of methylmercury mediated by hydroxyl radicals generated during ferrous oxidation in rice paddy soils
+Daily briefing: Read the text inside a charred, rolled-up scroll
+Volatile depletion in rocky planets as a chemical fingerprint of hybrid accretion
+Publisher Correction: Diverse configurations of binary asteroids explained by multi-generation satellites
+Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs
+Parts-of-Speech as Emergent Categories in SAE Latent Space
+Coding Agents for Generalized Task and Motion Planning Problems
+Neural Spectral Capacity: Measuring and Designing Architectures from Network Specification Alone
+Rufus-Air: An Open LLM Post-Training Recipe
+AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation
+Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures
+DeltaWAM: Delta World Action Models for Bimanual Manipulation
