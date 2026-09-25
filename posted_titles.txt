@@ -15718,5 +15718,3 @@ Uranus: Building the Next-Generation Simulation Infrastructure for Embodied AI
 MemoryAthena: Adaptive Routing over Latent and Generated Memories
 Nanoscale chemistry of magnetite framboids in the tarda meteorite: a proxy for fluid chemistry
 Mercury isotopes in coral skeletons as proxies for marine Hg cycling: assessing fidelity and fractionation during biomineralization
-Survival of boulders during catastrophic disruption of rubble-pile asteroids: Experimental constraints
-Self-Organizing Agent Teams Learn to Reason Together
