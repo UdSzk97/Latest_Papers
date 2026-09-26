@@ -2835,3 +2835,7 @@ Rufus-Air: An Open LLM Post-Training Recipe
 AV-GRPO: Modality-Anchored Decoupling Diffusion Reinforcement Learning for Joint Audio-Video Generation
 Just Ask Jev: Reinforcement Learning for Calibrated Decisions as a Zero-Shot Detector of AI Alignment Failures
 DeltaWAM: Delta World Action Models for Bimanual Manipulation
+JWST MEP—A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot Saturn WASP-52b with JWST NIRSpec G395H
+A Sulfur-rich Atmosphere for the Young Jupiter Analog AF Lep b Reveals Significant Solid Accretion
+RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
+Learning to Discover Interesting Mathematics
