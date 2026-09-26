@@ -2839,3 +2839,5 @@ JWST MEP—A World Under Spotty Starlight: Detection of CO2 and H2O in the Hot S
 A Sulfur-rich Atmosphere for the Young Jupiter Analog AF Lep b Reveals Significant Solid Accretion
 RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
 Learning to Discover Interesting Mathematics
+Constraints on Late-time Flaring from Luminous Fast Blue Optical Transients Using the Transiting Exoplanet Survey Satellite and the Zwicky Transient Facility
+A new fluidic MEMS-based mercury ion sensor for water sources
