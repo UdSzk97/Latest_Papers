@@ -2841,3 +2841,4 @@ RGBD20K: A Large-Scale Benchmark for RGB-D Semantic Segmentation
 Learning to Discover Interesting Mathematics
 Constraints on Late-time Flaring from Luminous Fast Blue Optical Transients Using the Transiting Exoplanet Survey Satellite and the Zwicky Transient Facility
 A new fluidic MEMS-based mercury ion sensor for water sources
+Seismic velocity sensitivity to humidity and temperature in a poorly-cemented Mars-analogue sandstone
