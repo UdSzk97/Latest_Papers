@@ -2844,3 +2844,37 @@ A new fluidic MEMS-based mercury ion sensor for water sources
 Seismic velocity sensitivity to humidity and temperature in a poorly-cemented Mars-analogue sandstone
 The Moon's mantle, as recorded by olivine in Apollo 17 dunite 72,415
 Small-scale irregular mare patches as post-emplacement collapse features: Evidence from lunar and terrestrial analogues
+JWST Color Sequence of Transiting Exoplanets and Directly Imaged Substellar Objects
+Revisiting Neutrino Event Epochs for the Blazar PKS 0735+178 with TESS
+Understanding the Energy Input Required for Methane Emission on CWISEP J193518.59-154620.3: A Comprehensive Analysis
+High-precision laser ablation U-Pb geochronology using a Neptune PLUS equipped with two 10<sup>13</sup> Ω amplifiers: Age mapping of Jack Hills detrital zircon
+Updated In-flight Calibration of the Hayabusa2/NIRS3 Spectrometer: New Global Near-infrared Photometric Properties of Asteroid (162173) Ryugu
+Didymos’s Reshaping Scale Revealed by Detection of Its Spin Slow-down
+FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders
+RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation
+Block Sparse Attention with Log-Linear Complexity
+InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data
+Tactile-JEPA: Topology-Aware Self-Supervised Representation Learning for Distributed Tactile Sensors
+Enhancing Photogrammetric Digital Surface Models with Pretrained Diffusion Models and Multimodal Conditioning
+Jev in the Wild: A Data-Driven Analysis of the Jev Model's Functionality, Applications and Ecosystem
+FoMo: Forking Moment in Generative Trajectory as a Perceptual Distance
+TrackEverything: Long Horizon Dense Tracking via De-Duplicating 3D Scene Representations
+SAGE: Mitigating Long-Horizon Reasoning Biases via Topological Guidance
+AgentWorld: Benchmarking Long-Horizon Collaboration of Multi-agent LLMs
+SLCA-GRPO: Resolving Cross-Segment Credit Misattribution in Tool-Calling RL
+CARD: Cluster-level Adaptation with Reward-guided Decoding for Personalized Text Generation
+Do Implicit Personalization and Explicit Styles Conflict? PsPLUG: A Lightweight Plug-in for Balancing Personalization and Style in Customized LLMs
+Game Arena: Strategic LLM Evaluation in Competitive Environments
+IndicBankBench: Evaluating Safety and Reliability of Language Model Assistants in Indian Retail Banking
+TRACE: Temporal Audit and Condition-aware Evaluation of Streaming Video Understanding
+MOPD-Router: Rethinking Teacher Routing in Multi-Teacher On-Policy Distillation
+VLA-Precision: Asymmetric Co-Bootstrapping for Efficient Real-World Online RL of Vision-Language-Action Models
+Evidence-Grounded Auditing of Identification Assumptions in Climate-Policy Causal Evaluations
+ZooWork-ShopRanker: An Open, Preference-Aligned E-Commerce Reranker
+Morphometric Imitation: From Morphology and Contact Aware Hand Retargeting to Sim-to-Real Visuomotor Policy
+LightMIS: Ultra-Lightweight Medical Image Segmentation Without a Stage-Wise Decoder
+Softmax Reparameterization for Output-Head Quantization
+CodeGraph: Open-Taxonomy Knowledge Graph for Source Code with Wikidata Grounding
+Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching
+BoundInk: Boundary-Aware Online Handwriting Generation
+Paragraph Boundaries Are Not White Space:Compression Depth as the Signature of Hierarchical Structure
