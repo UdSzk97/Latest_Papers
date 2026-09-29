@@ -2884,3 +2884,164 @@ Rethinking Training-Inference Mismatch in LLM Reinforcement Learning: Where It A
 Diffusion Reward Models
 Fewer Tokens, More Self-Teaching: On-Policy Self-Distillation for Extreme Visual Token Reduction
 YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality
+The Effects of M Star Age-dependent Ultraviolet Emission on Detecting and Interpreting Exoplanet Biosignatures
+A Century of Radial-velocity and Astrometric Monitoring of 70 Oph AB: New PFS Data and Constraints on Possible Planetary Companions*
+Ice Giants Revisited: Uranus and Neptune as Magma Ocean Worlds
+Stratigraphic Partitioning of Evaporites Through the Clay‐Sulfate Transition in Gale Crater, Mars
+Investigating Galactic Cosmic Ray Ionization’s Contribution to Aerosol Formation on Neptune and a Potential Link to the Relationship Between Brightness and Solar Activity
+Visible to Near‐Infrared Properties of Felsic Rocks: Plagioclase Detection Limits and Applications to Mars Orbital Spectra
+Phase Stability of Fe–Si Alloy at Super‐Earth Core Conditions
+Crustal Magnetic Control of the Martian Oxygen Corona
+Planetary Rotation Effects on Ionospheric Electrodynamics With Closed‐Field, Magnetospherically Unforced Polar Caps: Earth‐Parameterized Simulations With Implications for Jupiter and Saturn
+Coupled Gas and Mineral Chemistry in a 60‐Day Venus Weathering Experiment at the Glenn Extreme Environments Rig (GEER)
+Martian Sand Dunes as Natural Ice Sensors: How to Identify Ice Composition From Dune‐Ice Morphology
+Beyond Hydrogen: Simultaneous Depth Profiling of Water and Rock‐Forming Elements in the Martian Shallow Subsurface via Combined Active Neutron and Prompt Gamma‐Ray Spectroscopy
+Radar Fog in SHARAD Observations of the Martian South Polar Layered Deposits as a Result of Dust‐Rich Layers
+Oxygen‐Deficient Magnetite in Chang’e‐6 Sample as Evidence for Impact Induced Deoxygenation of the Moon
+Interaction of Trace Species and Three‐Dimensional Circulation in Titan's Middle Atmosphere
+Surface Change Detection on Venus: An Inter‐Mission Comparison Framework Between Magellan and Future Radar Images
+Thermomagnetization of a Basaltic Lunar Regolith Simulant Driven by Fe Redistribution and Magnetic Phase Formation
+Tracking Deep Mantle Melting on Mars Using Phobos Tides
+A Comparative Study of Gypsum Formation in the Atacama Desert (Chile) and Tiruchirappalli Badlands (India): Implications for Martian Paleoenvironments
+Gravity Waves and the Temperature of the Martian Thermosphere
+Thermal Conductivity of Lunar Simulant With Varying Water‐Ice Saturation and Morphology
+The Role of Chlorate‐Driven Oxidative Weathering in Shaping Clay Deposits on Mars
+Ferric Chloride: The Venusian Unknown UV Absorber?
+Variation of Venusian Gravity Wave Absolute Momentum Fluxes and Drag as Retrieved From the Akatsuki Mission
+Brine Entrainment During Ice Shell Growth on Icy Worlds
+Numerical Simulations of the Central Peak to Peak Ring Transition of Complex Craters
+A Shared Magma Source for the Olivine‐Rich Units in Jezero Crater, Mars
+Anomalous Dawn‐Side O+ Density Enhancement in the Martian Ionosphere: MAVEN Observations and Photochemical Modeling
+Geological Characteristics of Floor‐Fractured Craters in the Central Noachis Terra, Mars: Implications for Post‐Noachian Habitable Environment
+Formation and Alteration of Magnesite Nodules From Kunwarara, Queensland, Australia, as an Analog to Mg‐Carbonate Formation on Mars
+Intra‐Tessera Plains: Implications of Their Radar Properties for Surface Processes on Venus
+Impact‐Driven Cr‐Fe‐O Vaporization and Deposition on the Moon
+Subsurface Temperatures, Thermal Gradient, and Thermal Wave Propagation Depth Constrained Using Thermoluminescence of the Apollo 17 Deep Drill Core
+Species‐Dependent Tidal Effects on Ions in the Martian Upper Atmosphere
+Effect of Ferrous and Ferric Iron on the Viscosity and Structure of Peridotitic Melts: Implication for Viscosity of Basal Magma Ocean in Mars
+Inferring Io's Internal Properties by Combining Gravity Measurements and Volcanic Activity
+Cross‐Hemisphere Impacts of Dust Tides on the Martian Atmosphere During the Mars Year 34 Global Dust Storm
+Radiation Belt Electron Scattering by Chorus Waves in Jupiter's Magnetosphere
+Mapping Scalloped Terrains on Mars at the Meter Scale
+Water Controls on Explosive Volcanism With Implications for Crustal Magma Chambers on the Moon
+Scattering Loss of Energetic Protons Due To Resonant Interactions With Ion Cyclotron Waves in Saturn's Magnetosphere
+Plasma Turbulence in the Lunar Environment Across Solar Wind and Magnetotail Conditions: Observations From Chandrayaan‐2 Radio Science Experiment
+Comment on “The Solar Wind Interaction With an Orbiting Venus” by Brecht and Ledvina (2025)
+Comment on “The Solar Wind Interaction With an Orbiting Venus” by Brecht and Ledvina (2025)
+Electron Regulation of Proton Cyclotron Waves at Mars
+Variability of Saturn's Equatorial Zonal Winds at Cloud Level Between 2018 and 2025
+Neutral Wind Control of Jupiter's Non‐Auroral Ionosphere
+Reconfiguration of Mercury's Exosphere During Strong Space Weather Events
+Probing Subsurface Properties With Mission Hardware: Lessons Learned From Artificial Impacts of Mars 2020
+Electron Regulation of Proton Cyclotron Waves at Mars
+Variability of Saturn's Equatorial Zonal Winds at Cloud Level Between 2018 and 2025
+Neutral Wind Control of Jupiter's Non‐Auroral Ionosphere
+Reconfiguration of Mercury's Exosphere During Strong Space Weather Events
+Probing Subsurface Properties With Mission Hardware: Lessons Learned From Artificial Impacts of Mars 2020
+A Microkrystite from the Australasian Tektite/Microtektite Strewn Field
+Post‐flight assessment of the OSIRIS‐REx Sample Return Capsule (SRC) for organic and other potential contaminants
+Oxygen isotope thermometry and composition of aqueous fluids within the parent body of asteroid (101955) Bennu
+High‐pressure phase preservation in ordinary L‐chondrite melt veins: Evidence for control by post‐shock thermal evolution
+Experimental simulation of core formation in a partially molten silicate matrix: Implications for silicate melting and timing of metal mobility for planetary differentiation
+Estimating past fluid pH and evaporative conditions in Gale crater using terrestrial analog samples from Death Valley, CA
+Zeolite formation via aqueous alteration of calcium‐aluminum‐rich inclusions on the CR and CV parent asteroids
+Laurence E. Nyquist (1939–2026)
+Issue Information
+Cover
+Bolide light curve systematics from 75 recovered meteorites
+The Dingle Dell (L6) meteorite fall: In‐depth characterization of an L chondrite with some LL‐like properties originating from the inner main belt
+Revisiting olivine‐phyric shergottites: Pyroxene crystallization pressure and the role of undercooling
+Photochemical effects of Mars‐like UV irradiation on carboxylic acids in carbonaceous chondrites and expectations for abiotic background organics on Mars
+Localized Alteration and Contamination of Lunar Regolith Particles upon Exposure to Earth Atmosphere
+Description and terrestrial ages of the Calama Area Meteorite Collection (Atacama Desert, Chile)
+Waned mantle upwelling contributes to a heavily deformed northern smooth plains on Mercury
+Energy-aware bi-objective optimization for cooperative UGV–UAV Mars exploration
+Post-Training Leaves Behavioral Shadows on Unrelated Decisions
+Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation
+Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence
+Duplex-MPE: Benchmarking Multi-Party Interaction in Full-Duplex Dialogue
+Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL
+MassAlloc Attention: Let Attention Allocate Its Own Compute
+CoWindow Attention: Full Causal Coverage Is a Collective Property
+TraceDance: An Automated System for Building Agent Behavior Benchmarks from Real-World Agent Deployment Traces
+How Far Are We from Removing the Visual Encoder? Scaling Laws for Encoder-Free Multimodal Pretraining
+Improving Test-Time Scaling with Adaptive Looped Transformers
+Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning
+Knowing When Thinking Is Not Enough: Teaching Small Reasoning Models to Reason Beyond Their Parametric Knowledge
+Recursive Harness Distillation across Agents for Robot Manipulation
+Surprising Success, Repeated Failure: Entropy-Guided Credit Assignment for Exploration in LLM Reasoning
+CompoWorld: Compositional Environment Scaling for General Agents
+DepthBench: Measuring How Residual Connections Enable More Computational Depth
+QwenGyre: An Elastic Reinforcement Learning Framework for Training xLong-Horizon Agents
+WorldPlay2: Extending Real-Time Interactive World Models in Control and Horizon
+Learning to Learn from Context: Synthetic Training from Perturbed Public Documents
+Skill2Env: Capability-Oriented Environment Synthesis from Skills for General Agents
+SpatialSpeak: QA-Native Reconstruction with Local and Global Context for Spatial Chain-of-Thought Reasoning
+In-Flight KV Cache with Clean Anchors for Faster Autoregressive Video Diffusion
+REALM: A Coarse-to-Fine Generative Framework for Embodied Reactive Listening
+RoboFoundry: System-as-Policy Evolution for Self-Learning Embodied Agents
+WideSWE: Can Coding Agents Coordinate Changes Across Repositories?
+Change the Product, Keep the Parameters: Associative Algebra Layers for Transformers
+Structured Residual Connectivity Matters for Diffusion Transformers
+Just MLPs: Efficient Visual State Reconstruction for Multimodal Language Models
+Precise Editing and Flexible Referencing for Interactable Worlds
+FlowTool: Controlling Tool Parameter in Image Retouching via Flow Matching
+Hard Vision, Easy Vision: What GPT-6 Astra Reveals Across Computer Vision
+TT-VidT: Decoupling the Temporal Axis for Efficient Motion-Centric Video Pretraining
+SolveEdit: Benchmarking Visual Problem Solving in Generative Models
+SciGen-Verifier: A Multimodal Reasoner for Explainable Verification in Scientific Image Generation
+Imprint Reader: From Weight-Update Readout to Behavioral Intervention
+Program-Verified Self-Evolution for Vision-Language Models
+InfiniHand: Streaming World-Space Hand Motion Estimation from Egocentric Video
+Nereus: Adaptive Parallelism for LLM Post-Training
+An RL View of OPD: Least Square Policy Distillation for Sample-Efficient LLM Reasoning
+Residual Transferability in Neural Image Watermarking
+BaRe-Mem: Bayesian Reliability Memory for Robust and Adaptive Agent Consultation
+GeoVerse: World-Consistent Novel View Synthesis in Geometric Latent Space
+RenderRank: Learning to Rerank Text with Compressed Visual Tokens
+Rethinking Automated Voice Similarity by Shifting from EER to Embedding Geometry
+Relic: From Multi-Agent Collaboration to Persistent Organizational Capability
+Measuring Collapse and Correction in Homogeneous-Panel LLM Debate
+WaveFront Decoding: Parallelized Self-Speculative Decoding for Looped Language Models
+When Do Model Internals Help? Exploring the Role of Representation Engineering in LLM Safety
+DroneWAM: Efficient World Action Model for Drone Visual Navigation
+Draft-KV: Learning Useful Latent Communication Between Language Models
+TokenCast: Forecasting Token Consumption During LLM Agent Execution
+KVCMAS: Efficient KV cache Correction for Shared Context in Multi-Agent Systems
+PReCache: Efficient KV Cache Sharing for Multi-LoRA Agents via Low-Rank Precomputation and Neutral Reconstruction
+Beyond Timestamps: Decision-Aligned On-Policy Distillation for Long-Horizon Agents
+ColNanoVDR: Document-Free Query Distillation for Multi-Vector Visual Document Retrieval via Optimal Transport
+Reinforcing Agentic Creativity in Scientific Ideation with Night Science
+Geometry as Address: Routing Attention to Visual Memory for Long-Horizon Camera-Controlled Video Generation
+Pruned CTC for Memory-Efficient Large-Vocabulary ASR Training
+AnswerMap: Faithful Spatial Interpretability of VLMs from Answer Posteriors
+FactorEngram: Factorized N-gram Memory with Basis-Level Gating for Language Models
+DISCO: Distributed Long Context Scaling with Grounding-Reasoning Disaggregation
+G^2PTQ: Improving LLM Post-Training Quantization with Generalized Gradient Compensation
+SMAT: Simple and Efficient Merge-Aware Training
+KernelZero: Co-Evolving Proposer and Coder for Continuously Improved GPU Kernel Generation
+On-Policy Self-Distillation for Multi-Turn Image Editing
+Why Deterministic PRM Guidance Underperforms in Discrete Diffusion Reasoning
+SkillDRE: Dual-Stage Red-Team Evolution of Agent Skills via Pre-Execution and Runtime Feedback
+EvolvingAvatar: Interactive 3D Head Generation That Adapts as Conversations Unfold
+VGGT-Diff: Visual Geometry Meets Diffusion for Sparse-View Novel View Synthesis
+Adaptive Consistency Graph for Long-Horizon Agents
+ControlScope: Workflow Revision and Reliability in LLM Agents
+Who Gets a Token, and What Does It Carry? Unequal Name Support and Concept Access in Large Language Models
+VisionHOPE: Visual Backbones as Self-Modifying Learning Systems
+SCOPD: Sparse-Context On-Policy Self-Distillation for Efficient Vision-Language Models
+Distillation Defenses Easily Break After Reinforcement Learning
+Playing to Par: Reinforcement Learning for Provably Optimal Quadrilateral Block Decompositions
+SentZero: An Enhanced Sentence-Centric Vision-Language Pretraining for Multi-Task Zero-Shot Chest X-Ray Analysis
+What masking geometry works best for EEG foundation models?
+Safe Error Correction for Language Models: Frozen-Base Adjustment with Capability Preservation
+NanoForecast v0.5: Competitive Time Series Forecasting Through Training Pipeline Optimization
+Not All Objectives Are Born Equal: Priority-Constrained Descent for Hierarchical Multi-Objective Optimization
+When Privacy Moves ML-Mediated Decisions On Device: Information and Incentive Misalignment in Auctions
+How Reproducible Are Evaluation Conclusions? A Self-Audit of LLM-Inferred Prompt Structure
+Training and Inference Dynamics of PLDR-LLMs: Row-Map Collapse, Renormalization, and Predictive Reduction
+How Does "English (US)" Become the Default? Triangulating Structural Bias Towards American English Across the LLM Pipeline
+AdaGuard: An Adaptive Guard Model with User-defined Policies
+Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs
+PyroAdapt: Adapting Wildfire Prediction under Spatial Heterogeneity and Temporal Shift
+Rolling-WAM: World Action Models with Rolling Imagination
