@@ -2878,3 +2878,9 @@ CodeGraph: Open-Taxonomy Knowledge Graph for Source Code with Wikidata Grounding
 Depth-adaptive Inference of Looped Language Models via Continuous Depth Batching
 BoundInk: Boundary-Aware Online Handwriting Generation
 Paragraph Boundaries Are Not White Space:Compression Depth as the Signature of Hierarchical Structure
+EmbodiedMemory-Bench: Benchmarking Embodied Memory for Long-Horizon Embodied Tasks
+AdaTutoRank: Learning to Rerank Document Sets via Adaptive Tutoring Optimization for RAG and Deep Research
+Rethinking Training-Inference Mismatch in LLM Reinforcement Learning: Where It Arises and How to Correct It
+Diffusion Reward Models
+Fewer Tokens, More Self-Teaching: On-Policy Self-Distillation for Extreme Visual Token Reduction
+YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality
