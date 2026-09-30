@@ -3045,3 +3045,14 @@ AdaGuard: An Adaptive Guard Model with User-defined Policies
 Routing Drift Alone Does Not Diagnose Failure in Merged MoE LLMs
 PyroAdapt: Adapting Wildfire Prediction under Spatial Heterogeneity and Temporal Shift
 Rolling-WAM: World Action Models with Rolling Imagination
+Selecting Diverse SFT Traces Improves Post-RL Generalization
+Learning from Teacher Continuations at Student States
+ExpVoyager: Direct Experience Navigation for Dynamic Agent Skill Synthesis
+VideoPhysEdit: Physical Counterfactual Video Editing via Rigid-Body Physical Scene Reconstruction
+Can We Trust the Teacher? Decoupled Credit Direction-Magnitude for Self-Distillation
+NVAlign: Direct-Gradient Optimization for Non-Verbal Control in Continuous Autoregressive Flow Matching Text-to-Speech
+Approximating Softmax in Pretrained LLMs: Model Sensitivity and Kernel Acceleration
+CineSubBench: Evaluating LLMs on Long-Form Narrative and Cultural Understanding from Multilingual Movie Subtitles
+LeRF: Learning Reference Coordinate Frames for Perspective Taking Reasoning
+WhiteMatter: All-to-All Cross-Layer Connections via KV Source Mixing
+Allspark: Weak to Strong Transfer via Alternating Chain of Thought
