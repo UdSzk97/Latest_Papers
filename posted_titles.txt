@@ -3056,3 +3056,96 @@ CineSubBench: Evaluating LLMs on Long-Form Narrative and Cultural Understanding 
 LeRF: Learning Reference Coordinate Frames for Perspective Taking Reasoning
 WhiteMatter: All-to-All Cross-Layer Connections via KV Source Mixing
 Allspark: Weak to Strong Transfer via Alternating Chain of Thought
+Impacts of Correlated Noise on Retrievals of Exo-Earth Atmospheres
+Improving the Physical Interpretability of Gaussian Processes in Stellar Activity Modeling: A Study Case on Photometric Variability among Stellar Clusters
+Multiviewpoint Tracking of a Coronal Mass Ejection Driven Shock Propagating to Mars: Implications for Space Weather Forecasting
+Precise Stellar Age Constraints and Habitable Zone Evolution in Exoplanet Systems
+Kinetic isotope fractionation of gallium in Mars and 4 Vesta: Implications for non-equilibrium volatile loss during planetary accretion
+Global Distribution of Atmospheric Formaldehyde Deposition Correlated with Water Vapor on a Warm Early Mars
+IFU Observations of Comet 3I/ATLAS = C/2025 N1 (ATLAS) Using the Hobby–Eberly Telescope with the VIRUS Instrument*
+Investigating the Role of Magnetic Cohesion in Avalanching on 16-Psyche: A Discrete Element Modeling Approach
+Extracting asteroid physical properties from Vera C. Rubin Observatory science validation survey data: Rotational periods, colors, and taxonomies
+Raven: The Harness of Harnesses for Composable Agentic Intelligence
+MaLiang-Harness: A Programmable Path to Image and Video Generation
+In-Context Learning for Robots: Methods and Applications
+Omni-IO Skills: Harnessing Your Agent Omni-Native
+VoxMem: Benchmarking Multimodal Memory in Large Audio Language Models
+PanoVLN: Towards Effective Panoramic Vision-and-Language Navigation
+LEGO-Anything: Coding Agents for 3D Scene Reconstruction
+What Makes World Action Models Generalize? An Empirical Study of Test-Time Future Modeling
+SAKI: Maximal-Coupling-Routed Teacher Supervision for On-Policy Distillation
+Think Before You Score: Thinking Reward Model for Visual Generation
+Beyond the Timeline: Augmenting Long-Video Memory with Grounded Entity Biographies
+LLMs are General Asynchronous Agents
+Follow the Entities: A Corpus Map for Agentic Search
+EngiWorld: What Can Frontier Agents Deliver in Professional Engineering Environments?
+Beyond Dyadic Memory: Interaction-Aware Multimodal Memory with Adaptive Agentic Retrieval for Multi-Party Spoken Conversations
+OmniTaskonomy: When Does Visual Generation Improve Visual Understanding?
+LongCat-DeepResearch Technical Report
+Learning Beyond What You Sample: Off-Policy-Aware Cross-Model Trajectory Exchange for RLVR
+Anisotropic Representations Improve Planning in JEPA World Models
+APM-Bench: Benchmarking Cross-session Persistent Memory for Egocentric Streaming Video Assistants
+SoL-Refiner: Speed-of-Light One-Step Refinement for High-Resolution Video
+Asking for What Was Never Requested: Horizontal and Vertical Proactivity in Agents
+LongLive-Plug: Once-for-All Distillation for Video Generation
+HybridCUA: Learning to Orchestrate GUI and CLI for Computer-Use Agents
+EVO-WAM: Evolving World Action Models through Video-Action Verification
+ROSS: Relearning from Self-Generated Rollouts through Selective Supervision
+CrossBFM: Distilling a Shared Latent Behavior Space Across Humanoid Embodiments
+WorldAttention: An Efficient Attention Architecture for Interactive Video World Models
+EasyPPO: Stabilizing the Critic Is Key
+Marathoner: Ultra-Long-Horizon Autonomous Intelligence
+FocusVTC: Efficient and High-Performance Visual Text Compression with Adaptive Resolution
+Context Language Models
+WorldLine: Action-Driven Visual Simulation for Robotic Manipulation
+HiRAE: Hierarchical Representation Autoencoding with Residual Budgets
+Reasoning with Image Generation
+ANTMAN: Adaptive Need Tracking for Multi-Agent Navigation in Large Information Spaces
+AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation
+Selecting The Most Informative Tokens in Natural Language Autoencoders
+Scheduling Recursive Reasoning in Looped Transformers
+Routing Should Pay for Itself: Sparse Supervision for Economical LLM Routing
+Omni-Decision: Evidence-Ledger Planning for Omni-Modal Agents
+TabFM: A Zero-Shot Foundation Model for Tabular Data
+When Does Dense Retrieval Need Asymmetric Geometry? A Bias-Variance Theory of Shared and Dual Projections
+EmoRES-TTS: Residual-Enhanced Vector Steering for Emotional Speech Generation
+Chinese-Jev: Bringing System One Model to Chinese-Language Tasks
+VideoLoop: Looped Working Memory Against Semantic Thrashing in Long-Form Video Agents
+Adversarial Training for Pixel Diffusion
+EpiCon: Collective Agent Learning through Co-Evolving Multimodal Memory
+TabFM-Auto: Self-Evolving Pipelines for Tabular Foundation Models
+TGRL: Temperature-Grouped Reinforcement Learning for Efficient Exploration in LLMs
+StoryEngine: A State-Grounded Agentic Framework for Video Storytelling
+Language Models Are "Insecure" Reporters
+Beyond Selection: Token Parameterization for Extreme Visual Token Compression
+Real2Gym: Building Gyms from Videos, Bringing Skills to Robots
+Where the Model Changes Its Mind: Hindsight-Divergence Localization for Efficient Reinforcement Learning with Verifiable Rewards
+PMOPD: Task Ordering, Cycling, and Parameter-Update Subspace Protection in Multi-Teacher On-Policy Distillation
+Improved Distributional Diffusion Models
+AnyStep-WAM: Budget-Aligned Distillation and Adaptive Inference for World Action Models
+Breaking the Uniformity Trap: Scaling Video Diffusion Model via SplitMoE
+PlaylistEval: Can Video-Language Judges Be Trusted at Day Scale and Beyond?
+AutoDataBench: Can Agents Write the Data That Feeds the Self-Improvement Loop?
+LIFT: Layout-In-Future Video Generation under Large Viewpoint Change via On-Policy Self-Distillation
+WISE-ATTA: When to Ask for Labels in Budgeted Active Test-Time Adaptation
+Persistence Forcing: Exploiting Feature Specialization in Pixel-Space Diffusion
+SEAD: A State-Based Perspective on Attack and Defense in Tool-Using Agents
+Jev thinks "I don't know'', but doesn't say it: Introducing Sys1Cal-v1 Dataset for Probability Calibration
+StructRL: Online Structured Reinforcement Learning for Long-Horizon Vision-Language-Action Tasks
+Same Bytes, Different Authority: Reserved-Token Representations in Chat-Template Prompt Injection
+Pretraining Transformers with Quantized Softmax in Attention
+One Proposal for Every Margin: Zero-Shot Amortized Sequential Importance Sampling for Binary Matrices
+Preference-Guided Adaptation for Open-Vocabulary Semantic Segmentation via Prompt Disagreement
+PrismQuant: Optimal Null-Space Rotations for Grouped Quantizers
+Principled Thoughts for Latent Recursive LLM Systems
+Act First, Reason Later: Accelerating On-Policy Distillation for Multi-Turn Agents via Reference-Conditioned Inverse Dynamics
+FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets
+Org-Agent: Beyond Personal Assistants Towards Organizational Agents
+Can Agents Design Libraries for Agents?
+Learning Dynamics of Continual Learning: A Unified View of Data Attribution, Forgetting, and Plasticity Loss
+ALICE: In-context, Zero-shot, Mutual Information Estimation
+Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning
+Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective via Sparse Crosscoders
+Scaling Properties of Same-Family On-Policy Distillation
+Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling
+CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs
