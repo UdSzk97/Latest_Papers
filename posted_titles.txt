@@ -3149,3 +3149,17 @@ Understanding On-Policy Distillation: A Mechanistic Interpretability Perspective
 Scaling Properties of Same-Family On-Policy Distillation
 Hyperspherical Semantic Trajectory Analysis: Mapping Technological Diffusion across Academic Preprints, Patent Signals, and Compute Scaling
 CaptchaArena: A Large-Scale, Fine-Grained Dataset for Training Computer-Use Agents on Interactive CAPTCHAs
+Saturns are not large Neptunes: the effect of removing inflated giants from empirical mass–radius relations
+No statistically significant evidence for a correlation between stellar and planetary composition
+Semisecular apsidal resonances within binary asteroid dynamical evolution
+A semi-analytical Ring-Arc model for Plutino perturbations
+A new metric for identifying potentially habitable exoplanetary systems
+PROSERPINA: An Automated Pipeline for Martian Ionospheric Radio-occultation Retrievals with Probabilistic Uncertainty and Spherical-symmetry Bias Quantification
+Periodic Weak Spots: Phase Sensitivity from Chunked KV-Cache Compression
+Fractional State Space Transition for Long Sequence Modeling
+What Makes Recurrence Effective in Looped Language Models?
+Memory Is a Derivation: The Distributed-Evidence Paradox in Long-Term Agents
+PreviewDiff: Multimodal Critic-Guided Search over Diffusion Latents
+On the Off-Policy Teacher in On-Policy Distillation
+Counterfactual Video Generation Enables Scalable Humanoid Loco-Manipulation
+AgentTell: Behavioural Side-Channel Leakage in Browser-Use Agents
