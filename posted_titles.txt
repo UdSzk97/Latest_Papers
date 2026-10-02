@@ -3256,3 +3256,82 @@ Retrieval Capacity of Self-Attention Under Competition
 Understanding Multimodality in Generative Behavioral Cloning
 Almost Human, Except When It Matters: VoxParity and the Decisions a Voice Should Change
 Scaling and Distilling Text Embeddings for Better Diffusibility
+Rotation, spectral type, and albedo of the potentially hazardous asteroid (153814) 2001 WN5
+High-precision laser ablation U-Pb geochronology using a Neptune PLUS equipped with two 10<sup>13</sup> Ω amplifiers: Age mapping of Jack Hills detrital zircon
+A Reassessment of the Lithium Isotope Composition of the Moon Using Mare Basalt, Mg‐Suite and Anorthosite Meteorites
+High‐Fidelity Lunar Mare Agglutinates and Their Mechanical Effects on Lunar Regolith Simulants
+Iron Isotope Fractionation on Vesta Driven by Magma Ocean Process
+The 15th Asteroids Comets Meteors Conference
+OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction
+Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL
+Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States
+Agent Priors-guided Policy Learning
+Hierarchical Continuous Diffusion Language Models
+Sharpening Tax in Post-Training
+World Observer: Joint Actor-Observer Generation for Persistent World Modeling
+A Missing Piece for Trustworthy AI Reviewers: From Benchmarking Rhetorical Robustness to SciCore Review
+ActiveSaddler: Automated Curriculum Learning for Agent Harness Optimization
+AutoGUIWorld: Image Generators as Visual World Models for GUI Agent
+ROWBench: Do Video Models Render What the Program Specifies?
+Retrieval-Augmented Skill Optimization via Cross-Harness Adaptation
+E-MoE: Enhanced Mixture-of-Experts for Non-Factorized Diffusion Language Models
+Make Sparse Rewards Count: Density-Aware Reward Aggregation for Multi-Reward RL
+Decentralized Master-Mind: Joint Action Refinement through Iterative Intent Denoising in Multi-Agent Pathfinding
+EgoTools: Towards Tool-Centric Reasoning in Real-World Egocentric Videos
+Beyond the Current Scene: Event-Referential Grasping with Active View Selection
+GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis
+InterEvolve: Test-Time Evolution of Reward Programs for Humanoid Loco-Manipulation
+Fewer Tokens, Better Action: GPT-6 Astra Robot Agents with 14% Higher Success Rate but 65% Fewer Tokens
+4Director: Controlling Video World Models with Rigid 3D Geometry
+RPTune: Learned Context Curation for LLM Catalog Search
+CorrGRPO: Correlation-Normalized GRPO for Multi-Reward Learning
+AutoDataBench: A Data-centric Testbed for Accelerating Auto Research
+Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces
+SILSA: Sliding-Window Slice Latents for Topology-Preserving High-Resolution 3D Generation
+When Users Change Their Minds: Measuring and Repairing Intent Drift in LLM Agents
+PhysVista: Benchmarking Physical Intelligence in VLMs via a Perception-Reasoning-Assessment Loop
+Omni-Embed-Mini: Binding Modalities Without Forgetting via Dense Distillation
+PixelDense: Dense Prediction as Representation Alignment for Pixel Diffusion
+Benchmarking and Enhancing Skill-Level Memory for Partially Observable Robotic Manipulation
+Align Then Reason: A Multimodal Lip-Sync Judge for Dubbing
+Where-OPD: Spatially Guided On-Policy Self-Distillation of MLLMs with Synthetic Scenes
+Architect-Ant: Editable Automatic Furnishing of Architectural Floor Plans
+AgSpec: Pushing the Limits of Retrieval-Based Speculative Decoding in Coding Agent Pipelines
+DataMagic: Authoring Data Videos through Declarative Multi-Agent Orchestration
+Argo-Bench: Evaluating Data Agents on Enterprise-Scale Workflows
+Do Audio LLMs Listen Before They Act? Diagnosing Acoustic-Context Gating in Voice Agents
+Decoding Looped Transformers Better for (Almost) Free
+Generalization Is Stability, Not Accuracy: Multi-Axis Evaluation of LLMs
+Better Supervision Is Nearby: Neighborhood On-Policy Self-Distillation
+KaliBench: A Fine-Grained Benchmark for Cybersecurity Tool Use on Kali Linux with Runtime-Free Verifiable Rewards
+Smaller Models, Better Rejects: Preference Distillation Scaling
+Pretrain Once, Route Anywhere: Towards a Foundation Model for LLM Routing
+OmniSeek: Native Tool Integration for Multi-turn Audio-Visual Reasoning
+Rules to Tools: Executable Checks for LLM Agents in Scientific Computing
+LOCI: Spatial Linear Memory for Streaming World Models
+Removing the NEEDLE in the Haystack: Backdoor Removal in LLMs via Weight Orthogonalisation
+Devils in Question Relay: Source-Conditioned Relay Steering to Mitigate Hallucinations in Audio-visual Large Language Models
+Memorizon: Training World Models Beyond Their Context Window
+FlexRouter: Learning Complementary Model Sets for Flexible LLM Routing
+RLE-Bench: A Qualifying Exam for Coding Agents as Robot Learning Engineers
+SemanTok: Predictable Semantic Tokens for Efficient Autoregressive Video Generation
+VTR-Bench: A Systematic Benchmark for Evaluating Visual Text Rendering in Video Generation
+Does Native 3D Texture Generation Necessarily Require 3D Assets for Training?
+Personalized Image Generation with Reasoning and Reflection
+Prompt2Skill: Unsupervised Skill Optimization From Natural Language Instructions
+Controlled Decoding Attacks on Black-Box LLMs
+Predictive Credit: Measuring What Scientific Explanations Add to Experimental Forecasts
+It Takes Workflows to Evolve Better Workflows
+ScholarCatalyst: A Benchmark for Retrieving Papers That Inspire New Research
+When Does Correction Become Repair? Mechanistic Auditing of Internal Interventions in Tool-Using LLMs
+Prefill-Free Cross-Family KV Cache Transfer for Heterogeneous Multi-Agent LLMs
+Pay for the Fault, Not the Flow: Label-Free In-Flow Multi-Agent Workflow Optimization
+Joint and Cross-Modal Video-Audio Generation and Editing: A Unified Formulation and Design Taxonomy
+On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics
+OTRetarget: Joint Robot and Object Motion Retargeting via Optimal Transport
+JevSpawn: Adaptive Agentic Inference through Compositional Action Spaces
+Latent-Foresight: End-to-End Learning Predictable Representations for Latent World Models
+Before It Fades: Reinforcing Temporal Representations at Inference Time in VideoLLMs
+Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling
+DexPolicy: Scheduled Exploration for Trajectory-Guided Dexterous Manipulation
+Learning What to Recall: Adaptive Multi-Cue Episodic Memory for World Models
