@@ -3255,3 +3255,4 @@ Overcoming Scaling Limits in On-Policy Self-Distillation for LLM Reasoning
 Retrieval Capacity of Self-Attention Under Competition
 Understanding Multimodality in Generative Behavioral Cloning
 Almost Human, Except When It Matters: VoxParity and the Decisions a Voice Should Change
+Scaling and Distilling Text Embeddings for Better Diffusibility
