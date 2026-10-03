@@ -3335,3 +3335,13 @@ Before It Fades: Reinforcing Temporal Representations at Inference Time in Video
 Explore Broadly, Reason Sharply: Push Small Models toward the Frontier via Sampling
 DexPolicy: Scheduled Exploration for Trajectory-Guided Dexterous Manipulation
 Learning What to Recall: Adaptive Multi-Cue Episodic Memory for World Models
+Video Generation Models: A Survey of Post-Training and Alignment
+X-Tree: Tokenizing Reusable Experience for Efficient Agent Generalization
+OpenTumorBoard: A Real-World Benchmark of Multidisciplinary Tumor Board Discussion Trajectories
+Ego2Act: Evaluating Goal-Directed Manipulation in Egocentric Video Generation
+Persona Dosing: Calibrated Activation Steering for Graded Trait Control
+Transformers Stop Thinking Too Early, and a Tiny LoRA Fixes It
+MemFold: Learning Compact Soft Memory for Long-Context Personalization via On-Policy Optimization
+Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Small Language Models
+Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Service Orchestration
+Honeycomb: Constant-Size Scene Memory Representation for Video World Models
