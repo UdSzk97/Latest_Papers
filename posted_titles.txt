@@ -3347,3 +3347,5 @@ Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Se
 Honeycomb: Constant-Size Scene Memory Representation for Video World Models
 Recycling of terrestrial mercury in modern subduction zones: constraints from Hg-Sr-Nd-B isotope systematics
 What do acoustic signatures reveal about asteroid thermal breakdown processes?
+Magnetic Imaging of the Effect of Stress on the Remanent Magnetization of Basalt
+Magnetic Imaging of the Effect of Stress on the Remanent Magnetization of Basalt
