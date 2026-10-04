@@ -3346,3 +3346,4 @@ Keyword Harnesses Fail Open: A Cheap Diagnostic Ladder for Tool-Use Claims in Sm
 Replacing Large Language Models with Jev Decision Models for Low-Latency Edge Service Orchestration
 Honeycomb: Constant-Size Scene Memory Representation for Video World Models
 Recycling of terrestrial mercury in modern subduction zones: constraints from Hg-Sr-Nd-B isotope systematics
+What do acoustic signatures reveal about asteroid thermal breakdown processes?
