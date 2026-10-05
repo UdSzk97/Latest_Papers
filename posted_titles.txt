@@ -3349,3 +3349,78 @@ Recycling of terrestrial mercury in modern subduction zones: constraints from Hg
 What do acoustic signatures reveal about asteroid thermal breakdown processes?
 Magnetic Imaging of the Effect of Stress on the Remanent Magnetization of Basalt
 Magnetic Imaging of the Effect of Stress on the Remanent Magnetization of Basalt
+A JWST Transiting Survey of FGK Stellar Limb Darkening: Empirical Evidence for Quadratic Laws and Atmospheric Model Comparisons
+Assessing the Impact of High-resolution Imaging on Statistical Validation of TESS Planet Candidates
+Ground Penetrating Radar Observations of Subsurface Structures From the Makgadikgadi Pans (Botswana): A Terrestrial Analogue of Martian Playa Lakes
+Plasma Properties at the Orbits of Ganymede and Callisto: Survey of Juno Data
+Lunar Mineralogical Evidence Provided by Chang'e‐5 Lunar Soil Microscopic Images and Raman Spectroscopy
+Prebiotic organic compounds in asteroid Bennu and Ryugu reflect divergent parent body histories
+Impact-induced formation of low-Ca pyroxene in a partially melted troctolitic clast from the Chang’e-5 lunar regolith
+Linear spectral unmixing with iterative error analysis for mineral mapping of Theophilus crater using Moon Mineralogy Mapper (M<sup>3</sup>) hyperspectral data
+Thermal history, collisional history, and structure of the CK‐chondrite parent body
+Life in the cosmic neighbourhood: galactic habitable zones in the eagle simulations
+Quantum scattering of hot H/D on CO2: cross-sections and rate coefficients for planetary atmospheres and their evolution
+The V0 layer of Venus: a persistent NO+ layer controlled by solar X-rays
+Stellar ages from [C/N] in giant stars: applicability and limitations
+Stellar ages of M dwarf hosts of temperate sub-Neptunes
+Improved Understanding of Lunar Surface Hydration Signatures through Comparison of Thermally Corrected Spectra from the Moon Mineralogy Mapper (M3)
+Asteroid Factory: High-fidelity Multiphysics Modeling of Small Solar System Bodies via Volumetric Aggregate Synthesis
+Seasonal Variation of Micrometeoroid Impacts and Dust Clouds around Saturn’s Rings
+RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations
+Does Learning Protein Folding Generalize to Broader Reasoning?
+FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation
+MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation
+Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite
+On-Policy Parameter Update Direction Underlies Generalization in LLM Post-Training
+World Action Modeling with Progressive Visual Planning
+Native Action-Prior Learning from Videos for World Action Models
+SimuVerity: Benchmarking Agents for Engineering-Grade Simulink Model Generation
+PDE-JEPA: Predictive Representation Learning of Latent Dynamics Modeling for Parametric PDEs
+Pivot-SD: Efficient Self-Distillation for Masked Diffusion Language Models
+HyperBrowseComp: A Multilingual and Multimodal Stress Test for Web-Browsing Agents
+LexReward: A Taxonomy-Driven Reward Framework for Legal Language Models
+Science or Slop?: Benchmarking and Mitigating Scientific Slop in AI-Generated Papers
+World Embedding Benchmark
+Source Preference in the Wild: How LLM Agents Favor Items by Source, and How to Reduce It
+Latent-MOPD: Latent Multi-Teacher On-Policy Distillation
+Spatial Memory Intelligence: Endowing World Models with Understanding-Driven Long-Term Memory
+EditHero: A Benchmark for Long-Horizon Part-Level 3D Editing and Vibe Modeling
+Multilingual GSM-Symbolic: What determines capability transfer across languages?
+VeriHarness: Scaling Agentic Verification for Long-Horizon Tasks
+Science Utopia? Closed-Loop LLM Simulation of Academic Research Ecosystems
+DEFINE: Exemplar-Guided Accent Control for Zero-Shot TTS
+HelixWorld: A Real-time Interactive Audio-Visual World Model
+MetaRubric: Learning to Reward for Rubric-Based Reinforcement Learning
+ProAR: Learning Prospective Reasoning with Autoregressive Video Models
+Triadic Linear Attention: Three-Dimensional Recurrent States for Long-Context Sequence Modeling
+FrugalEvo: Towards Cost-Aware LLM-Guided Program Evolution
+Language Models that Play Chess and Explain Their Moves
+LVMT: Video Mask Transformer for Long-term Video Segmentation
+Local Support Learning
+Rollout-Marginal Distillation for Long-Horizon Autoregressive Video Generation
+Looping Beyond Twice: A Scalable Recipe for Looped Mixture-of-Experts
+Diptych: Scoped, AI-Interpreted Comparison for Reference Listening in Music Production
+4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes
+Beyond Future Prediction: Denoising as Generative Adaptation for Robot Control
+Collective Bias Mitigation via Model Routing and Collaboration
+Covert Assistance: Helpful LLM Agents Evade Oversight in Multi-Agent Systems
+Skill2Real: Agentic Skill Learning for Zero-Shot Sim-to-Real Robot Manipulation
+Efficient Reasoning Training Does Not Always Harm CoT Faithfulness and Monitorability
+GTR: Gated Token Recurrence for Efficient Dense Prediction
+WEFT: Scaling Tool-Use Post-Training for General-Purpose Agents
+Learning from Runtime Feedback through Failure-Bank Self-Evolution for Vision-Language-Action Models
+Equal Ranking Quality, Different Decisions: Measuring and Reducing Order Dependence in LLM Scorers
+Rethinking Token Reweighting for SFT: Suppress, Reverse, and Extrapolate Learned Features
+Octrees as an Explicit 3D Language
+Where Does Retrieval-Based Open-Ended Evaluation Fail? Automatic Taxonomy Induction from Long-Form Medical Answer Factuality Verification
+MinkowskiPE: Minkowski Positional Encoding for Spatiotemporal Perception
+From Gradients to Capabilities: Understanding Multi-Teacher On-Policy Distillation
+Receiver-Conditioned Latent Communication gives 94% CacheBack
+From Retrieval to Typed Decisions: Calibrated System One Models from Biomedical Sentence Encoders
+Tail-Influence Sampling for CVaR Policy Evaluation
+QuantWM: Temporally Consistent 2-Bit KV Cache Quantization for Video World Models
+EyeRobot 2.0: Active Gaze for Precise Manipulation without Wrist Cameras
+Can Computation from Earlier Problems Help LLMs Solve New Ones?
+KeyRec: Bounded Visual Memory for Streaming and Long-Video Understanding
+Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling
+Strike a Chord! Modal Kinetic Typography
