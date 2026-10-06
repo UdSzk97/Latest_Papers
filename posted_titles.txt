@@ -3424,3 +3424,5 @@ Can Computation from Earlier Problems Help LLMs Solve New Ones?
 KeyRec: Bounded Visual Memory for Streaming and Long-Video Understanding
 Dream4ACT: A Shared Visual Action Interface for Multi-Embodiment Video-Action Modeling
 Strike a Chord! Modal Kinetic Typography
+Prism: Dynamic Sparse Attention for Native 2K Joint Video-Audio Generation Model Training
+Rethinking Long-Video Efficiency: A Joint Allocation Perspective on Frames, Pixels, and Front-End Latency
