@@ -3493,3 +3493,20 @@ Adapting prior-data fitted networks for tabular anomaly detection
 MEA: A Reward-Driven Multi-Agent System for Faithful Model Explanations
 DEPICT: Scoring Text-to-Image Alignment by Answer Agreement
 InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation
+Ancient Impact Melt Near the Lunar South Pole: Distribution, Provenance, and Sampling Strategy
+SEER: Self-Evolving Event Reasoning and Retrieval for Time Series Forecasting
+LoGRA: Scaling LLM Reinforcement Learning with Low-Rank Gradient Sketches
+Beyond Semantic Similarity: Performance and Costs of Agentic Retrieval for Complex Tasks
+LLM-as-Jev: LLMs Are Already Jev-Style Decision Models -- When and How to Fine-Tune Them
+COSMI: COmpositional Synthesis of Multi-object Interactions
+Capability-Driven Self-Evolution of Agent Memory
+Closing the Context Gap: Activation Alignment for Tabular In-Context Learning
+Labels Override Definitions in Jev-Style Typed Decision Models
+Collaborative Personalized Preference Alignment for LLMs under Data Deficiency
+UnAct: Gradient-Free Unlearning via Targeted Activation Intervention
+The Numerical Linear Algebra of Large Language Models
+Agentic discovery of blood biomarker from distilled private health records
+Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribution
+Adaptive Fused Prior Transfer for Controllable Generative Image Compression
+The AI Theorist reveals excitonic structure in α-RuCl_3
+When Does Selection Replace Extraction? A Pre-Registered Test of Agent Memory with a Typed Decision Model
