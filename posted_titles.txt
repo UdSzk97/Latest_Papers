@@ -3510,3 +3510,72 @@ Sharpen Without Search: On-Policy Distillation of Sequence-Level Power Distribut
 Adaptive Fused Prior Transfer for Controllable Generative Image Compression
 The AI Theorist reveals excitonic structure in α-RuCl_3
 When Does Selection Replace Extraction? A Pre-Registered Test of Agent Memory with a Typed Decision Model
+JWST Excludes Exomoons Down to 0.1 Earth Radii Around a Rocky, Temperate Exoplanet
+Characterization of the Compact Multiplanet System TOI-789: Validation of Three Terrestrial Planets, Dynamical Characterization, and Detection of a Fourth Temperate Candidate
+Ice clouds born from Martian waves
+Atmospheric lessons from Mars
+Homogeneous ice nucleation from water vapour suggested by elongated clouds on Mars
+Development of lunar and Martian simulants from Semail Ophiolite lithologies of the northern Al Hajar Mountains
+Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability
+DuoMatching: Joint-Marginal Distribution Matching for Few-Step Video Generation
+TRACE: Rollout-Guided Quantization-Aware Training for FP4 Reinforcement Learning of MoE Language Models
+EVISKILL: Grounding Skill Evolution in Replayable Evidence
+From Evidence to Action: How Tool-Using Agents Fail
+AutoSciBench: Autonomous Benchmark Generation for Evaluating Scientific Agents
+Taming VLAs under Robot Execution Errors: Self-Compensation and Stress Testing
+HuatuoGPT-3: RL-Only Domain Adaptation from Base Models
+World Action Learning via Interaction-Centric Spectral Latent Guidance
+UNREAL: Unifying Retrieval and Long-Context with a Single Model
+MiniCorp: The Last Mile of the AI Agent Firm
+Selection-Based Structured Reasoning: Toward Efficient Multimodal Search Agents
+AGO AI Quality Gate: Evidence-First Release Decisions for Retrieval-Augmented Generation
+DiffGate: Difficulty-Gated Teacher Guidance for On-Policy Distillation
+GUI-HARVEST: Self-Improving GUI Agents through Evidence-Driven Harness Evolution
+EmbodiedSmith: Scaling Embodied Data through Recursive Self-Improvement Flywheel in Simulation
+Making LLMs Say What They Think: Measuring and Improving CoT-Interpretability Alignment
+SlimWise: Decoupling Expert Pruning Across Prefill and Decode for Efficient MoE Serving
+Adaptive Latent Capacity for World Models
+Rationale-Guided Policy Optimization: Learning to Reason with Adaptive Rationale Scaffolding
+NeMo-DCR: Bit-Exact Delta-Compressed Refit for Scalable Agentic RL at Trillion-Parameter Scale
+DiVeR: Decision-Critical Verifier Learning for VLA Test-Time Scaling
+Learning to Read the Contextual Tokens in Diffusion Transformers
+AdvSim2Real : Training Web Agents Against Adaptive Prompt Injection in a Web World Model
+Understanding and Enhancing Backdoor Persistency in LLM Agent Post-Training
+Hiding Tool Latency in On-Device Cascaded Voice Agent through Speculative Execution
+Harness-Aware Distillation for Small Language Model Agents
+HLA: Expressive Hybrid Linear Attention via Chunk-Wise Dynamic Mixing
+Towards In-Parameter Memory Augmentation for Large Language Models
+DistScene: Object-to-Scene Distillation for 3D Scene Generation
+Sherpa: Teaching LLMs to Teach Adaptively
+DAEDALUS: Bootstrapping Agent Memory from Self-Generated Tasks
+Accent Analogy Guidance: More Speaker Similarity at Equal Accent in Cross-Lingual Voice Cloning
+Personal-Agent Mediated Recommendation with Cross-Platform User History
+VeriFine: Scaling Verification for Self-Improvement in Embodied Reasoning
+Building Rome from a Single Image
+ALIVE: Interaction-Aligned Object Insertion for First-Frame-Guided Video Editing
+Harness Engineering for Software Engineering via Modular Executable Dev-Primitives
+HiPLEX: Hierarchical Policy Factorization for Full Duplex Speech Language Models
+Learning Functional Subspaces for Neural Network Compression
+OPD Before RL: Warm-Starting Rubric-Based RL with On-Policy Distillation
+Learning Discriminative Geometry for Drifting Models
+JLD: Perceptual Distance Through A Jacobian Lens
+Attacca: Goal-Directed Control under State Continuity for Long-Horizon Embodied Agents
+Judged Useless, Queried Anyway: Tool-Using Agents Rarely Turn Their Own Evidence Judgments into Stopping Decisions
+Stepped MoE: Segment-Level Routing with Configurable Inference Complexity
+Multilinguality in Hybrid Attention LLMs
+Do Language Models Need a Trainable Input Embedding Table? Fixed Minimal Token Codes at 1.7B-Class Scale
+A Safe Action Is Not Enough: Feasible-Future Decoding for Vision-Language-Action Policies
+MEND: RL For Flow Models via Proximal Velocity Matching
+World Models' Last Exam in Physics
+CheckerBench: Can Long-Horizon Agents Synthesize Static-Analysis Checkers?
+Kinematic MeanFlow: One-Step Action Generation Policy for Robotic Foundation Models
+Cross-Lingual Alignment for Decoder-Only Models using MoE Routers
+S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation
+Conditional Trajectory Peaks: Single-Pass Multimodal Policies over Action Chunks
+Execution-Aligned Progressive Noise for Consistent Asynchronous Replanning in Generative Robot Policies
+Toward Real-Time VLAs: Stage-Aware Two-Step Flow Denoising and System-Level Evaluation
+Magic-W0: A Structured World-Action Foundation Model for Physical Intelligence
+WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identification
+Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution
+CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching
+ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution
