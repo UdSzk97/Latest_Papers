@@ -3599,3 +3599,56 @@ Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybri
 Minimal Witness Reinforcement Learning
 AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation
 WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites
+The Discovery of K2-232c: Divergent Formation Histories for Hot and Warm Jupiters Based on Outer Companion Eccentricity
+Starspot Activity and Third-body Perturbations in the Eclipsing Binary KIC 9451096
+A Stellar-type Dependence in the Rocky and Volatile Composition of Small Exoplanets
+A Laboratory Spectroscopic, Photometric, and Polarimetric Dataset of Three Ordinary Chondrites, Including the Recent Maoming Fall: Grain-size and Simulated Space-weathering Effects
+Dynamical behavior and surface features of Large Super-Fast Rotator Near-Earth Asteroid (436724) 2011 UW<sub>158</sub>
+Central stars of newly discovered infrared nebulae: eruptive Be stars PY Gem and HD 253659
+Post-perihelion photometric and spectroscopic monitoring of the interstellar comet 3I/ATLAS
+UAE completes Arab world's first solo space probe <b>– </b>and sets course for an asteroid
+STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization
+Long-WAM: Scaling the Context of World-Action Models
+Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness
+GRACE: Generation-aware latent compression for efficient video generation
+VepAgent: Bridging Causal-Transition via Tool-Augmented Reinforcement Learning for Video Event Prediction
+UniWAM: Unified World-Action Model
+UltraText Bench: A Comprehensive Bilingual Benchmark for Evaluating Visual Text Rendering in Image Generation
+Semifactual Credit-Augmented Policy Optimization
+Tetris3D: 3D Scene Generation With Objects That Fit Together
+RunningTab: Direct Workspace Interaction with Environment-Side Tabs
+RobotWorld: Benchmarking Multimodal Agents for Robot Use Across Diverse Tasks and Embodiments
+Gains and Collapse in On-Policy Distillation:A Reinforcement Learning Perspective
+PhysEvo: Astra Can Act, Let It
+SWE-Game: Can Coding Agents Build the Games We Want?
+VIEScore2: Unified Image Evaluation with Spatially Grounded Explanations
+NAMVIS: Next-Scale Autoregressive Multi-View Image Synthesis
+Inverting Multi-Vector Visual Document Indices
+From Pareto to Preference: Personalized Test-Time Scaling via Amortized Agentic Policy Discovery
+On-Policy Distillation with Negative-Policy Rollouts
+Q-Learning with Scalar Adjoint Matching
+QuadTok: Quadtree Visual Tokenizer for Autoregressive Image Generation
+DLoop: Looped Speculative Decoding
+Internalizing Agent Experience into Diffusion Model Weights via On-Policy Context Distillation
+Improving Proactive AI Assistance with Hierarchical Procedural Understanding
+Learning Multimodal Embeddings with Evidence-Aligned Readout
+SkillForge: Co-Evolving Skills and Agents via Dynamic Skill Lifecycles
+A self-learning scientific agent for X-ray diffraction
+Composing What Each Teacher Learned: Multi-Teacher On-Policy Distillation through Teacher-Relative Shifts
+SheetSage2: Coherent Lead-Sheet Transcription with Synthetic Supervision
+UniSkill: Learning Actor-Aligned Skill Proposals for an Evolving Policy
+CADFather: Autonomous CAD Reconstruction through Coordinated Tool Use
+EngramEdit: Decoupled Knowledge Updates in LLMs through Conditional Memory
+StepCAD: Mesh-to-CAD Code Generation via LLM Policy and Geometry-Guided Search
+RoboQuest: Generalist Physical Agents that Search, Inspect and Test
+CoDance: Learning Reactive and Compliant Human-Humanoid Interaction from Video
+Salt++: Context-Aligned Post-Training for Few-Step Streaming Multimodal Generation
+Rethinking World-Action Model for Compositional and In-Context Robotic Manipulation
+Lineage-Aware Memory Governance: A Derivation-Gated Framework for Privacy-Preserving Column-Level Access Control in Enterprise AI Agents
+PAMI: Part Anchored Motion for Text to Human-Object Interaction Generation
+TIDES: Implicit Time-Awareness in Selective State Space Models
+FastOPD: On-Policy Distillation for Lightweight VLA Deployment
+Task-Sufficient Contraction: Source Selection for Machine Information Interfaces
+Co-Evolving Robot Orchestrators and Policies through Deployment
+Iris-3B: Going Beyond the Latent with Pixel-Space Diffusion Training, Conversion and Fine-Tuning
+System Switch: When Should a Fast Decision Model Stop and Think?
