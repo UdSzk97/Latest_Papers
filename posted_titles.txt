@@ -3579,3 +3579,23 @@ WildMatch: Weakly Supervised Image Matcher Adaptation for Wildlife Re-Identifica
 Source Identification Is Not Fitness Testing: Measuring the Limits of Synthetic-Data Attribution
 CtrlCache: Accelerating Interactive Video World Models with Control-Aware Caching
 ConEx: Human-Interpretable Saliency Maps via Concept-Aware Attribution
+Meter‐Scale Roughness of the Lunar Surface
+Meter‐Scale Lunar Dust‐Bed Charging and Local Apparent Dust Release Under Ultraviolet Irradiation
+Meter‐Scale Roughness of the Lunar Surface
+Meter‐Scale Lunar Dust‐Bed Charging and Local Apparent Dust Release Under Ultraviolet Irradiation
+NASA releases trove of Moon data from historic Artemis II flight
+Meteoritic organic matter records primitive oxygen reservoirs of the solar system
+Questioning the Questions: Sustaining Self-Evolution in Reasoning Models
+nanoMuse: An Open-Source Personal Agent for Every Device You Own
+Recurrent Looped Transformer
+On KL-Regularized Policy Optimization
+SGF+: Decoupling Gradient Flows for Autoregressive Video Generation
+DecepEval: A Benchmark for Evaluating Deception in LLM Agents
+ReSAIL: Mitigating Collapse in Iterative Agent Self-Distillation
+WorldSonus: Bringing Sound to Worlds
+Agentic RAG Evaluation: Budget Allocation Across Questions, Trajectories, and Reads
+Mobile-4DGS: Unified Static-Dynamic Real-time Mobile Gaussian Splatting
+Mechanics of Long-Context Hybrid Models Part 1.1: From Hybrid Attention to Hybrid Position
+Minimal Witness Reinforcement Learning
+AdSpark: A Large-Scale Dataset and Benchmark for Product-Centric Advertisement Video Generation
+WebFovea: When the Model Is Right but the Click Is Wrong -- Reliable Round Trips for Vision-Based Web Agents on Live Websites
