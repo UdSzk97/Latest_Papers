@@ -3666,3 +3666,69 @@ Chaos in the Text: Revealing the Modality Preference in Mixed-Modality Retriever
 Retrieval-Centric Deep Learning in Growing Nonparametric Neural Networks
 USDCraft: Geometrically Grounded Programmatic Modeling of Articulated 3D Assets for Simulation
 V-CoLA: Vision Token Compression with Linear Attention
+Rescuing Kepler’s False Positives: A Possible Habitable Zone Exoplanet in the Triple-star System KOI-1623
+That’s So Retro: The Gaia-Sausage-Enceladus Merger Trajectory as the Origin of the Chemical Abundance Bimodality in the Milky Way Disk
+Exploring Hierarchical Merger Scenarios for GW241011 and GW241110
+Hybrid Spin–Orbit Tomography for Earth-like Planets: Simultaneous Mapping of Static Surfaces and Dynamic Clouds from Multicolor Light Curves
+An exposed magmatic feeder system for the regional olivine unit in Nili Fossae, Mars
+Apatite in chang’e-6 mare basalts reveals a heterogeneous distribution of chlorine in the moon
+The Highly Unusual Behavior and Chemical Composition of Interstellar Comet 2I/Borisov
+Oxygen Ion Irradiation of Tholins: Implications for the Incorporation of Oxygen into Aerosols in Titan’s Atmosphere
+Spectral Evolution of Ceres’ Surface and Implications for Space Weathering
+Radar Identification and Geomorphic Characterization of Distal Tycho Secondary Craters
+TokenRouter: Efficient Serving System for Token-Level LLM Routing
+MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement
+From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation
+Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction
+In-context Robot Learning Made Simple: A Democratized Recipe for Manipulation Tasks
+Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?
+DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training
+OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs
+MC-Sparse: Deconstructing and Closing the Dense-Sparse Attention Gap in Diffusion Transformers
+TestPrism: Rethinking Test Evaluation Beyond a Single Reference
+U-Space: Uncovering When and Why Uncertainty Arises in Language Models
+Post-Training Frontier Text-to-Image Models by Composing Preference and Rubric Rewards
+Memento 3: Model-Based Recursive Self-Improvement through Reflective Rulebooks
+LEGO: A Lifting-Free Approach for Exocentric-to-Egocentric Video Generation
+Reasoning-Informed Visual Editing
+Foundations of Large Language Models
+OneSearch-VL: Unified Multimodal Deep Research Agent for Image and Video
+What Did the Agent Actually Do? Evidence-Grounded Oversight for Long-Horizon Agents
+VibeEdit: Image Editing with Canvas Instructions
+SparseEngine: Sparse-First Inference Engine
+OmniCapBench: A Deep-Structured Evaluation Framework for Fine-Grained Audio-Visual Captioning
+Embodied Turing Machines: Stateful Code for Robot Recursive Self-Improvement
+ViSkill: Reinforcing VLM Agents with Evolving Visual-Native Skills
+Beyond Spatio-Temporal Priors: A Generalizable Approach for Dense Correspondence Matching
+ReSPO: Reshaped Sequence Policy Optimization for Gradient Starvation in Off-Policy Learning
+Do LLMs Understand Sequential Structure? A Controlled Study of Inference and Generation
+From Prompting to Composing: A Spatial Canvas Interface for Poster Generation
+SpaceCast-Bench: Evaluating Predictive Spatial Reasoning in Vision-Language Models
+SpatialOPSD: Self-Distilling Spatial Intelligence from Verified Coding Agent Traces
+WorldGuide: Goal-Directed Video World Model for Procedural Task Execution
+SpaceFlow: Locally Controllable 3D Generation
+REMORY: Learning Residual Memory for Context Compaction
+Accurate but Not Humble: Evaluating Epistemic Humility in LLM Agents under Knowledge Conflict
+Scaling to Tens of Thousands of Test-Time Iterations with Loop-Native Attention Residuals
+One Block, Multiple Depths: Recurrent Vision Transformers with Depth-Programmed Experts
+A Closer Look at Agentic BBO: Benchmarking LLM Agents for Black-Box Optimization
+Synthesis Through Simulation: Generating Coherent Enterprise Data via Scalable Agent-System Interaction
+Can AI Agents Make Open-Ended Scientific Discovery? Evidence from Station
+Pumpire: Unified Benchmark for Metric Distance Estimation
+Investigating the Role of Reasoning-Language Alignment in Monolingual Retrieval-Augmented Generation
+EDiS: Edge Disjoint Subgraph Sparsification Framework for Graph Neural Networks
+CARE: Certifying Acceleration for Vision-Language-Action Inference
+On-Policy Distillation Teaches New Skills but Not New Knowledge
+BrickBench: Evaluating Agentic Brick Design
+Distilling Routed 3D Privilege for Spatial Reasoning in Vision-Language Models
+Incidental information contaminates patient notes and disrupts clinical reasoning in large language models
+Frozen Models, Evolving Expertise: Model-Agnostic Learning from Deployment Experience for Multimodal Medical AI
+SpecFold: Folding Multi-Branch Redundancy for Faster Speculative Decoding in Diffusion Language Models
+MIRA: A Musical Intent Refinement Agent for Aligning Text-to-Music Generation with User Intent
+Incremental Open-Ended Deep Research with Structured Harness
+You Changed Your Mind, The Model Didn't: Demystifying Intent in Multi-Turn Dialogue
+Learning to Steer, Steering to See: Unveiling the Geometry of RLVR in Large Language Models via Trainable Vectors
+SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation from Satellite Imagery
+MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination
+SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation
+TerraVis: Towards Evaluation of World-Grounded Visual Consistency in Text-to-Image Generation via MLLM Workflows
