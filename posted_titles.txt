@@ -3732,3 +3732,16 @@ SatNav: A Scalable Benchmark for Long-Horizon UAV Vision-Language Navigation fro
 MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination
 SPW-Nav: A Streaming Panoramic World Model for Language-Guided Navigation
 TerraVis: Towards Evaluation of World-Grounded Visual Consistency in Text-to-Image Generation via MLLM Workflows
+Décollement Rheology Controls Crustal Deformation on Early Mars
+Signatures of Io Plasma Torus‐Induced Ultra Low Frequency Waves in Jupiter’s Polar Magnetosphere
+Elastic Properties of Titan Tholins Revealed by Brillouin Spectroscopy
+Mapping the Western Jezero Crater Rim From Orbit: Connections to Regional Geologic Units and Context for Exploration by the Mars 2020 Perseverance Rover
+Radar Observations of Europa in 2011–2024: New Insights into Radar Scattering Properties
+Opera: A Verbal Critic Framework for Long-horizon Coding Agents
+Mara Chain: Rethinking Failure as a Stepping Stone for AI System Auto-Evolution
+Skill Constellations: Tracing the Supply Chain of Agent Skills on GitHub
+Predicting Cable Dynamics with Physical Attention Bias
+A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning
+The Lattice of Transition Laws
+Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics
+Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation
