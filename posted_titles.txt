@@ -3745,3 +3745,5 @@ A GPU-Parallel Framework for Heterogeneous Multi-Task Reinforcement Learning
 The Lattice of Transition Laws
 Behavioral Persistence and Incomplete Functional Transfer of Co-evolved Communication in Evolutionary Robotics
 Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation
+Refining martian geochemical provinces and interpretations by addressing the closure effect of GRS data
+Fast and furious: long-term orbit integrations with collocation integrator Lobbie
