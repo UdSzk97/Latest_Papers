@@ -3748,3 +3748,16 @@ Evaluating the Transfer of Co-Evolved Communication from 2D to 3D Simulation
 Refining martian geochemical provinces and interpretations by addressing the closure effect of GRS data
 Fast and furious: long-term orbit integrations with collocation integrator Lobbie
 Mercury isotopes quantify demethylation pathways mitigating methylmercury accumulation in rice via paddy water
+Quantitative Evaluation of Shock Metamorphism in Clinopyroxene Using In Situ X‐Ray Diffraction Measurement of Lattice Strain
+Lunar Ring‐Moat Dome Structures (RMDSs) in Mare Imbrium: Characterization, Classification, and Implications
+Cross‐Referencing Astronaut‐Observed Lunar Impact Flashes With Seismic Data—Lessons From Apollo for Artemis
+Global Observational Evidence for Quasi‐Biennial Oscillation Modulation of Migrating Lunar Semidiurnal Tides in the Mesosphere and Lower Thermosphere
+Europa's Neutral Sodium Exosphere Is Quasi‐Stable Over Decades
+Current Sheet Geometry and Heavy Ion Influence on Reconnection
+Global Observational Evidence for Quasi‐Biennial Oscillation Modulation of Migrating Lunar Semidiurnal Tides in the Mesosphere and Lower Thermosphere
+Europa's Neutral Sodium Exosphere Is Quasi‐Stable Over Decades
+Current Sheet Geometry and Heavy Ion Influence on Reconnection
+SoloQ: Calibration-Free Quantization for Diffusion Language Models
+PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence
+AMLworld-Compact: Importance-Weighted Downsampling for Cost-Effective LLM Evaluation and Error Diagnosis
+ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents
