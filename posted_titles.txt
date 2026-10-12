@@ -3761,3 +3761,62 @@ SoloQ: Calibration-Free Quantization for Diffusion Language Models
 PolyOCR-Venus: Unified OCR Foundation Models for Text-Centric Visual Intelligence
 AMLworld-Compact: Importance-Weighted Downsampling for Cost-Effective LLM Evaluation and Error Diagnosis
 ProgramGym: Scaling Training Environments for Long-Horizon Program Reproduction Agents
+JWST MIRI Reveals a Potential Atmosphere on the Ultrahot Rocky Planet TOI-431b
+Coalescence of Magnetic Flux Ropes in the Jovian Magnetodisk
+TSD: An Inverse Problem Approach for Recovering the Exoplanetary Atmosphere Transmission Spectrum from High-resolution Spectroscopy
+Delayed Methane Detection in 3I/ATLAS: Galactic Cosmic Ray–Driven Subsurface Stratification and Interstellar Exposure Age Constraints
+Dry pebble rain could have delivered water to Earth through hydrogen reduction of iron oxide
+DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models
+S-Space: Exploring Spatial Workspace in Multimodal Language Models
+Reflex: Visually Grounded Reactive Humanoid Control
+SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments
+EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents
+VisionWeave: Weaving Elastic Visual Representations as a Native Capability of MLLMs
+Here the World in Stereo: Learning Dynamic Spatial Correspondence for Immersive Joint Video-Audio Generation
+Continually Post-training Small Models via Synthetic Self-distillation
+Work2Skill: Capturing Human GUI Experience for Reusable Agent Skill Induction
+SepGen: Multi-Stem Audio-Video Separation and Generation in a Single Model
+Can AI Agents Learn Their Way to the Top? Evaluating Heuristic Learning in a Long-Running Game Agent Competition
+RSI-Anything: Unlocking Recursive Self-Improvement with World Models
+Learning Representations to Guide Pixel Diffusion Transformers
+Contextual Correction of Parallel Draftsfor Speculative Decoding
+SWE-Duel: Towards a Self-Scaling Arena for Coding Agents
+InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators
+Inducing Process Supervision from Outcome-Only Reinforcement Learning
+Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark
+Judging in Latent Space: Efficient Generative Reward Modeling via Semantics-Preserving Compression
+When Do We Need On-Policy Distillation? Distilling on Offline Student Rollouts Is Often Better
+Recurrent Harness for Agentic Continual Learning
+MetaKernelBench: Measuring GPU Kernel Knowledge Transfer Beyond Code
+DataVista: Diagnosing Multimodal LLMs on Data Video Understanding
+GraphDecisionBench: Benchmarking System One Models on Graph Tasks
+Surfing the Activation Wave: Analyzing the Information and Geometry of LLM Hidden States for Speculative Decoding
+From Given to Gathered Evidence: Agentic Learning for Longitudinal Medical Reasoning
+MixTok: Adaptive Visual Tokenization with Global 1D Tokens and Sparse 2D Refinement
+Video-RSI: Recursive Self-Improvement of Video Understanding Agents via Harness Evolution
+Stateless Language Agents: Scaling Long-Horizon Automated Research
+Universal Textual Teaching for LLMs
+TouchScale: 500 Hours of Human Vision and Touch for Visual-Tactile Learning
+PreSTO: Predictive Subtree Prefetching for Fast LLM Power Sampling
+Rethinking Relative Policy Differences Transfer of On-Policy Distillation
+Coding-Agent Benchmarks Should Match Their Users' Task Flows
+When Do Biological Reasoning Models Use Their Biological Inputs?
+The value of information and the emergence of communication in evolved e-puck robots
+QuantMLA: Function-Aligned Dual-Path Quantization for Low-Bit MLA KV Caching
+Distributionally Robust Mixture-of-Experts Training
+Less from More: Reinforcing Sparse Video Reasoning from Dense References
+ThinkDrag: Semantic Drag-Based Image Editing with Visual Reasoning
+Clinician use of language models diverges from how the models are evaluated
+The Life Cycle of a Massive Activation: Stochastic Birth, Weight-Decay-Driven Growth, and Competitive Consolidation
+Self-Preservation in Language Models
+One Model to Loop Them All: Elastic Latent Recurrence for Language Models
+SAGE: Salient Factor Discovery and Generation with Visual Foundation Representations
+Video-Conditioned Generative Joint 2D-3D Hand Motion Recovery
+Few-Step Generation via Data-Space Iteration
+GATOR: Generative and Agentic 3D Object Reconstruction From Casual Images
+When to Rethink: Learning Multi-Perspective Self-Verification for Vision-Language Models
+MAMHOI: Factorizing Scene-Aware Human-Object Interaction through Affordances
+Encore: Few-Shot Agentic Discovery of Manipulation Strategies
+Which Language Should a Skeleton Speak? Language Choices in Multilingual Reasoning
+BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion
+Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration
