@@ -3828,3 +3828,24 @@ SpatialASM: Internalizing Active Mentalization for Spatial Reasoning
 ARCS: Towards Precise Text-to-SQL via Structured Disambiguation
 Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents
 Scaling Agentic Data for Long-Horizon Terminal Intelligence
+Probing the γ-ray emission region and the connection to jet ejections in NRAO 150
+Ganymede’s surface composition from 0.5 to 5.3 µm using combined VLT and JWST datasets and the resulting lessons learned
+On the Information Content of Ariel Transmission Spectra: Reassessing the Tier System
+Wet Removal and Cloud Enhancement: The Microphysics of Cloud–Haze Interactions on Sub-Neptunes
+The Lazuli Space Observatory: Architecture and Capabilities
+Stage-dependent Superhump Waveform Evolution and Nonstationary Positive-superhump Timing in the Near-period-gap Dwarf Nova YZ Cancri
+The influence of a long-lived basal magma ocean on the coupled core-mantle evolution of Mars
+Chondrule size averaging in two and three dimensions
+Transport and thermochemical kinetics of alkali species in hot Jupiter atmospheres: implications for magnetic models
+Characterization of microtopography of lunar crater slopes related to rock abundance: A case study at Flamsteed crater
+GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives
+AgentSWE: Can Coding Agents Build the Agent You Actually Want?
+VIS-Ground: Video Interactive Storytelling with Contextual Grounding
+GroundAnything: Reconciling Parallel Decoding with Precise Visual Grounding at Flash Speed
+CrossTimeEdit: A Decade-Spanning Cross-View Dataset and Reward-Guided Editing for Historical Street-View Generation
+Learning More by Training Less: Uncertainty-Guided Progressive Contraction for Efficient Reasoning Post-Training
+Initialization Improves LLM-Driven Discovery
+Branching On-Policy Distillation
+Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score
+Evaluating LLM Creativity through Long-Tail Performance
+SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code
