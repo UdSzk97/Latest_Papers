@@ -3820,3 +3820,11 @@ Encore: Few-Shot Agentic Discovery of Manipulation Strategies
 Which Language Should a Skeleton Speak? Language Choices in Multilingual Reasoning
 BudgetPix: Compute-Adaptive Tokenization for Pixel-Space Image Diffusion
 Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration
+Multi-Stream Attention Residuals
+Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method
+Thinking Inertia: LLMs Keep Thinking When Told Not To
+T3lescope: Arbitrary-Resolution High-Fidelity Generative Surface Reconstruction from Images
+SpatialASM: Internalizing Active Mentalization for Spatial Reasoning
+ARCS: Towards Precise Text-to-SQL via Structured Disambiguation
+Relevance Does Not Imply Applicability: Experience Activation for Personal GUI Agents
+Scaling Agentic Data for Long-Horizon Terminal Intelligence
