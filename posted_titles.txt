@@ -3860,3 +3860,92 @@ Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction-Re
 Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment
 UNITAS: A 3D-Native World Action Model for Embodied Manipulation
 HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning
+Hydrogen and Helium Dissolution, Outgassing, and Loss in Evolving Sub-Neptune Magma Oceans: Examining Demographic Features and Radius Evolution
+Localized alteration and contamination of lunar regolith particles upon exposure to Earth atmosphere
+A spatial map of the atmospheric limb of a hot Jupiter
+Thrust Faulting and the Late-stage Contraction of the Moon
+Rethinking Regolith Strength: Why Nonlinearity Matters on Small Bodies
+VideoJev: System One Model for Video Understanding and Interaction
+Jeva: System One Models from First Principles
+Agent-Reflex: Teaching Language Agents to Act Reflectively
+Urbex: Agentic Spatial Grounding for City-Scale 3D Scenes
+GreenWAM: A World Foundation Model for Robotics
+AesCode: Aesthetic Code Generation with Decoupled Cross-Modal Rewards
+Harness^2: Recursive Agent Harnessing for an Open World
+TPPO: Tracking-Value PPO For Language Model Reasoning
+Vela: User Behavior as Supervision Sparks LLM Intelligence
+X-Ragent: Tool-Augmented Reinforcement Learning for Evidence-Grounded Chest X-Ray Reasoning
+DoSA: Dots Sparse Attention
+ExeWorldBench: Benchmarking Code-Based Executable 3D World Modeling
+LeWAM: End-to-End World and Action Modeling with JEPAs
+Scoring Higher, Answering Worse: Mitigating Reward Hacking in Rubric-Based RL via Protocol-Level Rubrics
+Multics: Generative Multi-Player World Model with Hierarchical Communication
+WorkRover: Scaling Long-Horizon Cowork Agent Training Via Recursive Environment Evolution
+UltraBERT: Beyond the Limit of BERT Pre-Training
+EviScene: Beyond "Is It AI?" for Agentic Image Factuality Assessment
+SALD: Self-Referenced Advantage Learning for Diffusion Models
+Learning How to Remember: Memory Modality Selection for GUI Agents
+APEX: Asynchronous Prefix Denoising for Extreme Compression
+VEDJE: Video-Efficient Discriminative Joint Encoder for Scalable Video-Text Retrieval
+FlashVSR+: Efficient Video Super-Resolution via Hybrid Attention and Reward-Yield Distribution Matching
+AReA: Adaptive Receptive-Field Attention for Efficient High-Resolution Diffusion Transformers
+DeltaTTG: Training Multi-Turn Agents with a Token-to-Go Progress Meter
+Self-Distillation with Verbal Regularization
+Data-Centric Recursive Self-Improvement for Navigation via Policy-Synchronized Language-Action Dual Bootstrapping
+Cepheid: Decoupling Scale from Structure for Cross-Family Motion Completion
+A Decade in a Day: Synthesizing Agent-Native Interfaces from Human-Oriented Software Evolution
+WAVE-0: Bridging VLA Policies and WAMs with Lightweight Latent Future Prediction
+Tev: Scaling Long-Horizon Agentic Environments with Dense Progress Rewards
+EgoExplorer: A Vision-Motion-Touch Observatory for Human Loco-Manipulation In Situ
+ClawLoop: Self-Improving Agents via Harness-Native Training Loop
+CineRecon: Benchmarking Frontier Models for Agentic Cinematic Reconstruction
+GeoFix: Geometry Fixing for 4D Consistent Generation
+ReTerm: Recovery Training for Self-Improving Terminal Agents
+Open-o3-Video-v2: Seek, Ground, and Reason with Verifiable Spatio-Temporal Evidence
+Fish Audio Drama 3 Technical Report
+JevGPT: Thinking Fast and Slow in Autonomous Research
+VIEWCRAFT: Evolving What Multimodal Agents See and How They Read It
+PhyProbe: Rethinking Physical Consistency Evaluation in Generated Videos
+Last Secure Code Benchmark: Is the Code You Vibe Secure?
+LifeSearch: Benchmarking Deep Research Agents for Real-World Life and Productivity
+Elephant in the Fridge: Constant-Memory Frame Packing for Long Video Understanding
+LongR: Unleashing Long-Context Reasoning via Reinforcement Learning with Dense Utility Rewards
+WorldRecon: Generative Multi-View Mesh Reconstruction for Large-Scale 3D World
+EMHO: EMbodied Agent Harness Optimization via Experience Traces
+Latent World Action Model for GUI Agents
+UniForge3D: Joint 3D Reconstruction and Generation in a Shared Anchor-Guided Space
+What Really Works for Universal Multimodal Embeddings? A Controlled Study of Contrastive Training Strategies
+SWE-MISBEHAVIOR: Benchmarking and Mitigating Boundary Violations in Software Coding Agents
+Rubrics from the Task, Verdicts from Evidence: Pointwise Rubric Rewards with Tool-Augmented Judges
+AutoEnvScaling: Automating the Data Flywheel with Terminal Agents
+HexaBee-4B: Six-Language Translation with Multilingual Answering and Bidirectional Supervision
+PsyBer-Agent: A Psychology-Driven User Agent for Recommender Systems
+Spectral-Driven Adaptive-Rank Optimizer for Large Language Model Reinforcement Learning with Verifiable Rewards
+Agent Sociodrama: Social-Dynamics-Guided Persona Recasting for LLM Agent Teams
+PANINI-DR: Controlled Deep Research through Generative Semantic Workspaces
+CIViC: Evidence Gates for Audio-Conditioned Visual Prediction on Proxy Tasks
+RSIPO: Recursive Self-Improving Policy Optimization for Agentic Reinforcement Learning via Skill-Policy Co-Evolution
+LightVAE: Towards Compact and Efficient Video Autoencoders
+Controlled Acquisition and Abstention in Three-Channel Score Conflicts
+Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops
+AUGUstus: Autonomous Driving VLA Model with Unified Generation and Understanding
+DoubtLess: Training-Free Contrastive Decoding for Efficient Reasoning
+Web$hell: A Unified Interface for Agentic Web Access
+Diffusion Editing with Soft Mask: Pixel Level Redo of Image and Video with Adjustable Strength
+WorldCast: Distributed Multiplayer World Models
+Can an Agent Learn to Predict Its Own Failure? Outcome-Grounded Confidence Calibration in LLM Agents
+Omni-Modal LLMs Know More Than They Say
+Video-Arena: A Scalable Agentic Video Benchmark for Spatiotemporal Capability
+Scaling Repeated-Data Pretraining: Batch Size, Regularization, and GPU-Time Tradeoffs
+Learning Transferable World-Action Models from Task-Paired Human Videos
+MixLID: Token-Level Language Identification in Mixed-Language Text
+EventLens: Event-Structure Reinforcement Learning for Video Understanding
+SHELDON: Reasoning through Dual Search over Hypothesis and Observation Spaces
+4LC: 4D Latent Cache for Efficient Conditioning in Dynamic World Modeling
+Probable but Not Valid: A Psychometric Audit of Decision Models as Synthetic Survey Respondents
+CURIO: Curiosity-Driven Test-Time Learning for Open-Ended Discovery
+ShellElastic: Scalable Elastic Pretraining with Simultaneous Maximal Updates and Hyperparameter Transfer
+Enabling Token-wise Importance Sampling in Off-Policy RLVR with Proximal KL Regularization
+Let the Mind Conceive, Let the Hand Achieve: Following Multimodal Instructions for Long-Horizon Robotic Manipulation
+Beyond Prompt Count: How Data Shapes Transfer in On-Policy Distillation
+TacitVLA: Reasoning Vision-Language-Action Models Without Reasoning Latency
