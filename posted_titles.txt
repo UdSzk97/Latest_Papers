@@ -3849,3 +3849,14 @@ Branching On-Policy Distillation
 Same Output, Different Gold: Measuring How Reference Choice Moves a Multilingual Benchmark Score
 Evaluating LLM Creativity through Long-Tail Performance
 SPLATIFY: Reproduce, Discover, Innovate! From Papers and Ideas to Trainable 3DGS Code
+Active Dust Devils in the Rosalind Franklin Rover Landing Site in Oxia Planum, Mars
+The Effects of ICME Composition on the Sputtered Component of the Lunar Exosphere
+Radio Sounding Determination of Two‐Dimensional Plasma Structure Velocity
+Radio Sounding Determination of Two‐Dimensional Plasma Structure Velocity
+PR-OPD: Privileged Representation On-policy Self-Distillation for Agentic Reinforcement Learning
+WOVEN: Weaving Visual World Modeling into Multimodal LLMs
+Visual Grounding Safety in Vision-Language Models
+Prospective Hindsight: Self-Calibrating Reinforcement Learning via Prediction-Reality Gaps
+Narrow Multimodal Fine-Tuning Can Induce Emergent Misalignment
+UNITAS: A 3D-Native World Action Model for Embodied Manipulation
+HyperThink: Text-to-Parameter Hypernetworks for Efficient Reasoning
