@@ -3949,3 +3949,15 @@ Enabling Token-wise Importance Sampling in Off-Policy RLVR with Proximal KL Regu
 Let the Mind Conceive, Let the Hand Achieve: Following Multimodal Instructions for Long-Horizon Robotic Manipulation
 Beyond Prompt Count: How Data Shapes Transfer in On-Policy Distillation
 TacitVLA: Reasoning Vision-Language-Action Models Without Reasoning Latency
+Interactive team cognition during Apollo 11’s first crewed lunar landing under life-or-death conditions
+Pristine Models
+ACCRUE: Continual Off-Policy Reinforcement Learning for Robot Foundation Models
+Beyond the Verdict: Agentic Code Judging with Verifiable Feedback
+Who to Trust in Multi-Robot Systems: Joint Robot and Object Hypothesis Trust Inference via Neural-Symbolic Cross-Validation
+Scaling Verifiable Environments for Long-horizon Work Agents
+Model-Based Online Decision Making via Generative Trajectory Planning
+Batched Speech Decisions Without Decoding: Single-Token Supervision Lets a Frozen LLM Hear Beyond the Transcript
+Judges Follow the Reference: The Derivation Gap in Verifying Tool-Call Arguments
+Privacy-Preserving Intent Fulfilment and Assurance for 6G RAN
+Image Tokenizers Should Be Trained Between Images
+Words to World: Benchmarking LLMs in Interactive Physical Environments
