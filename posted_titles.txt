@@ -3961,3 +3961,84 @@ Judges Follow the Reference: The Derivation Gap in Verifying Tool-Call Arguments
 Privacy-Preserving Intent Fulfilment and Assurance for 6G RAN
 Image Tokenizers Should Be Trained Between Images
 Words to World: Benchmarking LLMs in Interactive Physical Environments
+Data-driven Modeling of Telluric Features and Stellar Variability with StellarSpectraObservationFitting.jl
+Dynamical Tides during High-eccentricity Migration Produce the Hot-Jupiter Pileup, Neptune Ridge, and Neptune Desert
+Extremely Low Mass Ratio Contact Binaries. III. Photometric and Spectroscopic Investigations of 11 Systems
+Penetrating Solar Wind Protons Drive Asymmetric Acceleration of Oxygen Ions in the Martian Magnetotail Current Sheet
+Deep-time paleosols record a vegetation-driven transition in terrestrial mercury cycling
+Apatite in Chang’e-6 mare basalts reveals a heterogeneous distribution of chlorine in the Moon
+Speeds and fluences of hydrogen and helium ejecta from the 2003 Halloween Solar Storm preserved by NASA Genesis samples
+Thermal history of an amoeboid olivine aggregate in the early solar nebula
+Assessing the analytical capabilities of handheld laser‐induced breakdown spectroscopy (hLIBS) on corroded iron objects of possible meteoritic origin
+Water and hydroxyl on asteroid Bennu: Reconciling remote observations with OSIRIS‐REx sample analysis
+Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation
+Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation
+Player-1: Learning to Play from Synthetic Experience
+Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents
+More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning
+Recovering Reliable Supervision via Critique-Guided On-Policy Distillation
+Cortex: Consolidating Context into Parametric Memory
+LatentLoop: Scaling Looped MoE Models with Asymmetric Compute Allocation
+ActionOPD: Distilling Decisions, Not Tokens
+Seeing, Maintaining, and Learning: The Evolution of Multimodal Agent Memory
+Many Right Answers, One Training Example: Removing Responder Noise from GRPO for LLM Recommenders
+LensErase: A Foundation Model for Erase Anything
+KV4-RL: Unlocking Faster Asynchronous Rollouts for RLVR with INT4 KV Cache Quantization
+Towards Agentic Robots: Model, Data, Environment, and Harness
+Hybrid Reasoning Agents
+HumanoidToolBench: Benchmarking Humanoid Tool Use from Selection to Mobile Execution
+RuleTrek: Benchmarking Agentic Rule Reasoning in Complex Scenarios
+Super-Resolution in The Right Latent Space: A Frozen Vision-Foundation Substrate
+APT: Feedback-Driven Agentic Post-Training for Text-to-Image Generation
+The Thinking Leakage in Reinforcement Learning for LLMs
+Share the Symbol, Not the Vector: Training-Free Fact Communication Across Language Models
+SwarmRSI: Recursive Self-Improvement through Evolving Scientific Agent Swarm
+LabInstruct: Benchmarking Situated Instructional Video Generation for Lab Procedures
+τ-Emotion-Bench: Exposing the Interaction Fragility of LLM Agents through Real-World User Emotions
+RAR: Rate-Adaptive Rollout for Time-Consistent Interactive World Models
+SkillMarker: A KGW-Based Watermarking Method for Agent Skill Ownership Verification
+GroundGUI: GUI Grounding by High-Quality Data and Distillation-to-Reinforcement Learning
+Apertus 1.5: From Open Text Models to Open Multimodal Reasoners
+ProgAgent: Learning Tool Orchestration through Programmatic Training
+Efficient Scene-Text Refinement via Pixel-Space Grouped Image Generation
+Diagnosing and Correcting Reward Hacking in Verifiable Instruction Following
+LLM-to-Flow Distillation: Teaching Natural Language Goals to Scientific Generators
+SafeDriveVLA: Navigation-Conditioned World Model Dreaming for Conflict-Aware End-to-End Autonomous Driving
+Are We Testing Too Much? A Survey of Benchmark Compression for Efficient Evaluation of Large Language Models
+Joint Subspace Sparse Attention for Efficient Long-Context Decoding
+VITAL: From Visual Motion to Precise Action
+Long-Horizon RL Needs Muon
+Acting Through Registers
+TextVerifier: Seeing Beyond Recognition to Verify Chinese Text Rendering
+From Failures to Learnable Worlds: Policy-Conditioned Environment Generation for Navigation Agents
+Rethinking Projector Training in Multimodal LLMs
+StartLux-Decision: AutoThink Decision Models with Reinforcement Learning for Calibrated Deliberative Decisions
+Glance Forcing: Making Bidirectional Diffusion Autoregressive at a Glance
+BigCell: Generating Gigapixel Whole-Slide Images
+What Makes a Social Agent's Interactions Effective? Learning from Verifiable Outcomes in Paired Worlds
+Diff Diffusion: Predicting Edit Paths with Diffusion Models for Efficient Code Editing
+Physical Time as a Missing Dimension of Robot Policy Memory Dynamics
+DecisionRobust: Benchmarking Robustness for JEV Style Decision Models Across Text and Vision
+Continuum Attention
+To Align or Not To Align: Check Your COMPASS Before You Train
+Rethinking LLM-Guided Visual Question Answering: Does Deeper Knowledge Integration Really Help?
+ProbabilityBench: Model Evaluation and Calibration with Exact Ground-Truth Uncertainty
+Generative World Simulation with DAO and JING
+SyncReward: Human-Aligned Synchronization Reward for Audio-Visual Generation
+Scaling Online Optimal Transport Minibatches for Flow Matching
+NavGPT-3: Harnessing Context in a Hierarchical Navigation Runtime
+SWEeper-Bench: Can Agents Discover Bugs in Interactive Software?
+MimicX: Policy-in-the-Loop Supervision Refinement for Video-Driven Humanoid Motion Tracking
+The COUNT: Counting N-grams Unlocks Scaling on Host Memory and Training-Free Adaptation
+Exploring the Limits of Combinatorial Generalization in Embodied Manipulation
+Training LLMs for Multi-Agent Collaboration with Verifiable Information Rewards
+Choosing LLMs for Strategic Agent Interactions
+VASPO: Self-Distillation with Privileged Value Estimation
+StreamErase: Towards Ultra-Fast Streaming Video Erasing
+AgentSafeEvo: Adversarial Co-Evolution for LLM Agent Safety
+Vela: Scaling Vision-Language-Action Models with Adaptive Action Curve Parametrization
+Latent Compaction with Test-Time Training
+G^3VLA: Geometric Inductive Bias for Vision-Language-Action Models
+MA-Bench: Measuring Operational Planning in Language Models
+Your Transformer Is Secretly Elastic
+Jag: Direct Box Prediction for Efficient Visual Grounding
