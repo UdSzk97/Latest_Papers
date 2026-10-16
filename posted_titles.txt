@@ -4065,3 +4065,87 @@ Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Aut
 Drive3R: Block-wise Streaming Geometric Foundation Models for Autonomous Driving
 Cortex: Measurement-Gated Evolution and Pruning of Coding-Agent Skills and Rules
 The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow
+Evidence of mafic silicates in the blue unit of Phobos: Vis-NIR analogs within the C and Xc-type asteroid taxonomy
+Observations of Mercury’s Bow Shock Disappearance in Quiet Solar Wind
+Photometric Study of the Fastest-rotating Near-Earth Asteroid 2024 XA1
+The Milky Way’s Early Disk Was Built in Bursts. I. Evidence from Low-angular-momentum, High-α Stars Scattered Out of the Protodisk by Merger Events
+The Impact of Planetary Phase Functions on Exo-Earth Detectability with EXOSIMS
+Interplanetary Dust Ablation Seeds Silicate Clouds in Exoplanet Atmospheres
+Self-consistent Evolution Models Show Weak Double-diffusive Mixing in Jupiter and Saturn
+Nitrogen-rich earliest Solar System planetesimals revealed by nitrogen measurements in iron meteorites using electron probe microanalyzer
+Corrigendum to “Small-scale irregular mare patches as post-emplacement collapse features: Evidence from lunar and terrestrial analogues” [Earth and Planetary Science Letters 696C (2026) 120375]
+Preservation and transformation of lycopene under Mars-relevant conditions
+OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding
+Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation
+RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment
+Self-Evolving Agent Harness
+FDE-Gym: The Last Mile of AI Delivery
+OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use
+MJev-Spatial: System One Spatial Intelligence via Native Attention Matching
+Learning Where to Split: Dynamic Band Splitting for Audio Source Separation
+InfiniSplat v2: Analyzing and Improving Feed-Forward 3DGS from Any Views
+3DCodeVerse: Exploring 3D Worlds as Code
+MAI-Gym: An Open All-in-One Platform for GUI Agent Evaluation and RL Training across Mobile and Computer Environments
+SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation
+Speculative Forcing for Efficient Autoregressive Video Generation
+Mosaic: Multi-Session Agentic Reinforcement Learning
+VLA-Δ: Learning Physical State Transition for Vision-Language-Action Models
+Intern Lumina U2: A Multi-Codebook Diffusion Large Language Model for Omni-Visual Understanding and Image Generation
+AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning
+DeltaStreamer: Towards Human-Like Agentic Streaming Video Understanding
+Orbia: Do Generated Videos Form a Consistent 3D World?
+WorldCast: Exploring Intelligent Visual Generation in World State Prediction
+InfoVis: Unified Slide Image Generation and Editing
+MLExpert: Towards a Generalist Agentic Model for Autonomous Machine Learning Engineering
+Data World: Scaling Data Environments from Scratch
+Intern-Decision: Efficient Multimodal Decision Making with Autoregressive Masked Language Modeling
+CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation
+Routing Policy Optimization for Online Diffusion Reinforcement Learning
+EdgeWise: Bringing Long-Horizon Agents to the Edge via Selective Cloud Delegation
+Terminal-RSI: Recursive Self-Improving Terminal Agents via Recursive Self-Rewrite and Policy-Refine
+OmniVerifier-C1: Decomposed Graded Verifier for Rule-Governed Generative World Modeling
+Do Better Visual Representations Always Lead to Better End-to-End Autonomous Driving?
+SimVTA: Simulation-Grounded Video-Trajectory Alignment for Driving World Action Models
+Velox: Spatial Memory Makes World Models Efficient
+SWE-at-Scale: Scalable Issue Synthesis from Historical Bug Fixes
+Each Reward to Its Relevant Tokens: Reward-Specific Token-Level Credit Assignment for Multi-Reward RL
+JevAgentHarness: Benchmarking, Deploying and Training Decision Models That Share Control with LLMs
+MFVSR: A Multi-Style and Fine-Grained Benchmark for Video Subtitle Removal
+Trajectory-Level Speculation with Semantic Verification for Tool-Using Agents
+CarryOn: A Dual-Loop Harness for Personalized and Reliable Robot Assistance
+Athanor: An Agent-Native System for Autonomous Post-Training Research
+SUPRA-TEX: 3D Generation with Super-Aligned Texture
+Memory as Weights: Internalizing Long-Term History for Streaming Videos
+Learning Self-Orchestration in Decentralized Agent Swarms
+CoDA: Co-Evolution of Data Engines and Action Policies
+Cowork-Gym: Synthesizing Interactive Work Environments at Scale
+WorldMemBench: A Comprehensive Benchmark for Memory of Video World Models
+Virtual Head Attention
+FlashMask-3: Efficient and Expressive Mask-Aware Distributed Attention
+Calibrated Typed Decisions for Entity, Relation, and Event Extraction
+SERO: Learning from Executable Oracle Continuations for Long-Horizon Agentic Reinforcement Learning
+H-DDCM: Hadamard Codebooks for Fast Generative Image and Video Compression
+MMSearch-OPD: Easy Made Hard, Hard Made Learnable for Long-Horizon Multimodal Search Agents
+PINT: A Unified Model with Shared Predictive Intent for Robot Manipulation
+RepForcing: Representation-Space Initialization for Autoregressive Video Distillation
+A team of Gemini 4 Argon agents beats Minecraft
+PN-Mix: Pair-Norm Guided Mixed-Precision Key Cache Quantization for Efficient Long-Output LLM Inference
+Explaining the Roles of Experts in Mixture-of-Experts LLMs for Personalization
+Beyond Policy Rollouts: Embedding-Space Directional Exploration with Anchored Noise for LLM RLVR
+One Bias Score, Two Factors: How Mitigations Affect Option Bias in Multiple-Choice Evaluation
+Gen4P: Video Generators are 4D Perceivers
+Can World and Action Modeling Benefit Each Other under Unified Causal Training?
+ForcingBooster: Adaptive Patch-wise Denoising for Fast Autoregressive Video Diffusion
+SimForcing: Distilling Simulation Motion Priors into Real-Domain Robot World Models
+Recursive Environment Scaling for General Long-Horizon Agents
+VascuSR: Iterative Anatomy-Aware Diffusion for CT Super-Resolution
+EVA-Cap: Optimizing Audiovisual Video Captioning via Event-Centric Alignment
+Skill-Decoupled On-Policy Expert Distillation for Unified Vision-Language Models
+CLIFT: Conformal Self-Verification for Web Agent Training and Test-Time Scaling
+TimeRSI: Towards Self-Improved Agentic Deployment for Time-Series Foundation Models
+PAIR: Bridging Perception and Action in Vision-Language-Action Models
+When the KV Cache Is Slower Than the GPU: Scaling Remote KV Tiers for Context-Parallel Prefill
+Speech event detector: Timestamped detection of non-verbal vocalizations and background sounds for rich speech transcription
+CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness
+AI-Driven, Timing-Aware Power Optimization
+ANTE: Anticipate, Then Execute -- Learning Internal World Models for Coding Agents from Verified Beliefs
