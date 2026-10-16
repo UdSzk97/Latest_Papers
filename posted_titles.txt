@@ -4042,3 +4042,26 @@ G^3VLA: Geometric Inductive Bias for Vision-Language-Action Models
 MA-Bench: Measuring Operational Planning in Language Models
 Your Transformer Is Secretly Elastic
 Jag: Direct Box Prediction for Efficient Visual Grounding
+How Large Are Marsquakes? Revisiting Magnitude Scaling and Implications for Marsquakes and Meteoroid Impacts
+Detecting Small‐Scale Ionospheric Current Signatures Using MAVEN Observations
+Thermal Conductivity of Iron at the Conditions of Small Planetary Cores
+Margaret Hamilton obituary: computer scientist who pioneered software engineering and helped us get to the Moon
+An unidentified reservoir of comet 81P/Wild 2 chondrules
+CLASHarness: Benchmarking Multi-Agent Conflict in Computer Use via a Controllable and Verifiable Generation Pipeline
+APEX-Harm: Evaluating Agent Safety in Shared Professional Workspaces
+PreciseCoder: Faithful and Generalizable Debugging Beyond Unit-Test Rewards
+FreeSolo: Linear-time Sparse Attention with Zero-Shot Length Extrapolation
+When Left Is Right? Camera-Motion Understanding beyond Screen
+History Replays Itself: Unleashing Long-Context Capability in Linear Attention
+Self-Conditioning Enables Deep Sequential Reasoning in Flow Matching
+Speculative Sampling in Interactive Video Generation
+Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation
+VLX-Go: Robust Embodied Tracking through Multi-Stage Learning and On-Policy Refinement
+A Diagnostic Study of World-Space Human Recovery Under High Camera Dynamics
+CoTranslator: Reverse to Forward Chain-of-Thought Translator for Reasoning Distillation
+Unlocking Structured Pruning for Reasoning Language Models via Attention-Preserving MLP Trimming
+Lluna: Collaborative Unimodal Models for Missing-Modality Inference
+Looking Complete Is Not Being Grounded: Evaluating LLM Sitreps Against Human-Authored Situation Reports
+Drive3R: Block-wise Streaming Geometric Foundation Models for Autonomous Driving
+Cortex: Measurement-Gated Evolution and Pruning of Coding-Agent Skills and Rules
+The Agent Knew: Internal States Forecast Unauthorized Actions and Stop Them, and the Lies That Follow
