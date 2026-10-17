@@ -4158,3 +4158,4 @@ Scalable Weak-to-Strong Verifier Hardening for Agent Environments
 Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR
 Learning to Read Out: Unembedding Dynamics in Language Model Pretraining
 Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility
+Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models
