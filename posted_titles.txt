@@ -4149,3 +4149,12 @@ Speech event detector: Timestamped detection of non-verbal vocalizations and bac
 CoWorld Reasoner: Agentic Multimodal Reasoning with the Evolving Video World Model-Driven Harness
 AI-Driven, Timing-Aware Power Optimization
 ANTE: Anticipate, Then Execute -- Learning Internal World Models for Coding Agents from Verified Beliefs
+LEASH: Uncertainty-Aware Weak-to-Strong Escalation and Oversight for Computer-Use Agents
+LeanPRM: Lean-Grounded Process Supervision for Natural Language Proof Verification
+Copy-Paste Language Models
+Behavioral Compositionality of Sparse Autoencoder Representations
+PathFM: Fast Generative Forecasting of Multivariate Trajectories
+Scalable Weak-to-Strong Verifier Hardening for Agent Environments
+Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR
+Learning to Read Out: Unembedding Dynamics in Language Model Pretraining
+Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility
