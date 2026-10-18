@@ -4159,3 +4159,9 @@ Equal CER, Unequal Damage: Severity-Weighted Character Error Rate for OCR
 Learning to Read Out: Unembedding Dynamics in Language Model Pretraining
 Diminishing Returns of Data in Sparse Autoencoders: Functional Behavior does not Guarantee Feature Reproducibility
 Mine, Sample, Render: Test-Time Diversity Alignment Of Generative Models
+Observations of Electromagnetic Waves in the Lower Martian Ionosphere: Evidence for Gradient‐Drift Instability
+Observations of Electromagnetic Waves in the Lower Martian Ionosphere: Evidence for Gradient‐Drift Instability
+Exploring Jupiter's Mid‐Latitude Dusk Magnetopause: The Impact of Magnetic Reconnection
+Exploring Jupiter's Mid‐Latitude Dusk Magnetopause: The Impact of Magnetic Reconnection
+Automated extraction and analysis of transverse aeolian ridges from Tianwen-1 HiRIC images in the Martian Utopia Planitia region
+High temperature dielectric and differential scanning calorimetry properties of lunar simulants
