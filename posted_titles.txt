@@ -4165,3 +4165,4 @@ Exploring Jupiter's Mid‐Latitude Dusk Magnetopause: The Impact of Magnetic Rec
 Exploring Jupiter's Mid‐Latitude Dusk Magnetopause: The Impact of Magnetic Reconnection
 Automated extraction and analysis of transverse aeolian ridges from Tianwen-1 HiRIC images in the Martian Utopia Planitia region
 High temperature dielectric and differential scanning calorimetry properties of lunar simulants
+Thermal reactivity of organic molecules in the presence of chloride salts: implications for the <em>in situ</em> gas chromatography–mass spectrometry analyses on mars
