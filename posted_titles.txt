@@ -4329,3 +4329,68 @@ Legal Guidance in the Wild: How Users Seek Legal Help in Real-World LLM Conversa
 Vision as Proprioception: Estimating Humanoid Robot Pose from Video
 First Passage Attention
 Competence-Based Evaluation of Logical Reasoning in Large Language Models
+The Sensitivity of TESS to Transiting Planets in TOIs with Close-in Stellar Companions
+Sublimation of H2O Molecules from Interstellar and Dynamically New Comets: Case Study of 3I/ATLAS
+Electrostatic discharge triggers troilite‑to‑magnetite oxidation in Mars dust activity
+Nature and evolution of Yamato‐type carbonaceous chondrites: Clues from Ti‐minerals in Dhofar 1988
+Constraining shock ages and Sr‐Os isotope geochemistry of brachinites and brachinite‐like achondrites
+Mineralogy of C1, C2, and CM‐like clasts in achondritic and chondritic meteorite breccias
+Comments on the publication by Rachel S. Kirby, Penelope L. King, and Andrew G. Tomkins “A statistical investigation into relationships between the IIE irons and the ordinary, F and ‘HH’ chondrites.” Meteoritics & Planetary Science 60, Nr 10, 2376–2400
+Scientists put a salt marsh in a giant wave-machine: here's what they learned
+Can plants defend coasts against storms?
+The contribution of salt marshes to wave attenuation during extreme storms
+Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds
+Focused Omni-Modal GUI Agents
+PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking
+Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience
+S-Agent 2.0: Spatial Reasoning with a General Coding Agent
+Sage-A1.5: From Long-Horizon Execution to Scientific Exploration with Capability Composition
+VLA-Rolling: Fewer Denoising Steps, Better Control via Adaptive Action Reuse
+CoEvo-RSI: When Harnesses Evolve, Which Models Should Follow?
+Learning the 4D World through Point Trajectory Forecasting
+SolarRenderer: Few-Step Generative Reference Rendering
+Correction Training for Diffusion Models
+SWIFT: Self-guided Weak-to-strong dIFfusion models via Target extrapolation
+MMEnterprise-Bench: Evaluating Enterprise Agents over Evolving Multimodal Records
+LLM2R: From Large Language Models to 3D Reassemblers
+Specter: Fast MoE Inference via Quantization-Enabled Multi-Step Speculative Offloading
+EvaOmni: An Evidence-Grounded Benchmark for Audio-Visual Reasoning
+Painting Change Map as guidance for generating painting processes
+PhysSkin++: Real-Time and Generalizable Physics-Based Animation via Self-Supervised Neural Skinning
+SpecKCast: Spectral Kalman Forecasting for Diffusion Acceleration
+Evolving Agent Interfaces
+Breaking Diffusion: Parallel Reasoning with Draft Refinement
+From Short Clips to Real-Time Streams: Identity-Aware Supervision and Context-Efficient Generation for Video Face Swapping
+FlowState: Execution State as Memory for Long-Horizon LLM Agents
+DecisionPivot: A Diagnostic Benchmark for Decision Models in LLM Systems
+Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs
+Event-STVG: Spatio-Temporal Video Grounding for Long-Form Event Reasoning
+Epi: Towards a Persistent, Self-Improving Agent for Autonomous Research
+EdgeKernelBench: Unified LLM-Driven Kernel Generation for Edge Backends
+Good Judgment, Bad Advice: Decision-Model Controllers Raise Agent Cost Without Improving Success
+Evaluating Agentic Capabilities Before Post-Training: An End-to-End Approach
+Unsupervised Tool Evolution for Coding Agents in Data-Lake Analytics
+Harness Self-Evolution for Long-Horizon Terminal Agents
+Large Flow Language Models
+More Memory, Worse Agents: Error Reproduction and Anti-Persistence in LLM Agents
+HarnessRL: Co-Evolving Policies with a Just-in-Time Training Harness for Open-Ended RL
+WinARDet: Compressed Window Auto-Regression for Long-Horizon Vision-Language Grounding
+EAU: Environment-Agent-User Co-evolution for Training User-Centric Agents
+On the Fragility of Tasks under Composition: Implicit Budgeting in Language Models
+PVBench: Quantifying Physical Plausibility in Video Generation with Object-Level Physical Measurements
+λ_0: Scaling Open-World Egocentric Human Data for Humanoid Loco-Manipulation
+HybridResearcher: Bridging the Structured-Unstructured Boundary for Deep Research Agents
+OverSeer: Multi-Agent World Models Beyond What Agents See
+Muse Glimmer 30B: An On-Device Agentic Model
+OmniCam: Omni-Camera Trajectory Generation via Geometry-Grounded Pose Token Learning
+Multimodal Reranking Is a System One Decision
+Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization
+EMBER: Predicting TCR--pMHC Binding Without a Docked Complex
+HRoPE: Homography Relative Positional Encoding
+PhysLDM: Latent Diffusion for High-Fidelity Deformable Simulation
+HumanSkill-4D: Training-Free Language Querying of Animatable Gaussian Avatars in Space and Time
+TRACE: Tracking Multimodal Clinical Trajectories for Inpatient Risk Prediction
+Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models
+On the Limits of Scale: Inverse Scaling in Vision-Language Models
+VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token
+Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling
