@@ -4308,3 +4308,24 @@ RealityBench: Simulated Environments to Evaluate a Vision Language Model's Abili
 SPARC: Spoken Profile Authorship Recognition Corpus
 CyberArena: Benchmarking AI Agents in Live Symmetric Attack-and-Defense Combat
 Beyond Maliciousness: Static and Runtime Attack-Surface Profiling of Agent Skills
+NH4‐Smectites as Potential Precursors of Nitrogen Compounds Evolved During Analyses by the Sample Analysis at Mars (SAM) Instrument on the Curiosity Rover
+Optical Depths of Dust Devils Observed in Gale Crater, Mars
+Dust Devil Optical Depth Change Calculations Using MSL REMS UV Sensor Data
+Crater‐Exposed Mafic Materials in Chryse Planitia, Mars: Constraints on a Heterogeneous Sediment‐Mantled Subsurface
+Experimental Aeolian Abrasion of Basalt Sands as an Analog for Producing Martian Dust
+Characteristic Responses of Particles and Plasma Waves During Interchange Events at Jupiter Using Juno Observations
+Propagation Dynamics of Fast Electron Beam and Its Electron Cyclotron Maser Emission
+Characteristic Responses of Particles and Plasma Waves During Interchange Events at Jupiter Using Juno Observations
+Propagation Dynamics of Fast Electron Beam and Its Electron Cyclotron Maser Emission
+StopLoss: Teaching Agents to Predict Failure and Stop Early
+Predicting Privileged Information Effectiveness for On-Policy Self-Distillation
+Heterogeneous Agentic Coevolution
+A Language-Informed Loss for Visual Generation
+Measuring Mechanistic Uncertainty in Large Language Models via Causal Robustness
+Any 3D Scene is Worth 1K Tokens: 3D-Grounded Representation for Scene Generation at Scale
+TokenGate: Adapting LLMs for Fast and Memory-Efficient Prefill with Learned Token Pruning
+Harness-Delta Attribution: Dissecting Gains From Harness Evolution
+Legal Guidance in the Wild: How Users Seek Legal Help in Real-World LLM Conversations
+Vision as Proprioception: Estimating Humanoid Robot Pose from Video
+First Passage Attention
+Competence-Based Evaluation of Logical Reasoning in Large Language Models
