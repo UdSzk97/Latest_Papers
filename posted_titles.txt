@@ -4411,3 +4411,52 @@ Axiomatic World Modeling for Physics Reasoning
 World Models with Configurable Perception
 Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models
 BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks
+Searching for Planets around Altair with JWST/NIRcam
+Xenoliths in meteorites: Insights into the dynamics of material exchange between asteroids
+The craters that never were: Anthropogenic origins of alleged impact structures in the Chiemgau region
+A Search for Persistent Rotational Modulation in the Dedicated TESS Observations of Interstellar Comet 3I/ATLAS
+StreamEval: Evaluating Interactive Streaming Video Generation Models
+SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?
+DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations
+Cache Engineering for Agents
+Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation
+Agent World Model in the Wild: Computer-Use Agent Environment Synthesis
+PrismaCoder: Pushing the Boundaries of Open Multimodal Code Intelligence through Decomposed Rubric Synthesis
+Scaling in Games: Continued Pre-Training For Embodied Agents In Diverse Virtual Worlds
+Socratic Skill Learning: Interleaving Teaching and Practice for Transferable Agent Skills
+Retrieval Augmented Generation Compositionality
+Spectral-Spatial Interpretation
+AgenticRoboRL: Bringing Coding-Agent Post-Training to Agentic Robotics
+Memory-Centric Continual Learning for AI Agents
+Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use
+TraceForge: Distilling with Your Own Thinking
+DeLoop: Repeated Actions as Self-Supervision for Long-Horizon Agents
+Right Screen, Wrong Transition: World Models as Verifiers for GUI Agents
+PACE: Periodic and Channel-Aligned Encoding of Four-Bit Recurrent States
+ALPS: Visual State Encoders for World Models
+Sparsity Should Be ALLOTted by Output: Training-Free Allocation of Block-Sparse Attention for Video Diffusion Transformers
+Harness Scaling for Generalizable Agentic Reinforcement Learning
+RealMe: Immersive Volumetric Video from Minimal Captures
+Building AI Research Teams for Autonomous Discovery of Linear Attention Architectures
+Automating ML for Science: Can Frontier Agents Climb Scientific Hills in the Wild?
+SpatialBrain: Spatial Intelligence Growing from Experience
+Qwen-Audio-3.1-ASR Technical Report
+Real In, Real Out: What If We Only Use Real Data for Scene Text Editing?
+CompactSplat: Spatially Adaptive Gaussian Distribution for Feedforward Scene Reconstruction
+Which Agent's Skill Should Change? Group-Relative Credit Assignment for Evolving Multi-Agent Teams
+From VLM Planners to Robotic Agents: Self-Evolving Harnesses for History-Dependent Manipulation
+Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Recommendation
+Entertain, then Cancel: How Thinking Makes Reasoning Models Read Some and Or Literally
+CulturalRiddles: A Multicultural Benchmark of Riddles
+WorldStream: Streaming Interactive 3D Worlds with Hierarchical Planning and Persistent State
+Evolving with Open Worlds: Towards Recursive Self-Improvement for Future Forecasting
+Agentic World Action Models
+ACE-Brain-0.6: Scaling Spatial Grounding for Physical Foundation Models
+RubatoCodec: Budgeted Adaptive Speech Tokenization with Streaming Decoding
+From RL Papers to Framework Code: Inclusion and Review in Seven Open-Source Training Frameworks
+Toward Part-Aware Choral Transcription with singing voice assignment
+VX-One: Typed, Calibrated Decision Heads for Real-Time Perimeter Triage - An empirical study of unknown-attack honesty, cascade gray zones, and calibration under drift
+Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Training
+Design Anything, Design at Scale
+Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research
+ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination
