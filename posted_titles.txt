@@ -4394,3 +4394,20 @@ Slot-JEPA: Object-Structured Prediction Interfaces for Latent World Models
 On the Limits of Scale: Inverse Scaling in Vision-Language Models
 VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token
 Self-Credit: Credit Assignment for Long-Horizon Agentic RL via Intra-group Rescaling
+Ceres' Salty Ices: Sublimation‐Driven Evolution From Water Ice Exposures to Na‐Carbonate Deposits
+Quantifying Water Ice in Regolith Mixtures via Infrared (1.2–2.5 μm) Reflectance Model Parametrization
+Experimental Shock Metamorphism of Zircon, Apatite, and Whitlockite From 5 to 40 GPa
+A Brine‐Driven Formation Model for Brain Terrain in Qaidam Basin: Implications for Martian Habitability
+Fossilised Pioneer Microbialite Communities on Basaltic Substrates at Lake Ashenge (Tigray, Ethiopia): A Model for Ecosystems in Noachian–Hesperian Martian Lakes?
+A Radio Science Experiment for Dragonfly to Investigate Titan's Rotation and Interior Structure
+A Radio Science Experiment for Dragonfly to Investigate Titan's Rotation and Interior Structure
+How high-pressure ices on large ocean worlds can support habitability: The compatibility of amino acids into ice VI and VII
+Ask to Distill: Learning to Synthesize Data for On-Policy Distillation
+Training the Whole Agent, Not Just the Model
+On the Tip of the Tongue: First-Token Cueing as a Behavioral Probe of Recall Failures in LLMs
+ATEST: Adaptive Resource-Aware Test-Time Scaling for LLM Inference
+What Makes a Good Symbol for Hybrid Discrete-Continuous Planning?
+Axiomatic World Modeling for Physics Reasoning
+World Models with Configurable Perception
+Not All Features Are Created Equal: A Mechanistic Study of Vision-Language-Action Models
+BiDex-100: A Comprehensive Benchmark for Bimanual Dexterous Manipulation Across 100+ Simulation Tasks
