@@ -4460,3 +4460,20 @@ Answering in the User's Variety: Calibrated Accommodation Pairs for Post-Trainin
 Design Anything, Design at Scale
 Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research
 ToM2Vec: Continuous Theory-of-Mind Tokens for Multi-Agent Coordination
+Distal Rays and Secondary Craters of the Tycho Impact Event Revealed Through Deep Learning
+Plasma Parameters in Jupiter's Magnetosheath From Nine Years of Juno Observations
+Plasma Parameters in Jupiter's Magnetosheath From Nine Years of Juno Observations
+Seasonal Variations of the Martian Middle‐Atmosphere CO2/Ar Ratio Inferred From MAVEN/NGIMS Observations
+Seasonal Variations of the Martian Middle‐Atmosphere CO2/Ar Ratio Inferred From MAVEN/NGIMS Observations
+StyleStream 2.0: Fast and Controllable Streaming Voice Style Conversion
+Hidden Messages Between Diffusion Language Model Agents: Causal Evidence for Latent Communication
+DiffResearch: Accelerating Deep Research with Diffusion Language Models
+Language Models Learn to Improve Language Models
+VerifierBench: Benchmarking the Generation of Executable Verifiers for LLM Agents
+Looped Uniform Diffusion Language Models
+Exploring The Empirical Privacy Landscape of Synthetic Data
+Stratified Sparse Attention: Reducing the Sparse-to-Dense Gap at Extreme Sparsity
+RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Policies in Long-Horizon Household Manipulation
+Bridged Self-Distillation for On-Policy Learning
+FrontierCS 2: A Benchmark for Computer Science R&D
+Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy
