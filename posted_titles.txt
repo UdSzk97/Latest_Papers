@@ -4477,3 +4477,45 @@ RoboCasa-Shift: Stage-Aware Robustness Evaluation of Vision-Language-Action Poli
 Bridged Self-Distillation for On-Policy Learning
 FrontierCS 2: A Benchmark for Computer Science R&D
 Same Simulation, Different Evidence: Where Retrieved Tool Output Costs LLM Agents Accuracy
+Cosmogenic isotopic evidence from Chang’e-6 clasts for excavation history and ejecta provenance in the South Pole-Aitken basin
+WeVisOne-VL: Unified Visual Perception from Objects to Pixels
+Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation
+Deep Search in Real-World Web Environments
+Editing Images into Reusable Layers via Compositional Edit-Prior Distillation
+IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems
+Toward Recursive Self-Improvement in Physical AI
+Deep Fusion Memory: A Chunk-Level Parametric Memory for Large Language Models
+What Generation Knows: Unlocking Fine-Grained Understanding in Unified Multimodal Models
+LaLa-World: Scaling Latent World Models with Natural Language Actions
+Meta Expert: Cross-Layer Expert Sharing for Storage- and Retrieval-Efficient MoE
+Policy-Mask: Budget-Aware Adaptation of Diffusion Features to Discriminative Tasks
+Heartbeat Thinking: Speculative Reasoning and Tool Execution While Listening in Realtime Voice Agents
+Self-Distilling Future Video Representations for World Action Models
+Code2Video-Compass: A Comprehensive Benchmark for General-Purpose Code-Based Video Generation across T2V, I2V, and V2V
+Beyond Watching and Searching: Benchmarking Agents for Video-centered Deep Research Reports
+RLSplat: Resource-Linear Budget Control for Feed-forward 3D Gaussian Splatting
+RouteWeaver: Weaving Mode Selection and Execution into Unified LLM Routing
+Cola2: Co-Adaptive Hierarchical Language Modeling with Continuous Semantic Compression and Balanced Discrete Generation
+Is Complex Agentic Memory Always Needed? Naive RAG Is Stronger Than We Thought
+Verus-Insight: Towards Explainable Artifact Detection in AI-Generated Videos
+Rethinking Sequence Compression with Test-time Regression
+AgentVQA: A Unified Benchmark for Agentic Visual Understanding
+RTAformer: Relation-Transition-Aware Transformer for Video Scene Graph Generation
+AnyGameRenderer: Entity-Consistent Generative Rendering Across Games and an Entity-Level Benchmark
+MolLean: A Process-Verifiable Language for Chemical Reasoning
+Inherited, Not Invented: Tracing the Provenance of Wait in Reasoning Models
+SCOPE: Compiling Natural-Language Policies into Neurosymbolic Predicate Programs
+F2G-Pose: Geometry-Aware Foundation Feature Lifting for Direct RGB-D Category-Level Object Pose Estimation
+Reading, Writing, Sharing, and Interacting with the World through Video
+Foundation4D: Towards a unified perception and reconstruction model for autonomous vehicles
+FilmFlow: Agentic System for 3D Virtual Film Cinematography
+What Makes a Good Unmasking Policy? A Controlled Study of Learned Unmasking in Diffusion Language Models
+RIDAR: Safeguarding Research Integrity in Autonomous Research Agents via Automated Detection and Runtime Intervention
+TILDE: Teacher-in-the-Loop Distillation from Embodied Foundation Models
+SEAM: Spectral Embedding Alignment and Merging for Low-Resource TTS
+Skeleton-Grounded Latent Action Model for Robot World Models
+BrickWright: Agentic Creation of Physically Feasible Brick Builds
+Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Perspective
+MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models
+SplatLab: Autonomous Scientific Discovery for 3DGS Research
+Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans
