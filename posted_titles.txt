@@ -4530,3 +4530,5 @@ Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffu
 Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization
 IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems
 TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments
+On the long-term orbital behaviour of Hilda asteroids – I. Global stability patterns and catalogue
+TOI-4616 b: an Earth-sized planet transiting a nearby M4 dwarf
