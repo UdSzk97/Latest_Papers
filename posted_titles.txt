@@ -4519,3 +4519,14 @@ Realism VS Accuracy: Event Sequence Forecasting from a Generative Modeling Persp
 MambaAct: Efficient Mamba Action Experts for Flow-Matching Vision-Language-Action Models
 SplatLab: Autonomous Scientific Discovery for 3DGS Research
 Who Takes the Lead? Model Ability and Task-Conditioned Collaboration with Humans
+Reconstruction of Pluto's Tectonic History Using Polygonal Impact Craters
+Briefing Chat: How physicists successfully trapped the electron's antimatter equivalent
+Agent Mosaic: Recognizing Confidentiality Leaks in Agentic LLM Systems
+The LLM-Attacker: A Unified Red-Team Framework for Privacy Evaluation of Split and Distributed LLM Systems
+Diffusion Language Models Change Speed Across Tasks and Languages
+HyperDrone: Simulation-to-Reality Transfer at Millions of Frames per Second
+EvalResearchBench: Can AI Agents Build Their Own Feedback for Recursive Self-Improvement?
+Different Tasks, Different Timesteps: Temporal Task-Aware Quantization for Diffusion Language Models
+Bridging Exploration and Persona: Information-Directed Dueling for Test-Time Agent Personalization
+IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems
+TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments
