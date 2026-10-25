@@ -4532,3 +4532,7 @@ IF-MAP: Influence-Function-Inspired Agent Prioritization in Multi-Agent Systems
 TARSphere: A Robot-Oriented Full-Stack Framework for Long-Horizon Embodied Agents in Evolving Physical and Social Environments
 On the long-term orbital behaviour of Hilda asteroids – I. Global stability patterns and catalogue
 TOI-4616 b: an Earth-sized planet transiting a nearby M4 dwarf
+Rapid formation of meter-scale ripples on modern Mars
+Statistical Analysis of the Equatorward UV Auroral Emissions of the Jovian Southern Hemisphere
+Statistical Analysis of the Equatorward UV Auroral Emissions of the Jovian Southern Hemisphere
+A second-order curved wave approach to surface clutter simulation for Tianwen-2 asteroid radar
