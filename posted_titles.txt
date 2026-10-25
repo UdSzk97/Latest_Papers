@@ -4536,3 +4536,6 @@ Rapid formation of meter-scale ripples on modern Mars
 Statistical Analysis of the Equatorward UV Auroral Emissions of the Jovian Southern Hemisphere
 Statistical Analysis of the Equatorward UV Auroral Emissions of the Jovian Southern Hemisphere
 A second-order curved wave approach to surface clutter simulation for Tianwen-2 asteroid radar
+Analytical description of Jupiter’s main auroral emissions using JIRAM L-band observations
+Experimental investigation of phyllosilicate and hydrated Sulfate infrared spectra as affected by Martian surface temperature
+Efficient computation of vapor ejecta over asteroid geometries during pulsed energy deflection
