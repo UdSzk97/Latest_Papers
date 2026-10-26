@@ -4539,3 +4539,43 @@ A second-order curved wave approach to surface clutter simulation for Tianwen-2 
 Analytical description of Jupiter’s main auroral emissions using JIRAM L-band observations
 Experimental investigation of phyllosilicate and hydrated Sulfate infrared spectra as affected by Martian surface temperature
 Efficient computation of vapor ejecta over asteroid geometries during pulsed energy deflection
+How dust particles orbiting white dwarfs can reveal undetected co-orbiting exoplanets
+Frequent X-class Far-ultraviolet Flares from the Young Solar Analog DS Tucanae A
+The KPF SLOPE Survey: Small, Compact Multiplanet Systems Appear Spin–Orbit Aligned
+High-resolution Modeling of Coronae and Winds in Solar-type Stars with Varying Rotation Rates. II. Stellar Winds
+The spatial structure and annual cycle of the storm track in the northern hemisphere of Mars
+Temporal Variability of Titan’s Middle-atmospheric Zonal Winds from Southern Fall to Late Winter (2016–2023)
+UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents
+HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games
+RSIHub: A Composable Framework for Agent-Evolution Methods
+RynnUnify: Towards Unified Embodied Brain
+Omni-Woodpecker: Hallucination Correction via Evidence-Prior Rebalancing for Omni LLMs
+Every Weight Is a Path of Shared Discrete Decisions
+Dual Exam: Controlled Evaluation of Multimodal Agents and World Models
+DirCast: Live Esports Directing and Commentary with a Single Streaming Video-Language Model
+TenetBench: A Clause-Anchored Russian Corpus for Evaluating Language Models against Professional Codes of Ethics
+On-Policy Self-Training: Data-Free Self-Improvement in Large Language Models
+FLOMSS: Generative Music Source Separation by Flow Matching
+DraMaze: A Multi-Agent Pipeline with Future-Aware Memory for Diverse Microdrama Script Generation
+Building Auditable AI Text Detectors with Sparse Autoencoders
+MultiAgent-OPD: End-to-End Training of Hierarchical Multi-Agent Systems with On-Policy Distillation
+MMVistaReason: Toward Open-Data and Post-Training Recipes for Multimodal Reasoning
+DuoLM: Fast and Effective Personalized Recommendation with Language Models
+Easy-3Dfy: Object-Level Geometric Composition for Single-Image 3D Scene Construction
+LoCA: Enabling Multi-Modality in Geospatial Location Encoders
+Echo: Coupled Action and Task Status Signal Denoising for Vision Language Action Models
+Generalized CycleGRPO for Fine-Grained Multimodal Understanding and Grounding
+PaperFormalizer: Author-in-the-Loop Autoformalization of Research Papers in Lean
+Speculative Diffusion is a Tale of Two Tradeoffs
+RoboJudge: Multimodal Language Models as Judges for Embodied Video Generation
+DISC: Domain-Integrated Similarity Cost for Time-Series Dataset
+A path-following framework on fiber bundle for variational inequalities
+The fixed-point bundle method over product-of-simplex domains arising from game equilibria
+HoloBoxing: A Simple Recipe for Humanoid Boxing with 7 Minutes of Single-GPU Training
+LLM2Cert: LLM Synthesis of Certificates with SMT/Lean Verification
+JockeyBench: Evaluating LLM Agents on Horse-Racing Decision-Making
+Does LeWorldModel Preserve Local Action Geometry?
+SliderEdit++: Improved Slider Trajectories in Instruction-Based Image Editing
+Co-adaptive Rule Routing and Constraining for Structured Knowledge Retrieval
+What Git Does Not Record: Provenance Legibility in Two AI-Assisted Research Repositories
+FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models
