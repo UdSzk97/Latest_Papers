@@ -4579,3 +4579,8 @@ SliderEdit++: Improved Slider Trajectories in Instruction-Based Image Editing
 Co-adaptive Rule Routing and Constraining for Structured Knowledge Retrieval
 What Git Does Not Record: Provenance Legibility in Two AI-Assisted Research Repositories
 FocusVLA: Future-Intent Guided Dynamic View Routing for Vision-Language-Action Models
+Characterization of the Small‐Scale UV Contrasts at Low Latitudes of Venus as Seen by the UVI Camera Onboard Akatsuki
+Retention of primordial atmospheres through giant impacts
+A double debris disc around a white dwarf sculpted by two planetary bodies
+WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control
+Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model
