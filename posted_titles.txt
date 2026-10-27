@@ -4584,3 +4584,69 @@ Retention of primordial atmospheres through giant impacts
 A double debris disc around a white dwarf sculpted by two planetary bodies
 WorldCast: World-Consistent Character Video Generation with Large-Angle Camera Control
 Steering Black-Box Large Language Model Agents with Pitfall Anticipation World Model
+Eclipse Properties and Superhump Evolution in the SU UMa-type Dwarf Nova Z Cha
+Interaction of Stellar Dipole and Disk Magnetic Fields in Accretion–Ejection Systems
+Influence of real optical properties of lunar silicates on levitation and horizontal transfer of dust particles
+A mathematical model for dating a degraded lunar crater using morphometric parameters
+New determination of Jupiter’s vertical cloud and haze structure using dual viewing angle MUSE/VLT observations
+Sky-plane velocity distributions of interstellar objects and implications for their detection
+Inclination of Miranda as a Constraint on the Tidal Dissipation of Uranus
+Energetic Neutral Atoms and Ion Precipitation onto the Upper Atmosphere of Venus
+A Survivor from the Margins: <i>Hypatia Stone</i> and the Hidden Diversity of Solar System Solids
+Transients and Stellar Activity as Revealed by Ultraviolet Diagnostic Tracers
+JuRa: The Juventas Radar on Hera Mission to Probe Internal Structure of Didymos and Dimorphos Asteroids
+The Scientific Operations of Milani NavCam
+What the Solar System Can Teach Us About Rocky Exoplanets
+Review of Water Ice Resource Exploration and Sampling Technologies on Extraterrestrial Bodies
+Deployment of a Lunar Surface Drilling and Sampling System in the Chang’e-5/6 Missions
+ShortSCOPE: An Optical Short-Period Seismic Sensor for Planetary Exploration
+Scientific Highlights and Status of the Mars Science Laboratory Mission, Years 9 Through 12
+BroadSCOPE: An Optical Broadband Seismic Sensor for Planetary Exploration
+Rocky Planets as Heat Engines
+Euhabitability: A New Term to Aid in the Search for Life in Addition to the Habitable Zone Framework
+Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents
+StreamVibe: Proactive Video Agents for Evolving User Intent
+DynaFlow: Learning Free-Form Multi-Agent Orchestration
+Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution
+InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants
+Work Agents: Systems, Capabilities, and Optimization
+Continual Learning Exam: Benchmarking Long-Horizon RSI and Experiential Learning in LLM Agents
+Spatial Audio Generation and Editing with Executable Plans and Self-Distilling Transfusion
+AV-FABLE: Audio-Visual Manipulation Forensics in Long-Form Videos
+Eat Your Precision: Precision Objective Mitigates Reward Hacking in Rubric-based RL
+Δτ-Bench: Pushing Agents Toward a Moving Capability
+Principia: Test-Time Hypotheses to Principle Construction for Scientific Discovery
+HiP3R: Hierarchical Pose Graphs for Long-Horizon 3D Reconstruction
+Qwen-Image-PE: Learning Visual Design for Text-to-Image Prompt Enhancement
+Trustworthy Recursive Self-Improvement in the Era of Large Models: Foundation, Risks, Evaluation and Open Challenges
+World-in-Context: Interactive Video World Modeling with In-Context Conditioning
+miniTE: Diagnosing and Bridging the Execution Gap in Native NVFP4 Reinforcement Learning
+S3AC: Stabilized, Selective, and Scalable Actor-Critic for LLM Reasoning
+Evolving to Match Capabilities: Improving Harness Self-Evolution via Skill Adaptation
+ProAS: A Progress-Aware Advantage Shaping Framework for Multi-Turn Agentic Reinforcement Learning
+EmbodiedLab: Benchmarking Embodied Agents That Act to Know
+Rethinking Video Storage for AI Training: Breaking Cross-Frame Dependencies for Efficient Random Access
+Build, Don't Play: Self-Improving LLM Research Agents Develop a Hearthstone Battlegrounds AI That Rivals Top Players
+RynnVLA-Latent: Scaling Robotic Manipulation Foundation Models with 3D-Grounded Latent Actions
+Extreme Compression of Per-Layer Embeddings via Cross-Layer Latent Vector Quantization
+More Memory, Better Videos? A Controlled Study of Visual Memory in Long-Video Generation
+AgentProofBench: Benchmarking Reusable Verifiers for Web Agents
+Novel or Not? PatEx-Gym: Agentic Prior-Art Search for Novelty Assessment in Patent Examination
+CausalAlign: Causal Alignment of Video Generation Models for Consistent Ego-Motion
+Thinking-in-Bets at Test Time Reduces Sycophantic Revisions in LLM Agents
+RoboJev: An Open Vision-Language Judge for Robot Success Detection
+Joint or Per-Option? Compact Encoders for Closed-Set Decisions from 17 Million to 1 Billion Parameters
+Nested Sparsity for Scalable Pretraining and Continual Learning
+Mycelium: A Meta-Study of Hallucination Detection Across Provenance, Typology, and Granularities
+Skill^{infty}: Recursive Self-Improvement for Agent Skill Optimization
+Intrinsic Goals for Autonomous Agents: Hierarchical Exploration Captures Future Volitional Action in Drosophila
+OBB-PBD: Extending Parallel Box Decoding to Oriented Bounding Boxes for Referring Expression Grounding in Aerial Imagery
+Constrained Decoding: Harmful or Beneficial? Revisiting Its Impact on LLM Performance
+DialFork: Going Beyond Factuality to Evaluate Procedural Hallucination in Conversational Agents
+RoboHarness: A Simple Harness Outperforms VLA and World Action Models
+Assessing the CAD Capabilities of General-Purpose AI Models: A Case Study of GPT-6 Astra
+Beyond Benchmarks: Can Small Open-Weight Models Get Real Coding Work Done?
+Semantic Concept Steering Breaks the Explanation Drift Loop in Continual Learning
+Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5
+Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?
+Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection
