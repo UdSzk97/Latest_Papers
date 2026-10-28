@@ -4656,3 +4656,52 @@ Rollback: Experience Backtracking in World Models for Policy Improvement
 LociArt: A Unified Paradigm for Free-Style Local Video Stylization
 Cross-modal Steering Vectors Exist Across Both Image and Text Generation
 On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction
+Tracing the main belt origins of S-complex near-Earth objects: From space mission targets to meteorite sources
+SPIRou near-infrared spectropolarimetry of the ultra-hot Jupiter KELT-9b: Tentative detection of the planet’s magnetic field
+Unbound grains in gaseous debris discs
+The methanol–methyl cyanide correlation: A chemical path from protostars to comets
+Enhancing the Interpretability of Radial Velocity Analysis Using Leave-one-out Cross Validation
+A Formation-stage Bottleneck for Exomoons around Close-in Rocky Planets
+Metal-poor Brown Dwarf Kinematics from JWST NIRSpec Spectroscopy
+Structural analysis of ribbon-bounding faults in Tessera terrain, Venus
+Discovery of W‐rich refractory metal in unbrecciated cumulate eucrite Northwest Africa 8326
+Lunar Geochemistry from X-Ray Line Flux Ratios Using CLASS on Chandrayaan-2
+The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents
+ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence
+PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations
+Hy-Nomas: Towards Free-form Interactive World Generation
+VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation
+Multiscale Policy Optimization for Long-Horizon LLM Agents
+Memory Tax: Dissecting the Net Value of Agent Memory
+Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?
+HABIT-Bench: Evaluating Habit Induction from Longitudinal Weak Evidence in Agent Memory
+CodeCap-Bench: Can Code Serve as a Good Video Caption?
+ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning
+Can Test-Time Memory Evolution Outperform Test-Time Training for Scientific Discovery?
+Zooming without Zooming v2: From Seeing Details to Connecting Evidence for Generalizable Multimodal Perception
+RSI Arena: Towards Recursive Self-Improvement with Human Feedback
+MatAnyone-E: Sparse Memory Propagation for Efficient High-Resolution Video Matting
+h1: A Taste of the Bitter Lesson in Automated Theorem Proving
+Channel Selection for Mixture-of-Experts Decoding Needs No Calibration Data
+Omni-InteractScope: Benchmarking Proactive and Agentic Interaction in Continuous Omnimodal Streams
+What Effort Level Should I Choose? On the Economics of Reasoning Effort in LLM Agents
+RynnWorld-Latent: A Cross-Embodiment World Model Conditioned on Universal Latent Actions
+EmbeddingGemma 2: Unified and Efficient Multimodal Representations
+The Lexical Imprint of Pre-training Data
+Your Policy Is Secretly a Harness: The Decision Geometry of Agent Interfaces
+SearchHorizonBench: A Benchmark for Search Value in AI Agents
+Timestral
+OvisOCR3 Technical Report
+Can LLMs Uncover Hidden Physical Laws through Free Exploration?
+Harness-Model Collaboration for Long-Horizon Continual Learning
+Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions
+Benchmarking Obstacle-Conditioned Safety in Household Robot Navigation
+Learning and Reasoning with Geometry: How Generation Helps Spatial Understanding
+Nemotron-Labs-Diffusion-Uni: Elastic Self-Refining Unified Diffusion LLM with Cross-Paradigm On-Policy Distillation
+MLE-World: Predicting Machine Learning Experiment Outcomes with a Learned World Model
+Vision-Language-Action or World-Action? Just Action Models
+How Much Does the Hint Matter? Scope Conditions for Hindsight Self-Distillation in Financial Reasoning
+T-DIG: Text-Conditioned Diversity for Image Generation
+Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation
+PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds
+MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching
