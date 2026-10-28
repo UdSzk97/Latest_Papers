@@ -4650,3 +4650,9 @@ Semantic Concept Steering Breaks the Explanation Drift Loop in Continual Learnin
 Trust Mechanisms for Offline Generative AI at the Edge: A Connectivity-Regime Framework and an Empirical Study on a Raspberry Pi 5
 Humans in Space: Can MLLMs Construct Human-Centric Spatial Understanding via Active Exocentric Exploration?
 Learning from Automatic 3D Gaussian Splatting Edits for Online Bayesian Scene Change Detection
+Variability of Bright Deposits in North Polar Residual Ice Cap Craters on Mars
+Antibiotic contamination stimulates microbial methylmercury synthesis in rice paddies
+Rollback: Experience Backtracking in World Models for Policy Improvement
+LociArt: A Unified Paradigm for Free-Style Local Video Stylization
+Cross-modal Steering Vectors Exist Across Both Image and Text Generation
+On the SPOT: Enhancing Speculative Decoding for Diffusion Language Models via Commit-Order Prediction
