@@ -4705,3 +4705,11 @@ T-DIG: Text-Conditioned Diversity for Image Generation
 Truncate or Not? A Scaling Study of Looped Transformers with Truncated Backpropagation
 PhysEvolve: Verifier-grounded Self-evolution for Physical Reasoning with Executable Worlds
 MoveBench: A Rubric-Based Benchmark for Evaluating Large Language Models in Sports and Health Coaching
+What Outcome RL Buys: Finishing, Reliability, Rarely Reach
+Sub-monolayer tracking of molecular states at buried interfaces
+Beyond the Estimate: Wiener-Informed Decoding for Easier Training of Pixel-Space Flow Models
+Self-Assessment Reinforcement Learning for Search-State Awareness in Retrieval-Augmented Large Language Models
+Quaternion Approximate Networks for Enhanced Image Classification and Oriented Object Detection
+AlphaBet: Reinforcement Learning for LLM Event Forecasting Agents
+AdaPRA: Process Reward Agents with Adaptive Rubrics for Data Science
+Lipi-Ghor: A Large-Scale, Diarized, Multi-Domain Bengali Speech Corpus and a Scalable Pipeline for Building It
