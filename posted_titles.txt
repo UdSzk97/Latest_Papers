@@ -4741,3 +4741,49 @@ PreView: Enhancing GUI Grounding with Preprocessed Views and Cues
 LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models
 Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load
 Know, then Draw: A New Learning Paradigm for Visual Generation
+Improved Astrometry in a Sparse Star Field and New Positions of Triton and Nereid (2018–2020)
+An Updated Model for ϵ Eridani b and Prospects for Imaging with the Roman Coronagraph
+POSEIDON. III. The Aligned Orbit of the Hot Neptune around the Hot Star WASP-195
+Erratum: “Tidal Demise: The Evolution and Fate of a Hypothetical Venus Moon” (2026, ApJ, 1009, 31)
+Perpendicular Heating of Solar Wind Protons Driven by Proton Cyclotron Waves Upstream of Mars
+Distribution and rare earth element abundances of apatite in Bennu samples determined by synchrotron X‐ray fluorescence spectroscopy
+The physical and chemical structure of Titan’s upper atmosphere: energy balance, photochemistry, and Jeans escape
+New Insights into Venus’s Volatile Cycles Revealed by the Formation of Magnesite and Fluoro–Micas
+Lunar Dielectric Analyzer (LDA) for the Artemis First Landing Mission: Instrument Design and Operational Concept for In Situ Permittivity Measurements
+Longitudinal Distribution of Io’s Dayside Atmospheric Density
+Intrinsic Distribution Matching
+A-RSI: Adaptive Task Refresh for Zero-Data Multimodal Self-Improvement
+Your Benchmark Is an Empirical Measure Over Difficulty
+Look Only When Needed: Certificate-Guided Visual Routing for Efficient Diffusion VLMs
+L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory
+WorkFactory: Turning Professional Intents into Executable Work for Scalable Agent Training
+A Broader Look into MLLM's Retrieval Heads
+Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities
+Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers
+Co-Design Bench: Multimodal Collaborative Coding Evaluation for Agentic Models
+VibeGame: Prompt-to-Game Development with AI-Native Engine and Self-Evolving Adversarial Agent Team
+HairDeck: Animation-Ready Stylized Hair Cards from a Single Image
+WeVisCut: The Whole Editing Room in One Agent From Narration to Long-Form Video
+IntReal: A Real-World Dataset and Benchmark for Multimodal Interleaved Generation
+WebAnything: From the Wild Web to Scalable Agent Environments
+Glance: The Generator Is Its Own Reranker
+CoSTA: Compressed Speech Token Adaptation for Efficient Spoken Dialogue Models
+AskStream: When and What to Ask Proactively under Uncertainty in Streaming Video Understanding
+Investor's Last Exam: Can AI Agents Do Equity Investment Without Seeing the Future?
+PhysInsert: Physically Plausible Object Insertion with Geometric Priors and Bidirectional Object-Scene Interactions
+Multi-Token Prediction Done Right
+EditAgent: Rethinking Agentic Image Editing
+Proving and Improving the Platonic Representation Hypothesis with JEPAs
+ABF-Bench: A Verifiable Benchmark for Agentic Blockchain Forensics
+OpenFlyV2: An onboard vision-language-action model for aerial perception and navigation
+AB-Attention: Accurate Block Attention for Accelerating Video Diffusion Transformers
+Online Dense Reinforcement Learning with Planning-Grounding Agent for UI Navigation on Live IOS Apps
+Your LR Schedule May Not Be Principled: Effective Learning Rate Scheduling in Weight-Normalized Training
+SO-101 Bench: Accessible Spatial Manipulation
+Training Foundation Models with a Single Algorithm
+Scaling Lean Theorem Proving for Real-World Code Verification
+Holo4D: Holistic 4D Reconstruction as Geometric Control for Video Diffusion
+After One-Click Video: The Inflow of Service-Type Content, the Failure of the Recommendation Pool Mechanism, and the BoLe System
+Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them
+FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss
+Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents
