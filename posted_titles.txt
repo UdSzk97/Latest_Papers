@@ -4733,3 +4733,11 @@ CausGround: Causal Interaction Grounding for Adaptive Embodied Planning
 Evaluating DeepSeek V4.1 Flash-1017 for loss of control and harmful manipulation risks
 HuGe: Scaling Humanoid Generalist Vision-Language-Action Models with Egocentric Experience
 OmniSpectra: A Unified Foundation Model for Universal Spectra Representation Learning
+Laboratory Experiments Identify Meteoritic Organic Precursors for Chlorinated Compounds Detected by the Sample Analysis at Mars (SAM) Instrument at Gale Crater
+Spatial Distribution of Return Flows Occurrence in the Venusian Magnetotail and Its Dependence on Upstream Conditions
+Spatial Distribution of Return Flows Occurrence in the Venusian Magnetotail and Its Dependence on Upstream Conditions
+PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas
+PreView: Enhancing GUI Grounding with Preprocessed Views and Cues
+LOB-Impact Benchmark: Emergent Market Impact in Generative Limit Order Book Models
+Instruction Capacity: Behavior and Degradation of Language Models under Controlled Load
+Know, then Draw: A New Learning Paradigm for Visual Generation
