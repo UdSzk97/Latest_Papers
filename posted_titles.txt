@@ -4787,3 +4787,7 @@ After One-Click Video: The Inflow of Service-Type Content, the Failure of the Re
 Broken on Arrival: Non-Functional Quantized LLM Artifacts in Public Model Registries and How to Catch Them
 FDSML: Formula-Driven Supervised Metric Learning with Parameter-Aware Triplet Loss
 Matched Capabilities, Different Behaviors: A Controlled Study of MCP and CLI Interfaces for Language Agents
+Shear Properties of Apollo- and Chang’E-based Lunar Regolith Simulants
+Unlocking Any-Order Generation in Pretrained Autoregressive Image Models
+EPSBench: Benchmarking LLM Agents for Earnings Forecasting
+Weaken to Strengthen: Weakening-Induced On-Policy Self-Distillation for Large Reasoning Models
