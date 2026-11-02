@@ -4799,3 +4799,47 @@ Suprathermal Electron Acceleration Comparison of the Venusian and Terrestrial Bo
 Suprathermal Electron Acceleration Comparison of the Venusian and Terrestrial Bow Shocks
 Sulfidation Reaction Mechanisms of Olivine and Diopside at Mercury's Reducing Conditions
 He+ Irradiation of the Murchison Meteorite: Insights Into the Effect of Solar Wind Irradiation on Different Types of Organic Matter
+Post-DART impact ejecta re-accumulation on Dimorphos and implications for Hera gravity measurements
+Characterization of the anisotropic dust activity of interstellar comet 3I/ATLAS
+An Updated Model for <img align="baseline" alt="epsilon" src="https://cdn.images.iop.org/Entities/epsi.gif" /> Eridani b and Prospects for Imaging with the Roman Coronagraph
+Evolution of Stellar Activity and Habitable Zone. IV. Calcium II Infrared Triplet Activity from Open Clusters and White Dwarf Binaries
+Frequent Optical Flares in an M-type Detached Eclipsing Binary TIC 349005337
+Impact of Gaia–Sausage–Enceladus Debris on Milky Way Escape-velocity Estimates in TNG50
+Characterization of Northwest Africa 6410 L6 ordinary chondrite using scanning electron microscopy, X‐ray diffraction and Mössbauer spectroscopy
+FrameForge: Harnessing Priors of Video Foundation Models for Unified Image Generation
+R^2Orch: Recursive Self-Improvement for Agent Orchestration via Self-Play within a Skill-Internalization Loop
+Does Scaling Toward AGI Depend on What System-1 Lets System-2 Execute?
+REA: A Routed Embodied Agent Runtime for Asynchronous Brain-Cerebellum Control
+Apriel Voice 27B Preview: An Open Model for Speech, Reasoning, and Tool Use
+WeFair: Fidelity-Aware Alignment from Human Feedback for Personalized Query Rewriting in Short-Video Search
+Latent Reasoning in Continuous Space for Unified Multimodal Models
+Wizard: Manipulate Any World in Real Time via Agentic Control
+HiFOR: Hierarchical Foresight with Action-Guided World Grounding for Vision-Language-Action Model
+OSWAM: An Effective World Action Model with One-Step Action Generation
+ReLift: Dense 3D Tracking as Lifted Trajectory Repair
+Follow the Gradient: Tracing Safety Degradation Back to Training Data
+CEPO: A General Framework for Improving Prompt Optimization in Multi-Agent Systems
+Venus-DefakerOne2: A Vision-Forensics Foundation Model with Broader Coverage
+CaPtain: A Pipeline for Post-Training Code-as-Policy Robot Agents
+Probing Spatial State Representations in Visual Foundation Models
+WorldBridge: Bridging Video and Action for Task Generalization in World Action Models
+GLOW-FM: Efficient Generative Low-Light Image Enhancement with One-Step Latent Flow Matching
+When Requirements Interact: Scaling Long-Horizon Coding via Interdependent Specifications
+On the Origin and Evolution of Training-Inference Mismatch in LLM Reinforcement Learning
+HALO: Human-Grounded Granular Evaluation of Proactive Agents
+Supervising the Visible State: Separating Representation from View Selection in Streaming Video
+MemSteer: Turning User Histories into Supervision for Agent Memory Optimization
+No Channels Left Behind: Understanding Diffusion Acceleration through Residual Gates
+RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory
+SOMA: A Benchmark for Fine-Grained Egocentric Behavior and Body-Motion Understanding
+Think Twice: The Metis-1.6 Technical Report
+VoxLock: Target-Speaker Extraction for Voice Agents Without an Enrollment Step
+SciGame: Let Agents Play the Scientific Discovery Games in the Real and Counterfactual World
+CausalWAM: Learning the Causes of Actions in World Action Models
+GEPA-Curator: Curated Learning for Self Improving Agents
+rTaste: Do Research Agents Have Taste? Evaluating Early Stage Research Judgment
+TernScope: Model-Hardware Co-Design for Efficient Ternary Endoscopic Segmentation
+Learning Quality-Controllable Robot Policies with Iterative Hindsight Relabeling
+SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement
+AuditFL: A Contract-Backed Clearing Layer for Open Federated Learning
+TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish
