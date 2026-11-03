@@ -4854,3 +4854,46 @@ TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation
 Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay
 On-Policy Self-Distillation with Teacher Evolution
 ProVe: Proposer-Verifier Decoding
+Image-constrained Modeling with Hubble and Keck Images Reveals that OGLE-2012-BLG-0563Lb is a Jupiter-mass Planet Orbiting a K Dwarf
+Seasonal Variations over the Zhurong Plume-disturbed Zone Indicate Modern Dust Transport in Utopia Planitia, Mars
+Revisiting the 2014 Camelopardalids Outburst using a Meteor Radar Chain in the Northern Hemisphere
+Modeling the Nightside Martian Ionosphere: Structure, Composition, and Energetics
+Determining post-core formation accretion in asteroid 4-Vesta and implications for inner Solar System late accretion
+Photometry and analysis of comet 220P/McNaught during the 2026 outbursts
+Sea ice as an origin of life location for hycean and ocean worlds
+The morphology of contact binary objects in the Solar system
+Layering of lunar regolith at the Chandrayaan-3 landing site observed from the ChaSTE experiments from the lander
+TOI-1408: a metal-rich star with lithium overabundance hosting a multiplanet system
+Taxonomic classification of some members of the NEOs Atiras population
+Wave Forcing: Towards Speed-of-Light Streaming Video Generation
+CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements
+CoworkOS:Scaling Agent Coworkers for Real-world Automation
+Advances in Agentic Computer Graphics
+Democratizing Robot-Use Agents: A Unified Harness with Open Models
+SWE-Trail: History-Guided Trajectory Collection for Coding Agent Training
+NorthCUA Technical Report: Turbocharging Computer-Use Agents through Experience at Scale
+PhotoGuider: Composition-Aware Cropping and 360^{circ} View Framing with Explainable Photographic Assessments
+Reviso: Not All Visual Evidence Deserves Equal Attention in Video Captioning
+CrossSWE: Benchmarking Cross-Repository Joint Development for Coding Agents
+When Does Latent Prediction Error Support Physical Surprise Claims in Video World Models?
+Avatar Intelligence: Amplifying Human Agency Through Persistent Personal Agents
+FLAMIA: FLAsh MIcroscaling Attention for Fast and Causally Safe Training on Blackwell
+IdeaTaste: Do LLMs Share the Research Taste of Human Researchers?
+Order-Only On-Policy Distillation
+Measuring AI Agents as Teammates with Collaborative Intelligence
+LEANGUARD: Lean-Verified Guardrails for Tool-Using Agents
+BYOD: Build Your Own DLM - Efficient Autoregressive-to-Diffusion Language Model Conversion
+WorldFlow: Joint Video and 3D Motion Prediction via Large-Scale Pretraining
+Library of Layers (LoL): Adaptively Ordering Transformer Layers at Runtime
+Cross-Primitive Consistency in Jev
+Lab2Sim: Turning Real-World Experiment Videos into Interactive Virtual Experiments
+Advancing SVD-based LLM Compression via Layer-Wise Error Model Search
+DR Pixel: Page-Native Deep Research with Vision-Language Models
+Multi-Agent Relay Thinking
+TaoMate-FVSR:Audio-Guided Facial Video Restoration
+Can Large Language Model Agents Learn by Watching Tutorial Videos?
+SIMIT: Self-Improving Vision-Language Models via Imagination at Test-Time
+DAMI: Dual-Axis Memory Initialization for Enhanced Long-Context Retrieval in Gated Linear Attention
+Where Do Vision Language Models Fail at 3D Reasoning?
+Can Coding Agents Sustain Continual Evolution without Forgetting?
+When Morphs Look Better: Face Image Quality as a Training-Free Signal for Morphing Attack Detection
