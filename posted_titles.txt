@@ -4843,3 +4843,14 @@ Learning Quality-Controllable Robot Policies with Iterative Hindsight Relabeling
 SketchDirector: Complex Scene Sketching via Agentic Layout Reasoning and Detail Refinement
 AuditFL: A Contract-Backed Clearing Layer for Open Federated Learning
 TurnTurk-GPT: Text-Based Turn-Taking Prediction for Turkish
+Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement
+Diagnosing the Reference Gap: What Visual Scaffolds Can and Cannot Fix in Multimodal Reasoning
+From Fragmentation to Fusion: A Survey and Roadmap for Omnimodal Embeddings
+DecisionRank: On-Policy Distillation for Decision-Model Rerankers
+DeFT-RAG: Decomposing Multi-Hop Questions into Self-Contained Sub-Questions with Reusable Answers
+MAServeBench: Benchmarking Multi-Agent LLM Serving Systems with Hierarchical Collaboration Workloads
+Self-Improvement with Auxiliary Rewards: Learning from Verified Traces and Evaluating Transfer
+TinyAstral: Transferring Self-Evolving Harnesses to Tiny Generalist Manipulation Agents
+Lost in Recovery: Demystifying Recovery Behavior of Computer-Use Agents via Goal-Oriented Action Replay
+On-Policy Self-Distillation with Teacher Evolution
+ProVe: Proposer-Verifier Decoding
