@@ -4901,3 +4901,60 @@ When Morphs Look Better: Face Image Quality as a Training-Free Signal for Morphi
 Widespread plasma jets in the Martian magnetosheath revealed by dual-spacecraft observations
 Fine and ultrafine Martian dust presents additional risks for future crewed missions to Mars
 RoboColosseum: Evaluating Physical Intelligence at Scale In-The-Wild
+How Eccentric is the Debris Disk of ϵ Eridani? ALMA Reveals a Near-circular Belt
+In Situ Isotopic Analysis of Presolar Graphite Challenges Stellar Models
+The Effect of Adiabatic Index on Radius Evolution and the Mass Loss
+Chronology and composition of lunar mare basalts in Maria Undarum and Spumans
+Assessment of the mass loss and radius change of 3I/ATLAS based on observed production rates
+Towards a coupled activity-fallback model for comets – I. 67P/Churyumov–Gerasimenko’s water activity from a microphysics model with dynamic dust-depth
+Faint exoplanets detected using computational approach to remove glare from stars
+Imaging exoplanets below the telescope stability limit
+Insights into the Micromechanical Properties of Different Planetary Bodies: Nanoindentation Studies of Martian Olivines and Pyroxenes
+A Cassini/CAPS Survey of Ionospheric Outflow at Saturn and Its Internal and External Drivers
+The Limits of Tidal Circularization and Atmospheric Escape for Mini-Neptunes and Super-Earths: The Case of TOI-2257 b
+Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems
+Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy
+Think Less, Locally: Local Preference Learning for Reasoning Compression
+MoviEdit: Long-form Multi-Shot Video Editing Made Easy
+Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling
+DreamX: Video Diffusion Model is a Universal Latent Action Learner
+Factorized MLLM Embeddings for Composed Image Retrieval
+Axion 1.0: Open Agent Foundation Models, Simplified
+ToolSpace: Scaling Tool-Centric Environment Synthesis for Long-Horizon Agents
+YANAMI: A Large-Scale Multimodal Dataset and Benchmark for Multiturn Stateful Interaction
+VidUEU-Agent: A Data-Curation Agent for Multimodal Understanding, Editing, and Unified Tasks
+EvoTeam: Multi-Agent Collaboration via Evolving Teams
+WebHarbor: Docking Real Websites for Evolving GUI Agent Environments
+ParetoSaddler: Pareto-Guided Optimization of Agent Harnesses for Quality and Cost
+MoLRSI: A Recursive Self-Improving AI agent for Molecular Discovery
+SpecPilot: Autonomous Algorithm Discovery and Systems Optimization for Speculative Decoding
+"Shall We Approve?" Consequence-Aware Approval for Autonomous Coding Agents
+Mage-VL-Cowork: A Full Training Recipe to Learn Hybrid Computer Use From Evolved Harnesses
+Recursa: Toward Recursively Self-Improving Foundation Model Systems
+FlowTranslator: Training-Free In-Image Machine Translation with Flow-Based Editing
+PrimeSim: A Generalist World Model Simulator from Large-Scale Cross-Embodiment Demonstrations
+Every Token Needs Its Own Teacher: Multi-teacher Adaptive On-policy Self-distillation
+Near-Zero Token Embeddings Silently Stall Training in Gated Sequence Models
+Adversarial Speculative Reasoning Improves Long Horizon Agents
+Switch-SWE: Do Coding Agents Hold Focus When Switching Between Unfinished Tasks?
+Can AI Reviewers See Your Efforts to Improve Your Paper? A Large-Scale Study of Paper Revision Trajectories
+LOLPlay: Benchmarking Real-Time Visual Agents in League of Legends
+You don't need long context
+Dory1.0-4B: A Looped Normalized-GPT
+RoboTryOn: Synthesizing Dexterous Robot Demonstrations from Human Videos via Virtual Try-On
+Are Frontier VLM Agents Ready to Be Robot Generalists? An Empirical Study with the Embodied Agent Arena
+SeMo3D: Unifying 3D Generation, Editing, and Completion via Selective Modeling
+BEND 2.0: Benchmarking the Capabilities Needed to Design DNA
+Muon Makes the First Mixture-of-Experts Layer Harder to Balance
+Every Pixel Is an Option: A System One Model for Medical Ultrasound Biometry
+Do We Need an LLM to Know Why Sources Conflict? Decision Models for Knowledge-Conflict Typing in RAG
+Is Your Long-Horizon Benchmark Really Deep? Measuring and Synthesizing Depth in Terminal Tasks
+What We Keep of What We Forget: Replacement Operators and Routing Semantics in Training-Free MoE Expert Pruning
+Is Forgetting Unified? Exploring Concept Unlearning in Unified Multimodal Models
+Where to Learn and How Far to Roll Out: Efficient Adaptive Training for GUI Agents
+Kierston & KierstonBench: Simulation of Allentown, PA and Evaluation of Language Models in Crime Investigation and Surveillance Tasks
+GigaSpeech 3: Scaling Multi-Dialect Arabic Speech Recognition with Weakly Labeled Data
+Auto-Research Agent on MSA Organization to Improve Protein-Protein Complex Structure Prediction
+Going Deeper With Memories
+Enhancing Stock Market Information Retrieval with Retrieval-Augmented Generation
+QFabric: Guarded Cross-Domain Task Recovery and Its Limits on a Linux-RTOS Board
