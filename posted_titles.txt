@@ -4965,3 +4965,44 @@ Toxic mercury, aquatic ecosystem collapse, and the ancient Lowland Maya
 GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling
 Human-to-Robot Transfer via Bridging Representation and Action Space in VLAs
 VeriSpoof: Beyond Real or Fake with One Audio LLM
+Spatial Profiles of 3I/ATLAS CN and Ni Outgassing from Keck/KCWI Integral Field Spectroscopy
+A Search for Exoplanets around Northern Circumpolar Stars. XI. A Planetary Companion around HD 112987 and a Planetary Companion Candidate around HD 58545
+Searching for Massive Remnant Planetary System Hosts with White Dwarf Gaia XP Spectra
+Frame Degeneracy and Sine-quadrature Residuals in Lunar Tidal Modeling
+Accelerating Radiative Transfer in Planetary Atmospheres by Orders of Magnitude with Neural Network Emulators
+Dynamically Coupled Three-dimensional Cloud Chemistry in Rapidly Rotating Irradiated Atmospheres: An Application to the Compact White Dwarf–Brown Dwarf System ZTFJ0038+2030
+Turns Matter: Advancing Streaming Video RL via Turn-Level Credit
+From Pixels to Actions - Towards Native Vision-Language-Action Policies
+FrontierPhysics: Evaluating Agents for End-to-End Physics Research
+What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?
+EmoReward: Self-Evolving Reward Calibration for Emotional Video Generation RL
+PyRUA-DataFarm: LLM Agent as a Cost-Efficient Teleoperator for Real-Ready Robot Data
+Halley: A Predictive Control Plane for Optical AI Data Center Networks
+StreamDuo: A Live Commentator and a Research Agent for Unseen Games
+Solv3R: 3D Looped Transformer as a Multi-view Solver
+MUON-RT Reusing the Teacher's Trajectory for Momentum-Free Muon for LLM Self-Distillation
+TAC-CoT: Tool-Empowered Implicit Chain-of-Thought via Interleaving Explicit Tokens
+VideoMemBench: How Well Do MLLMs Remember in Video Conversations?
+VA-TDM: A Unified View for Improving Few-Step Diffusion Models by Velocity Adversarial Distillation
+SpecOPD: Branch-Parallel On-Policy Distillation for Speculative Decoding
+AnchorComplete: Recovering Complete Scene Meshes from Partial Point Clouds
+PyRUA-REAL: Robot Exploration and Adaptive Learning through RSI in the Real World
+NitroFusion2: Bringing Adversarial Loss to the Text Stream of Multimodal Diffusion Transformers
+Hybrid Computer Use: A Unified Programmatic, Semantic, and Visual Interface for General Agents
+On the Generalization Limitation of On-Policy Distillation for Post-RL Consolidation
+VidDub: Replacement-Aware Distillation for Two-Step Video Dubbing
+LoopVQ: Sub 1-bit KV Cache Quantization for Looped Transformers
+SleuthVLM: Do We Really Need Audio-in-Video for Omni Video Understanding?
+How I Aligned Your Model: Scaling Up Multilingual Safety Training with Templates
+The SIMPLE Law for Energy Cost of LLM Inference
+GaussianRenderFormer: Transformer-based Rendering of 3D Gaussian Splats
+UniRestorer++: Scalable Universal Image Restoration with Multi-Granularity Degradation Modeling
+Koopman Generative Operators for Efficient Probabilistic Time-Series Forecasting
+LiveFoley: Dynamic Real-Time Video-to-Audio Generation for Immersive Interactive Worlds
+Multi-layer Indexer: Overlapping Selection and Attention in DeepSeek Sparse Attention
+TaoMate-HD: Progressive-Resolution Autoregressive Audio-Video Generation
+HERIT: Enabling Global Access to Hanja-to-English Historical Translation by Mitigating Temporal Bias
+Monitor Accuracy Isn't the Answer: A Decision-Value Framework for Evaluating AI Agent Restart Monitors
+Ask, Don't Equip: Question-Driven Coding Agents for Deep Kernel Optimization
+Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost
+DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI
