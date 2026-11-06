@@ -5008,3 +5008,36 @@ Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning Hi
 DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI
 Density Structure of the Moon's Crust Beneath the Polar Regions as Revealed by Gravity Data
 D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding
+An ALMA View on Molecular Complexity: Water, Methanol, and Methyl Formate in the HD 100546 and IRS 48 Disks
+Saturn’s Evolutionary History and Seismology: Survival of Deep Stably Stratified Regions in Evolutionary Models of Saturn Consistent with Ring Seismology
+Validation of Habitable Zone Limits with a New Radiative–Convective Equilibrium Climate Model
+Detection of Fine-structured Radio Bursts during a Superflare on EQ Peg
+Non-destructive deep-UV Raman mapping of C ≡ N-bearing functional-group bands in Tagish Lake meteorite: Implications for a new primitive class of meteorites
+VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding
+Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training
+Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand
+WeLM-Image: A Unified Image Generation Model towards Visual Intelligence
+TailSteer: Trajectory-Tail Steering for Drift-Resistant Multi-turn Image Editing
+SLA: Scaling Spatial-Language-Action Model via Continual Pre-training
+EvoMemState: Evolving Memory State for Personal Agents
+VisSearch-Bench: Evaluating Long Horizon Visual Search in Multimodal Agents
+Towards Foundation Decision Models: Drex
+Open-HumanScale: An Open Recipe for Scaling Human and Robot Experience for Embodied Foundation Models
+On the Opportunities and Challenges of Prefill-to-Autoregressive Cross-Model Transfer
+EDGAR: Efficient Diffusion-Driven Gaussian Avatar Refinement via Synthetic Failure
+HeLM: Hierarchical Explicit Language Memory for Non-Markovian Manipulation
+Future Representation Distillation for Imagination-free World Action Models
+Terminal-style Mathematical Modeling Bench: The First Agentic and Verifiable Benchmark for Mathematical Modeling
+From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelligence
+SAE Interprets MoE: Sparse AutoEncoders Reveal That MoE Experts Exhibit Human-Interpretable Fine-Grained Specialization
+Decode Before You Hear: Speculative Listening for Chunk-Interleaved Full-Duplex Speech Language Models
+Muir: Linear Attention with Sensitivity-Allocated Gating and Matched-Filter Readout
+Information Games: Strategic Crowding and Firm Repositioning in Language-Model Space
+Reducing Representational Interference in Retrieval Embeddings with Trainable Prefix Tokens
+Towards Real-Time Full-Waveform LiDAR Transformers via Intensity-Guided Token Reduction and Physics-Aware Augmentation
+NPCBench: A Clinical Apprenticeship Benchmark for Multimodal Care-Pathway Reasoning in Nasopharyngeal Carcinoma
+OpenFrontiers: A Collection of Open Research Problems and a Benchmark for Scientific Rediscovery
+Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition
+SynthFaces: Balanced Large Scale Human Dataset
+Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents
+Identically Trained Language Models Break on Different Jailbreaks
