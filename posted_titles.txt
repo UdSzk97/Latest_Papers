@@ -5006,3 +5006,5 @@ Monitor Accuracy Isn't the Answer: A Decision-Value Framework for Evaluating AI 
 Ask, Don't Equip: Question-Driven Coding Agents for Deep Kernel Optimization
 Why Pay for Long Reasoning When Rewrite Do Trick? Causal Effects of Reasoning History Compaction on Future Generation and Agent Cost
 DRAP: Dynamics-Risk Adaptive Plasticity for Continual Learning in Physical AI
+Density Structure of the Moon's Crust Beneath the Polar Regions as Revealed by Gravity Data
+D3D: Decoupled Diffusion Drafting for Asynchronous Speculative Decoding
