@@ -5041,3 +5041,8 @@ Hard Sample-Conditioned Decorrelated Attention for Robust Face Recognition
 SynthFaces: Balanced Large Scale Human Dataset
 Decoupled Predictive Decision Making: A Shared Conditional Predictor for Agents
 Identically Trained Language Models Break on Different Jailbreaks
+Depositional History of the Otis Peak Formation, Western Fan, Jezero Crater, Mars
+StepX-OPD: Rethinking Multi-Teacher On-Policy Distillation in Diffusion Models
+SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization
+Tools Need Not Speak in Text: Latent Context Compression for Agents
+Signed but Steerable: Measuring and Closing the Text-Vector Integrity Gap in Offline Retrieval-Augmented Generation
