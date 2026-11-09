@@ -5055,3 +5055,42 @@ Convective Vertical Velocities of Dust Devils in Gale Crater, Mars
 Plasma and Electric Environment Within Lunar Pits and Caves Exposed to the Solar Wind
 Convective Vertical Velocities of Dust Devils in Gale Crater, Mars
 Quantitative Morphometry of the Ape Cave Lava Tube: A Statistical Framework for Terrestrial Analogue Studies of Planetary Subsurface Voids
+Photometric and Spectroscopic Observations of Comet 2P/Encke’s Nucleus in the Mid-infrared Wavelength Region
+Spatio‐Temporal Variability of Topside Layers in Mars’ Dayside Ionosphere Using Near‐Simultaneous Mars Express and MAVEN Conjunctions
+Climatology of the Martian Northern Dayside Ionosphere Across Different Phases of Solar Cycles 24–25 Using MAVEN Spacecraft
+Soluble elemental inventories in samples from asteroid Bennu and CI chondrites
+Protoplanetary disk evolution inferred from oxygen isotopes in anhydrous interplanetary dust particles
+Diverse lithologies in Bennu stones revealed using X‐ray computed tomography under pristine conditions
+Lunar impact history recorded by melt beads from Apollo 17 regolith 76501
+He spent a year on ‘Mars’: NASA science officer emerges from mock mission
+SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes
+P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors
+LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis
+Beneath the Surface: What We Overlook When We Talk About Agent Evolution
+Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription
+PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?
+Fast and Exact Relative-Position Attention via Structure-Aware Kernels
+EvoWorld: Towards Out-of-Sight World Evolution in Generative Video Models
+LLMs Don't Know What They Know: Benchmarking Temporal Self-Knowledge for Financial Backtesting
+Video-Coder: Reinforcing Agentic Coding for Video Generation
+AgentBaton: Efficient Model Collaboration in Agentic Tasks
+LowRAM: Low-Rank Keys and Amortised Values for Composable KV Cache Compression at Test-Time
+Exploring Weight-Space Programming: Capabilities, Generalization, and Limitations
+AutoCompress: Automated Hardware-Guided Model Compression
+Frontier3DBench: Benchmarking Coding Agents for 3D Creation across Objects, Scenes, and Interactive Open Worlds
+Steerable Multi-Objective Group-Relative Preference Optimization with Jointly Trained Low-Rank Adapters
+CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse
+Human-Centred, Risk-Constrained Evaluation of Financial Document Recognition: Evidence, Critical Errors, and Selective Automation
+Hierarchical Residuals: A Minimalist Decoupling of Residual Width from Compute Width
+Authorization Drift in LLM Agents: Evaluating Boundary Compliance in Multi-Step Tool Use
+"PRISM" Is Not All You Need: Cross-Topic Name Collisions and Scientific Paper Retrieval
+PREEN: Exemplar-Based Color Style Transfer with Smartphone Editor Presets
+IWIBench: Evaluating Gradient-Free Model Driven Intra-weight Injection
+Knowing When to Teach: Learning from Teachable Prefixes in Multilingual Reasoning Distillation
+OneTrans-GSR: A Generative Slate Ranking Paradigm Unifying Reranking and Mix-Ranking with One Autoregressive Transformer
+OmniLatent: Unified Latent for 3D Part Modeling
+The Last Mile to the Real World: Agent-Native Primitives as Reusable Building Blocks for Solving Real-World Tasks
+Learning to evolve by matching velocities
+Where to Connect? Boosting MLLMs via Dynamic Gated Pathways across ALL ViT and LLM Layers
+Static Recovery Is Not Dynamic Stability: Dynamics-Aware Benchmarking of Protein Motif Scaffolding
+Sketchpad: certified exact arithmetic with a small vision-language model
