@@ -5098,3 +5098,55 @@ WorldFoundry: Towards Unified Infrastructure for World Intelligence
 Flide: Accelerating Decision Inference with Exact State Forking
 JoVox: Joint Hierarchical Flow Matching for Lightweight Voxel Generation
 ReproBridge: Building Reproducibility into ML Research Artifacts
+High-frequency subsurface-penetrating radar investigation of the shallow subsurface at the Zhurong landing site
+The origin of the high heavy-element content of warm Jupiters
+Analytical constraints on ejectable dust agglomerate sizes from cometary nuclei during quiet sublimation
+Hubble Space Telescope Observations of Active Asteroid (101955) Bennu
+Does Cumulative XUV Unify the Neptunian Desert?
+Emission Spectroscopy of KELT-2A b with Gemini-North/IGRINS-2: Hints of a Stellar C/O Ratio and Substellar Metallicity
+Multimessenger Exoplanets: Combining Infrared Excess and Astrometry with Gravitational-wave Detections of Double White Dwarf Exoplanets
+Receiving Exoplanet Messages with Gravitational-wave Carriers: The Gravitational-wave Radial Velocity Method
+Entering the Era of Circumplanetary Ring Detection with Direct Imaging
+Aftermath of the Great Oxidation and Lomagundi–Jatuli events: Geochemical and Isotopic Constraints on Earth's early Habitability
+Constraints on repeated polygonal ground formation at Gale crater, Mars
+Morphology and dynamics of steep-fronted glaciers around Alba Mons, Mars
+Troilite and its assemblages from enstatite‐rich meteorites at the nanoscale
+Variably shock‐compacted chondrites: Deformation–thermal histories, large differences in mineral deformation response, and implications for lithification
+Correction to: Flyby-induced high-eccentricity migration and the prevalence of hot Jupiters in M67
+The contact frontier in Galactic civilization networks: radial structure and the Galactic habitable zone
+Alien skies: visibility of planetary retrograde motion from rocky habitable-zone worlds
+Uncertainty estimation of incoming comet trajectories with a thermophysical non-gravitational force model for Comet Interceptor encounter planning
+Chemical abundances and kinematics of two very metal-poor stars: HE 1421+0022 and HE 2150−1800
+The GAPS programme at TNG LXXXII. The first atmospheric investigation of the gas giant WASP-13 b at high resolution with GIARPS
+Modelling the 3D atmospheric structure of the cold Jupiter WD1856 + 534b orbiting a white dwarf
+Twin gas rings observed around a white dwarf
+Terrestrial Analog Constraints on Radar Detection of Cross-stratified Martian Aeolian Deposits
+Impact Vaporization and Ionization of Na and Ca at Mercury
+Geomorphic Evidence for Ice-rich Mass Wasting in Ceres’ Polar Craters
+Learning Heterogeneous Tactile Representation for General Dexterous Manipulation
+Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery
+Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning
+Longtail-SWE: High-Quality SWE Tasks for Underrepresented Languages
+InfraRSI: Harnessing Recursive Self-Improvement for Training Infrastructure
+How Much Training-Inference Mismatch Can On-Policy Distillation Tolerate?
+SIRIS: Can LLMs Tell When Simulation Errors Matter in AI-Driven Systems Research
+FewStepRL: Fine-tuning Few-step Diffusion Models with Reinforcement Learning
+TRIO: Task Refinement with Individual Optimization for Retrieval-Augmented Generation
+AutoVend: Benchmarking LLM Agents on Long-Horizon Autonomous Vending Operations
+Training Vision Transformers to Focus: Emergence of Spatial Attention Head Specialization
+Auriga Technical Report: A Task-Agnostic Agent Harness for Zero-Shot Embodied Manipulation
+How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time
+FlyHash for LLM Agent Memory: An Empirical Validation and a New Application
+SWAM: Scaling World Action Models with Cross-Modal Alignment
+SkinMind: Equipping Agentic RAG with Human-Inspired Graph Probing for Reliable Dermatology AI
+InstantHMR : Real-Time Human Mesh Recovery on Your Phone
+Spatial Harness: Grounding Spatial Reasoning in Executable World States with Physics Engines
+Stochastic Deep Supervision for Gallery-Consistent Early-Exit Face Recognition
+All Quiet on the Neural Front: Language Models Do Not Report Injected Pain States
+PhysioWave-T: Token-Efficient Wavelet Foundation Models for Biosignals
+Creative Priming: Decoupling Process from Product to Escape the Creative Paradox
+Click3R: Interactive Stereo 3D Reconstruction with Sparse Correspondence Clicks
+LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation
+Horizon-Scalable Q-Learning
+Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching
+Energy-Tweedie: Score meets Score, Energy meets Energy
