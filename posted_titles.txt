@@ -5150,3 +5150,12 @@ LCM-Promo: An LLM-Based Uplift Model for Promotion Allocation
 Horizon-Scalable Q-Learning
 Knowledge Graph-based Retrieval-Augmented Generation for Schema Matching
 Energy-Tweedie: Score meets Score, Energy meets Energy
+Active Neutron Spectroscopy to Determine the Hydration of Low‐Mass, Sealed Mars Samples
+MotionGraphicsBench: Evaluating Motion Graphics Generation with Programmatic Verification
+Infrathon: Benchmarking Language Agents for Real-World, Long-Horizon AI Infra Optimization
+onóna: Twin Embeddings with Tied Unembeddings
+FraudBench: A Legal Evaluation of AI Deception
+RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill
+EmoHarness: Boosting Multimodal Emotion Understanding with Meta-Harness Evolving
+e-means: outperforming k-means (in one-tenth the epochs)
+Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models
