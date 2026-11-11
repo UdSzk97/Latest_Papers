@@ -5159,3 +5159,44 @@ RidgeFill: Training-Free Late-Layer Cache Fill for Faster Prefill
 EmoHarness: Boosting Multimodal Emotion Understanding with Meta-Harness Evolving
 e-means: outperforming k-means (in one-tenth the epochs)
 Modality-Aware Expert Pruning for MoE-Based Multimodal Large Language Models
+Systematic Uncertainties in Rocky Exoplanet Reflected Light from Incomplete Laboratory BRDF Measurements
+Constraining Ganymede’s interior structure and bulk composition from its present-day magnetic field strength
+Understanding convection in sputnik Planitia, Pluto, requires additional rheological measurements of volatile ices
+Salty grains in Saturn’s outermost ring formed from the slow freeze of plumes from the moon Enceladus
+Daily briefing: Where academic freedom is declining — and where it’s on the rise
+Municipal sludge disposal emerges as a major, hidden, and rapidly growing atmospheric mercury source
+Primordial and Radiogenic Argon 40 in Uranus and Neptune
+Tree-Ising: Repairing Language Models with Bit-Level Ising Edits
+World In-Context Learning for Agentic Robot Manipulation
+Few-Step Streaming Video Generation via Condition Shifting
+Don't Just Trust Your Memory: Evidence-Linked Memory Reduces Memory-Induced Degradation in LLM Agents
+dNaViT: Discrete Codes are General-Purpose Visual Representations
+MMDM: Measuring Massive Multitask Decision Making
+DexForesight: Grounding Dexterous Policies with Implicit Spatial Foresight
+MACaQ: Fast, Model Agnostic Calibrated Quantization for Low-Precision Weights and Activations
+FINCOSMOS: An Open-World Evaluation Paradigm for Agents in Finance
+ProTEUS: A mutation-resolved world model for closed-loop protein evolution
+WaveGen: Truly End-to-End Waveform Generation via Internal Spectral Trajectory Learning
+DepthGraft: Structural Regularization through Hierarchical Cross-Layer KV Reconstruction
+PhysOPSD: Code as Privilege for Physically Plausible Video Generation
+Embodied First Exam
+PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation
+From Tool State to Scientific Action: Auditing Decision Provenance in Biomedical Research Agents
+The Surprising Effectiveness of Deleting Weights in LLM Post-Training
+Micius-Flash: Lightweight Agentic Intelligence for Engineering
+Is Your Robot's Memory Just a Clock? Temporal Shortcuts in Memory-Augmented VLA Policies
+EarthRecord: From Pixels to Land Change with Multimodal Agents over Four Decades of Satellite Imagery
+Market-Conditioned JEPA: Learning from Unpredictable Market Shocks
+ExRL: Sample-Efficient Online Adaptation of Long-Chunk Policies via Execution Length Control
+LEASH: Stay Safe in Agentic Robotics
+Blind Variation, Selective Retention: Improving Creative Idea Generation in AI Scientists
+Are Causal Neuron Circuits Unique and Transferable?
+Are Dense Rewards Worth Their Tokens in GRPO?
+Predictive Surprise as Self-Grounding Concept Bottleneck for Interpretable Time Series
+TorchCurves: Differentiable Parametric Curves
+Sable: A Small-Field Sumcheck Argument for Bit-Exact Inference of Large Language Models
+Lipschitz-Controlled Flow Matching for Robust Image Restoration
+Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learning
+EVAThink: Evidence Sufficiency-Guided Training for Adaptive Thinking in Video Understanding
+Learning to Act with World Models by Valuing What Comes Next
+DyCraft: An Agentic System for Long-Horizon 4D Scene Generation
