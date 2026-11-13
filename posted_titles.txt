@@ -5244,3 +5244,39 @@ Sediment‐Rich Flow Morphology and Stratigraphy as Records of Emplacement Press
 Experimental Characterization of Abundance Fractionation in Salts Undergoing Eruption on Ocean Worlds: Implications for Enceladus, Europa and Ceres
 Subliminal Learning in Vision-Language Models
 Probing Transformer Representations Layer by Layer, Module by Module
+A multi-epoch search for distant Solar System bodies in the Catalina Sky Survey
+Metaheuristic physics-informed extreme-learning machine for initial orbit determination of near-Earth asteroids from too-short arcs
+Direct estimation of the lunar-solar precession with geodetic very long baseline interferometry
+Tracing the Influence of Distant companions on Exoplanetary Systems (TIDES). I. Highly Eccentric and Misaligned Binary Companions to Hot Jupiters
+Oxygen isotopic and chemical composition of chromites in the unique Washington County iron meteorite and implications for classification
+Cross-calibration of Hera/HyperScout-H with MRO/CRISM and MEx/OMEGA based on Mars observations
+Surface-based Geophysical Monitoring of Conductive Planetary Environments: Integrated Electrical-resistivity-imaging–Electromagnetic-induction Approach
+SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models
+BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model
+PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models
+G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation
+Duo: A Reciprocal World Model for Full-Duplex Interaction
+Actor, Judge, or Teacher? Understanding Decision Models in Long-Horizon Agents
+On the Design of Hyper-Connections: Simplification, Stability, and Scalability
+Open Vision Banana: A Fully Open Recipe for Generative Visual Perception
+Ropedia Xperience 2: A Gold Standard for Scaling Physical AI Environments and Behaviors
+TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models
+WorldDraft: If Code Builds the World, Can Video Models Just Render It?
+Factored One-sided Adam-Moment for Practical and Scalable SOAP
+UniSpark: Exploring Hybrid Attention for Multimodal Understanding and Generation
+Learning the Task or Learning the Verifier? Rethinking Criteria Exposure in Embodied Self-Improvement
+JustRUA: A Controlled Study of GPT-6 Robot-Use Agents
+DeepStress: Stress-Testing Deep Search Agents
+HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composition for Multimodal Agents
+Agent-R^2: Scaling Agents for Realistic Productivity Work via Real-Source Data Synthesis
+Evidence-Guided Recovery for AI Agents with Ambiguous Tool Outcomes and Partial Execution
+Unbundling Multimodal Vision Encoding
+Structured Confidence Perturbation via Fisher Geometry for Adversarial Training
+Do Multimodal Models Decide Consistently on Equivalent Optical Spectra?
+Humanized but Still True? Auditing Facts and Detection in AI-Text Humanizers
+From Large Language Models to Efficient System One Models via Adaptive Computation
+The Value of Thinking: Learning When to Reason in Hybrid Decision Models
+Experience-Handoff Reinforcement Learning for Recursive Self-Improvement
+A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents
+The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?
+A frontier machine intelligence for human neuroimaging
