@@ -5280,3 +5280,9 @@ Experience-Handoff Reinforcement Learning for Recursive Self-Improvement
 A Cross-Scenario Survey and Analysis of Self-Evolving Multimodal Agents
 The Narrative Gap: Can LLMs Help Us Navigate Diverse Narratives Across Languages?
 A frontier machine intelligence for human neuroimaging
+Raising mountains for a habitable Earth
+TurtLES: A Large-Scale Benchmark for Turbulent 3D Neural PDE Surrogates
+Who Remembers What? Multi-Granularity Memory Extraction for Multi-User, Multi-Agent Interaction
+Consensus Capture in Reference-Based UAV Video Stabilization: A Benchmark on Dynamic Urban Scenes
+Back to Pixels: Lifting Latent Video Diffusion into Pixel Space
+EgoX: Egocentric Cross-Embodiment Manipulation with Embodiment Dreaming
