@@ -5293,3 +5293,49 @@ A note on <em>Moon</em>-PhiO coordinate systems: Confusion over IPhiO, EPhiO, GP
 Mineralogical and Chemical Characterization of Carbon Limited Basaltic Soils of Iceland: Mars Analog Soils for Interpreting Curiosity Rover Sample Analysis at Mars‐Evolved Gas Analyzer Results
 Dynamics of a High‐Pressure Ice Layer Between Two Oceans
 Seafood intake and urinary total mercury in children: dose–response in three national samples and a paired urine–blood comparison in adolescents
+Propagation of a quasi-stationary zonal wavenumber-2 Rossby wave in Jupiter’s stratosphere
+The HST/WFC3 Transmission Spectrum of AU Mic b. I. An Atmosphere Obscured by Contamination and Systematics
+OGLE-2015-BLG-1395Lb: A Cold Sub-Saturn-mass Planet Orbiting an M Dwarf
+Revisiting the Photometric Modulation Amplitudes of Kepler Planet Hosts: A Confounder-adjusted Test of Stellar Spin–Orbit Alignment
+Irradiated Atmospheres. VII. Effect of Mixing Energy Flux on Atmosphere–Interior Coupling
+A Possible Solution to the Fermi Paradox? The Lethal Impact of Asteroid Collisions, Supernova Explosions, and Giant Molecular Clouds on Advanced Technological Civilization Migration
+Aftermath of the Great Oxidation and Lomagundi–Jatuli Events: Geochemical and Isotopic Constraints on Earth's Early Habitability
+Al2O3 Under Extreme Conditions: Implications for Alumina‐Rich Planetary Interiors
+Planetary protection for the next era of Mars exploration
+Scale-dependent Gravity-referenced Slopes on Phobos Using Diffusion-smoothed Shape Models with Recomputed Effective Gravity
+The Jupiter ICy moons Explorer (JUICE) Mission: Post-Launch Status and Mission Overview
+Envisioning Agentic Robotics: A New Era of Robotic Systems
+Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent
+VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender
+MIRIX-2.0: Multi-Agent Memory System
+MMFlash: Faster Speculative Decoding for Vision-Language Models
+Rethinking in Spikes: Mitigating Hallucinations in MDLMs with Step-Aware Decoding
+V-JEPA-LM: Video-Language Models That Read Dynamics Beyond Static, Text-Aligned Representations
+DySENSE: Dynamic Spatiotemporal ENergy Synthesis and Emulation with Satellite Imagery
+Loopback Transformer: Towards a Unified View of Residual Looped Transformers
+G-CAST: Governed Continual Self-Training for E-Commerce Agents under Evolving Demands
+MEM-SQL: Memory-Empowered Text-to-SQL
+Mobile AI Factory: Building Specialized Language Models for Your Mobile Device
+JVT: Just Video Transformer makes pixel-space video diffusion simple
+Aligning AI Teams
+GH-AWTrace: A Large-Scale Dataset of GitHub Agentic Workflow Execution Logs
+WebArena-Pro: A Heterogeneous, Multimodal, Reproducible Benchmark for Web Agents
+Evidence-Governed Adoption of Self-Generated Updates in Autonomous AI Agents
+eDIAR: Training-Free Open-Speaker Streaming Diarization for Long Meetings and Large Archives via e-means
+CANTraj: Recovering Vehicle Trajectories from CAN Signals in Naturalistic Driving
+Emergent Biological Capabilities in a Foundation Model for Molecular Interactions
+HALO: Human-Aligned Data Collection for WhoLe-body MObile Manipulation
+Continual-ARC: Measuring Skill Acquisition over a Working Lifetime
+Do Underwater Image Quality Metrics Agree with Human Perception? A Benchmark with Human Choices, Simple Edits and Generative Drift
+JFinBench: A Continuously Refreshable Japanese Financial Benchmark from the Latest Certification Exams
+Disen-Forcing: Disentangling Semantic Anchoring from Motion for Autoregressive Video Diffusion
+AI Reviews Are Biased Towards the Appendix
+Interpreting Coding Agents Through Their Behavioral Trajectories
+eDMD: Endpoint Distribution Matching for Few-Step Diffusion Distillation
+Parsed, Plausible, Wrong: Output Format Controls Silent Errors in Small-Model Semantic Parsing
+Dual Flow: Joint Image-Measurement Interpolation for Inverse Problems
+EvenVLM: A Text and Multimodal Dataset for the Even Language with Vision-Language Fine-Tuning
+LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent
+MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation
+OneSteer: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control
+Alloy: A Multi-Material Physics Engine for Robot Learning
