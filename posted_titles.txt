@@ -5290,3 +5290,6 @@ Halogen and K-Cl isotope records in non-carbonaceous chondrites: evolution of th
 A note on <em>Moon</em>-PhiO coordinate systems: Confusion over IPhiO, EPhiO, GPhiO and CPhiO
 3‐D Global Hybrid Modeling of the Martian Plasma Environment (GCPIC‐M): Impact of IMF Cone Angle on Ion Escape
 3‐D Global Hybrid Modeling of the Martian Plasma Environment (GCPIC‐M): Impact of IMF Cone Angle on Ion Escape
+Mineralogical and Chemical Characterization of Carbon Limited Basaltic Soils of Iceland: Mars Analog Soils for Interpreting Curiosity Rover Sample Analysis at Mars‐Evolved Gas Analyzer Results
+Dynamics of a High‐Pressure Ice Layer Between Two Oceans
+Seafood intake and urinary total mercury in children: dose–response in three national samples and a paired urine–blood comparison in adolescents
