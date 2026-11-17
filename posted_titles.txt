@@ -5339,3 +5339,8 @@ LuthorSQL: A One-Pass Text-to-SQL Model as System 1 for a Slower LLM Agent
 MemInStream: Memorizing or Merely Recognizing? Rethinking Streaming Video Memory Evaluation
 OneSteer: Unlocking Steerable General Humanoid Motion Tracking via One-Step Diffusion Whole-Body Control
 Alloy: A Multi-Material Physics Engine for Robot Learning
+Re-Search: Dissecting LLM Ideation Through a Two-Player Questioning Game
+BrickFlow: Connectivity-Guided Brick Reconstruction
+Restoring Diversity in Distilled Image and Video Generators by Probing Activations
+Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination
+Iris-Z: Scaling One Generative Model Past Specialist Geometry Models
