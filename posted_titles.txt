@@ -5344,3 +5344,54 @@ BrickFlow: Connectivity-Guided Brick Reconstruction
 Restoring Diversity in Distilled Image and Video Generators by Probing Activations
 Reducing Batch Makespan for LLM Agent Workloads through Inference-Environment Coordination
 Iris-Z: Scaling One Generative Model Past Specialist Geometry Models
+A breath of fresh air: Oxygen enhancement from silicate sublimation during early protostellar evolution
+Dynamical evolution and surface accretion of DART impact ejecta in the (65803) Didymos system
+Investigating supernova-remnant X-ray maps with dendrogram-based techniques
+Detection of Escaping Magnesium in the Upper Atmosphere of WASP-76b
+Planets Surviving Common-envelope Evolution Should Be Rare, Massive, and Orbit Very Close to Their Host Star
+A Sample of Thick-disk Stars Hosting Hot Jupiters
+Distinguishing N2-dominated from O2-dominated Atmospheres on Terrestrial Exoplanets with Reflected-light Spectroscopy
+Mesosiderite formation by impact-driven ferrovolcanism on differentiated asteroids
+A global lunar impact bombardment ~ 800 Ma ago recorded in lunar impact glasses
+Origins of satellite-system building blocks I: Solid delivery during Jupiter’s growth
+Bulk chemical compositions of carbonaceous chondrites and contributions from CAIs to refractory‐element abundances and from matrix material to volatile‐element abundances
+Boltysh impact crater, Ukraine: Impact deposits and hydrothermal system
+Demographics of close-in TESS exoplanets orbiting FGK main-sequence stars – II. Spectral-type dependence and the Neptunian landscape
+Gravity Imaging Radio Observer for Gravity and Ephemerides Estimation: Application to Uranus Orbiter and Probe Mission
+A Taxonomic Characterization of Targets in the Emirates Mission to the Asteroid Belt
+Spectral Analysis of Lunar Topography in the Artemis Landing Regions
+Sage S2.1 Flash Technical Report
+K2-Horizon: A Frontier Fleet of Open Source Language Models
+AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data
+InclusionMed: Benchmarking AI for Inclusive Healthcare
+SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection
+SWE-CoWork: Benchmarking Coding Agents as Digital Employees in Organizations
+ScaleVLA: Scaling Vision-Language-Action Models to 552 Billion Parameters
+PaperCritic: Training AI Reviewers to Assess the Soundness of Papers
+VoxMel TTS Technical Report
+Accelerate Bench: Evaluating Agents for Application-Level Program Optimization
+SALA: Semantically Aligned Latent Actions Enable Dual-Axis Scaling of Embodied Foundation Models
+Calpha: Toward Native Biomolecular Intelligence in a General-Purpose Language Model
+MovieRoll: A Systematic Framework for Rolling Out Long-Form Videos
+Latent Feedback Is a Compute and Data Amplifier
+Termination Lag: Coding Agents Solve Early but Stop Late
+Correcting Persistent Failures in Point-Cloud Grasping Policies using Human Demonstrations in Virtual Reality
+Ego Guidance: Enhancing Robot Policy Learning with Action-Free Human Egocentric Videos
+Continuation-Guided LLM Evolution of Program Policies and Goal Compilers in Craftax
+DominoBench: Evaluating Multi-Step Physical Reasoning from Still Images
+LoopFill: Pipelined Multi-Token Speculative Decoding for Looped Transformers
+BitDecoding-FP4: Native FP4 KV Cache Decoding via Algorithm-System Co-Design
+JEPA4R: Embodied JEPA World Models with 4D Point Planning
+Dataset Distillation via Drifting
+OutfitterBench: Evaluating LLM Agents on Long-Horizon Resource Allocation and Commitment Coordination
+LynnReal-Hand: Unlocking World Interaction with Hand Control
+Centered Ablation: Why Last-Layer Directional Ablation Under-Fires or Collapses, and a Closed-Form Fix
+UMM-JEPA: Generative Pretraining via Masked Next-Scale Representation Prediction for Unified Multimodal Models
+GlyphAtlas: Disentangling Stroke Detail from Layout for Scene Text Synthesis
+When Expert Disagreement Hurts: Prestige and Selectivity in LLM Decision Revision
+ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization
+Reflection Anchors for Propagation-Aware Visual Retention in Long-Chain Multimodal Reasoning
+Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failures
+GPBam: A Retrieval-Aware German Public Law Exam Benchmark
+Zuse: A Decision Model for European Languages
+A Reinforcement Learning Method to Navigate SMEFT Operator Space
