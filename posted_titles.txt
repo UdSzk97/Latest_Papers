@@ -5395,3 +5395,12 @@ Invariant-Aware Harness Enforcement to Protect LLM Agents from Silent API Failur
 GPBam: A Retrieval-Aware German Public Law Exam Benchmark
 Zuse: A Decision Model for European Languages
 A Reinforcement Learning Method to Navigate SMEFT Operator Space
+Influence of Topographic Setting on Hollow Growth Across Mercury
+The Lunar Trailblazer Mission: Science Motivation and Implementation of a Pioneering Small Satellite for Lunar Water and Lunar Geology in the NASA SIMPLEx Program
+Deep strong light-matter coupling in 3D Kane fermions without Dicke criticality
+ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models
+Weight-Space Programming Doesn't Need Transformers
+Multi-Branch Transformer
+Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose
+MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding
+ResWAM: Learning What Changes, Not What Stays, for World-Action Models
