@@ -5404,3 +5404,34 @@ Multi-Branch Transformer
 Breath-Dx: A Time Series Classification Benchmark for Disease Screening with eNose
 MedJev: A System One Vision-Language Decision Model for Fast and Effective Medical Image Understanding
 ResWAM: Learning What Changes, Not What Stays, for World-Action Models
+What’s in Your Transit? A Path to More Science from Exoplanet Transit Data
+Forward Modeling of Spectral-line Polarization for Weak Magnetic Field Imaging
+ShadowCam: Shallower Small Craters in Permanently Shadowed Regions
+TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks
+AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs
+Self-Improvement Memory Enables Continual Recursive Self-Improvement
+TCP4D: A Unified Tool-Center-Point Tracking and Generation Model for Robot Manipulation
+Heave-Ho: Decentralized Long-Horizon Multi-Humanoid Collaboration
+FastFrames: Video Generation at Interactive Latency
+VideoNexus: Video Perception Beyond the Reasoning Context
+π^4: A Foundation Model for 4D Scene Geometry and Motion
+From Repositories to Training Environments: Scaling Long-Horizon Coding Agents with Environment Evolution Loop
+FMT: Lossless Image Compression in a Fixed Number of Parallel Steps
+CADMAGEDDON: High-Fidelity CAD Reconstruction with Local Inference
+Beyond Answering: Learning to Speak First and Act in Streaming Video
+Agentic On-Policy Distillation Implicitly Reshapes LLMs' ReAct Patterns
+VisualArtifactSpec 1.0: Evaluating Visual Artifacts under Task Specifications
+MPEG-Diffusion: Mixed-Resolution Video Generation
+The Noise Floor of a Quantization Comparison: Engine, restart, batch and kernel drift, measured against 8-bit and 4-bit effects in two decision models
+Do LLM Agents Still Need to Be Told How to Self-Improve?
+HubEgo-100K: In-the-Wild Egocentric Video of Skilled Work for Robot Learning
+MillBill: A Machining Agent with Geometric Feedback
+Regularized Score Centering
+DNeo: Your Parallel Draft Model Needs Better Target Feature Encoding
+AuXSpec: Learning to Autoformalize Program Specifications via Executable Postconditions
+M3OPD-Reasoner: An Open Recipe for Post-Training Multimodal Reasoning with Multi-Teacher On-Policy Distillation
+Unreasonable Confidence from Simulator Misspecification: Directional Robustness on the SPEED+ Sim-to-Real Benchmark
+GameRealm: Grounding Visual Learning in Interactive Games
+PanDWM: Panoramic 4D Driving World Models
+TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates
+Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data
