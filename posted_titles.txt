@@ -5435,3 +5435,15 @@ GameRealm: Grounding Visual Learning in Interactive Games
 PanDWM: Panoramic 4D Driving World Models
 TPHC: Improving Hyper-Connections with Tensor-Parallel Grouped Updates
 Glyph: An Interpretability Engine for AI-Driven Scientific Discovery in Clinical Data
+PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling
+The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements
+ALIVE: Making Streaming Video Models Interactive
+Code World Model 2.0: Towards Infinite Controllable Video Generation
+Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers
+QDA: Closed-Loop LLM Quantization Design with Agents
+Let Samples Sing in Chorus: Mitigating Spurious Correlations via Cross-view Consensus
+Learning Anisotropic Prediction Targets for Flow Models
+Recurrent Domain Incremental Adaptation of Time-Series Foundation Models
+IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents
+Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents
+LogT: Logically Think with Images for Visual Search
