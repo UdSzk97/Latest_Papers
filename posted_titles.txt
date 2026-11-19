@@ -5447,3 +5447,45 @@ Recurrent Domain Incremental Adaptation of Time-Series Foundation Models
 IDEA: Intent-Dominance Evidence Audit for Inference-Time Backdoor Detection in GUI Agents
 Thinking Harder Doesn't Lead to Better Choices: Reasoning Effort Increases the Confidence but Not the Correctness of LLM Shopping Agents
 LogT: Logically Think with Images for Visual Search
+Rapid response characterization of 2025 FA22 in support of the IAWN campaign: Observations from Europe
+The molecular gas of four ram-pressure-stripped galaxies in the core of the Hydra I cluster
+A Headwindlike Helium Outflow from TOI-3884b
+Improving the Precision of Line-by-line Radial Velocities: A Data-driven Iterative Algorithm for Spectral Line Selection
+Proxima Centauri’s Angular Diameter Revisited
+The T-matrix Method for Modeling the Optical Properties of Grains in Exoplanetary Atmospheres
+The Life and Death of Stars that Capture Primordial Black Holes
+Small-scale Magnetic Fields of Hyades M Dwarfs: Evolution with Age from the Pleiades to Field Stars
+Three-dimensional pore-network topology of a laboratory cometary nucleus analogue
+Jeveration: System One Models Now Generate
+Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development
+CurvDelta: Low-Curvature Delta Modeling For Surgical Learning and Unlearning
+HINT-WAM: Hindsight-Informed Training for World Action Models
+LightTAR: Light and Fast Target-Aware Representations for Multimodal Tabular Learning
+WorldRuler: Interactive World Modeling under Configurable Rules
+StrideWorld: Benchmarking Scene Rigidity and Action Consistency in Interactive Video World Model
+Piccolo: Co-Evolving Decision Models and Data through Recursive Self-Improvement
+Late Entry in Looped Language Models
+RoughCut-Bench: A Benchmark for Automatic Video Rough-Cut with Large Vision-Language Models
+Mechanistic Critics for Sample-Efficient NPU Design-Space Exploration
+PReMind: When Personal Memory Meets Visual Hazards
+BLIP-Live: Balancing Timeliness & Firing Precision in Proactive Streaming Video Agents
+StatePortal: Agentic Checkpoint Synthesis for Testing Deep States in Interactive Software
+WaveView: The Novel View Is in the Noise
+Tideway: Phase-Aware Tiered Memory Management for MoE Inference on Consumer Devices
+Thinking Fast, Anywhere: One System-1 for the Decision Points of Any Agent Workflow
+PIPETTE: Prompt Injection Purple-Teaming for Robust LLM Agents
+Chorus: Shared N-gram Embeddings with Layer-wise Adaptation
+UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation
+NexSight: Verifiable Tasks for Fine-Grained Agentic Long-Video Understanding
+Evidence-Based Credit Assignment for Search-Augmented Language Models
+VAE Rhythm: Temporal Decoding Traces for AI-Generated Video Detection
+BiCAT: Bimanual Coordination Action Tokenization
+FVScore: Specification-Driven Neuro-Symbolic Video Evaluation
+Movie2Game-Bench: Holistic Evaluation of Film-to-Game Adaptation Beyond Playability
+Out of Sight, Still in Mind: Token Compression for Omni-LLMs
+DrawScore: Evaluating Generated CAD Models against Engineering Drawings
+RICoT: Recurrent Interleaved Chain-of-Thought for Page Stream Segmentation
+AVTR: Adaptive Multimodal Reasoning with Visual Imagination
+PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation
+A Foundation Model to Measure and Predict Human Behaviour
+Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data
