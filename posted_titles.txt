@@ -5490,3 +5490,60 @@ PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanc
 A Foundation Model to Measure and Predict Human Behaviour
 Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data
 NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding
+On-sky dark-hole digging with implicit electric field conjugation on MagAO-X★
+Energetic heavy ions in Jupiter’s nightside inner and middle magnetosphere: Juno/JEDI statistics
+Two Validated Planets and 179 Candidates from a TESS Faint Star Transit Search in the ULTRASAT Fields
+Probing Minihalos in the Late Dark Ages through Velocity Acoustic Oscillations in the 21 cm Power Spectrum
+Dependence of Mars Solar Wind Proton Precipitation on the Interplanetary Magnetic Field Orientation: Hybrid Simulations
+Best Bulk Bennu (B<sup>3</sup>): elemental compositions of aggregate samples from asteroid Bennu
+The slower rotation of planet-hosting stars revisited
+Structural composition and atmospheric analysis of two planetary systems: TOI-270 and TOI-776
+A search for photometric variability in planetary nebulae and related objects with the ROTSE–IIId archive
+Resolving power of effective rheologies of planetary interiors with an application to the Moon
+Claude, find me a planet: amateur astronomers are using AI with mixed results
+Size, Shape, and Geometric Albedo of Dwarf Planet Quaoar’s Largest Satellite Weywot
+Analyzing Post-asteroid-impact Downstream-flooding Hazards via GeoClaw Flood Modeling
+WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection
+Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation
+WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding
+Probing the "Conscious" Mind: Selective Access and Global Workspace in Vision-Language Models
+Coda-DaVinci: Reimagining Video Generation with Code2Video
+The Mask Is Not the Object: Volumetric Supervision for 3D Gaussian Segmentation
+Posterior Matching Distillation
+Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth
+EgoCaptioner: Towards Comprehensive and Fine-Grained Egocentric Video Captioning
+HiUni: Harmonizing Understanding and Generation in Shared Visual Space
+TuringSpace: Grounding Spatial Intelligence in Action with Interactive CAPTCHAs
+ZeroVLN: Learning to Navigate without Supervised Fine-Tuning of the VLM Brain
+AltRA-Test: An Alternative Annotator Test for LLM Judges Without Shared Annotators
+WAM-Policy: World Action Models with On-Policy Distillation for Quadrupedal Loco-Manipulation
+WM^MLLM: Turning MLLMs into World Models
+Training Vision Models for LLM-Driven Weight-Space Programming
+Accelerating Mixture of Block Attention via Dynamic Routing, KV-Centric Execution and Runtime Pipelining
+Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models
+AutoMaster: Autonomous Post-Training by Making the Same Model a Better Teacher
+On-Policy Morphing into Hybrid Attention Models
+Twice-Told Critiques: Claim-Level Homogenization of Peer Review in the LLM Era
+Online Mistake Detection in Instruction-Conditioned Procedural Video
+VSpark: Speculative Decoding for Autoregressive Vision-Language-Action Models
+Direct3D-V3: Latent-Free Diffusion Transformers in the Native Voxel Domain
+Accord: Universal Online Metric Localization and Dense Mapping from one Camera and an IMU
+CompoundingKernel: Self-Improving from Zero to First
+Phantom Success, Silent Failure: Auditing the Success Checkers of Simulated Manipulation Benchmarks
+Embeddings vs. Grep: Rethinking the Dense Advantage in Code Search
+DailySafe: Benchmarking Dynamic Safety Awareness in Everyday Multi-Turn Multimodal Interactions
+Language Models Can Rewrite Their Own Weights
+System 1 agents: a method for local, reliable and fast agentic AI
+A CPU Inside an LLM: Zero-Gradient Compilation of Exact Circuits into Pretrained Weights
+One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning
+TwinLab-Bench: Evaluating AI Scientists in Agentic Twins of Real Labs
+Inhabitant: An Agent Framework for Long-Horizon Human-Scene Interaction with Spatial Control and Quantitative Feedback
+S1CogBench: What System One Decision Models Can and Cannot Do on Cognitive Experiments
+Suppressing the Shortcut Hidden Behind the Gains of VideoLLM Fine-Tuning
+In Situ Training of Optical Neural Networks by Coding Agents
+SpecWM: Turning Verification into Refinement for Streaming World Models
+Do Probing and Steering Favor the Same Directions Within and Across Language Models?
+TwinD: Generalizing Deepfake Detection from Blending to Entire Face Synthesis
+PlayCraft: Designing Engaging Games from Agent Play Experience
+RL Post-Training in Diffusion Transformers Is Activation Steering
+AURA: AUdio-dRiven streaming Avatar
