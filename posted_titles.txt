@@ -5489,3 +5489,4 @@ AVTR: Adaptive Multimodal Reasoning with Visual Imagination
 PGPO: Prototype-Guided Progressive Obfuscation for Privacy-Preserving LLM-Enhanced Recommendation
 A Foundation Model to Measure and Predict Human Behaviour
 Kezek: Splitting Mono Two-Person Conversations into Per-Speaker Tracks for Full-Duplex Dialogue Data
+NarrowSpec: Draft Hidden Width Need Not Match the Target in Speculative Decoding
