@@ -5547,3 +5547,8 @@ TwinD: Generalizing Deepfake Detection from Blending to Entire Face Synthesis
 PlayCraft: Designing Engaging Games from Agent Play Experience
 RL Post-Training in Diffusion Transformers Is Activation Steering
 AURA: AUdio-dRiven streaming Avatar
+Teaching Vision-Language-Action Models to Stop Safely
+PAD: Policy-Aware Data Valuation for Autonomous Driving
+Lang-SVG: Hierarchical Image Vectorization with Language Priors
+Squoosh Bench: Evaluating UX-1 on 318 Historical Website A/B Tests
+Time Series Structure Learning with Local Causal Parent Discovery
