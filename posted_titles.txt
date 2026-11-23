@@ -5569,3 +5569,28 @@ PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching
 Prune to Expand: Training Prompt Enhancers with Less to Imitate
 AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation
 Duopra: From Full-Duplex Conversation to Full-Duplex Agency
+Mirror modes and magnetic holes in Mercury’s magnetosheath
+Tentative Detection of FeS toward Orion SrcI
+A Deep Learning Framework for Transit Timing Variation Characterization: A Case Study of the Kepler-88 System
+LENNA: A Diviner-based machine-learning framework for lunar bolometric temperature prediction and validity-bounded thermal correction of M<sup>3</sup> observations
+Further insights on the Wabar impact event (Saudi Arabia): Target materials, high P–T silica phases, and shock‐induced variations on quartz crystallography
+Evaporation and crystallization of Ca‐Al‐rich inclusion (CAI) melts in low‐pressure hydrogen gas: Implications for type B CAI precursors and physicochemical conditions of the solar protoplanetary disk
+Author Correction: Abundant ammonia and nitrogen-rich soluble organic matter in samples from asteroid (101955) Bennu
+cmHC: Balancing Stream Mixing in Hyper-Connections via Geometric Contraction
+Non-penetrating World Models
+Clover-35B-A3B-Preview Technical Report
+Reading the Unreadable: Text-Aware Image Super-Resolution Needs Reasoning
+Learning Video Foresight Reasoning from Unlabeled Videos via On-Policy Self-Distillation
+MemOnce: A Scalable Memory Architecture for Large Language Models
+StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning
+AgentRoboCritic: Understanding the Capability of Frontier Agents on Direct Robot Control
+Moving Generality from Model to Modeler: LLM Agents for PHM on a Deployment-Style Benchmark
+Intent Contracts: Taking Tools Away from Agents
+Taking Apart and Putting Together: Tracking Objects Through Physical Transformations
+Exploited Before It Was Fixed? Vulnerability Timelines from Open, Machine-Readable Evidence
+Explicit Style Extraction for Personalized Long-Form Text Generation
+Search From the Start: Search-Native Pretraining for Language Models
+GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models
+Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval
+Motion-Aware Reward Modeling for Instruction-Guided Video Editing
+Autoregressive View Model
