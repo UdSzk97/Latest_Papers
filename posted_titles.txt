@@ -5561,3 +5561,11 @@ BepiColombo finally reaches Mercury after eight-year odyssey
 Spectral Emissivity of Lunar Regolith Simulants from Room Temperature to Superliquidus
 <em>In-situ</em> sound velocities of iron-rich ringwoodite: Implications for the composition of the deep Martian mantle
 <em>Mercury Y</em> – A blind sample to cross-validate and determine synergies of BepiColombo instruments
+Can Magnetic Reconnection Cause Ion Return Flows in Venus' Magnetotail? I. Association With Bipolar Hall Magnetic Field Signatures
+Can Magnetic Reconnection Cause Ion Return Flows in Venus' Magnetotail? I. Association With Bipolar Hall Magnetic Field Signatures
+Signatures of an Earth-class planet in the distant Solar system
+Lost in the Hallway: Benchmarking Persistent Spatial Memory Across Revisits
+PURE: A Diagnostic Benchmark for Multi-Granularity Multimodal Identity Matching
+Prune to Expand: Training Prompt Enhancers with Less to Imitate
+AeroRSI: Recursive Self-Improvement for Aerial Vision-Language Navigation
+Duopra: From Full-Duplex Conversation to Full-Duplex Agency
