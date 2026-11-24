@@ -5613,3 +5613,57 @@ Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Valu
 Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models
 How Complete Must an Environment Be to Train a Capable GUI Agent?
 SWEEP-Bench: Do Embodied Policies Act on the Speed They See?
+Nongravitational motion of 3I/ATLAS far from the Sun: robust detection, weak constraints on the activity law
+The ALMA survey to Resolve exoKuiper belt Substructures (ARKS)
+Mapping Stellar Obliquity across Space and Time
+Chains of Submicroscopic Metallic Iron Particles in Lunar Impact Glasses
+Radiation exposure in low Earth orbit measured with the RAMIS instrument on the DLR Eu:CROPIS satellite
+Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness
+WorldLeague: Benchmarking Physical Agency
+WeMM-Ecom: Advancing Multimodal Content Understanding for WeChat E-Commerce
+Let the Fixer Decide: Training a Code Localizer from the Fixer's Likelihood
+ViDecide: Teaching Video Diffusion Models to Reason and Plan Step by Step
+World Models as Native Latent Action Models
+Composable Soft-Prompt Distillation of RL Experts: Toward Continual Post-Training
+RUIBench: What Makes a Good Robot-Use Interface?
+ViDiHand2: Unifying Video Diffusion Priors and Hand Geometry for 3D Hand Motion Reconstruction in the Wild
+DiLE: Discrimination-Aware Latent-Space Learning for Universal Multimodal Embeddings
+Open Vision Banana: An Open Framework for Unified Visual Perception through Generation in RGB Space
+Polytropos: What Do Vision-Language Model Descriptions Make of a Cultural Object?
+UUBench: Understanding the Unspoken toward Full-Duplex Multimodal Interaction
+DexDuet: Learning Contact-Preserving Bimanual Dexterity from Human Demonstrations
+Beam Model Technical Report
+Single-Transformer Latent Diffusion
+What Makes Good Data for Training Coding Agents? A Systematic Study on SWE-Gym
+HIVE-Bench: Evaluating Patch-Level Visual Representations for Egocentric Robot Manipulation
+Can Latent Reasoning Drive LLM Outputs Without a Trace?
+SynthDCB: World Distillation for Scalable Device Control Benchmarking
+Unlocking the Power of Loops in Pretrained LLMs with Loop Residuals
+ToolSmith: An Automatic Tool-Generation Framework for Multimodal Search Agents
+WorldLatent: A Unified 4D Latent Space for World Perception and Generation
+MomentMem: Memorizing Key Moments for Robot Manipulation
+LLMs Memorize Their Own Hallucinations During Post-Training
+Wactorz: Self-Writing LLM Agents That Discover, Repair, and Migrate at the Edge
+MORSE: Optimizing Streaming Memory Design via Open-World Auto-Research
+Feedback Shortcut: Speculative Decoding for Latent Feedback Transformers
+Write, Evolve, Read: Streaming Cameras into a Persistent World State for 4D Occupancy Forecasting
+GlanceNav: Efficient Vision-and-Language Navigation with Streaming Memory and Counterfactual Rewind
+KernelShift: Benchmarking Kernel Optimization Across Evolving Hardware
+Innata-0: A Native Embodied World System with Model-Agent Co-Design
+NoHairCache: Calibrate-Once KV Cache Eviction with One Power-Law Exponent
+Self-Supervised Dataset Distillation via Mutual Information Maximization
+Measuring and Teaching Language Model Agents to Act on Delayed Consequences
+ApexID: Hierarchical Learning for Multi-Species Animal Re-Identification
+ReWeave: Emergent Physical Task Topologies for Embodied Harness Optimization and Cross-Task Meta-Distillation
+WeaveVLA: 3D Relational Grounding for Vision-Language-Action Models
+From Rewarding What Models Say to How They Think: Attention Process Reward Model for LLM Reinforcement Learning
+MMMem: Self-Improving Agents with Task-Aware Multimodal Experience Consolidation
+Deterministic, Reproducible Inference in Exact Integer Arithmetic, and Verifiable Distributed Inference as Its Consequence
+Prism: Hierarchical Text Detection with Minimalist Design
+Seeing Right, Writing Wrong: Where Short Chain-of-Thought Breaks Spatial VQA
+Frontier models need only one text to unmask its human or AI author
+HEP-Ex-Bench: Evaluating Agentic Performance in High Energy Physics Experiment Data Analyses with Sealed Worlds
+Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory
+CCFinance: Reconstructing Financial News Samples from Web Archives
+The norm axiom and factor hyperfields
+UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation
