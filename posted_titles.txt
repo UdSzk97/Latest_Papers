@@ -5594,3 +5594,22 @@ GameWM: Toward Next-Generation Video Games with Interaction-Centric World Models
 Which Dwarf Is This? Doppeldwarf-306 and Near-Identical Instance Retrieval
 Motion-Aware Reward Modeling for Instruction-Guided Video Editing
 Autoregressive View Model
+Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control
+Plan4D: Generative Plannable 4D Worlds
+AutoPILOT: A Visual Agent Harness for Real-Time Gameplay
+3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets
+A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation
+Self-WSP: Can Language Models Improve Themselves Through Weight-Space Programming?
+Distilling Visual Agents from Limited Interaction Experience
+GameAnything: From Any Inspirations to Playable Game Worlds
+WeightCode: Installing New Capabilities into Neural Networks via Weight-Space Programming
+Embodied-Harness: Towards Recursive Self-Improvement for Robotic Manipulation
+A Pipeline-Parallel System for Depth-Recurrent Models
+SAVIOR: Sample-efficient Adaptation of Vision-Language Models for OCR Representation
+GameDojo: Benchmarking Real-Time Interactive Agents in Video Games
+Typhoon OCR 2: From Thai Document Transcription to Multilingual, Multi-Task OCR
+Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models
+Beyond Attention Maps: Understanding and Improving Medical MLLMs via Visual Values
+Distill the Correction, Not the Rewrite: Hindsight Twins for Self-Improving Text-to-Image Models
+How Complete Must an Environment Be to Train a Capable GUI Agent?
+SWEEP-Bench: Do Embodied Policies Act on the Speed They See?
