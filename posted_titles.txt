@@ -5667,3 +5667,26 @@ Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory
 CCFinance: Reconstructing Financial News Samples from Web Archives
 The norm axiom and factor hyperfields
 UniVEP: Unifying Velocity and Endpoint Prediction for Robot Manipulation
+S-Mind: Internalizing Multi-View Geometry for Spatial Intelligence
+Antom 3-in-1 Transformer: A Payment Foundation Model
+ACAP: Asynchronous Coding Agents for Efficient Robot Control
+Rewirable Circuits in Transformers with Loom Attention
+PhyCoVE: Benchmarking Physical Counterfactual Video Editing across Diverse Material Dynamics
+PartAgent: Agentic 3D Part Segmentation via Expert Integration and Closed-Loop Refinement
+KMed-31B Technical Report
+Self-Evolving Evaluation Environments for Computer-Use Agents
+LeadVLA: Learning Follower-Aware Route Execution for Robot Leading
+RoomTokens: Masked Diffusion over Structured Tokens for Indoor Scene Synthesis
+On-Policy Codec Distillation for Efficient All-in-One Video Generation
+PINE: Point, Instance and Normal Estimation in One-Step Diffusion Model
+LoopDVR: Looped Transformer for Efficient Dense Visual Recognition
+Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents
+Can an Agent Trust Its Own Zoom? Cross-Magnification Provenance Verification for Whole-Slide Images
+LoopedWAM: Looped World Action Models for Elastic Inference
+Align the Pair, Not the Sample: Representation Alignment for Faster and Better One-Step Generato
+Coding4Games: Can Modern Coding Agents Play Modern Video Games?
+Clinical3D-Bench: Evaluating and Improving Spatial Intelligence of Multimodal LLMs in Hospital Environments
+Interpretable Prototype-Conditioned Adaptation for Weather Forecasting
+EEGJev: A System One Decision Model and Benchmark for Multi-Task EEG Question Answering
+Do learned image captioning metrics generalize? Auditing duplicated samples in human-judgment benchmarks
+Escriba-OCR: A 1B Vision-Language Model for Error-Preserving Transcription of Handwritten Portuguese Essays
