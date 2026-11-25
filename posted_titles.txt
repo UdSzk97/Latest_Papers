@@ -5690,3 +5690,44 @@ Interpretable Prototype-Conditioned Adaptation for Weather Forecasting
 EEGJev: A System One Decision Model and Benchmark for Multi-Task EEG Question Answering
 Do learned image captioning metrics generalize? Auditing duplicated samples in human-judgment benchmarks
 Escriba-OCR: A 1B Vision-Language Model for Error-Preserving Transcription of Handwritten Portuguese Essays
+Model-based low-order wavefront sensing and control with a fully physical digital twin on MagAO-X★
+VLT/X-shooter spectroscopic characterisation of the Didymos system, target of the ESA Hera mission
+Experimental evidence for a physical alteration of fine regolith on near-Sun asteroids
+Energy distributions of precipitating electrons in Jupiter’s auroral regions from combined Juno/JADE and Juno/JEDI measurements
+Origin and evolution of NiI and FeI in the coma of the interstellar comet 3I/ATLAS throughout its trajectory
+HCN detection in the Kreutz sungrazing comet C/2026 A1 (MAPS) shortly before its disruption★
+New lava tube candidates on the moon from the high-resolution GRAIL GL1800F lunar gravity model
+Comment on “Impact‐diagnostic criteria for use in confirming a meteorite impact origin of terrestrial geological structures: Recommendations by the Impact Cratering Committee of the Meteoritical Society” by A. J. Cavosie et al. in Meteoritics & Planetary Science 61, 1538–1565
+A decadal record of isotopic trends in martian atmospheric CO2
+Spectral emissivity of lunar regolith simulants from room temperature to superliquidus
+Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe
+LingSante MedGuard Technical Report
+Embodied AI Fails the Mirror Test: How a Simple Mirror Breaks Robot Policies
+ThinkMorph-SSL: Scaling Interleaved Multimodal Reasoning with Pretext Tasks
+Qwen-Image-HD: Autoregressive Diffusion for High Definition Image Generation
+ICLWorld: Benchmarking In-Context Learning of Agents from Digital to Physical Worlds
+CoT-Proxy: Cross-Format Transfer for Distilling Long-Horizon Policies
+Reinforcing Diffusion Models by Instantaneous Trajectory Distribution Matching
+MAGPIE: Agentic Multi-Reference Image Generation via Executable Scene Construction
+SpecEngineeringBench: Evaluating Coding Agents as Autonomous Specification Engineers
+VenusOCR2.0: Towards Efficient and Effective Document Parsing
+Residual Guidance for Real-Time Interactive Video Generation
+Mega-MMDF and DeepfakeBench-MM: Benchmarking Multimodal Deepfake Detection Across Diverse Forgery Pipelines
+Nemotron-Labs-VisualCreation: Pixel as Code for Agentic Visual Creation
+Separating Measurement Failures from Defence Failures in Split Language-Model Privacy
+AdProducer: Towards Agentic Advertising Video Generation
+Distill to Loop: Turning Pretrained Diffusion Transformers into Looped Models with Adjustable Depth
+GRAPE-Bench: When Vision Degrades, Does Video Reasoning Hold?
+SpatialArena: Where Do Geometric Foundation Models Stand?
+Measuring Layer-wise Intrinsic Dimensionality of FFNs in LLMs via PCA
+Factorized Context Attention: From Emulated to Native Grid Probing
+FATCAT: Fault Injection Attacks Targeting Chip-level Alignment
+InstructReplay: Replaying Assistant Turns to Preserve General Behavior During Factual Fine-Tuning
+RECAP: Training Long-horizon LLM Agents with Context Compaction
+Foresight Forcing: Learning Spatial Foresight for Robotic Manipulation
+Small Learned Projections for Semantic-Reversal-Aware Retrieval with Spectral Acceleration: A Four-Domain Empirical Study
+ReFocus: Progress-Guided Adaptive Practice for Long-Horizon Robotic Manipulation Reinforcement Learning
+RoMo Hands: A Large Scale Richly Organized Text to Hand Motion Dataset
+Point Dynamics as Proxy for Robotic World Models
+Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background
+OWE-Bench: A long-horizon benchmark for measuring real-world engineering
