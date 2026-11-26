@@ -5731,3 +5731,12 @@ RoMo Hands: A Large Scale Richly Organized Text to Hand Motion Dataset
 Point Dynamics as Proxy for Robotic World Models
 Degradation of Language Models under Controlled Load: Synchronization, Rule Execution and Misfires on the Background
 OWE-Bench: A long-horizon benchmark for measuring real-world engineering
+Serpentine Weathering Under Arid Conditions: Implications for Alteration Products and Organic Preservation on Mars
+PyRUA-Dex: Learning Programmatic Policies for Dexterous Bimanual Manipulation with Coding Agents
+Target-Part Preference Optimization for Part-Aware 3D Generation
+ROAM-Bench: Evaluating Embodied Active Spatial Intelligence through Evidence Verification
+DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers
+SEEK: Self-Evolution through Execution Knowledge for Agentic Robot Manipulation
+Beyond Code and Pixels: Co-Generating Editable and Visually Rich Presentations
+CONCOR: Benchmarking Contrastive Decoding for Visual Hallucination Mitigation Beyond Final-Output Performance
+Loupe: Reinforcing Knowledge-Intensive Video Generation Agents
