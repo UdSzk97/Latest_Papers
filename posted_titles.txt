@@ -5813,3 +5813,17 @@ Look Back: Reinforcement Learning with Counterfactual World Models
 GOLD-SLAM: Gaussian-splatting Omnidirectional LiDAR-Depth SLAM
 Simulator-as-Proxy World Model for Robot Manipulation
 SOLVE: Sparse, Ordered Keyposes Make LLM Agents Versatile and Efficient Robot Manipulator
+An Online ACB‐Index: Quantifying Intraseasonal and Interannual Variability in Mars' Aphelion Cloud Belt
+Paragenetic Formation of Aqueous Alteration Minerals Under Volcanically Active, Oxidative Weathering Conditions on Mars
+Physical and Chemical Distinctions Between In Situ Crystallized and Detrital Olivine and Implications for the Origin of Olivine‐Rich Rocks on Mars
+Evaluating the Ability of Data Assimilation to Improve Rossby Wave Representation in the Venus Atmosphere Using an Observing System Simulation Experiment
+Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability
+OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms
+ProxyGenBench: Benchmarking Proxy-Guided Video Generation
+StateWeaver: Multi-Agent Coordination of Story-State Transitions for Long-Horizon Video Generation
+ShowNow: Fine-Grained Speculative Streaming for Responsive World Models
+DRBench Pro: A Knowledge-Centric Benchmark for Professional Deep Research Agents
+Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation
+Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models
+Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection
+Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration
