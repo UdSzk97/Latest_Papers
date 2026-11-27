@@ -5827,3 +5827,19 @@ Boundary-Aware Policy Learning for Agent-Orchestrated Robot Manipulation
 Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models
 Reading, Not Adapting: Unlocking Frozen Visual Knowledge for AI-Generated Image Detection
 Decision-Native Multimodal Clinical Modeling via Anatomical Grounding and Confidence Calibration
+A MUSE study of stellar and ionized-gas kinematics in central group galaxies
+Exomoons and Exorings with the Habitable Worlds Observatory. III. Icy Moons and Rings Often Outshine their Planets
+A photometric search for low-slope background asteroids in the outer main belt
+Hydrolyzed Hazes on Water-rich Exoplanets: Composition and Prebiotic Chemistry
+RockNet: Automated detection and abundance estimation of small rocks in high-resolution lunar images
+What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models
+Revisiting LLMs as Context Engineers
+When an AI agent makes a mistake in a database, what decides the damage?
+Guarding with Judgment: Learning to Intervene for Multimodal Safety
+Generation as Reverse Encoding
+Pretrained Tabular Features and the Measurement of Financial Proximity
+Damped Atomic Wave Integration Neurons (DAWIN): A Universal Primitive for Continuous-Time Spatiotemporal Learning
+BiSAT: Bidirectionally Aligned Semantic-Acoustic Tokenization for Speech Language Models
+Markdown Is Not a Firewall: four coding agents, one rules file, four boundaries
+InitFree-SfM: When Initialization-Free Bundle Adjustment meets Learned Structure-from-Motion
+So Many Ways to Multiply 3times3 Matrices: A Large Dataset of Rank-23 Schemes
